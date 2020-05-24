@@ -11,7 +11,9 @@ There are 3 levels of schema in which data can be represented inside a database:
 ### External Schema
 - Derives from a conceptual schema and is used to provide an specific view to a group of users. E.g. views or procedures.
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEzNjk1OF19
+eyJoaXN0b3J5IjpbLTEwNzE3ODAwMDIsLTE4MjEzNjk1OF19
 -->
