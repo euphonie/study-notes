@@ -1,3 +1,4 @@
+# Scales
 
 ## Diatonic Scale
 ```abc
@@ -14,6 +15,18 @@ w:T  T  S  T  T  T  S
 ```abc
 X:1
 T:Dorian Scale
+M:4/4
+L:1/4
+K:Dm
+|DEF|GABc|
+w:T  S  T  T  T  S  T
+```
+
+## Phrygian Scale
+
+```abc
+X:1
+T:Phrygian Scale
 M:4/4
 L:1/4
 K:C
@@ -35,7 +48,7 @@ w:T  T  S  T  T  T  S
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzY5ODkzNSwxNzQ5NTE4NjYyLC05OT
+eyJoaXN0b3J5IjpbMjAwMDcyNDY2NSwxNzQ5NTE4NjYyLC05OT
 E2Mzg4NTgsLTE4ODIyMDgwNDksLTE2OTA0OTc5ODAsLTE0NDcx
 OTk1OTMsNzMwOTk4MTE2XX0=
 -->
