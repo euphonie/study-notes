@@ -2,7 +2,6 @@
 ```abc
 X:1
 T:A Song Title
-C:Some Composer
 M:4/4
 L:1/8
 K:G
@@ -11,5 +10,6 @@ K:G
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcxOTk1OTMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE2Mzg5OTg5NTgsLTE0NDcxOTk1OTMsNz
+MwOTk4MTE2XX0=
 -->
