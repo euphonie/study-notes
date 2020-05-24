@@ -1,4 +1,5 @@
 
+## Diatonic Scale
 ```abc
 X:1
 T:Diatonic Scale / Ionian
@@ -8,6 +9,8 @@ K:C
 |CDEF|GAB|
 w:T  T  S  T  T  T  S
 ```
+## Dorian Scale
+
 ```abc
 X:1
 T:Dorian Scale
@@ -32,7 +35,7 @@ w:T  T  S  T  T  T  S
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTEwMTk1NywxNzQ5NTE4NjYyLC05OT
+eyJoaXN0b3J5IjpbMTM4MzY5ODkzNSwxNzQ5NTE4NjYyLC05OT
 E2Mzg4NTgsLTE4ODIyMDgwNDksLTE2OTA0OTc5ODAsLTE0NDcx
 OTk1OTMsNzMwOTk4MTE2XX0=
 -->
