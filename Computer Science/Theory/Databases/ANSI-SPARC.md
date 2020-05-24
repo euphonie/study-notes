@@ -1,6 +1,6 @@
 
 # ANSI-SPARC 
-There are 3 levels of schema in a database representation: 
+There are 3 levels of schema in which data can be represented inside a database:
 
 ### Internal Schema
 - Describes hot information is physically represented to provide the overall best performance. E.g. indexes, sorting structures, etc.
@@ -13,5 +13,5 @@ There are 3 levels of schema in a database representation:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzQ4Njk3MF19
+eyJoaXN0b3J5IjpbLTE4MjEzNjk1OF19
 -->
