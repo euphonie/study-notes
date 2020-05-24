@@ -17,7 +17,6 @@ X:1
 T:Dorian Scale
 M:4/4
 L:1/4
-K:Dm
 |DEF|GABc|
 w:T  S  T  T  T  S  T
 ```
@@ -48,7 +47,7 @@ w:T  T  S  T  T  T  S
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDcyNDY2NSwxNzQ5NTE4NjYyLC05OT
-E2Mzg4NTgsLTE4ODIyMDgwNDksLTE2OTA0OTc5ODAsLTE0NDcx
-OTk1OTMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTM0MzM5MDY1MywyMDAwNzI0NjY1LDE3ND
+k1MTg2NjIsLTk5MTYzODg1OCwtMTg4MjIwODA0OSwtMTY5MDQ5
+Nzk4MCwtMTQ0NzE5OTU5Myw3MzA5OTgxMTZdfQ==
 -->
