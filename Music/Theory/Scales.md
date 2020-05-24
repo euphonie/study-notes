@@ -1,6 +1,6 @@
 # Scales
 
-## Diatonic Scale
+## Diatonic Scale (C)
 ```abc
 X:1
 M:4/4
@@ -8,7 +8,7 @@ L:1/4
 |CDEF|GAB2|
 w:T  T  S  T  T  T  S
 ```
-## Dorian Scale
+## Dorian Scale (D)
 
 ```abc
 X:1
@@ -18,7 +18,7 @@ L:1/4
 w:T  S  T  T  T  S  T
 ```
 
-## Phrygian Scale
+## Phrygian Scale (E)
 
 ```abc
 X:1
@@ -28,7 +28,7 @@ L:1/4
 w:S  T  T  T  S  T  T
 ```
 
-## Lydian Scale
+## Lydian Scale (F)
 
 ```abc
 X:1
@@ -38,7 +38,7 @@ L:1/4
 w:T  T  T  S  T  T  S
 ```
 
-## Mixolydian Scale
+## Mixolydian Scale (G)
 
 ```abc
 X:1
@@ -48,7 +48,7 @@ L:1/4
 w:T  T  S  T  T  S  T
 ```
 
-## Natural minor Scale / Aeolian
+## Natural minor Scale / Aeolian (A)
 
 ```abc
 X:1
@@ -57,7 +57,7 @@ L:1/4
 |ABcd|efg2|
 w:T  S  T  T  S  T  T
 ```
-## Locrian Scale
+## Locrian Scale (B)
 
 ```abc
 X:1
@@ -70,7 +70,7 @@ w:S  T  T  S  T  T  T
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ3MjQ1NjksMjAwMDcyNDY2NSwxNz
-Q5NTE4NjYyLC05OTE2Mzg4NTgsLTE4ODIyMDgwNDksLTE2OTA0
-OTc5ODAsLTE0NDcxOTk1OTMsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU3NDI0NzkzMiwyMDAwNzI0NjY1LDE3ND
+k1MTg2NjIsLTk5MTYzODg1OCwtMTg4MjIwODA0OSwtMTY5MDQ5
+Nzk4MCwtMTQ0NzE5OTU5Myw3MzA5OTgxMTZdfQ==
 -->
