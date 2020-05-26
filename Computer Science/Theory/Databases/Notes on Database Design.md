@@ -1,5 +1,7 @@
 # Database design Methodology
 
+*Notes taken from Udacity's Database Systems Concepts & Design*
+
 ## Stages of methodology
 
 - **Analysis Stage**. 
@@ -12,7 +14,7 @@
 	- Deliverables: Abstract Code w/SQL and Relational Schema
 	- Info: Relational schema derived from ERD and code derived from tasks
 - **Implementation Stage**
-	- Deliverables: 
+	- Deliverables: Code in Programming language and Relational schema in a DB
 
 
 #  Schema concepts and organization of data
@@ -33,5 +35,5 @@ There are 3 levels of schema in which data can be represented inside a database:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE5NzUxMTFdfQ==
+eyJoaXN0b3J5IjpbMTc1ODI1Mzc3Nl19
 -->
