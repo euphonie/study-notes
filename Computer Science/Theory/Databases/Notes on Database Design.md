@@ -9,7 +9,7 @@
 	- Info: Provided by the stakeholders while defining the end product.
 - **Specification Stage**
 	- Deliverables: Tasks and EER Diagram.
-	- Info: Define ER diagram and identify processes needed to manipulate data within the structure.
+	- Info: Define EER diagram and identify processes needed to manipulate data within the structure.
 - **Design Stage** 
 	- Deliverables: Abstract Code w/SQL and Relational Schema
 	- Info: Relational schema derived from ERD and code derived from tasks
@@ -35,5 +35,6 @@ There are 3 levels of schema in which data can be represented inside a database:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNzI5MDYsLTE1NDA2MTE1MDldfQ==
+eyJoaXN0b3J5IjpbLTE1OTUyMzUzNjEsLTE1NDA2MTE1MDldfQ
+==
 -->
