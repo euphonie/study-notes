@@ -5,11 +5,14 @@
 - **Analysis Stage**. 
 	- Deliverable: Information Flow Diagram.
 	- Info: Provided by the stakeholders while defining the end product.
-- ** Specification Stage **
-	- Deliverable: Tasks and ER Diagram.
+- **Specification Stage**
+	- Deliverables: Tasks and ER Diagram.
 	- Info: Define ER diagram and identify processes needed to manipulate data within the structure.
-- ** Design Stage ** 
-	- Deli
+- **Design Stage** 
+	- Deliverables: Abstract Code w/SQL and Relational Schema
+	- Info: Relational schema derived from ERD and code derived from tasks
+- **Implementation Stage**
+	- Deliverables: 
 
 
 #  Schema concepts and organization of data
@@ -30,5 +33,5 @@ There are 3 levels of schema in which data can be represented inside a database:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjY5NDk4XX0=
+eyJoaXN0b3J5IjpbLTEyOTE5NzUxMTFdfQ==
 -->
