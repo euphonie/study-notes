@@ -1,6 +1,6 @@
 # Database design Methodology
 
-*Notes taken from Udacity's Database Systems Concepts & Design*
+> Notes created from content in **Udacity's Database Systems Concepts & Design**
 
 ## Stages of methodology
 
@@ -35,5 +35,5 @@ There are 3 levels of schema in which data can be represented inside a database:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1ODI1Mzc3Nl19
+eyJoaXN0b3J5IjpbLTE1NDA2MTE1MDldfQ==
 -->
