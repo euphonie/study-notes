@@ -2,7 +2,10 @@
 
 ## Stages of methodology
 
-- 
+- **Analysis Stage**. 
+	- Deliverable: Information Flow Diagram.
+	- Info: Provided by the stakeholders while defining the end product.
+- Sp
 
 
 #  Schema concepts and organization of data
@@ -23,5 +26,5 @@ There are 3 levels of schema in which data can be represented inside a database:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAxNTI0MjZdfQ==
+eyJoaXN0b3J5IjpbNzU1OTUxNDQyXX0=
 -->
