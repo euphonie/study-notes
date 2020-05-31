@@ -19,6 +19,7 @@ Project
 |_____ Dockerfile
 |_____ <dependencies' file>
 |_____ <project's src>
+|__ docker-compose.yaml
 
 ## Best practices for Dockerfiles
 
@@ -29,5 +30,5 @@ Project
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTYwOTAyOCwxODE2MTc5NTczXX0=
+eyJoaXN0b3J5IjpbODE2MDY5OTMyLDE4MTYxNzk1NzNdfQ==
 -->
