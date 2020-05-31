@@ -26,9 +26,10 @@ Project
 - Identify best base image to render a new image with required specifications (optimized, small, etc.)
 - Only copy dependencies' file first to docker and install. This is to take advantage of build caches.
 - Layers that don't update frequently should be added before layers that do change to optimize caching mechanisms.
-- 
+- inside docker-composer services section expose required services with ports: 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2MDY5OTMyLDE4MTYxNzk1NzNdfQ==
+eyJoaXN0b3J5IjpbLTE4Nzk3MzM3LDgxNjA2OTkzMiwxODE2MT
+c5NTczXX0=
 -->
