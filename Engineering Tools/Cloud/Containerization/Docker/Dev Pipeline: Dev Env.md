@@ -15,12 +15,14 @@ Using docker to build dev environments to streamline process of modifying codeba
 A project's should follow the structure: 
 
 Project
-|___ app
-|____|_ Dockerfile
+|__ app
+|_____ Dockerfile
 |_____ <dependency's file>
 |_____ <project's src>
 
+## Best practices for Doc
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc1OTE0MjldfQ==
+eyJoaXN0b3J5IjpbLTQ4NTIwOTk3M119
 -->
