@@ -97,10 +97,10 @@ services:
 
 ### Debugging containerized app's
 
-
+- Install libraries into the project that collect debug information and expose ports needed to access to the logs or to send logs to external services
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDczMDEwOSwtMTcyNjQ3Njg0OSw4MT
+eyJoaXN0b3J5IjpbLTYwNDAxODY5MSwtMTcyNjQ3Njg0OSw4MT
 YwNjk5MzIsMTgxNjE3OTU3M119
 -->
