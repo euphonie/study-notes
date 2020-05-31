@@ -47,10 +47,15 @@ services:
 		ports:
 		- 80:80
 ```
-- Network isolation for multiple services can be defined
+- Network isolation for multiple services can be defined in docker-compose
+```yaml
+...
+networks:
+
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjMzNjUyNSw4MTYwNjk5MzIsMTgxNj
-E3OTU3M119
+eyJoaXN0b3J5IjpbNjAzNjY3MjEzLDgxNjA2OTkzMiwxODE2MT
+c5NTczXX0=
 -->
