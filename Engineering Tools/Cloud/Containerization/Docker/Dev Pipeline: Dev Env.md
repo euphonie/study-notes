@@ -49,13 +49,27 @@ services:
 ```
 - Network isolation for multiple services can be defined in docker-compose
 ```yaml
-...
-networks:
+db: 
+	...
+	networks:
+	- backend-network
+app:
+	...
+	networks:
+	- backend-network
+	- frontend-network
+web:
+	...
+	networks:
+	-frontend-network
 
+networks:
+	- backend-network
+	- frontend-network
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAzNjY3MjEzLDgxNjA2OTkzMiwxODE2MT
+eyJoaXN0b3J5IjpbNTk4MzA2NDExLDgxNjA2OTkzMiwxODE2MT
 c5NTczXX0=
 -->
