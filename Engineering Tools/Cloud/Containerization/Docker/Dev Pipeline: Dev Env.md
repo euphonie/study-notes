@@ -17,15 +17,16 @@ A project's should follow the structure:
 Project
 |__ app
 |_____ Dockerfile
-|_____ <dependencies file>
+|_____ <dependencies' file>
 |_____ <project's src>
 
 ## Best practices for Dockerfiles
 
 - Identify best base image to render a new image with required specifications (optimized, small, etc.)
-- Only copy dendendencies file
+- Only copy dependencies' file first to docker and install. This is to take advantage of build caches. Copy commands invalidate cache 
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTY3NzcxNywxODE2MTc5NTczXX0=
+eyJoaXN0b3J5IjpbLTExMTQ0MDYzNTAsMTgxNjE3OTU3M119
 -->
