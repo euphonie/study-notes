@@ -6,6 +6,9 @@
 
 Provision multiple instances at the same time
 
+## Identity & Access Management
+
+
 ## Network Services
 
 ### Load balancers (internal or external)
@@ -17,10 +20,9 @@ External load balancers might be used for connections between clients and app se
 - Network load balancer
 	- Balances regional TCP and UDP traffic
 
-#### COnfig
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTExNjExOSwtODUxNTEzNjQ5LDc0NT
-M5ODY4MF19
+eyJoaXN0b3J5IjpbNzk1NTQ3NDQ0LC04NTE1MTM2NDksNzQ1Mz
+k4NjgwXX0=
 -->
