@@ -41,10 +41,16 @@ services:
 		restart: always
 		ports:
 		- 5000:5000
+	web: 
+		build: web
+		restart:always
+		ports:
+		- 80:80
 ```
+- Network isolation for multiple services can be defined
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU4NjkzMCw4MTYwNjk5MzIsMTgxNj
+eyJoaXN0b3J5IjpbMTM5MjMzNjUyNSw4MTYwNjk5MzIsMTgxNj
 E3OTU3M119
 -->
