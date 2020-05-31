@@ -2,6 +2,9 @@
 
 
 
+## Instance templates
+
+Provision multiple instances at the same time
 
 ## Network Services
 
@@ -16,5 +19,6 @@ External load balancers might be used for connections between clients and app se
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTUxMzY0OSw3NDUzOTg2ODBdfQ==
+eyJoaXN0b3J5IjpbMTkwMDgwNjI0MSwtODUxNTEzNjQ5LDc0NT
+M5ODY4MF19
 -->
