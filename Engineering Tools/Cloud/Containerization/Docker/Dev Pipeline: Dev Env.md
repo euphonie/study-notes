@@ -20,9 +20,11 @@ Project
 |_____ <dependency's file>
 |_____ <project's src>
 
-## Best practices for Doc
+## Best practices for Dockerfiles
+
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTIwOTk3M119
+eyJoaXN0b3J5IjpbMTgxNjE3OTU3M119
 -->
