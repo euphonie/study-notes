@@ -8,7 +8,11 @@ Using docker to build dev environments to streamline process of modifying codeba
 # Requisites 
 - Docker desktop on environment
 
+# Key points
+
+## Contain
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTYxMjA0NV19
+eyJoaXN0b3J5IjpbLTUxMzQ3NDc5NF19
 -->
