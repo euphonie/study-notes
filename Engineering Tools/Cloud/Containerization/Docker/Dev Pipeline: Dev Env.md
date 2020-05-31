@@ -67,7 +67,7 @@ networks:
 	- backend-network
 	- frontend-network
 ```
-- To persist data a volume needs to be defined
+- To persist data a volume needs to be defined. And secrets can be shared securely to services using the secrets section
 ```yaml
 db: 
 	...
@@ -75,20 +75,17 @@ db:
 	- backend-network
 	volumes:
 	- db-data: /var/lib/mysql
-app:
-	...
-	networks:
-	- backend-network
-	- frontend-network
-web:
-	...
-	networks:
-	-frontend-network
+	secrets:
+	- db-password
+...
 volumes:
 	db-data:
+secrets:
+	db-password:
+		
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY0NzY4NDksODE2MDY5OTMyLDE4MT
-YxNzk1NzNdfQ==
+eyJoaXN0b3J5IjpbMTk0ODU0OTc4NSwtMTcyNjQ3Njg0OSw4MT
+YwNjk5MzIsMTgxNjE3OTU3M119
 -->
