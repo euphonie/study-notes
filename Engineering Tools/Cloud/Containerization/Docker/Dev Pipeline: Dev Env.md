@@ -10,9 +10,16 @@ Using docker to build dev environments to streamline process of modifying codeba
 
 # Key points
 
-## Contain
+## Containerize application
+
+A project's should follow the structure: 
+
+-- Project
+----- app
+-------- Dockerfile
+-------- <dependency's file>
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzQ3NDc5NF19
+eyJoaXN0b3J5IjpbLTY2NTgxNTg1NV19
 -->
