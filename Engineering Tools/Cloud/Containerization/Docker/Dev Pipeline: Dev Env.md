@@ -86,10 +86,21 @@ secrets:
 ```
 
 ### Optimize building docker image
-- Directly mount 
+- Directly mount app's directory to the container for always having an updated codebase. This skips copying the source folder.
+```yaml
+services:
+	app:
+		...
+		volumes:
+			- ./app/src:/src
+```
+
+### Debugging containerized app's
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTU4MTgwNywtMTcyNjQ3Njg0OSw4MT
+eyJoaXN0b3J5IjpbLTU0NDczMDEwOSwtMTcyNjQ3Njg0OSw4MT
 YwNjk5MzIsMTgxNjE3OTU3M119
 -->
