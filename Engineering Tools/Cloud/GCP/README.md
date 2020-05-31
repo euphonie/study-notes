@@ -20,9 +20,13 @@ External load balancers might be used for connections between clients and app se
 - Network load balancer
 	- Balances regional TCP and UDP traffic
 
+### Configuration in GCP
+
+- A load balancer can be assigned to an instance group. The instance group is assigned as the backend service.
+- A balancing mode 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NTQ3NDQ0LC04NTE1MTM2NDksNzQ1Mz
+eyJoaXN0b3J5IjpbLTMyNTY1NTA4LC04NTE1MTM2NDksNzQ1Mz
 k4NjgwXX0=
 -->
