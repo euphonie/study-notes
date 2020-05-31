@@ -67,9 +67,28 @@ networks:
 	- backend-network
 	- frontend-network
 ```
-
+- To persist data a volume needs to be defined
+```yaml
+db: 
+	...
+	networks:
+	- backend-network
+	volumes:
+	- db-data: /var/lib/mysql
+app:
+	...
+	networks:
+	- backend-network
+	- frontend-network
+web:
+	...
+	networks:
+	-frontend-network
+volumes:
+	db-data:
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4MzA2NDExLDgxNjA2OTkzMiwxODE2MT
-c5NTczXX0=
+eyJoaXN0b3J5IjpbLTE3MjY0NzY4NDksODE2MDY5OTMyLDE4MT
+YxNzk1NzNdfQ==
 -->
