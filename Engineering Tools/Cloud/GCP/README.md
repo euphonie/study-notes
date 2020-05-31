@@ -23,10 +23,11 @@ External load balancers might be used for connections between clients and app se
 ### Configuration in GCP
 
 - A load balancer can be assigned to an instance group. The instance group is assigned as the backend service.
-- A balancing mode 
+- A balancing mode of utilization is recommended in a high transaction rate.
+- Load balancer can use a Health check to determine where to route the requests.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTY1NTA4LC04NTE1MTM2NDksNzQ1Mz
-k4NjgwXX0=
+eyJoaXN0b3J5IjpbLTU0NDI0NzE1NSwtODUxNTEzNjQ5LDc0NT
+M5ODY4MF19
 -->
