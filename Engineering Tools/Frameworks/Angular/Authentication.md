@@ -17,7 +17,8 @@
 		- exp: expires at
 	- Verify signature. encoded header and payload, and a secret encrypted in SHA256.
 
-- JWOR
+- JWOT gets attached in the HTTP Header `Authorization`:
+	- `Authorization: Bearer <token>`
 
 
 
@@ -25,6 +26,6 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NTQ4NTg5LC0xOTEwNzE0MDIzLDI5ND
+eyJoaXN0b3J5IjpbLTY0MzU0MDM4LC0xOTEwNzE0MDIzLDI5ND
 g1NTUwOV19
 -->
