@@ -11,16 +11,20 @@
 - Transmit claims within a JSON payload
 - Is an encoded token that comprises 3 parts separated by a point: 
 	- Header. Algorithm and token type.
-	- Payload. Data.
+	- Payload. Data; custom claims can be added.
 		- sub: user
 		- iat: issued at
-		- exp: expires 
-	- Verify signature
+		- exp: expires at
+	- Verify signature. encoded header and payload, and a secret encrypted in SHA256.
+
+- JWOR
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5ODgzNjgzLC0xOTEwNzE0MDIzLDI5ND
+eyJoaXN0b3J5IjpbNDE1NTQ4NTg5LC0xOTEwNzE0MDIzLDI5ND
 g1NTUwOV19
 -->
