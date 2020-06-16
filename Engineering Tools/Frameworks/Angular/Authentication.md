@@ -6,11 +6,15 @@
 - In cookie-based authentication, sessions can't be easily shared.
 - Cookies set a drawback in authentication when it comes to implementing the same API in multiple clients. As the data storage strategy needs to be defined for each different client's environment.
 
+## JSON Web Tokens
+
+- Transmit claims within a JSON payload
+- Is an encoded token that comprises 3 parts separ
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODY1OTE0MywtMTkxMDcxNDAyMywyOT
+eyJoaXN0b3J5IjpbLTczMjU3NDc2OCwtMTkxMDcxNDAyMywyOT
 Q4NTU1MDldfQ==
 -->
