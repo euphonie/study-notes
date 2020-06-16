@@ -20,12 +20,14 @@
 - JWOT gets attached in the HTTP Header `Authorization`:
 	- `Authorization: Bearer <token>`
 
+## Setup 
 
+- Create an account and tenant in auth0.com
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzU0MDM4LC0xOTEwNzE0MDIzLDI5ND
+eyJoaXN0b3J5IjpbNDc5NDUyNzYxLC0xOTEwNzE0MDIzLDI5ND
 g1NTUwOV19
 -->
