@@ -23,12 +23,12 @@
 ## Setup 
 
 - Create an account and tenant in auth0.com
-- Define callback URL (user-owne
+- Define callback URL (dev-owned location to validate authentication)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODA5MDc2NCwtMTkxMDcxNDAyMywyOT
+eyJoaXN0b3J5IjpbMTYzNjc2NDg1NSwtMTkxMDcxNDAyMywyOT
 Q4NTU1MDldfQ==
 -->
