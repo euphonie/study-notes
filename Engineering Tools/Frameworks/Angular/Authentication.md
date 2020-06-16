@@ -24,11 +24,12 @@
 
 - Create an account and tenant in auth0.com
 - Define callback URL (dev-owned location to validate authentication)
+- Installing auth0 libraries. `npm install auth0-js angular-auth0`
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjc2NDg1NSwtMTkxMDcxNDAyMywyOT
-Q4NTU1MDldfQ==
+eyJoaXN0b3J5IjpbLTEwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMj
+k0ODU1NTA5XX0=
 -->
