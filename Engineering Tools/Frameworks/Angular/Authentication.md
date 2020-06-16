@@ -7,8 +7,10 @@
 - Cookies set a drawback in authentication when it comes to implementing the same API in multiple clients. As the data storage strategy needs to be defined for each different client's environment.
 
 
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTA3MTQwMjMsMjk0ODU1NTA5XX0=
+eyJoaXN0b3J5IjpbMTY1ODY1OTE0MywtMTkxMDcxNDAyMywyOT
+Q4NTU1MDldfQ==
 -->
