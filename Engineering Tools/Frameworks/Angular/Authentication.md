@@ -2,13 +2,13 @@
 
 > Notes taken from udemy's course AngularJS Authentication: Secure your app with AuthO from Ryan Chenkie
 
-- RESTful APIs may conflict with classic authentication behaviour, setting sessions to store authorization cookies in client's side.
+- RESTful APIs may conflict with traditional authentication behaviour, setting sessions to store authorization cookies in client's side.
 - In cookie-based authentication, sessions can't be easily shared.
-- 
+- Cookies set a drawback in authentication when it comes to implementing the same API in multiple clients. As the data storage strategy needs to be defined for each different client's environment.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY1NzQzMzYsMjk0ODU1NTA5XX0=
+eyJoaXN0b3J5IjpbLTE5MTA3MTQwMjMsMjk0ODU1NTA5XX0=
 -->
