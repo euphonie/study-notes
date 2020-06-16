@@ -23,11 +23,12 @@
 ## Setup 
 
 - Create an account and tenant in auth0.com
+- Define callback URL (user-owne
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NDUyNzYxLC0xOTEwNzE0MDIzLDI5ND
-g1NTUwOV19
+eyJoaXN0b3J5IjpbLTM3ODA5MDc2NCwtMTkxMDcxNDAyMywyOT
+Q4NTU1MDldfQ==
 -->
