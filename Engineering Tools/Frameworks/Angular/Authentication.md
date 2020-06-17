@@ -28,14 +28,21 @@
 - Depdendency is injected using `auth0.auth0`, `angularAuth0Provider`
 
 Base configuration
-````
-
+````javascript
+function config(...,$stateProvider, ...){
+	$stateProvider
+	.state('callback', {
+	   url: '/callback',
+	   controller: 'CallbackController',
+	   templateUrl: 'app/callback/callback.html'
+	});
+} 
 ````
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA3NTkyOTksLTEwNjE3NjgwNjcsLT
+eyJoaXN0b3J5IjpbLTIwMzIxMjY1MDgsLTEwNjE3NjgwNjcsLT
 E5MTA3MTQwMjMsMjk0ODU1NTA5XX0=
 -->
