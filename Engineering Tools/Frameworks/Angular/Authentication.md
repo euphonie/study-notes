@@ -25,11 +25,17 @@
 - Create an account and tenant in auth0.com
 - Define callback URL (dev-owned location to validate authentication)
 - Installing auth0 libraries. `npm install auth0-js angular-auth0`
+- Depdendency is injected using `auth0.auth0`, `angularAuth0Provider`
+
+Base configuration
+````
+
+````
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMj
-k0ODU1NTA5XX0=
+eyJoaXN0b3J5IjpbLTExMzA3NTkyOTksLTEwNjE3NjgwNjcsLT
+E5MTA3MTQwMjMsMjk0ODU1NTA5XX0=
 -->
