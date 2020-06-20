@@ -51,11 +51,15 @@ angularAuth0Provider.init({
 	scope: 'openid'
 });
 ```
+```javascript
+# Issue login redirect
+angularAuth0.authorize();
+```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NDEyODgzMCwtMjAzMjEyNjUwOCwtMT
-A2MTc2ODA2NywtMTkxMDcxNDAyMywyOTQ4NTU1MDldfQ==
+eyJoaXN0b3J5IjpbMTc5MzM1OTU1LC0yMDMyMTI2NTA4LC0xMD
+YxNzY4MDY3LC0xOTEwNzE0MDIzLDI5NDg1NTUwOV19
 -->
