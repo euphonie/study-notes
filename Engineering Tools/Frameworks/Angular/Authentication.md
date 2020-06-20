@@ -77,7 +77,7 @@ function authService($state, angularAuth0, $timeout){
 		localStorage.setItem('expires_at', expiresAt);
 	}
 
-	// based on expires_at timestamp
+	// based on the expiry date of the access token
 	function isAuthenticated(){
 		var expiresAt = JSON.parse(localStorage.getItem('expires_at'));
 		return new Date().getTime() < expiresAt;
@@ -89,7 +89,7 @@ function authService($state, angularAuth0, $timeout){
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY4NDcxMiwtNTQ5OTQ4Mzc5LDE3OT
+eyJoaXN0b3J5IjpbLTIzMjQ5NTYyNywtNTQ5OTQ4Mzc5LDE3OT
 MzNTk1NSwtMjAzMjEyNjUwOCwtMTA2MTc2ODA2NywtMTkxMDcx
 NDAyMywyOTQ4NTU1MDldfQ==
 -->
