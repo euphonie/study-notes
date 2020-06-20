@@ -52,8 +52,8 @@ angularAuth0Provider.init({
 });
 ```
 Defining a service that calls and handles authentication process
-```javascript
 
+```javascript
 function authService($state, angularAuth0, $timeout){
 	function login(){
 		angularAuth0.authorize();
@@ -73,7 +73,8 @@ function authService($state, angularAuth0, $timeout){
 			(authResult.expiresIn *1000 + new Date().getTime())
 		);
 		localStorage.setItem('access_token', authResult.accessToken);
-		...
+		localStorage.setItem('id_token', authResult.idToken);
+		localStorage.setItem('expires_at', expiresAt);
 	}
 }
 ```
@@ -82,7 +83,7 @@ function authService($state, angularAuth0, $timeout){
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTg5MTU2LDE3OTMzNTk1NSwtMjAzMj
-EyNjUwOCwtMTA2MTc2ODA2NywtMTkxMDcxNDAyMywyOTQ4NTU1
-MDldfQ==
+eyJoaXN0b3J5IjpbLTU0OTk0ODM3OSwxNzkzMzU5NTUsLTIwMz
+IxMjY1MDgsLTEwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMjk0ODU1
+NTA5XX0=
 -->
