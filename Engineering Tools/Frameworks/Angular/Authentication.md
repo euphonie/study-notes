@@ -52,14 +52,25 @@ angularAuth0Provider.init({
 });
 ```
 ```javascript
-# Issue login redirect
-angularAuth0.authorize();
+
+function authService($state, angularAuth0, $timeout){
+	function login(){
+		angularAuth0.authorize();
+	}
+	
+	function handleAuthentication(){
+		angularAuth0.parseHash(function(err, authResult){
+			if (authResult && authResult.accessToken && authResult.idTok
+		});
+	}
+}
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzM1OTU1LC0yMDMyMTI2NTA4LC0xMD
-YxNzY4MDY3LC0xOTEwNzE0MDIzLDI5NDg1NTUwOV19
+eyJoaXN0b3J5IjpbLTE4MjI2NDUzMjUsMTc5MzM1OTU1LC0yMD
+MyMTI2NTA4LC0xMDYxNzY4MDY3LC0xOTEwNzE0MDIzLDI5NDg1
+NTUwOV19
 -->
