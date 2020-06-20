@@ -67,6 +67,14 @@ function authService($state, angularAuth0, $timeout){
 			}
 		});
 	}
+
+	function setSession(authResult){
+		var expiresAt = JSON.stringify(
+			(authResult.expiresIn *1000 + new Date().getTime())
+		);
+		localStorage.setItem('access_token', authResult.accessToken);
+		...
+	}
 }
 ```
 
@@ -74,7 +82,7 @@ function authService($state, angularAuth0, $timeout){
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzOTg1NDQ0MSwxNzkzMzU5NTUsLTIwMz
-IxMjY1MDgsLTEwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMjk0ODU1
-NTA5XX0=
+eyJoaXN0b3J5IjpbMTM1OTg5MTU2LDE3OTMzNTk1NSwtMjAzMj
+EyNjUwOCwtMTA2MTc2ODA2NywtMTkxMDcxNDAyMywyOTQ4NTU1
+MDldfQ==
 -->
