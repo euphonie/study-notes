@@ -51,6 +51,7 @@ angularAuth0Provider.init({
 	scope: 'openid'
 });
 ```
+Defining a service that calls and handles authentication process
 ```javascript
 
 function authService($state, angularAuth0, $timeout){
@@ -60,7 +61,10 @@ function authService($state, angularAuth0, $timeout){
 	
 	function handleAuthentication(){
 		angularAuth0.parseHash(function(err, authResult){
-			if (authResult && authResult.accessToken && authResult.idTok
+			if (authResult && authResult.accessToken && authResult.idToken){
+				setSession(authResult);
+				console.log(authResult);
+			}
 		});
 	}
 }
@@ -70,7 +74,7 @@ function authService($state, angularAuth0, $timeout){
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI2NDUzMjUsMTc5MzM1OTU1LC0yMD
-MyMTI2NTA4LC0xMDYxNzY4MDY3LC0xOTEwNzE0MDIzLDI5NDg1
-NTUwOV19
+eyJoaXN0b3J5IjpbMjEzOTg1NDQ0MSwxNzkzMzU5NTUsLTIwMz
+IxMjY1MDgsLTEwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMjk0ODU1
+NTA5XX0=
 -->
