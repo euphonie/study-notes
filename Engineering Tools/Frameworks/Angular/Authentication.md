@@ -40,14 +40,15 @@ function config(...,$stateProvider, ...){
 ````
 
 ## Usage
-In config function:
+Init service:
 ```javascript
 angularAuth0Provider.init({
 	clientID: <id>,
-	domain: 'localhost.com',
+	domain: 'host.auth0.com',
 	# token is the access token
 	responseType: 'token id_token',
-	redirect_uri: 'localhost.com
+	redirect_uri: 'http://localhost.com:3000/callback',
+	scope: 'openid'
 });
 ```
 
@@ -55,6 +56,6 @@ angularAuth0Provider.init({
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI4ODgxNDQsLTIwMzIxMjY1MDgsLT
-EwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMjk0ODU1NTA5XX0=
+eyJoaXN0b3J5IjpbLTM1NDEyODgzMCwtMjAzMjEyNjUwOCwtMT
+A2MTc2ODA2NywtMTkxMDcxNDAyMywyOTQ4NTU1MDldfQ==
 -->
