@@ -39,12 +39,22 @@ function config(...,$stateProvider, ...){
 } 
 ````
 
-
+## Usage
+In config function:
+```javascript
+angularAuth0Provider.init({
+	clientID: <id>,
+	domain: 'localhost.com',
+	# token is the access token
+	responseType: 'token id_token',
+	redirect_uri: 'localhost.com
+});
+```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTAzOTE1MiwtMjAzMjEyNjUwOCwtMT
-A2MTc2ODA2NywtMTkxMDcxNDAyMywyOTQ4NTU1MDldfQ==
+eyJoaXN0b3J5IjpbLTEyNTI4ODgxNDQsLTIwMzIxMjY1MDgsLT
+EwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMjk0ODU1NTA5XX0=
 -->
