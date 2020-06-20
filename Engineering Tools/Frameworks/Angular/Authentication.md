@@ -76,6 +76,8 @@ function authService($state, angularAuth0, $timeout){
 		localStorage.setItem('id_token', authResult.idToken);
 		localStorage.setItem('expires_at', expiresAt);
 	}
+
+
 }
 ```
 
@@ -83,7 +85,7 @@ function authService($state, angularAuth0, $timeout){
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTk0ODM3OSwxNzkzMzU5NTUsLTIwMz
-IxMjY1MDgsLTEwNjE3NjgwNjcsLTE5MTA3MTQwMjMsMjk0ODU1
-NTA5XX0=
+eyJoaXN0b3J5IjpbLTIxMjA1ODgwMzEsLTU0OTk0ODM3OSwxNz
+kzMzU5NTUsLTIwMzIxMjY1MDgsLTEwNjE3NjgwNjcsLTE5MTA3
+MTQwMjMsMjk0ODU1NTA5XX0=
 -->
