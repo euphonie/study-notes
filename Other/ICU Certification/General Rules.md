@@ -64,7 +64,7 @@
 
 - Cheer portion (30s)
 - Between Cheer and Music portion (20s)
-- Music portion (2:30s)
+- Music portion (2:15s)
 
 ### Area
 
@@ -154,5 +154,5 @@ Music portion (1:00-2:30s)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODUwOTcwMzRdfQ==
+eyJoaXN0b3J5IjpbNTM1MzYyMjU1LC0xMjg1MDk3MDM0XX0=
 -->
