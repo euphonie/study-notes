@@ -45,31 +45,40 @@
 	- Team Cheer High Kick "kick"
 	- Game day
 
-# Divisions
+# Sections
 
-1. Cheerleading *(Cheer portion (30s); Between Cheer and Music portion (20s); Music portion (2:30s))*
-	- **Beginner (Level 0)**. Cualquier edad, team types and divisions. Mandatory progression learning.
-	- **Novice (Level 1)**. Mandatory progression learning, open to all.
-	- **Intermediate (Level 2)**. MPL and O2A.
-		- Special abilities division. No tosses.
-		- ParaCheer/Adaptive abilites. No basket tosses.
-	- **Median (Level 3)**. MPL and O2A. 
-		- **Special Abilities. Not allowed**
-		- ParaCheer/Adaptive abilities. No basket tosses.
-		- Primary/Mini Teams (less than 8 years old). Toss rules = Intermediate.
-	- Advanced (Level 4). MPL and O2A.
-		- **Special Abilities. Not allowed**
-		- ParaCheer/Adaptive abilities. No basket tosses.
-		- Primary/Mini Teams (less than 8 years old). Toss rules = Intermediate.
-	- **School Advanced (NFHS/AACCA Rules).** 
-		- Junior School Divisions and younger. No tosses.
-	- Elite (Level 5). MPL and O2A. 
-		- **Primary/Mini teams (8y or less) and athletes 5y or less). Not allowed**
-		- **ParaCheer and Special Abilities. Not allowed**
-    - **Premier (Level 6) .** Same as University Premier
-	    - **National teams. Athletes 15y or older**
-	    - **All others. 16y or older**
-	    - **ParaCheer and Special Abilities. Not allowed**
+## Cheerleading
+
+### Time of Routine 
+
+- Cheer portion (30s)
+- Between Cheer and Music portion (20s)
+- Music portion (2:30s)
+
+### Divisions
+
+- **Beginner (Level 0)**. Cualquier edad, team types and divisions. Mandatory progression learning.
+- **Novice (Level 1)**. Mandatory progression learning, open to all.
+- **Intermediate (Level 2)**. MPL and O2A.
+	- Special abilities division. No tosses.
+	- ParaCheer/Adaptive abilites. No basket tosses.
+- **Median (Level 3)**. MPL and O2A. 
+	- **Special Abilities. Not allowed**
+	- ParaCheer/Adaptive abilities. No basket tosses.
+	- Primary/Mini Teams (less than 8 years old). Toss rules = Intermediate.
+- Advanced (Level 4). MPL and O2A.
+	- **Special Abilities. Not allowed**
+	- ParaCheer/Adaptive abilities. No basket tosses.
+	- Primary/Mini Teams (less than 8 years old). Toss rules = Intermediate.
+- **School Advanced (NFHS/AACCA Rules).** 
+	- Junior School Divisions and younger. No tosses.
+- Elite (Level 5). MPL and O2A. 
+	- **Primary/Mini teams (8y or less) and athletes 5y or less). Not allowed**
+	- **ParaCheer and Special Abilities. Not allowed**
+   - **Premier (Level 6) .** Same as University Premier
+    - **National teams. Athletes 15y or older**
+    - **All others. 16y or older**
+    - **ParaCheer and Special Abilities. Not allowed**
 
 2. Performance Cheer *(Routine--Music portion(2:30); Doubles--Music portion (1:30))*
 	- Performance Cheer Freestyle Pom. O2A.
@@ -136,6 +145,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA5MDcxNDgsLTI5MzkxMDU2OCwtOD
-k0OTI1Mzg3LDYzNjA5Njk2OF19
+eyJoaXN0b3J5IjpbLTMxNjQ3MDI4MywtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
