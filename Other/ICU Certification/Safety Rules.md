@@ -26,9 +26,10 @@
 	- Injured athlete can only return to floor if:
 		- Given clearance form medical personnel, the parent and then the head coach
 		- If medical doesn't comply only signed permission from parent might let him return to floor
+		- In case of concussions, 24 hours must passed and a head injury trained physician must do the clearance
 		- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDMxNDg2OTgsLTYyMDg2MjQxNV19
+eyJoaXN0b3J5IjpbLTE3NDMwMzg0ODUsLTYyMDg2MjQxNV19
 -->
