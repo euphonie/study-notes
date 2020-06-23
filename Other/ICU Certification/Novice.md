@@ -49,6 +49,13 @@
 
 ## Cheerleading
 
+### Disciplines
+- Team Routine
+- Partner Stunt
+- Group Stunt
+- Team STUNT
+- Game Day
+
 ### Time of Routine 
 
 - Cheer portion (30s)
@@ -61,6 +68,9 @@
 - Traditional foam Cheerleading mat
 - Line up everywhere inside
 - No penalty for stepping out - unless indicated
+
+### Team size
+- 16 - 24 athletes
 
 ### Divisions
 
@@ -88,6 +98,9 @@
     - **ParaCheer and Special Abilities. Not allowed**
 
 ## Performance Cheer 
+
+### Discipl
+
 
 ### Time of Routine
 - Routine: Music portion(2:30)
@@ -171,6 +184,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njk4MDcxMSwtMjkzOTEwNTY4LC04OT
+eyJoaXN0b3J5IjpbLTQxMTM4NjQyNCwtMjkzOTEwNTY4LC04OT
 Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
