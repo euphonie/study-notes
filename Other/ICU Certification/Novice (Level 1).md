@@ -41,12 +41,12 @@
 		- No support of top while in backbend or inverted position
 
 
-
 ## Tosses
 
 - Not allowed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NDQxNDIxLDEzNjI3NDA2MTddfQ==
+eyJoaXN0b3J5IjpbLTE2NzE1MzkxMDUsODI1NDQxNDIxLDEzNj
+I3NDA2MTddfQ==
 -->
