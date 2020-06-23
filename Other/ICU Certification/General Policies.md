@@ -41,9 +41,12 @@
 - If there are concerns, a Challenge Form is issued after performing. $100 in fees.
 - Teams need a responsible adult to track the music
 - Teams must provide own CD or MP3 device in good conditions. Smartphone is not recommended.
-- Disney themes or Disney resembling costumes are not allowed. 
+- Disney themes or Disney resembling costumes are not allowed; music is.
+## Logo usage
+- ICU letters are allowed on clothing and other, logo is not allowed prior approval.
+- Spons
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MDM1MzIzMV19
+eyJoaXN0b3J5IjpbLTE5MzcwNTM3NjldfQ==
 -->
