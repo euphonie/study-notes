@@ -13,10 +13,13 @@
 - Spotters must be from team and be trained.
 - Athletes must have one body part in surface at beginning. Feet might be in base's hand if hand are resting on surface.
 - No replacing of athletes mid-routine.
-- 
+- No choking hazards
+- Local language recommended for cheer/chants
+- Local culture can be included in routine
+- Athletes should have 6+ months of legal residence in represented country
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODMyMTQ1MDddfQ==
+eyJoaXN0b3J5IjpbLTYyMDg2MjQxNV19
 -->
