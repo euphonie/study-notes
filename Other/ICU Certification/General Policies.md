@@ -8,10 +8,10 @@
 - No doping while supervising or performing
 - No performing on concrete, asphalt, wet or uneven surfaces or surfaces with obstructions.
 - No hard-soled shoes or gymnastic slippers allowed.
-- No jewerly permitted. Only rhinestone, medical ID tags/bracelets.
+- No jewelry permitted. Only rhinestone, medical ID tags/bracelets.
 - No propelling apparatus allowed. Just spring floor for All Star.
 - Only allowed props (flags, banners, signs, pom pons, megaphones) in stage, and must be discarded safely.
-- Hard casts not allowed.
+- Hard casts not allowed. No less than 1/2 inch - 1.27 cm foam padding for soft casts
 - Spotters must be from team and be trained.
 - Athletes must have one body part in surface at beginning. Feet might be in base's hand if hand are resting on surface.
 - No replacing of athletes mid-routine.
@@ -54,5 +54,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODI5MjQ4M119
+eyJoaXN0b3J5IjpbMTE1NzIxNzM4NCwxOTI4MjkyNDgzXX0=
 -->
