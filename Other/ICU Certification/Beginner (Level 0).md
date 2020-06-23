@@ -32,9 +32,11 @@
 - No stunt, pyramid or individual's torso may move over or under another separate stunt, pyramid or individual's torso.
 - Single based split catches not allowed
 - Single base multiple person stunts not allowed
-- 
+- **Stunt-releases not allowed**. Helicopters and log/barrel rolls
+- **Stunt-inversions are not allowed**. Supported handstand is a legal inversion.
+- Bases can't support top person while on backbend or inverted position
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODk2NDI5MSw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbMTU2NDM3MDc2MCw3MDE2MTAxNjBdfQ==
 -->
