@@ -46,9 +46,12 @@
 - Waist level cradles are not allowed.
 - Twisting dismounts are not allowed.
 - No moving under, over dismount.
-- 
+- No dismounts above waist level
+- No flip in dismounts
+- Dismounts may not intentionally travel
+- No contact while dismounting between top adn
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5OTMxMTczLDcwMTYxMDE2MF19
+eyJoaXN0b3J5IjpbLTI2MjU3NDgxMiw3MDE2MTAxNjBdfQ==
 -->
