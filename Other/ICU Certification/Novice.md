@@ -10,7 +10,8 @@
 - 1930. Kay Crawford, mixed popular Military marching high kick style to found Drill Team performance; with pioneering team the Edinburgh High School "Seargenettes". The majority of athletes were male (also called "Yell Leaders").
 - 1939. In Kilgore College, Gussie Nell Davis, introduced tha team the "Rangerettes", in the same spirit as Crawford's team.
 - 1941. 85% of athletes were female, due to the Second World War.
-- 1949. Lawrence "Herkie" Herkimer, started conducting cheerleading clinics with high success, and launched the NCA (National Cheerleaders Association). NCA helped 
+- 1949. Lawrence "Herkie" Herkimer, started conducting cheerleading clinics with high success, and launched the NCA (National Cheerleaders Association). NCA helped to establish technique development and team organization. At this team it also surged Robert Olmstead's United Spirit Association (USA) and Kay Crawford's Miss Drill Team USA.
+- 1974. Jeff Web launches the Unv
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -55,6 +56,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDc2NDc5NiwtODk0OTI1Mzg3LDYzNj
-A5Njk2OF19
+eyJoaXN0b3J5IjpbODQzMDg5NjM3LC04OTQ5MjUzODcsNjM2MD
+k2OTY4XX0=
 -->
