@@ -19,9 +19,11 @@
 - ** 1:1 spotter for each top at prep level and above.**
 - Extended arm stunts not allowed
 - 1:1 spotter for each top in floor stunt
-- 
+- Stunt levels
+	- Single leg only at waist level. 
+	- Single leg prep level allowed if top connected to someone standing on surface
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjQ4NjAwMCwxMzYyNzQwNjE3XX0=
+eyJoaXN0b3J5IjpbOTkyOTMwMzQxLDEzNjI3NDA2MTddfQ==
 -->
