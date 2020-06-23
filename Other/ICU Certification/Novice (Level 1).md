@@ -22,8 +22,9 @@
 - Stunt levels
 	- Single leg only at waist level. 
 	- Single leg prep level allowed if top connected to someone standing on surface
+- Twisting stunts and transitions are allowed up to a total of a 1/4 twisting rotation by top in relation to surface.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyOTMwMzQxLDEzNjI3NDA2MTddfQ==
+eyJoaXN0b3J5IjpbMjExODQyNDUwOCwxMzYyNzQwNjE3XX0=
 -->
