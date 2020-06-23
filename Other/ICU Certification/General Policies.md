@@ -39,9 +39,10 @@
 	- Teams must provide proof of licensing
 	- Alternatives: ICU provided trac, track with counts or can count verbally. Otherwise, the team is disqualified
 - If there are concerns, a Challenge Form is issued after performing. $100 in fees.
-- 
+- Teams need a responsible adult to track the music
+- Teams must provide own CD or MP3 device. Smartphone is not recommended.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzgwNjA3MDJdfQ==
+eyJoaXN0b3J5IjpbMjk2NjE0OTcxXX0=
 -->
