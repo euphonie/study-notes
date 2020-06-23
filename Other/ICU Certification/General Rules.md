@@ -57,7 +57,6 @@
 - Group Stunt Routine (Not allowed at ICU sanctioned events)
 	- **Size**: 5 athletes or less (F or M)
 - Team STUNT
-	- 
 - Game Day
 	- **Size**: min 16 athletes
 
@@ -153,29 +152,7 @@ Music portion (1:00-2:30s)
 4. Team performance
 
 
-# Beginner
-
-- No se puede separar el contacto con la superficie en todo momento
-- Si hay una pasada de gimnasia, si se incluye un salto se rompe la pasada de gimnasia
-- No se permiten dive rolls
-- front/back handspring no est[an penmitidos]
-- cartwheels, round offs and handstands permitidas
-- front/back walkovers no permitidos
-- No se permite round off + gimnasia, si no hay pausa
-
-Sportters 1:1 por cada gente above ground level
-
-## Stunts
-
-- 2 leg only permitidos at waist level
-- Stunts no est[an permitidos] above waist level
-- Transiciones y twisting stunts no permitidos
-- caida en prone position (1/2)
-- single base con multiples personas no esta permitidos
-
-
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk0NTI4ODJdfQ==
+eyJoaXN0b3J5IjpbLTEyODUwOTcwMzRdfQ==
 -->
