@@ -51,8 +51,8 @@
 
 ### Disciplines
 - Team Routine
-- Partner Stunt
-- Group Stunt
+- Partner Stunt (Not allowed at ICU sanctioned events)
+- Group Stunt (Not allowed at ICU sanctioned events)
 - Team STUNT
 - Game Day
 
@@ -99,7 +99,10 @@
 
 ## Performance Cheer 
 
-### Discipl
+### Disciplines
+- Team routine
+- Doubles
+- Game Day
 
 
 ### Time of Routine
@@ -184,6 +187,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTM4NjQyNCwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbLTEyMjcwNTYwNDUsLTI5MzkxMDU2OCwtOD
+k0OTI1Mzg3LDYzNjA5Njk2OF19
 -->
