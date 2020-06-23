@@ -62,6 +62,10 @@
 - Dismounts return to original base
 	- If to the surface must be assisted by base or spotter
 	- Without assitance, straight drops or small hop offs are the only permitted dismounts.
+	- Only straight pop downs and basic straight cradles allowed.
+	- Twisting dismounts not allowed
+	- Dismounts must not come in trajectory of stunt, pyramid, individual or prop.
+	- No flip
 
 ## Tosses
 
@@ -69,7 +73,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzA3ODYyLDQ2MTA1MTk2MSwxODQxOD
-M3NzM0LC0xNzAwNzU4MTQ4LDEzNTMzODM1ODgsODI1NDQxNDIx
-LDEzNjI3NDA2MTddfQ==
+eyJoaXN0b3J5IjpbLTE0NjM0ODU0MjEsNDYxMDUxOTYxLDE4ND
+E4Mzc3MzQsLTE3MDA3NTgxNDgsMTM1MzM4MzU4OCw4MjU0NDE0
+MjEsMTM2Mjc0MDYxN119
 -->
