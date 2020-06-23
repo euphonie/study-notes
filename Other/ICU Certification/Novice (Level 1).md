@@ -20,7 +20,7 @@
 - Extended arm stunts not allowed
 - 1:1 spotter for each top in floor stunt
 - Stunt levels
-	- Single leg only at waist level. 
+	- Single leg only at waist level or below.
 	- Single leg prep level allowed if top connected to someone standing on surface
 - Twisting stunts and transitions are allowed up to a total of a 1/4 twisting rotation by top in relation to surface.
 	- Rebounding to prone is allowed
@@ -54,6 +54,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzM4MzU4OCw4MjU0NDE0MjEsMTM2Mj
-c0MDYxN119
+eyJoaXN0b3J5IjpbLTE3MDA3NTgxNDgsMTM1MzM4MzU4OCw4Mj
+U0NDE0MjEsMTM2Mjc0MDYxN119
 -->
