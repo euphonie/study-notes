@@ -21,9 +21,10 @@
 ## Injuries
 
 - Only competition officials, advisor/coach from performing team and injured individual may stop a routine.
-- 
+	- Re-performance needs to be defined by competition officials and may only start from the point where it stopped
+	- In case team cannot re-perform the team receives a lowe
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTE3NDA3NSwtNjIwODYyNDE1XX0=
+eyJoaXN0b3J5IjpbLTg4ODQ1MTYzOCwtNjIwODYyNDE1XX0=
 -->
