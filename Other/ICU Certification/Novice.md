@@ -51,8 +51,11 @@
 
 ### Disciplines
 - Team Cheer Routine
+	- Size: 16-24 athletes
 - Coed Partner Stunt Routine (Not allowed at ICU sanctioned events)
+	- Size: 1 male, 1 female & 1 spotter
 - Group Stunt Routine (Not allowed at ICU sanctioned events)
+	- Size: 5 athletes or less (
 - Team STUNT
 - Game Day
 
@@ -69,8 +72,6 @@
 - Line up everywhere inside
 - No penalty for stepping out - unless indicated
 
-### Team size
-- 16 - 24 athletes
 
 ### Divisions
 
@@ -187,6 +188,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODIxNjEzNSwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbMjI4NjMwNzQxLC0yOTM5MTA1NjgsLTg5ND
+kyNTM4Nyw2MzYwOTY5NjhdfQ==
 -->
