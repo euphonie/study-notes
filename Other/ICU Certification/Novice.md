@@ -11,7 +11,8 @@
 - 1939. In Kilgore College, Gussie Nell Davis, introduced tha team the "Rangerettes", in the same spirit as Crawford's team.
 - 1941. 85% of athletes were female, due to the Second World War.
 - 1949. Lawrence "Herkie" Herkimer, started conducting cheerleading clinics with high success, and launched the NCA (National Cheerleaders Association). NCA helped to establish technique development and team organization. At this team it also surged Robert Olmstead's United Spirit Association (USA) and Kay Crawford's Miss Drill Team USA.
-- 1974. Jeff Web launches the Universal Cheerleaders Association (UCA); which looks to advance athelticism, enhanced skills and crowd techniques (Progression learning and safety rules and techniques). ESPN 
+- 1970. Urban cheer is born as a reaction of 
+- 1974. Jeff Web launches the Universal Cheerleaders Association (UCA); which looks to advance athelticism, enhanced skills and crowd techniques (Progression learning and safety rules and techniques). ESPN helped broadcast the new Performance Cheer competition format, which was put to music in a routine. 
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -56,6 +57,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU1OTM2MDYsLTg5NDkyNTM4Nyw2Mz
-YwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbLTE0NDUwODQzNywtODk0OTI1Mzg3LDYzNj
+A5Njk2OF19
 -->
