@@ -47,7 +47,7 @@
 
 # Divisions
 
-1. Cheerleading
+1. Cheerleading *(Cheer portion (30s); Between Cheer and Music portion (20s); Music portion (2:30s)*
 	- **Beginner (Level 0)**. Cualquier edad, team types and divisions. Mandatory progression learning.
 	- **Novice (Level 1)**. Mandatory progression learning, open to all.
 	- **Intermediate (Level 2)**. MPL and O2A.
@@ -86,7 +86,7 @@
 		- Fight song
 		- Time out performance
 	
-	4. STUNT follows:
+	4. STUNT follows: (
 		1. Partner stunts
 		2. Pyramids and tosses
 		3. Group jumps and Tumbling
@@ -136,6 +136,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMyMTAyMzIsLTI5MzkxMDU2OCwtOD
-k0OTI1Mzg3LDYzNjA5Njk2OF19
+eyJoaXN0b3J5IjpbMTg1Nzc3MjA0NiwtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
