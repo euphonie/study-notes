@@ -92,6 +92,13 @@
 ### Time of Routine
 - Routine: Music portion(2:30)
 - Doubles: Music portion (1:30)
+
+### Area 
+
+- 42x42 feet/12.8x12.8m
+- Surface is professional grade material. (Marley floor or a wooden parquet floor)
+- No penalty for stepping outside - unless indicated
+
 ### Divisions
 - Performance Cheer Freestyle Pom. O2A.
 - Performance Cheer Hip Hop. O2A. 
@@ -102,7 +109,7 @@
 ### Time of routine
 - Each element (30s - 1m) with breaks between each
 
-### Divisions
+### Elements
 - Includes any combination of:
 	- Cheer 
 	- Sideline
@@ -164,6 +171,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2MjQ2OTY0LC0yOTM5MTA1NjgsLTg5ND
-kyNTM4Nyw2MzYwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbMTI4Njk4MDcxMSwtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
