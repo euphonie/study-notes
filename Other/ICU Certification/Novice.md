@@ -4,7 +4,8 @@
 - Start is defined at 1800's as entertainment led by Chants and Cheers.
 - 1860s. Cheers were coordinated from the venue seats.
 - 1884 in Minnesota, Thomas Peebles, transplanted the idea of coordinated crowds cheering.
-- 
+- Sport was born the saturdary, 2nd november 1898. When Johnny Campbell started cheering at an event
+- 1898-1929. Cheerleading is 
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -49,6 +50,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Njg0MTU5NSwtODk0OTI1Mzg3LDYzNj
-A5Njk2OF19
+eyJoaXN0b3J5IjpbLTEzOTYyMTgxOTUsLTg5NDkyNTM4Nyw2Mz
+YwOTY5NjhdfQ==
 -->
