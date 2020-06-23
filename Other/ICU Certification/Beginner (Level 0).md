@@ -39,12 +39,12 @@
 ## Pyramids
 
 - Top must receive primary support from base
-- 
+- No moving over or under another athlete.
 
 ## Dismounts 
-- Only allowed release-to-cradle and release-and-assisted to performing surface.
+- Only allowed release-to-cradle and release-and-assisted to performing surface (pop down).
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjUxNTI2NCw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbLTE3NzA5MzAxNzIsNzAxNjEwMTYwXX0=
 -->
