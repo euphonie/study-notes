@@ -9,7 +9,8 @@
 - 1930-1940. Kay Teer Crawford and Gussie Nell Davis, in Texas, started a new style called "Drill Team" (Performance Cheer).
 - 1930. Kay Crawford, mixed popular Military marching high kick style to found Drill Team performance; with pioneering team the Edinburgh High School "Seargenettes". The majority of athletes were male (also called "Yell Leaders").
 - 1939. In Kilgore College, Gussie Nell Davis, introduced tha team the "Rangerettes", in the same spirit as Crawford's team.
-- 1941. 85% of athletes were female, due to the 
+- 1941. 85% of athletes were female, due to the Second World War.
+- 1949. Lawrence "Herkie" Herkimer, started conducting cheerleading clinics with high success. and 
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -54,6 +55,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4NTg5MTk3LC04OTQ5MjUzODcsNjM2MD
-k2OTY4XX0=
+eyJoaXN0b3J5IjpbNTQxODEyMDIsLTg5NDkyNTM4Nyw2MzYwOT
+Y5NjhdfQ==
 -->
