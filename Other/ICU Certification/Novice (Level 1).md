@@ -23,8 +23,12 @@
 	- Single leg only at waist level. 
 	- Single leg prep level allowed if top connected to someone standing on surface
 - Twisting stunts and transitions are allowed up to a total of a 1/4 twisting rotation by top in relation to surface.
+	- Rebounding to prone is allowed
+	- 1/2 wrap around is allowed
+	- 1/2 twist is allowed if begins and ends on surface.
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODQyNDUwOCwxMzYyNzQwNjE3XX0=
+eyJoaXN0b3J5IjpbLTEyOTc5Mzg3NiwxMzYyNzQwNjE3XX0=
 -->
