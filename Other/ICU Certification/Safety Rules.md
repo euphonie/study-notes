@@ -11,10 +11,12 @@
 - Only allowed props (flags, banners, signs, pom pons, megaphones) in stage, and must be discarded safely.
 - Hard casts not allowed.
 - Spotters must be from team and be trained.
+- Athletes must have one body part in surface at beginning. Feet might be in base's hand if hand are resting on surface.
+- No replacing of athletes mid-routine.
 - 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNDI4NzU3Nl19
+eyJoaXN0b3J5IjpbLTE3ODMyMTQ1MDddfQ==
 -->
