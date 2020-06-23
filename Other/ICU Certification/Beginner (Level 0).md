@@ -28,8 +28,10 @@
 	- All stunts are allowed at waist level if top person is connected to someone standing on the performance surface, separate from the base(s) and spotter.
 - Twisting stunts and transitions not allowed
 - Transitions, one base must remain in contact with top person. But leap frog is not allowed.
+- Flipping not allowed
+- No stunt, pyramid or individual may move over or under another separate stunt, pyramid or individual
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg0MTc1MzUsNzAxNjEwMTYwXX0=
+eyJoaXN0b3J5IjpbLTE5MTEwODg4ODcsNzAxNjEwMTYwXX0=
 -->
