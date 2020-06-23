@@ -71,13 +71,13 @@
 	    - **All others. 16y or older**
 	    - **ParaCheer and Special Abilities. Not allowed**
 
-2. Performance Cheer *(Routine--Music portion(2:30); )*
+2. Performance Cheer *(Routine--Music portion(2:30); Doubles--Music portion (1:30))*
 	- Performance Cheer Freestyle Pom. O2A.
 	- Performance Cheer Hip Hop. O2A. 
 	- Performance Cheer Jazz. O2A. 
 	- Performance Cheer High Kick. O2A
 
-3. Game day
+3. Game day *(Each element (30s - 1m) with breaks between each)*
 	- Includes any combination of:
 		- Cheer 
 		- Sideline
@@ -136,6 +136,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzE2NTIwMCwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbLTEzMjA5MDcxNDgsLTI5MzkxMDU2OCwtOD
+k0OTI1Mzg3LDYzNjA5Njk2OF19
 -->
