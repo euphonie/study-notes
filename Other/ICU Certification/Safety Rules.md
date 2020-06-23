@@ -22,9 +22,13 @@
 
 - Only competition officials, advisor/coach from performing team and injured individual may stop a routine.
 	- Re-performance needs to be defined by competition officials and may only start from the point where it stopped
-	- In case team cannot re-perform the team receives a lowe
+	- In case team cannot re-perform the team receives a lower level performance score
+	- Injured athlete can only return to floor if:
+		- Given clearance form medical personnel, the parent and then the head coach
+		- If medical doesn't comply only signed permission from parent might let him return to floor
+		- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODQ1MTYzOCwtNjIwODYyNDE1XX0=
+eyJoaXN0b3J5IjpbLTEwMDMxNDg2OTgsLTYyMDg2MjQxNV19
 -->
