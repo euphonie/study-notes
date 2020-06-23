@@ -22,8 +22,7 @@
 - **2016**. ICU was recognized, provisionally, by the International Olympic Committee (IOC)
 - **Now & in the future**. ICU included divisions for Special Athletes, ParaCheer/Adaptive Abilities Athletes and Master divisions.
 
-## Cheer is now defined by 2 categories: 
-- Cheearleading. 
+
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -68,6 +67,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MTYwNzY4LC04OTQ5MjUzODcsNjM2MD
-k2OTY4XX0=
+eyJoaXN0b3J5IjpbLTI5MzkxMDU2OCwtODk0OTI1Mzg3LDYzNj
+A5Njk2OF19
 -->
