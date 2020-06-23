@@ -27,8 +27,9 @@
 	- Sunts above waist level from bases are not allowed.
 	- All stunts are allowed at waist level if top person is connected to someone standing on the performance surface, separate from the base(s) and spotter.
 - Twisting stunts and transitions not allowed
+- Transitions, one base must remain in contact with top person. But leap frog is not allowed.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODc3OTc1LDcwMTYxMDE2MF19
+eyJoaXN0b3J5IjpbLTEyMjg0MTc1MzUsNzAxNjEwMTYwXX0=
 -->
