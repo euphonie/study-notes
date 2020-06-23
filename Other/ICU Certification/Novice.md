@@ -55,6 +55,13 @@
 - Between Cheer and Music portion (20s)
 - Music portion (2:30s)
 
+### Area
+
+- 42x54 feet/ 12.8x16.5m
+- Traditional foam Cheerleading mat
+- Line up everywhere inside
+- No penalty for stepping out - unless indicated
+
 ### Divisions
 
 - **Beginner (Level 0)**. Cualquier edad, team types and divisions. Mandatory progression learning.
@@ -80,7 +87,10 @@
     - **All others. 16y or older**
     - **ParaCheer and Special Abilities. Not allowed**
 
-2. Performance Cheer *(Routine--Music portion(2:30); Doubles--Music portion (1:30))*
+## Performance Cheer 
+
+### Time of Routine
+- Routine--Music portion(2:30); Doubles--Music portion (1:30))*
 	- Performance Cheer Freestyle Pom. O2A.
 	- Performance Cheer Hip Hop. O2A. 
 	- Performance Cheer Jazz. O2A. 
@@ -145,6 +155,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjQ3MDI4MywtMjkzOTEwNTY4LC04OT
+eyJoaXN0b3J5IjpbLTUwOTQ1MjY1MCwtMjkzOTEwNTY4LC04OT
 Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
