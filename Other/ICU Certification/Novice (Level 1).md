@@ -43,7 +43,9 @@
 ## Pyramids
 - Up to 2 high
 - Top must be supported
-	- Can land in cradle or surface an
+	- Can land in cradle or surface and not connected to a bracer above prep level
+- Two leg stunts
+	- May be braced by top at 
 
 ## Tosses
 
@@ -51,6 +53,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjQ4MTE3MCw4MjU0NDE0MjEsMTM2Mj
+eyJoaXN0b3J5IjpbMTgzNjA5ODU4Niw4MjU0NDE0MjEsMTM2Mj
 c0MDYxN119
 -->
