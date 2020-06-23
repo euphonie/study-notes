@@ -40,6 +40,10 @@
 		- Not allowed. Only supported handstand.
 		- No support of top while in backbend or inverted position
 
+## Pyramids
+- Up to 2 high
+- Top must be supported
+	- Can land in cradle or surface an
 
 ## Tosses
 
@@ -47,6 +51,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE1MzkxMDUsODI1NDQxNDIxLDEzNj
-I3NDA2MTddfQ==
+eyJoaXN0b3J5IjpbMjA5MjQ4MTE3MCw4MjU0NDE0MjEsMTM2Mj
+c0MDYxN119
 -->
