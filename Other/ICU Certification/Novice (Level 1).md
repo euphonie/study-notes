@@ -62,7 +62,7 @@
 - Waist level cradles are not allowed
 - Dismounts return to original base
 	- If to the surface must be assisted by base or spotter
-	- Without assitance, straight drops or small hop offs are the only permitted dismounts.
+	- Without assistance, straight drops or small hop offs are the only permitted dismounts.
 	- Only straight pop downs and basic straight cradles allowed.
 	- Twisting dismounts not allowed
 	- Dismounts must not come in trajectory of stunt, pyramid, individual or prop.
@@ -77,7 +77,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE2NjAwMzQsMTYwMDM2Mjk2OSw0Nj
-EwNTE5NjEsMTg0MTgzNzczNCwtMTcwMDc1ODE0OCwxMzUzMzgz
-NTg4LDgyNTQ0MTQyMSwxMzYyNzQwNjE3XX0=
+eyJoaXN0b3J5IjpbLTY2NzE4NTg3LC0xMDkxNjYwMDM0LDE2MD
+AzNjI5NjksNDYxMDUxOTYxLDE4NDE4Mzc3MzQsLTE3MDA3NTgx
+NDgsMTM1MzM4MzU4OCw4MjU0NDE0MjEsMTM2Mjc0MDYxN119
 -->
