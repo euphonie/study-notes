@@ -35,8 +35,12 @@
 - Athletes should not attempt skills beyond their ability level
 
 ## Music Policies
-- All 
+- All use of music must have written license from owners of the sound recordings
+	- Teams must provide proof of licensing
+	- Alternatives: ICU provided trac, track with counts or can count verbally. Otherwise, the team is disqualified
+- If 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Nzg1NjgzN119
+eyJoaXN0b3J5IjpbLTMwNDYxMTIwN119
 -->
