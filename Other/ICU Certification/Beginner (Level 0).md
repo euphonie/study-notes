@@ -36,7 +36,12 @@
 - **Stunt-inversions are not allowed**. Supported handstand is a legal inversion.
 - Bases can't support top person while on backbend or inverted position
 
+## Pyramids
+
+- Top must receive primary support from base
+- Dismounts 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDM3MDc2MCw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbLTYyMDY5NjIyNiw3MDE2MTAxNjBdfQ==
 -->
