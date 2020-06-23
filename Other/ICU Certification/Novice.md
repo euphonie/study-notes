@@ -6,7 +6,8 @@
 - 1884 in Minnesota, Thomas Peebles, transplanted the idea of coordinated crowds cheering.
 - Sport was born the saturdary, 2nd november 1898. When Johnny Campbell started cheering at an event
 - 1898-1929. Cheerleading is adopted in high-schools and props and skills are integrated into the chants and cheers. (Signs, flags, megaphones, poms, arm motions, simple partner stunts and tumbling skills)
-- 1930-1940. Key 
+- 1930-1940. Kay Teer Crawford and Gussie Nell Davis, in Texas, started a new style called "Drill Team" (Performance Cheer).
+- 1930. Kay Crawford, mixed popular Military marching hi
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -51,6 +52,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDUyODUzMTAsLTg5NDkyNTM4Nyw2Mz
-YwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbMTI1ODQ4NDgyNSwtODk0OTI1Mzg3LDYzNj
+A5Njk2OF19
 -->
