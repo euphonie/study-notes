@@ -15,7 +15,8 @@
 - **1974**. Jeff Web launches the Universal Cheerleaders Association (UCA); which looks to advance athelticism, enhanced skills and crowd techniques (Progression learning and safety rules and techniques). ESPN helped broadcast the new Performance Cheer competition format, which was put to music in a routine. 
 - **1980s-1990s**. Cheer spreads to other countries in the world. New privately-owned programs started to appear (All star format).
 - **2003-2004**. USASF (United States All Star Federation) is created to promote consistency of All Star rules and administer the "Cheerleading Worlds'". When other countries express interest of joining, International All Star Federation (IASF) was added to the title of the event.
-- 2004. The International Cheer Union held the first meeting on 26th apil 2004 with 13 National Federations in attendance. 
+- **2004**. The International Cheer Union held the first meeting on 26th april 2004 with 13 National Federations in attendance. Here the ICU Wordl CHampionships for National Teams event was created.
+- 
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -60,6 +61,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjIxODY3MiwtODk0OTI1Mzg3LDYzNj
-A5Njk2OF19
+eyJoaXN0b3J5IjpbODIxNDExMTMxLC04OTQ5MjUzODcsNjM2MD
+k2OTY4XX0=
 -->
