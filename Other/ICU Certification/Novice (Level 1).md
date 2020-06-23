@@ -48,7 +48,10 @@
 	- May be braced by top at prep level or below with hand-arm connection only
 		- if braced must begin prior initiating stunt
 		- Prep level top must have both feet on bases, except in shoulder sit, flat back, straddle lift or shoulder stand
-	- May not be braced 
+	- May not be braced by other extended stunts
+- Single leg stunts
+	- Prep level must be braced by person at prep level or below with arm-hand connection
+	- 
 
 ## Tosses
 
@@ -56,6 +59,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc2NzExODAsLTE3MDA3NTgxNDgsMT
-M1MzM4MzU4OCw4MjU0NDE0MjEsMTM2Mjc0MDYxN119
+eyJoaXN0b3J5IjpbMTM1NzU4MDAyNSwtMTcwMDc1ODE0OCwxMz
+UzMzgzNTg4LDgyNTQ0MTQyMSwxMzYyNzQwNjE3XX0=
 -->
