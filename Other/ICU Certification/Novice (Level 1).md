@@ -51,7 +51,9 @@
 	- May not be braced by other extended stunts
 - Single leg stunts
 	- Prep level must be braced by person at prep level or below with arm-hand connection
-	- 
+	- Connection prior initiating stunt
+	- Both feet in bases hand but there's exceptions
+	- Extended single leg stunts are not allowed
 
 ## Tosses
 
@@ -59,6 +61,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzU4MDAyNSwtMTcwMDc1ODE0OCwxMz
+eyJoaXN0b3J5IjpbMTg0MTgzNzczNCwtMTcwMDc1ODE0OCwxMz
 UzMzgzNTg4LDgyNTQ0MTQyMSwxMzYyNzQwNjE3XX0=
 -->
