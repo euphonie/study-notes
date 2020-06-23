@@ -45,8 +45,9 @@
 - Top must be supported
 	- Can land in cradle or surface and not connected to a bracer above prep level
 - Two leg stunts
-	- May be braced by top at prep level or bewlo with hand-arm connection only
-	- 
+	- May be braced by top at prep level or below with hand-arm connection only
+		- if braced must begin prior initiating stunt
+		- 
 
 ## Tosses
 
@@ -54,6 +55,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDA3NTgxNDgsMTM1MzM4MzU4OCw4Mj
-U0NDE0MjEsMTM2Mjc0MDYxN119
+eyJoaXN0b3J5IjpbLTE3MDMzMjI5MDksLTE3MDA3NTgxNDgsMT
+M1MzM4MzU4OCw4MjU0NDE0MjEsMTM2Mjc0MDYxN119
 -->
