@@ -64,8 +64,12 @@
 	- **School Advanced (NFHS/AACCA Rules).** 
 		- Junior School Divisions and younger. No tosses.
 	- Elite (Level 5). MPL and O2A. 
-		- **Primary/Mini teams (8y or less. Not allowed**
-	    
+		- **Primary/Mini teams (8y or less) and athletes 5y or less). Not allowed**
+		- **ParaCheer and Special Abilities. Not allowed**
+    - Premier (Level 6).
+	    - **National teams. Athletes 15y or olde**
+	    - **Athletes 15y or older**
+	    - 
 	
 
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -110,6 +114,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDY5NDAxLC0yOTM5MTA1NjgsLTg5ND
-kyNTM4Nyw2MzYwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbMTUwODkxMzcwOCwtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
