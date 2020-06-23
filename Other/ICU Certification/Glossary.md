@@ -3,10 +3,10 @@
 
 - Ground Level. On performing surface
 - Waist-level. Lowest connection to waist 
-- Prep-level. Lowest connection above waist and below extended level
+- Prep-level. Lowest connection above waist and below extended level. Or bases' hands are extended but top's body height is same as prep-level.
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDUwOTEwNjFdfQ==
+eyJoaXN0b3J5IjpbLTkyMDU0Mzg2MSwtMTEwNTA5MTA2MV19
 -->
