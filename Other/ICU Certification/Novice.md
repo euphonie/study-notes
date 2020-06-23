@@ -17,7 +17,9 @@
 - **2003-2004**. USASF (United States All Star Federation) is created to promote consistency of All Star rules and administer the "Cheerleading Worlds'". When other countries express interest of joining, International All Star Federation (IASF) was added to the title of the event.
 - **2004**. The International Cheer Union held the first meeting on 26th april 2004 with 13 National Federations in attendance. Here the ICU Wordl CHampionships for National Teams event was created.
 - **2011**. Stunt format event is introduced. Allowing Cheerleading teams to compete in 4 rounds of competition against one other opposing Cheerleading team.
-- 201
+- **2013**. ICU is accepted as a member of SportAccord/GAISF. 
+- **2014**. ICU became part of the Fédération Internationale du Sport Universitaire.
+- **2016**. ICU was recognized, provisionally, by the International Olympic Committee (IOC)
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -62,6 +64,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjIyMjI4MDMsLTg5NDkyNTM4Nyw2Mz
-YwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbNDc0NzEyNzY2LC04OTQ5MjUzODcsNjM2MD
+k2OTY4XX0=
 -->
