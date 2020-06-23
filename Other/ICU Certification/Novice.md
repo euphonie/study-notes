@@ -57,7 +57,9 @@
 - Group Stunt Routine (Not allowed at ICU sanctioned events)
 	- **Size**: 5 athletes or less (F or M)
 - Team STUNT
+	- 
 - Game Day
+	- **Size**: min 16 athletes
 
 ### Time of Routine 
 
@@ -191,6 +193,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTM3ODAwNywtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbMTYzNjkxMjksLTI5MzkxMDU2OCwtODk0OT
+I1Mzg3LDYzNjA5Njk2OF19
 -->
