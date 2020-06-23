@@ -90,26 +90,35 @@
 ## Performance Cheer 
 
 ### Time of Routine
-- Routine--Music portion(2:30); Doubles--Music portion (1:30))*
-	- Performance Cheer Freestyle Pom. O2A.
-	- Performance Cheer Hip Hop. O2A. 
-	- Performance Cheer Jazz. O2A. 
-	- Performance Cheer High Kick. O2A
+- Routine: Music portion(2:30)
+- Doubles: Music portion (1:30)
+### Divisions
+- Performance Cheer Freestyle Pom. O2A.
+- Performance Cheer Hip Hop. O2A. 
+- Performance Cheer Jazz. O2A. 
+- Performance Cheer High Kick. O2A
 
-3. Game day *(Each element (30s - 1m) with breaks between each)*
-	- Includes any combination of:
-		- Cheer 
-		- Sideline
-		- Drum Line
-		- Band chant
-		- Fight song
-		- Time out performance
+## Game day 
+### Time of routine
+- Each element (30s - 1m) with breaks between each
+
+### Divisions
+- Includes any combination of:
+	- Cheer 
+	- Sideline
+	- Drum Line
+	- Band chant
+	- Fight song
+	- Time out performance
 	
-	4. STUNT follows: *(Music portion (1:00-2:30s)*
-		1. Partner stunts
-		2. Pyramids and tosses
-		3. Group jumps and Tumbling
-		4. Team performance
+## STUNT
+### Time of routine
+Music portion (1:00-2:30s)
+### Quarters
+1. Partner stunts
+2. Pyramids and tosses
+3. Group jumps and Tumbling
+4. Team performance
  
 	
 
@@ -155,6 +164,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTQ1MjY1MCwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbOTU2MjQ2OTY0LC0yOTM5MTA1NjgsLTg5ND
+kyNTM4Nyw2MzYwOTY5NjhdfQ==
 -->
