@@ -10,9 +10,13 @@
 ## Standing/Running Tumbling
 - Constant surface contact.
 - Block cartwheels and roundoffs allowed.
-- 
+- Forward/backward rolls allowed
+- **Front/back walkovers allowed**
+- handstands allowed
+- No immediate tumbling after round off
+- front/back handspring
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDUwODM3XX0=
+eyJoaXN0b3J5IjpbMTI1NDQ5MDQyN119
 -->
