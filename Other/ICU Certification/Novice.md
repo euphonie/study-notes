@@ -66,10 +66,12 @@
 	- Elite (Level 5). MPL and O2A. 
 		- **Primary/Mini teams (8y or less) and athletes 5y or less). Not allowed**
 		- **ParaCheer and Special Abilities. Not allowed**
-    - Premier (Level 6).
-	    - **National teams. Athletes 15y or olde**
-	    - **Athletes 15y or older**
-	    - 
+    - **Premier (Level 6).**
+	    - **National teams. Athletes 15y or older**
+	    - **All others. 16y or older**
+	    - **ParaCheer and Special Abilities. Not allowed**
+    - University Premier (AACCA NCAA rules).
+    - 
 	
 
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -114,6 +116,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODkxMzcwOCwtMjkzOTEwNTY4LC04OT
+eyJoaXN0b3J5IjpbLTkwMTk0MTk5MywtMjkzOTEwNTY4LC04OT
 Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
