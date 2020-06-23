@@ -28,10 +28,15 @@
 	- 1/2 twist is allowed if begins and ends on surface.
 	- Transitions one base at least in contact with top
 	- Flip is not allowed
-	- Single based split caches not allowed
-	- 
+	- Single based split catches not allowed
+	- Single based multiple top not allowed	
+	- Stunt-release
+		- May not end on prone or inverted position
+		- Release must return to original bases
+			- No landing in surface without assistance
+		- Full twisting log/barrel roll is not allowed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDk2NjQ1ODEsMTM2Mjc0MDYxN119
+eyJoaXN0b3J5IjpbMTk5ODU5Mzk3LDEzNjI3NDA2MTddfQ==
 -->
