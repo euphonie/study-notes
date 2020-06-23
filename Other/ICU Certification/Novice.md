@@ -46,6 +46,11 @@
 	- Game day
 
 # Divisions
+
+1. Cheerleading
+	- Beginner (Level 0). Cualquier edad, team types and divisions. 
+	
+
 Adaptive abilites, 25% de atletas con discapacdad intelectual
 Special Olympics, ratio 1:1 de atletas con/sin discapacdad intelectual
 
@@ -88,6 +93,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUyNjY0NjIsLTI5MzkxMDU2OCwtOD
-k0OTI1Mzg3LDYzNjA5Njk2OF19
+eyJoaXN0b3J5IjpbMTAwMTcyMjgxMCwtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
