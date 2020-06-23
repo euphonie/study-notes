@@ -65,7 +65,10 @@
 	- Only straight pop downs and basic straight cradles allowed.
 	- Twisting dismounts not allowed
 	- Dismounts must not come in trajectory of stunt, pyramid, individual or prop.
-	- No flip
+	- No flips allowed
+	- Dismounts may not intentionally travel.
+	- Top persons in dismounts may not come in contact w e/o while released.
+	- Tension drops/rolls of any kind not allowed
 
 ## Tosses
 
@@ -73,7 +76,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM0ODU0MjEsNDYxMDUxOTYxLDE4ND
-E4Mzc3MzQsLTE3MDA3NTgxNDgsMTM1MzM4MzU4OCw4MjU0NDE0
-MjEsMTM2Mjc0MDYxN119
+eyJoaXN0b3J5IjpbMTYwMDM2Mjk2OSw0NjEwNTE5NjEsMTg0MT
+gzNzczNCwtMTcwMDc1ODE0OCwxMzUzMzgzNTg4LDgyNTQ0MTQy
+MSwxMzYyNzQwNjE3XX0=
 -->
