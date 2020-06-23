@@ -14,7 +14,7 @@
 - 1970. Urban cheer is born as a reaction of increasingly growing popularity of urban & hip hop culture.
 - 1974. Jeff Web launches the Universal Cheerleaders Association (UCA); which looks to advance athelticism, enhanced skills and crowd techniques (Progression learning and safety rules and techniques). ESPN helped broadcast the new Performance Cheer competition format, which was put to music in a routine. 
 - 1980s-1990s. Cheer spreads to other countries in the world. New privately-owned programs started to appear (All star format).
-- 2003-2004. 
+- 2003-2004. USASF (United States All Star Federation) is created to promote consistency of All Star rules and administer the "Cheerleading Worlds'". When other countries express interest of joining, International All Star Federation (IASF) was added to the even
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -59,6 +59,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODI3MTAzMSwtODk0OTI1Mzg3LDYzNj
+eyJoaXN0b3J5IjpbMTg0NzM5NTg1MCwtODk0OTI1Mzg3LDYzNj
 A5Njk2OF19
 -->
