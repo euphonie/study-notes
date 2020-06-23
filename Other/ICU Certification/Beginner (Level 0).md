@@ -22,9 +22,13 @@
 ## Stunts
 
 - Spotters
-	- 1:1 for each top a
+	- 1:1 for each top above ground level. Spotter may grab waist.
+
+### Levels
+
+- Sunts above waist leve
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjYwMTI3MjYsNzAxNjEwMTYwXX0=
+eyJoaXN0b3J5IjpbLTEzODUwMjYwODIsNzAxNjEwMTYwXX0=
 -->
