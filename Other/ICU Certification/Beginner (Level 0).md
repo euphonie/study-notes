@@ -22,9 +22,9 @@
 ## Stunts
 
 - Spotters
-	- 
+	- 1:1 for each top a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MDMzMDgzMiw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbLTE3NjYwMTI3MjYsNzAxNjEwMTYwXX0=
 -->
