@@ -39,9 +39,12 @@
 ## Pyramids
 
 - Top must receive primary support from base
-- Dismounts 
+- 
+
+## Dismounts 
+- Only allowed release-to-cradle and release-and-assisted to performing surface.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDY5NjIyNiw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbMjA2NjUxNTI2NCw3MDE2MTAxNjBdfQ==
 -->
