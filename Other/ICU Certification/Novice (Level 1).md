@@ -17,10 +17,10 @@
 - front/back handsprings are not allowed
 ## Stunts
 - ** 1:1 spotter for each top at prep level and above.**
-- Extended a
+- Extended arm stunts not allowed
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODY2ODEzOCwxMzYyNzQwNjE3XX0=
+eyJoaXN0b3J5IjpbNDY2MDM4OTEzLDEzNjI3NDA2MTddfQ==
 -->
