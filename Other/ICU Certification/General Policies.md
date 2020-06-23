@@ -42,11 +42,17 @@
 - Teams need a responsible adult to track the music
 - Teams must provide own CD or MP3 device in good conditions. Smartphone is not recommended.
 - Disney themes or Disney resembling costumes are not allowed; music is.
+
 ## Logo usage
+
 - ICU letters are allowed on clothing and other, logo is not allowed prior approval.
-- Spons
+- Sponsor logos are permitted only on outerwear/warm up attire.
+
+
+## Media policy
+- Live streaming, individual or commercial, is not allowed.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzcwNTM3NjldfQ==
+eyJoaXN0b3J5IjpbMTkyODI5MjQ4M119
 -->
