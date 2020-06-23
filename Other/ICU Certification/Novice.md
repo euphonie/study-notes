@@ -48,7 +48,11 @@
 # Divisions
 
 1. Cheerleading
-	- Beginner (Level 0). Cualquier edad, team types and divisions. 
+	- **Beginner (Level 0)**. Cualquier edad, team types and divisions. Mandatory progression learning.
+	- **Novice (Level 1)**. Mandatory progression learning, open to all.
+	- Intermediate (Level 2). MPL and O2A.
+		- Special abilities division. No tosses.
+		- ParaCheer/Adaptive abilites. No basket tosses.
 	
 
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -93,6 +97,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTcyMjgxMCwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbLTExNjE5ODkyMDEsLTI5MzkxMDU2OCwtOD
+k0OTI1Mzg3LDYzNjA5Njk2OF19
 -->
