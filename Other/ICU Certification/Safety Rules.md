@@ -18,8 +18,12 @@
 - Local culture can be included in routine
 - Athletes should have 6+ months of legal residence in represented country
 
+## Injuries
+
+- Only competition officials, advisor/coach from performing team and injured individual may stop a routine.
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDg2MjQxNV19
+eyJoaXN0b3J5IjpbMTk0MTE3NDA3NSwtNjIwODYyNDE1XX0=
 -->
