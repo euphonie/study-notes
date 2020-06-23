@@ -50,9 +50,9 @@
 ## Cheerleading
 
 ### Disciplines
-- Team Routine
-- Partner Stunt (Not allowed at ICU sanctioned events)
-- Group Stunt (Not allowed at ICU sanctioned events)
+- Team Cheer Routine
+- Coed Partner Stunt Routine (Not allowed at ICU sanctioned events)
+- Group Stunt Routine (Not allowed at ICU sanctioned events)
 - Team STUNT
 - Game Day
 
@@ -187,6 +187,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcwNTYwNDUsLTI5MzkxMDU2OCwtOD
-k0OTI1Mzg3LDYzNjA5Njk2OF19
+eyJoaXN0b3J5IjpbMTkxODIxNjEzNSwtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
