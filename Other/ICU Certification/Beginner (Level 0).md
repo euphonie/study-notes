@@ -1,7 +1,7 @@
 
 # Beginner Rules
 
-## Tumbling
+## General Tumbling
 
 - All tumbling begins and end in surface
 	- Rebound to stunt position is allowed
@@ -9,9 +9,13 @@
 	- Tumbling over, under, through a stunt, individual or prop is not allowed
 	- Dive rolls are not allowed
 	- Jumps within tumbling pass breaks the pass
-	- 
+
+## Standing/Running Tumbling
+
+- Constant surface contact. Except for block cartwheels and round offs.
+- Forwards 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzI2XX0=
+eyJoaXN0b3J5IjpbLTE4MDQ3ODk3OTZdfQ==
 -->
