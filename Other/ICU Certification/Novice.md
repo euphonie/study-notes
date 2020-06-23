@@ -1,7 +1,8 @@
 
 # History
-
-- Cheerleading 
+- Cheerleading is assumed to be around since thousands of years.
+- Start is defined at 1800's as entertainment led by Chants and Cheers.
+- 1860s. Cheers were coor
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -46,6 +47,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg4ODIwNTAsLTg5NDkyNTM4Nyw2Mz
-YwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbNzM3NDIzMzUyLC04OTQ5MjUzODcsNjM2MD
+k2OTY4XX0=
 -->
