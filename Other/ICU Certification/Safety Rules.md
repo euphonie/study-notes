@@ -9,10 +9,12 @@
 - No jewerly permitted. Only rhinestone, medical ID tags/bracelets.
 - No propelling apparatus allowed. Just spring floor for All Star.
 - Only allowed props (flags, banners, signs, pom pons, megaphones) in stage, and must be discarded safely.
+- Hard casts not allowed.
+- Spotters must be from team and be trained.
 - 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTc3MjYyNl19
+eyJoaXN0b3J5IjpbMTcwNDI4NzU3Nl19
 -->
