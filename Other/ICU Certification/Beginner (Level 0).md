@@ -49,9 +49,16 @@
 - No dismounts above waist level
 - No flip in dismounts
 - Dismounts may not intentionally travel
-- No contact while dismounting between top adn
+- No contact while dismounting between top and base
+- Tension drop/roll not allowed.
+
+## Tosses
+
+- Not allowed. Load ins or sponge are not allowed.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjU3NDgxMiw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbMTMyNTg0MjQ0Myw3MDE2MTAxNjBdfQ==
 -->
