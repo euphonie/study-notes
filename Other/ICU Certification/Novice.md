@@ -66,12 +66,17 @@
 	- Elite (Level 5). MPL and O2A. 
 		- **Primary/Mini teams (8y or less) and athletes 5y or less). Not allowed**
 		- **ParaCheer and Special Abilities. Not allowed**
-    - **Premier (Level 6).**
+    - **Premier (Level 6) .** Same as University Premier
 	    - **National teams. Athletes 15y or older**
 	    - **All others. 16y or older**
 	    - **ParaCheer and Special Abilities. Not allowed**
-    - University Premier (AACCA NCAA rules).
-    - 
+
+2. Performance Cheer
+	- Performance Cheer Freestyle Pom. O2A.
+	- Performance Cheer Hip Hop. O2A. 
+	- Performance Cheer Jazz. O2A. 
+	- Performance Cheer High Kick. O2A
+ 
 	
 
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -116,6 +121,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTk0MTk5MywtMjkzOTEwNTY4LC04OT
+eyJoaXN0b3J5IjpbLTQ2ODI3NDg1NCwtMjkzOTEwNTY4LC04OT
 Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
