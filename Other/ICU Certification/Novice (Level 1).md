@@ -26,9 +26,12 @@
 	- Rebounding to prone is allowed
 	- 1/2 wrap around is allowed
 	- 1/2 twist is allowed if begins and ends on surface.
+	- Transitions one base at least in contact with top
+	- Flip is not allowed
+	- Single based split caches not allowed
 	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc5Mzg3NiwxMzYyNzQwNjE3XX0=
+eyJoaXN0b3J5IjpbLTEwNDk2NjQ1ODEsMTM2Mjc0MDYxN119
 -->
