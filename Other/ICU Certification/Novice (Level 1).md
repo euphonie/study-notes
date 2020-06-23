@@ -14,9 +14,12 @@
 - **Front/back walkovers allowed**
 - handstands allowed
 - No immediate tumbling after round off
-- front/back handspring
+- front/back handsprings are not allowed
+## Stunts
+- ** 1:1 spotter for each top at prep level and above.**
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDQ5MDQyN119
+eyJoaXN0b3J5IjpbMTM2Mjc0MDYxN119
 -->
