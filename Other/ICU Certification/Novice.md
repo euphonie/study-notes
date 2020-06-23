@@ -20,7 +20,10 @@
 - **2013**. ICU is accepted as a member of SportAccord/GAISF. 
 - **2014**. ICU became part of the Fédération Internationale du Sport Universitaire.
 - **2016**. ICU was recognized, provisionally, by the International Olympic Committee (IOC)
-- **Now & in the future**. ICU included divisions for Special Athletes, ParaCheer/Adaptive Abilities .
+- **Now & in the future**. ICU included divisions for Special Athletes, ParaCheer/Adaptive Abilities Athletes and Master divisions.
+
+## Cheer is now defined by 2 categories: 
+- Cheearleading. 
 
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
@@ -65,6 +68,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk0MDI2MDMsLTg5NDkyNTM4Nyw2Mz
-YwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbOTc2MTYwNzY4LC04OTQ5MjUzODcsNjM2MD
+k2OTY4XX0=
 -->
