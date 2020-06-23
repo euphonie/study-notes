@@ -15,6 +15,7 @@
 - handstands allowed
 - No immediate tumbling after round off
 - front/back handsprings are not allowed
+- 
 ## Stunts
 - ** 1:1 spotter for each top at prep level and above.**
 - Extended arm stunts not allowed
@@ -76,7 +77,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMDM2Mjk2OSw0NjEwNTE5NjEsMTg0MT
-gzNzczNCwtMTcwMDc1ODE0OCwxMzUzMzgzNTg4LDgyNTQ0MTQy
-MSwxMzYyNzQwNjE3XX0=
+eyJoaXN0b3J5IjpbLTEwOTE2NjAwMzQsMTYwMDM2Mjk2OSw0Nj
+EwNTE5NjEsMTg0MTgzNzczNCwtMTcwMDc1ODE0OCwxMzUzMzgz
+NTg4LDgyNTQ0MTQyMSwxMzYyNzQwNjE3XX0=
 -->
