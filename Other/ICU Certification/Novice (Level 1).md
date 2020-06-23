@@ -55,12 +55,17 @@
 	- Both feet in bases hand but there's exceptions
 	- Extended single leg stunts are not allowed
 
+## Dismounts
+- Cradle from single based stunts must have spotter supporting waist to shoulder region
+- Cradles from multi based stunts must have 2 catchers and 1 spotter.
+
 ## Tosses
 
 - Not allowed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTgzNzczNCwtMTcwMDc1ODE0OCwxMz
-UzMzgzNTg4LDgyNTQ0MTQyMSwxMzYyNzQwNjE3XX0=
+eyJoaXN0b3J5IjpbNDYxMDUxOTYxLDE4NDE4Mzc3MzQsLTE3MD
+A3NTgxNDgsMTM1MzM4MzU4OCw4MjU0NDE0MjEsMTM2Mjc0MDYx
+N119
 -->
