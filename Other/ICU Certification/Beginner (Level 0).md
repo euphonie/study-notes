@@ -23,12 +23,12 @@
 
 - Spotters
 	- 1:1 for each top above ground level. Spotter may grab waist.
-
-### Levels
-
-- Sunts above waist leve
+- Levels
+	- Sunts above waist level from bases are not allowed.
+	- All stunts are allowed at waist level if top person is connected to someone standing on the performance surface, separate from the base(s) and spotter.
+- Twisting stunts and transitions not allowed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUwMjYwODIsNzAxNjEwMTYwXX0=
+eyJoaXN0b3J5IjpbMjEyODc3OTc1LDcwMTYxMDE2MF19
 -->
