@@ -18,7 +18,8 @@
 - No choking hazards
 - Local language recommended for cheer/chants
 - Local culture can be included in routine
-- Athletes should have 6+ months of legal residence in represented country
+- Athletes should have 6+ months of legal residence in represented country.
+- 2020. Don't expose midriff/mid-section of athletes rules for team attire
 
 ## Injuries
 
@@ -54,5 +55,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzIxNzM4NCwxOTI4MjkyNDgzXX0=
+eyJoaXN0b3J5IjpbLTIwNTIxMzE1ODQsMTE1NzIxNzM4NCwxOT
+I4MjkyNDgzXX0=
 -->
