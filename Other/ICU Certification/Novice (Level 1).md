@@ -35,8 +35,18 @@
 		- Release must return to original bases
 			- No landing in surface without assistance
 		- Full twisting log/barrel roll is not allowed
+		- Release may not intentionally travel
+	- Stunt-inversions
+		- Not allowed. Only supported handstand.
+		- No support of top while in backbend or inverted position
+
+
+
+## Tosses
+
+- Not allowed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODU5Mzk3LDEzNjI3NDA2MTddfQ==
+eyJoaXN0b3J5IjpbODI1NDQxNDIxLDEzNjI3NDA2MTddfQ==
 -->
