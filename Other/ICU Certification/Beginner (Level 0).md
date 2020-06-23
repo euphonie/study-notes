@@ -16,9 +16,15 @@
 - Forwards/backward rolls allowed
 - Handstands allowed
 - Front/back walkovers not allowed
-- No tumblin
+- No tumbling allowed in immediate combination after a round off
+- front/back handsprings not allowed
+
+## Stunts
+
+- Spotters
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODMyMDQ5NSw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbLTk0MDMzMDgzMiw3MDE2MTAxNjBdfQ==
 -->
