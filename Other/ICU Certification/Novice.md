@@ -28,10 +28,10 @@
 - Recreational
 - Scholastic (school & university)
 - Masters
-- Special Abilities
-- ParaCheer/Adaptive Abilities
+- **Special Abilities. Athletes with intellectual disabilities.**
+- **ParaCheer/Adaptive Abilities. Athletes with physical and intellectual disabilities.**
 - National Team
-- Cheerleading
+- Cheerleading 
 	- Team Cheer Beginnger - Permier divisions
 	- Urban Cheer Beginner - Premier divisions
 	- Partner Stunt
@@ -102,6 +102,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA3Mjk3NTMsLTI5MzkxMDU2OCwtOD
-k0OTI1Mzg3LDYzNjA5Njk2OF19
+eyJoaXN0b3J5IjpbMTI5NTQ4NzQyMSwtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
