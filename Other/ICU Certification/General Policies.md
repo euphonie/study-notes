@@ -38,9 +38,10 @@
 - All use of music must have written license from owners of the sound recordings
 	- Teams must provide proof of licensing
 	- Alternatives: ICU provided trac, track with counts or can count verbally. Otherwise, the team is disqualified
-- If 
+- If there are concerns, a Challenge Form is issued after performing. $100 in fees.
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDYxMTIwN119
+eyJoaXN0b3J5IjpbLTE3NzgwNjA3MDJdfQ==
 -->
