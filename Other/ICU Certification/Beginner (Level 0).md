@@ -1,5 +1,5 @@
 
-# Beginner Rules
+# Beginner Rules (Level 0)
 
 ## General Tumbling
 
@@ -57,8 +57,8 @@
 - Not allowed. Load ins or sponge are not allowed.
 
 
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTg0MjQ0Myw3MDE2MTAxNjBdfQ==
+eyJoaXN0b3J5IjpbMTYxMjI0MDQ0OCwxMzI1ODQyNDQzLDcwMT
+YxMDE2MF19
 -->
