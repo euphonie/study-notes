@@ -76,16 +76,21 @@
 	- Performance Cheer Hip Hop. O2A. 
 	- Performance Cheer Jazz. O2A. 
 	- Performance Cheer High Kick. O2A
-	- Game day
-		- Includes any combination of:
-			- Cheer 
-			- Sideline
-			- Drum Line
-			- Band chant
-			- Fight song
-			- Time out performance
-		- STUNT follows:
-		- 
+
+3. Game day
+	- Includes any combination of:
+		- Cheer 
+		- Sideline
+		- Drum Line
+		- Band chant
+		- Fight song
+		- Time out performance
+	
+	4. STUNT follows:
+		1. Partner stunts
+		2. Pyramids and tosses
+		3. Group jumps and Tumbling
+		4. Team performance
  
 	
 
@@ -131,6 +136,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzQ0NTAyOCwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbLTE3OTMyMTAyMzIsLTI5MzkxMDU2OCwtOD
+k0OTI1Mzg3LDYzNjA5Njk2OF19
 -->
