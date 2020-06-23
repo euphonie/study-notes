@@ -61,9 +61,10 @@
 		- **Special Abilities. Not allowed**
 		- ParaCheer/Adaptive abilities. No basket tosses.
 		- Primary/Mini Teams (less than 8 years old). Toss rules = Intermediate.
-	- School Advanced (NFHS/AACCA Rules). 
-		
+	- **School Advanced (NFHS/AACCA Rules).** 
 		- Junior School Divisions and younger. No tosses.
+	- Elite (Level 5). MPL and O2A. 
+		- **Primary/Mini teams (8y or less. Not allowed**
 	    
 	
 
@@ -109,6 +110,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDkyNzIyNiwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbMTUwMDY5NDAxLC0yOTM5MTA1NjgsLTg5ND
+kyNTM4Nyw2MzYwOTY5NjhdfQ==
 -->
