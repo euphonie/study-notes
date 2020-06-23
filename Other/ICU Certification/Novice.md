@@ -1,8 +1,5 @@
 
-# Glossary
-1/2 Wrap around, 
-
-
+# Hiso
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
 Special Olympics, ratio 1:1 de atletas con/sin discapacdad intelectual
@@ -39,7 +36,13 @@ Sportters 1:1 por cada gente above ground level
 - tumbling while holding not allowed
 
 
+# Glossary
+1/2 Wrap around, 
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDkyNTM4Nyw2MzYwOTY5NjhdfQ==
+eyJoaXN0b3J5IjpbLTMzNDgxOTQ3NSwtODk0OTI1Mzg3LDYzNj
+A5Njk2OF19
 -->
