@@ -58,7 +58,10 @@
 ## Dismounts
 - Cradle from single based stunts must have spotter supporting waist to shoulder region
 - Cradles from multi based stunts must have 2 catchers and 1 spotter.
-- 
+- Waist level cradles are not allowed
+- Dismounts return to original base
+	- If to the surface must be assisted by base or spotter
+	- Without assitance, straight drops or small hop offs are the only permitted dismounts.
 
 ## Tosses
 
@@ -66,7 +69,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMjg2OTIsNDYxMDUxOTYxLDE4NDE4Mz
-c3MzQsLTE3MDA3NTgxNDgsMTM1MzM4MzU4OCw4MjU0NDE0MjEs
-MTM2Mjc0MDYxN119
+eyJoaXN0b3J5IjpbLTI3NzA3ODYyLDQ2MTA1MTk2MSwxODQxOD
+M3NzM0LC0xNzAwNzU4MTQ4LDEzNTMzODM1ODgsODI1NDQxNDIx
+LDEzNjI3NDA2MTddfQ==
 -->
