@@ -53,10 +53,14 @@
 	- **Intermediate (Level 2)**. MPL and O2A.
 		- Special abilities division. No tosses.
 		- ParaCheer/Adaptive abilites. No basket tosses.
-	- Median (Level 3). MPL and O2A. 
+	- **Median (Level 3)**. MPL and O2A. 
 		- **Special Abilities. Not allowed**
 		- ParaCheer/Adaptive abilities. No basket tosses.
-		- 
+		- Primary/Mini Teams (less than 8 years old). Toss rules = Intermediate.
+	- Advanced (Level 4). MPL and O2A.
+		- **Special Abilities. Not allowed**
+		- ParaCheer/Adaptive abilities. No basket tosses.
+		-
 	    
 	
 
@@ -102,6 +106,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTQ4NzQyMSwtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbLTE2OTcwOTU1NTgsLTI5MzkxMDU2OCwtOD
+k0OTI1Mzg3LDYzNjA5Njk2OF19
 -->
