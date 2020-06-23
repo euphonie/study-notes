@@ -29,9 +29,12 @@
 - Twisting stunts and transitions not allowed
 - Transitions, one base must remain in contact with top person. But leap frog is not allowed.
 - Flipping not allowed
-- No stunt, pyramid or individual may move over or under another separate stunt, pyramid or individual
+- No stunt, pyramid or individual's torso may move over or under another separate stunt, pyramid or individual's torso.
+- Single based split catches not allowed
+- Single base multiple person stunts not allowed
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTEwODg4ODcsNzAxNjEwMTYwXX0=
+eyJoaXN0b3J5IjpbMTk3ODk2NDI5MSw3MDE2MTAxNjBdfQ==
 -->
