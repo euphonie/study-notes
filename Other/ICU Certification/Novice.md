@@ -104,6 +104,7 @@
 
 ### Disciplines
 - Team routine
+	- Hip Hop & Freestyle Pom
 	- **Size**: 16 - 24 athletes
 - Doubles
 	- **Size**: 2 athletes
@@ -193,6 +194,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNjkxMjksLTI5MzkxMDU2OCwtODk0OT
-I1Mzg3LDYzNjA5Njk2OF19
+eyJoaXN0b3J5IjpbMTc2MjA0MzA0NSwtMjkzOTEwNTY4LC04OT
+Q5MjUzODcsNjM2MDk2OTY4XX0=
 -->
