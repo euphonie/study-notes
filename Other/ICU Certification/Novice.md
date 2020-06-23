@@ -77,7 +77,7 @@
 
 ### Divisions
 
-- **Beginner (Level 0)**. Cualquier edad, team types and divisions. Mandatory progression learning.
+- **Beginner (Level 0)**. MPL and O2A. Mandatory progression learning.
 - **Novice (Level 1)**. Mandatory progression learning, open to all.
 - **Intermediate (Level 2)**. MPL and O2A.
 	- Special abilities division. No tosses.
@@ -196,6 +196,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDI1MDMyNywtMjkzOTEwNTY4LC04OT
-Q5MjUzODcsNjM2MDk2OTY4XX0=
+eyJoaXN0b3J5IjpbLTc2MjYwNDgwNywyMDkwMjUwMzI3LC0yOT
+M5MTA1NjgsLTg5NDkyNTM4Nyw2MzYwOTY5NjhdfQ==
 -->
