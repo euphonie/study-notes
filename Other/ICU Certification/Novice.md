@@ -31,7 +31,20 @@
 - Special Abilities
 - ParaCheer/Adaptive Abilities
 - National Team
-- 
+- Cheerleading
+	- Team Cheer Beginnger - Permier divisions
+	- Urban Cheer Beginner - Premier divisions
+	- Partner Stunt
+	- Group Stunt
+	- Team STUNT
+	- Game day
+- Performance Cheer
+	- Team Cheer Freestyle Pom "Pom" "Pom-pon"
+	- Team Cheer Hip Hop
+	- Team Cheer Jazz
+	- Team Cheer High Kick "kick"
+	- Game day
+
 # Divisions
 Adaptive abilites, 25% de atletas con discapacdad intelectual
 Special Olympics, ratio 1:1 de atletas con/sin discapacdad intelectual
@@ -75,6 +88,6 @@ Sportters 1:1 por cada gente above ground level
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcyNjk5NTgsLTI5MzkxMDU2OCwtOD
+eyJoaXN0b3J5IjpbLTEwNzUyNjY0NjIsLTI5MzkxMDU2OCwtOD
 k0OTI1Mzg3LDYzNjA5Njk2OF19
 -->
