@@ -58,6 +58,7 @@
 ## Dismounts
 - Cradle from single based stunts must have spotter supporting waist to shoulder region
 - Cradles from multi based stunts must have 2 catchers and 1 spotter.
+- 
 
 ## Tosses
 
@@ -65,7 +66,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMDUxOTYxLDE4NDE4Mzc3MzQsLTE3MD
-A3NTgxNDgsMTM1MzM4MzU4OCw4MjU0NDE0MjEsMTM2Mjc0MDYx
-N119
+eyJoaXN0b3J5IjpbMzczMjg2OTIsNDYxMDUxOTYxLDE4NDE4Mz
+c3MzQsLTE3MDA3NTgxNDgsMTM1MzM4MzU4OCw4MjU0NDE0MjEs
+MTM2Mjc0MDYxN119
 -->
