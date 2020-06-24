@@ -17,10 +17,15 @@ Text processing is needed because information is gathered from multiple sources 
 Computers don't hold standard representations of words. The features depende directly from the kind of model that is needed for the task in hand.
 Examples:
 - Graph-based model => words can be represented as nodes with relationships being the edges.
-- Statistical modals _> 
+- Statistical modals => numerical representation
+- Document or Sentiment analysis => Word of bags or doc2vec
+- Text generation or machine translation => word level representation (word2vec or glove)
+
+### Modeling
+0 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzUxMzAwXX0=
+eyJoaXN0b3J5IjpbMjQ5NDQ1MjA3XX0=
 -->
