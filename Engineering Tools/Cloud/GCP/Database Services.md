@@ -17,9 +17,13 @@
 - Filestore
 ## Object System
 - Cloud Storage 
-	- Buckets
+	- Buckets. Unstructured data and files.
+		- Files 
+		- Folders
 		- Objects 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDYxOTAxXX0=
+eyJoaXN0b3J5IjpbLTk4MzM0OTYzOV19
 -->
