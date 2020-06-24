@@ -85,11 +85,13 @@ function authService($state, angularAuth0, $timeout){
 }
 ```
 
+JSON web token is then sent as a Bearer Header to obtained access to protected resources.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMjQ5NTYyNywtNTQ5OTQ4Mzc5LDE3OT
-MzNTk1NSwtMjAzMjEyNjUwOCwtMTA2MTc2ODA2NywtMTkxMDcx
-NDAyMywyOTQ4NTU1MDldfQ==
+eyJoaXN0b3J5IjpbMTA1Nzg0MzA0MywtMjMyNDk1NjI3LC01ND
+k5NDgzNzksMTc5MzM1OTU1LC0yMDMyMTI2NTA4LC0xMDYxNzY4
+MDY3LC0xOTEwNzE0MDIzLDI5NDg1NTUwOV19
 -->
