@@ -86,12 +86,21 @@ function authService($state, angularAuth0, $timeout){
 ```
 
 JSON web token is then sent as a Bearer Header to obtained access to protected resources.
+###  Setting up JWT Provider
 
+```javascript
+config.$inject = [
+  ...
+  'jwtOptionsProvider'
+];
+
+..
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Nzg0MzA0MywtMjMyNDk1NjI3LC01ND
+eyJoaXN0b3J5IjpbMTI4NTUwNDQ5MywtMjMyNDk1NjI3LC01ND
 k5NDgzNzksMTc5MzM1OTU1LC0yMDMyMTI2NTA4LC0xMDYxNzY4
 MDY3LC0xOTEwNzE0MDIzLDI5NDg1NTUwOV19
 -->
