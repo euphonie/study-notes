@@ -1,5 +1,5 @@
-    All information gathered from Udacity's Natual Language Processing Nanodegree
-
+> All information gathered from Udacity's Natual Language Processing
+> Nanodegree
 
 ## NLP Pipeline
 
@@ -14,9 +14,12 @@ Text processing is needed because information is gathered from multiple sources 
 
 ### Feature Extraction
 
-Computers don't hold standard representations of words.
+Computers don't hold standard representations of words. The features depende directly from the kind of model that is needed for the task in hand.
+Examples:
+-
 
 > Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTY1MTk4MTldfQ==
+eyJoaXN0b3J5IjpbLTEzOTk1ODM1OTBdfQ==
 -->
