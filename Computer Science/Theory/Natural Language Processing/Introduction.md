@@ -8,9 +8,9 @@ A basic processing pipeline for natural language could be identified as having t
 
 # Text processing
 
-Text processing is needed because information is gathered from multiple sources where text might be entangled with 
+Text processing is needed because information is gathered from multiple sources where text might be entangled with different markups, formats or constructs that are information only valid to the type of source from where the text is extracted.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg3OTU5MzRdfQ==
+eyJoaXN0b3J5IjpbMTU0MzY4OTMxNV19
 -->
