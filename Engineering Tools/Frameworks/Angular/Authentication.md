@@ -94,13 +94,21 @@ config.$inject = [
   'jwtOptionsProvider'
 ];
 
-..
+...
+config((){
+   jwtOptionsProvider.config({
+		tokenGetter: function(){
+           return localStorage.getItem('access_token');
+        },
+        whiteListedDomains: ['localhost']
+    });
+});
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTUwNDQ5MywtMjMyNDk1NjI3LC01ND
-k5NDgzNzksMTc5MzM1OTU1LC0yMDMyMTI2NTA4LC0xMDYxNzY4
-MDY3LC0xOTEwNzE0MDIzLDI5NDg1NTUwOV19
+eyJoaXN0b3J5IjpbOTQzNzMzODkwLC0yMzI0OTU2MjcsLTU0OT
+k0ODM3OSwxNzkzMzU5NTUsLTIwMzIxMjY1MDgsLTEwNjE3Njgw
+NjcsLTE5MTA3MTQwMjMsMjk0ODU1NTA5XX0=
 -->
