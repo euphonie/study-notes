@@ -22,10 +22,13 @@ Examples:
 - Text generation or machine translation => word level representation (word2vec or glove)
 
 ### Modeling
-0 
+The phases it may comprise are: 
+- Design a statiscally or machine learning model
+- Fit parameters to training data with optimization procedure
+- Use model to make predictions about unseen data
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NDQ1MjA3XX0=
+eyJoaXN0b3J5IjpbLTI4NTMxMjQ3OF19
 -->
