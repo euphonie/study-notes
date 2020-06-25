@@ -66,6 +66,7 @@
 	- Without assistance, straight drops or small hop offs are the only permitted dismounts.
 	- Only straight pop downs and basic straight cradles allowed and 1/4 turns are allowed.
 	- Twisting dismounts greater than 1/4 are not allowed
+	- No additional skills allowed in the dismounts
 	- Cradles from extended single leg stunts in pyramids are allowed.
 	- Dismounts must not come in trajectory of stunt, pyramid, individual or prop.
 	- No flips allowed
@@ -79,6 +80,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0NzQ4ODMwLDY1NDgzMDc1MSw3MTk4MT
-UzOCwtMTE3ODc2MjA2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTY2ODAzMjE2MSw2NTQ4MzA3NTEsNzE5OD
+E1MzgsLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
 -->
