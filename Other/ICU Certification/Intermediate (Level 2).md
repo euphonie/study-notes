@@ -76,10 +76,11 @@
 
 ## Tosses
 
-- Up to 4 bases for a toss. 
+- Up to 4 bases for a toss. One base must be behind the top.
+- Tosses must be performed all having feet on surface must land in a cradle position. At least 3 original basses must catch and 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk0OTMwNTcsNjU0ODMwNzUxLDcxOT
-gxNTM4LC0xMTc4NzYyMDY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTMxMDcwODc4LDY1NDgzMDc1MSw3MTk4MT
+UzOCwtMTE3ODc2MjA2OSw3MzA5OTgxMTZdfQ==
 -->
