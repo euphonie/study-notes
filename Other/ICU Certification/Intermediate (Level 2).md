@@ -77,10 +77,13 @@
 ## Tosses
 
 - Up to 4 bases for a toss. One base must be behind the top.
-- Tosses must be performed all having feet on surface must land in a cradle position. At least 3 original basses must catch and 
+- Tosses must be performed all having feet on surface must land in a cradle position. At least 3 original basses must catch the top and remain stationary.
+- No flipping, twisting, inverted or traveling tosses are allowed.
+- Only straight ride for body position. No exaggerated archs.
+- While straight body ride motions can be salute, blowing a kiss t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDcwODc4LDY1NDgzMDc1MSw3MTk4MT
-UzOCwtMTE3ODc2MjA2OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgxNTQxMTEyNCw2NTQ4MzA3NTEsNzE5OD
+E1MzgsLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
 -->
