@@ -80,10 +80,12 @@
 - Tosses must be performed all having feet on surface must land in a cradle position. At least 3 original basses must catch the top and remain stationary.
 - No flipping, twisting, inverted or traveling tosses are allowed.
 - Only straight ride for body position. No exaggerated archs.
-- While straight body ride motions can be salute, blowing a kiss t
+- While straight body ride motions can be salute, blowing a kiss though legs and body must remain straight.
+- Tops in separate tosses may not come into contact
+- Only single top permitted during a toss
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTQxMTEyNCw2NTQ4MzA3NTEsNzE5OD
+eyJoaXN0b3J5IjpbMTY5OTMzNjY1NSw2NTQ4MzA3NTEsNzE5OD
 E1MzgsLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
 -->
