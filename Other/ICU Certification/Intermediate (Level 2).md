@@ -28,7 +28,7 @@
 - 1:1 spotter for each top in floor stunt
 - Stunt levels
 	- Single leg above prep level are not allowed.
-- Twisting stunts and transitions are allowed up to a total of a 1/4 twisting rotation by top in relation to surface.
+- Twisting stunts and transitions are allowed up to a total of a 1/2 twisting rotation by top in relation to surface.
 	- Rebounding to prone is allowed
 	- 1/2 wrap around is allowed
 	- 1/2 twist is allowed if begins and ends on surface.
@@ -82,6 +82,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTg2MTQ3MiwtMTE3ODc2MjA2OSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzE5ODE1MzgsLTExNzg3NjIwNjksNzMwOT
+k4MTE2XX0=
 -->
