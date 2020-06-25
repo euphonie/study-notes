@@ -13,13 +13,8 @@
 ## Standing/Running Tumbling
 - Flips/aerials (back tuck) not allowed
 - Series front/back handsprings not allowed
-- Constant surface contact.
-- Block cartwheels and roundoffs allowed.
-- Forward/backward rolls allowed
-- **Front/back walkovers allowed**
-- handstands allowed
-- No immediate tumbling after round off
-- front/back handsprings are not allowed
+- Jump in immediate combination with handsprings is not allowed
+- No twisting while airborne 
 
 ## Stunts
 - ** 1:1 spotter for each top at prep level and above.**
@@ -82,5 +77,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUyNTg3NDcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
 -->
