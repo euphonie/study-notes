@@ -10,18 +10,24 @@
 	- Twisting dive rolls are not allowed
 - Back handspring step out can't be follow by a twist or turn. Only landing with two feet.
 
-## Standing/Running Tumbling
+## Standing Tumbling
 - Flips/aerials (back tuck) not allowed
 - Series front/back handsprings not allowed
 - Jump in immediate combination with handsprings is not allowed
 - No twisting while airborne 
+	- In jumps and stunts
+## Running tumbling
+- Flips/areials are not allowed
+- Series front/back handsprings are allowed
+- No twisting while airborne 
+	- In jumps and stunts
 
 ## Stunts
 - ** 1:1 spotter for each top at prep level and above.**
 - Extended arm stunts not allowed
 - 1:1 spotter for each top in floor stunt
 - Stunt levels
-	- Single leg only at waist level or below.
+	- Single leg above prepe
 	- Single leg prep level allowed if top connected to someone standing on surface
 - Twisting stunts and transitions are allowed up to a total of a 1/4 twisting rotation by top in relation to surface.
 	- Rebounding to prone is allowed
@@ -77,5 +83,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTI3NjE1NDIyOCwtMTE3ODc2MjA2OSw3Mz
+A5OTgxMTZdfQ==
 -->
