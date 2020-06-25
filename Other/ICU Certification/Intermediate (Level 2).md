@@ -60,12 +60,12 @@
 ## Dismounts
 - Cradle from single based stunts must have spotter supporting waist to shoulder region
 - Cradles from multi based stunts must have 2 catchers and 1 spotter.
-- Waist level cradles are not allowed
+
 - Dismounts return to original base
 	- If to the surface must be assisted by base or spotter
 	- Without assistance, straight drops or small hop offs are the only permitted dismounts.
-	- Only straight pop downs and basic straight cradles allowed.
-	- Twisting dismounts not allowed
+	- Only straight pop downs and basic straight cradles allowed and 1/4 turns are allowed.
+	- Twisting dismounts greater than 1/4 are not allowed
 	- Dismounts must not come in trajectory of stunt, pyramid, individual or prop.
 	- No flips allowed
 	- Dismounts may not intentionally travel.
@@ -78,6 +78,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODQwNjkwNSw2NTQ4MzA3NTEsNzE5OD
-E1MzgsLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE3ODQ4MzM5NjMsNjU0ODMwNzUxLDcxOT
+gxNTM4LC0xMTc4NzYyMDY5LDczMDk5ODExNl19
 -->
