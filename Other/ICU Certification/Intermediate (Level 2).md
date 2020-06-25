@@ -40,6 +40,7 @@
 		- May not end on prone or inverted position
 		- Release must return to original bases
 			- No landing in surface without assistance
+		- Releasing from inverted to non-inverted is not allowed.
 		- Full twisting log/barrel roll is not allowed
 		- Release may not intentionally travel
 	- Stunt-inversions
@@ -82,6 +83,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5ODE1MzgsLTExNzg3NjIwNjksNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbNjU0ODMwNzUxLDcxOTgxNTM4LC0xMTc4Nz
+YyMDY5LDczMDk5ODExNl19
 -->
