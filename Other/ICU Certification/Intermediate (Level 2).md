@@ -76,10 +76,10 @@
 
 ## Tosses
 
-- Not allowed
+- Up to 4 bases for a toss. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODAzMjE2MSw2NTQ4MzA3NTEsNzE5OD
-E1MzgsLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4Mjk0OTMwNTcsNjU0ODMwNzUxLDcxOT
+gxNTM4LC0xMTc4NzYyMDY5LDczMDk5ODExNl19
 -->
