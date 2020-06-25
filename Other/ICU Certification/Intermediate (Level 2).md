@@ -5,7 +5,9 @@
 
 - All tumbling begins and end on perfoming surface
 - Tumbling over, under, or through not allowed.
-- Dive rolls are not allowed.
+- ** Dive rolls are allowed.**
+	- No swan/arched position
+	- Twisting dive rolls are not allowed
 - Jumps break tumbling passes.
 ## Standing/Running Tumbling
 - Constant surface contact.
@@ -77,5 +79,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NzE4NTg3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTMxNTk0ODI1LDczMDk5ODExNl19
 -->
