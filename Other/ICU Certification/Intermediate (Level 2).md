@@ -51,11 +51,6 @@
 - Up to 2 high
 - Top must be supported
 	- Can land in cradle or surface and not connected to a bracer above prep level
-- Two leg stunts
-	- May be braced by top at prep level or below with hand-arm connection only
-		- if braced must begin prior initiating stunt
-		- Prep level top must have both feet on bases, except in shoulder sit, flat back, straddle lift or shoulder stand
-	- May not be braced by other extended stunts
 - Single leg stunts
 	- Prep level must be braced by person at prep level or below with arm-hand connection
 	- Connection prior initiating stunt
@@ -83,6 +78,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0ODMwNzUxLDcxOTgxNTM4LC0xMTc4Nz
-YyMDY5LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTgzODQwNjkwNSw2NTQ4MzA3NTEsNzE5OD
+E1MzgsLTExNzg3NjIwNjksNzMwOTk4MTE2XX0=
 -->
