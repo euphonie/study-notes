@@ -15,10 +15,10 @@ Data should be clean according to the type of analysis that is needed. For examp
 - Case normalization. In english, capitalization doesn't usually incur in a semantic difference, except for acronyms. So for basic analysis text can be normalized to lowercase. 
 This however, won't be effective in languages as German where upper case words usually mean that the element is a subject.
 - Punctuation removal. In low level detail analysis, as document classification or clustering punctuation can be removed as only content is used to determine what to do with the input.
-- Tok
+- Tokenization. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NzgxMTM3MywtMTM0MjI1NDI2LDEyMz
+eyJoaXN0b3J5IjpbLTcxNTMzOTE1NCwtMTM0MjI1NDI2LDEyMz
 YwNDM1NDQsLTY1NTg5NDAzXX0=
 -->
