@@ -39,12 +39,14 @@ Brenda wears red 3 times a week (from a 5-day week)
 $$P(Red sweater|Brenda) = 0.6$$
 $$P(Other sweater|Brenda) = 0.4$$
 
-### Using Conditional p
+## Using Conditional probability
+
+The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P(R)`
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk3OTYzNjM2LC0yMDUyNzQ4NDU5LDk0OT
-Y3MzA0Ml19
+eyJoaXN0b3J5IjpbMTE0OTYwNTA5OSwtMjA1Mjc0ODQ1OSw5ND
+k2NzMwNDJdfQ==
 -->
