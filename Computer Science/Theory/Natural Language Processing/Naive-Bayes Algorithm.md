@@ -52,17 +52,16 @@ But as only the conditions having red are needed, is required to normalize both 
 
 #### Normalization
 $$
-P(A|R) = P(A|R)
+P(A|R) = \frac{P(A|R)}{P(A|R)+P(B|R)}
 $$
 
-
 $$
-P(Alex|Red sweater) = 0.75 * 0.4 = 0.3 \\
+P(Alex|Red sweater) = \frac{0.75 * 0.4 = 0.3 \\
 P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MDcwOTc2LDcxMjAzNzExOCwtMTgzMT
+eyJoaXN0b3J5IjpbMTcwMTMwMDI5LDcxMjAzNzExOCwtMTgzMT
 Q0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
 -->
