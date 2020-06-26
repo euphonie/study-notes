@@ -41,14 +41,15 @@ The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P
 
 Therefore the previous probabilities for the events are:
 
-$$
-P(Alex|Red sweater) = 0.3 \\
-P(Alex|Other sweater) = 
+$$P(Alex|Red sweater) = 0.75 * 0.4 = 0.3 \\
+P(Alex|Other sweater) = 0.75 * 0.6 = 0.45 \\
+P(Brenda|Red sweater) = 0.25 * 0.6 \\
+P(Brenda|Other 
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwODczNDk4NSwtMTgzMTQ0MjY2NywtMj
-A1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
+eyJoaXN0b3J5IjpbMzYzMjYzNTUxLC0xODMxNDQyNjY3LC0yMD
+UyNzQ4NDU5LDk0OTY3MzA0Ml19
 -->
