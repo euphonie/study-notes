@@ -17,14 +17,19 @@ This however, won't be effective in languages as German where upper case words u
 - Punctuation removal. In low level detail analysis, as document classification or clustering punctuation can be removed as only content is used to determine what to do with the input.
 - Tokenization. Obtaining a sequence of base segments from a text or string.
 
-## NLTK 
+> ### NLTK 
+> 
+> Tokenization. The library comes with more specialized tokenization
+> such as:
+> 	- word_tokenize. Which holds punctuation semantics.
+> 	- sent_tokenize. Which separates by sentences.
+> 	- regex tokenizer
+> 	- twitter tokenize
 
-- Tokenization. The library comes with more specialized tokenization such as:
-	- word_tokenize. Which holds punctuation semantics.
-	- sent_tokenize. Which separates by sentences.
+- Stop word removal. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDEwMTM5NjksLTEzNDIyNTQyNiwxMj
+eyJoaXN0b3J5IjpbLTIxMjA1MDQxMDIsLTEzNDIyNTQyNiwxMj
 M2MDQzNTQ0LC02NTU4OTQwM119
 -->
