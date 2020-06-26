@@ -27,10 +27,10 @@ This however, won't be effective in languages as German where upper case words u
 > 	- twitter tokenize
 
 - Stop word removal. Removal of words that add no special meaning in basic text processing tasks.
-- Part-of-Speech Tagging. Identification of each token in regards to which part of speech it is.
+- Part-of-Speech Tagging. Identification of each token in regards to which part of speech it is. Defining a grammar with POS sections sentences, even ambiguous, can be parsed to a tre.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTgzMjg5MSwtMTM0MjI1NDI2LDEyMz
+eyJoaXN0b3J5IjpbLTM0NTczNDc3MCwtMTM0MjI1NDI2LDEyMz
 YwNDM1NDQsLTY1NTg5NDAzXX0=
 -->
