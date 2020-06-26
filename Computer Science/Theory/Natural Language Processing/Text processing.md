@@ -28,9 +28,9 @@ This however, won't be effective in languages as German where upper case words u
 
 - **Stop word removal**. Removal of words that add no special meaning in basic text processing tasks.
 - **Part-of-Speech Tagging**. Identification of each token in regards to which part of speech it is. Defining a grammar with POS sections sentences, even ambiguous, can be parsed to a POS tree.
-	- Named Entity Recognition. Adds metadata to POS to identify them as higher-level entities.
-- Stemming. Reduces complexity of parts-of-speech declination still conveying expected meaning. Might be a less memory-expensive option.
-- Lemmatization. Reduces non-trivial inflection using a dictionary to reduce complexity. NLTK uses Wordnet to lemmatize words.
+	- **Named Entity Recognition**. Adds metadata to POS to identify them as higher-level entities.
+- **Stemming**. Reduces complexity of parts-of-speech declination still conveying expected meaning. Might be a less memory-expensive option.
+- **Lemmatization**. Reduces non-trivial inflection using a dictionary to reduce complexity. NLTK uses Wordnet to lemmatize words.
 
 ## Normal Processing Pipeline 
 
@@ -42,6 +42,6 @@ Stemming
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTQ0OTk1OCwtMzQwMjUwNTQ1LC0xMz
-QyMjU0MjYsMTIzNjA0MzU0NCwtNjU1ODk0MDNdfQ==
+eyJoaXN0b3J5IjpbLTE1MDMzNTgwNDIsLTM0MDI1MDU0NSwtMT
+M0MjI1NDI2LDEyMzYwNDM1NDQsLTY1NTg5NDAzXX0=
 -->
