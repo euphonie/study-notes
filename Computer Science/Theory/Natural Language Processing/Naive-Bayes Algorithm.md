@@ -39,12 +39,13 @@ P(Other sweater|Brenda) = 0.4$$
 
 The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P(R)`
 
-Therefore the previous co
+Therefore the previous probabilities for the events are:
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzI5ODQzLC0yMDUyNzQ4NDU5LDk0OT
-Y3MzA0Ml19
+eyJoaXN0b3J5IjpbLTE4MzE0NDI2NjcsLTIwNTI3NDg0NTksOT
+Q5NjczMDQyXX0=
 -->
