@@ -11,12 +11,8 @@ It compounds of two sets of probabilities called: Inferior and Posterior, named 
 It stands on this premises to move from a Known probability to an Inferred probability
 
 #### Known probabilities
-$$
-P(A)
-$$
-$$
-P(R|A)
-$$
+$$ P(A) \\
+P(R|A) $$
 
 #### Inferred probability
 $$
@@ -33,20 +29,22 @@ $$P(Brenda)=0.25$$
 
 #### Posteriors (Probability of wearing a red sweater)
 Alex wears red 2 times a week (from a 5-day week)
-$$P(Red sweater|Alex) = 0.4 $$
-$$ P(Other color sweater|Alex) = 0.6$$
+$$P(Red sweater|Alex) = 0.4 \\
+ P(Other color sweater|Alex) = 0.6$$
 Brenda wears red 3 times a week (from a 5-day week)
-$$P(Red sweater|Brenda) = 0.6$$
-$$P(Other sweater|Brenda) = 0.4$$
+$$P(Red sweater|Brenda) = 0.6 \\
+P(Other sweater|Brenda) = 0.4$$
 
 ## Using Conditional probability
 
 The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P(R)`
 
+Therefore the previous co
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTYwNTA5OSwtMjA1Mjc0ODQ1OSw5ND
-k2NzMwNDJdfQ==
+eyJoaXN0b3J5IjpbMTYwMzI5ODQzLC0yMDUyNzQ4NDU5LDk0OT
+Y3MzA0Ml19
 -->
