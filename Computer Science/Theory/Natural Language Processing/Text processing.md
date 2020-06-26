@@ -1,3 +1,5 @@
+> All information gathered from Udacity's Natual Language Processing Nanodegree
+
 # Text processing
 
 ## Capturing data
@@ -42,6 +44,6 @@ Stemming
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMzNTgwNDIsLTM0MDI1MDU0NSwtMT
-M0MjI1NDI2LDEyMzYwNDM1NDQsLTY1NTg5NDAzXX0=
+eyJoaXN0b3J5IjpbLTk0MDQ1OTUwMCwtMzQwMjUwNTQ1LC0xMz
+QyMjU0MjYsMTIzNjA0MzU0NCwtNjU1ODk0MDNdfQ==
 -->
