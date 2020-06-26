@@ -1,3 +1,5 @@
+> All information gathered from Udacity's Natual Language Processing Nanodegree
+
 # Naive-Bayes for NLP
 
 ## Bayes Theorem
@@ -21,7 +23,12 @@ $$
 P(A|R)
 $$
 
+### Example
+
+$$P(Alex) = 0.75$$
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NjczMDQyXX0=
+eyJoaXN0b3J5IjpbLTE5MTg1MDI5MTUsOTQ5NjczMDQyXX0=
 -->
