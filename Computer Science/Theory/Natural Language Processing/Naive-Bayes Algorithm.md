@@ -50,6 +50,12 @@ $$
 
 But as only the conditions having red are needed, is required to normalize both scenarios in order that they add to one.
 
+#### Normalization
+$$
+P(A|R) = P(A|R)
+$$
+
+
 $$
 P(Alex|Red sweater) = 0.75 * 0.4 = 0.3 \\
 P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 
@@ -57,6 +63,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMDM3MTE4LC0xODMxNDQyNjY3LC0yMD
-UyNzQ4NDU5LDk0OTY3MzA0Ml19
+eyJoaXN0b3J5IjpbNTQ4MDcwOTc2LDcxMjAzNzExOCwtMTgzMT
+Q0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
 -->
