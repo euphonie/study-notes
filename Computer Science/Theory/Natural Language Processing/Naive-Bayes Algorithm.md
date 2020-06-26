@@ -31,7 +31,10 @@ $$P(Alex) = 0.75$$
 Brenda goes to office 1 day a week (4-day week)
 $$P(Brenda)=0.25$$
 
+#### Posteriors (Probability of wearing a red sweater)
+Alex weards red 2 times a week
+$$P(Red sweater|Alex) = 0.4$$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzEzMTcxMiw5NDk2NzMwNDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTI3NDg0NTksOTQ5NjczMDQyXX0=
 -->
