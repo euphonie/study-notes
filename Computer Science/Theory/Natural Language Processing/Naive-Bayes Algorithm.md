@@ -43,7 +43,7 @@ The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P
 
 $$
 P(R|A) = 0.75 * 0.4 = 0.3 \\
-P(R_c|Other sweater) = 0.75 * 0.6 = 0.45 \\
+P(R^c|A) = 0.75 * 0.6 = 0.45 \\
 P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 \\
 P(Brenda|Other sweater) = 0.25 * 0.4 = 0.1
 $$
@@ -74,6 +74,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDM2MTIwOCw3MTIwMzcxMTgsLTE4Mz
-E0NDI2NjcsLTIwNTI3NDg0NTksOTQ5NjczMDQyXX0=
+eyJoaXN0b3J5IjpbLTE5NzE2OTY1MzUsNzEyMDM3MTE4LC0xOD
+MxNDQyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml19
 -->
