@@ -26,10 +26,10 @@ This however, won't be effective in languages as German where upper case words u
 > 	- regex tokenizer
 > 	- twitter tokenize
 
-- Stop word removal. 
+- Stop word removal. Removal of words that add no special meaning in basic text processing tasks.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA1MDQxMDIsLTEzNDIyNTQyNiwxMj
-M2MDQzNTQ0LC02NTU4OTQwM119
+eyJoaXN0b3J5IjpbMTI2NDc1MTYzMiwtMTM0MjI1NDI2LDEyMz
+YwNDM1NDQsLTY1NTg5NDAzXX0=
 -->
