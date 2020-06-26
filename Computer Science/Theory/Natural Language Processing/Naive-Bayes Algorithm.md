@@ -32,17 +32,19 @@ Brenda goes to office 1 time a week
 $$P(Brenda)=0.25$$
 
 #### Posteriors (Probability of wearing a red sweater)
-Alex wears red 2 times a week
+Alex wears red 2 times a week (from a 5-day week)
 $$P(Red sweater|Alex) = 0.4 $$
 $$ P(Other color sweater|Alex) = 0.6$$
-Brenda wears red 3 times a week
-$$P(Red sweater|Brenda) = 0.4$$
+Brenda wears red 3 times a week (from a 5-day week)
+$$P(Red sweater|Brenda) = 0.6$$
 $$P(Other sweater|Brenda) = 0.4$$
+
+### Using Conditional p
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NTUzNDU3LC0yMDUyNzQ4NDU5LDk0OT
+eyJoaXN0b3J5IjpbOTk3OTYzNjM2LC0yMDUyNzQ4NDU5LDk0OT
 Y3MzA0Ml19
 -->
