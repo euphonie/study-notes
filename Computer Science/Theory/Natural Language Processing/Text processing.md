@@ -12,10 +12,10 @@ Data should be clean according to the type of analysis that is needed. For examp
 
 ## Normalization
 
-- Case normalization. In english, capitalization doesn't usually incur in a semantic difference, except for acronyms. So for basic analysis text can be normalized to lowercase. 
+- **Case normalization**. In english, capitalization doesn't usually incur in a semantic difference, except for acronyms. So for basic analysis text can be normalized to lowercase. 
 This however, won't be effective in languages as German where upper case words usually mean that the element is a subject.
-- Punctuation removal. In low level detail analysis, as document classification or clustering punctuation can be removed as only content is used to determine what to do with the input.
-- Tokenization. Obtaining a sequence of base segments from a text or string.
+- **Punctuation removal**. In low level detail analysis, as document classification or clustering punctuation can be removed as only content is used to determine what to do with the input.
+- **Tokenization**. Obtaining a sequence of base segments from a text or string.
 
 > ### NLTK 
 > 
@@ -26,13 +26,22 @@ This however, won't be effective in languages as German where upper case words u
 > 	- regex tokenizer
 > 	- twitter tokenize
 
-- Stop word removal. Removal of words that add no special meaning in basic text processing tasks.
-- Part-of-Speech Tagging. Identification of each token in regards to which part of speech it is. Defining a grammar with POS sections sentences, even ambiguous, can be parsed to a POS tree.
+- **Stop word removal**. Removal of words that add no special meaning in basic text processing tasks.
+- **Part-of-Speech Tagging**. Identification of each token in regards to which part of speech it is. Defining a grammar with POS sections sentences, even ambiguous, can be parsed to a POS tree.
 	- Named Entity Recognition. Adds metadata to POS to identify them as higher-level entities.
-- Stemming. Reduces complexity of parts-of-speech declination still conveying expected meaning. Might be a less memory-exp
+- Stemming. Reduces complexity of parts-of-speech declination still conveying expected meaning. Might be a less memory-expensive option.
 - Lemmatization. Reduces non-trivial inflection using a dictionary to reduce complexity. NLTK uses Wordnet to lemmatize words.
+
+## Normal Processing Pipeline 
+
+Normalization -> 
+Tokenization -> 
+Removal of stop words -> 
+Lemmatization -> 
+Stemming
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5NTkwNzY1LC0zNDAyNTA1NDUsLTEzND
-IyNTQyNiwxMjM2MDQzNTQ0LC02NTU4OTQwM119
+eyJoaXN0b3J5IjpbMTQzMTQ0OTk1OCwtMzQwMjUwNTQ1LC0xMz
+QyMjU0MjYsMTIzNjA0MzU0NCwtNjU1ODk0MDNdfQ==
 -->
