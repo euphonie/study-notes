@@ -37,7 +37,7 @@ P(Other sweater|Brenda) = 0.4$$
 
 ## Using Conditional probability
 
-The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P(R)`
+The probability of event `P(R|A)` is calculated by the multiplication of `P(A)*P(A|R)`
 
 #### Scenarios
 
@@ -60,7 +60,7 @@ But as only the conditions having red are needed, is required to normalize both 
 
 #### Normalization
 $$
-P(A|R) = \frac{P(A|R)}{P(A|R)+P(B|R)}
+P(A|R) = \frac{P(R|A)}{P(R|A)+P(R|B)}
 $$
 Results from examples
 $$
@@ -72,7 +72,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzg4NjU3NTUsNDk0MzcxMzU5LDcxMj
+eyJoaXN0b3J5IjpbLTExNzgzMTY5MjgsNDk0MzcxMzU5LDcxMj
 AzNzExOCwtMTgzMTQ0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMw
 NDJdfQ==
 -->
