@@ -39,6 +39,16 @@ P(Other sweater|Brenda) = 0.4$$
 
 The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P(R)`
 
+#### Scenarios
+
+$$
+P(R|A) = 0.75 * 0.4 = 0.3 \\
+P(R_c|Other sweater) = 0.75 * 0.6 = 0.45 \\
+P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 \\
+P(Brenda|Other sweater) = 0.25 * 0.4 = 0.1
+$$
+
+
 Therefore the previous probabilities for the events are:
 
 $$
@@ -54,7 +64,7 @@ But as only the conditions having red are needed, is required to normalize both 
 $$
 P(A|R) = \frac{P(A|R)}{P(A|R)+P(B|R)}
 $$
-
+Results from examples
 $$
 P(Alex|Red sweater) = \frac{0.75 * 0.4}{0.75*0.4 + 0.25*0.6} = 0.67
 $$
@@ -64,6 +74,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDMzODk1NCw3MTIwMzcxMTgsLTE4Mz
+eyJoaXN0b3J5IjpbMTkzMDM2MTIwOCw3MTIwMzcxMTgsLTE4Mz
 E0NDI2NjcsLTIwNTI3NDg0NTksOTQ5NjczMDQyXX0=
 -->
