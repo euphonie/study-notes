@@ -42,7 +42,7 @@ The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P
 #### Scenarios
 
 $$
-P(R|A) = P(A)P(R) \\
+P(R|A) = P(A)P(R|A) \\
 P(R^c|A) = P(A)P(R^c) \\
 P(R|B) = P(B)P(R) \\
 P(R^c|B) = P(B)P(R^c)
@@ -72,7 +72,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDM5MTM3MCw0OTQzNzEzNTksNzEyMD
-M3MTE4LC0xODMxNDQyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0
-Ml19
+eyJoaXN0b3J5IjpbLTE5Nzg4NjU3NTUsNDk0MzcxMzU5LDcxMj
+AzNzExOCwtMTgzMTQ0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMw
+NDJdfQ==
 -->
