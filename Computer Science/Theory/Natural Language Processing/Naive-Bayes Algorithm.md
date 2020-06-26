@@ -26,15 +26,23 @@ $$
 ### Example
 
 #### Priors (Probability of seeing someone)
-Alex goes to office 3 days a week (4-day week)
+Alex goes to office 3 times a week
 $$P(Alex) = 0.75$$
-Brenda goes to office 1 day a week (4-day week)
+Brenda goes to office 1 time a week
 $$P(Brenda)=0.25$$
 
 #### Posteriors (Probability of wearing a red sweater)
-Alex weards red 2 times a week
-$$P(Red sweater|Alex) = 0.4$$
+Alex wears red 2 times a week
+$$P(Red sweater|Alex) = 0.4 $$
+$$ P(Other color sweater|Alex) = 0.6$$
+Brenda wears red 3 times a week
+$$P(Red sweater|Brenda) = 0.4$$
+$$P(Other sweater|Brenda) = 0.4$$
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI3NDg0NTksOTQ5NjczMDQyXX0=
+eyJoaXN0b3J5IjpbMTE5NTUzNDU3LC0yMDUyNzQ4NDU5LDk0OT
+Y3MzA0Ml19
 -->
