@@ -12,10 +12,11 @@ Data should be clean according to the type of analysis that is needed. For examp
 
 ## Normalization
 
-In normal text pro
+In english, capitalization doesn't usually incur in a semantic difference, except for acronyms. So for basic analysis text can be normalized to lowercase. 
+This however, won't be effective in languages as German where upper case words usually mean that the par
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMyODMwNTUsLTEzNDIyNTQyNiwxMj
+eyJoaXN0b3J5IjpbLTEzMDY0MTcxMzUsLTEzNDIyNTQyNiwxMj
 M2MDQzNTQ0LC02NTU4OTQwM119
 -->
