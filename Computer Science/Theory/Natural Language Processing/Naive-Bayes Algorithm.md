@@ -48,10 +48,15 @@ P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 \\
 P(Brenda|Other sweater) = 0.25 * 0.4 = 0.1
 $$
 
-But as only the conditions having red are needed, is required 
+But as only the conditions having red are needed, is required to normalize both scenarios in order that they add to one.
+
+$$
+P(Alex|Red sweater) = 0.75 * 0.4 = 0.3 \\
+P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2ODAyOTcwLC0xODMxNDQyNjY3LC0yMD
+eyJoaXN0b3J5IjpbNzEyMDM3MTE4LC0xODMxNDQyNjY3LC0yMD
 UyNzQ4NDU5LDk0OTY3MzA0Ml19
 -->
