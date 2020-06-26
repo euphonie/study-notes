@@ -25,10 +25,13 @@ $$
 
 ### Example
 
+#### Priors (Probability of seeing someone)
+Alex goes to office 3 days a week (4-day week)
 $$P(Alex) = 0.75$$
-
+Brenda goes to office 1 day a week (4-day week)
+$$P(Brenda)=0.25$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTg1MDI5MTUsOTQ5NjczMDQyXX0=
+eyJoaXN0b3J5IjpbLTkzNzEzMTcxMiw5NDk2NzMwNDJdfQ==
 -->
