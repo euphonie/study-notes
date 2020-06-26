@@ -56,12 +56,14 @@ P(A|R) = \frac{P(A|R)}{P(A|R)+P(B|R)}
 $$
 
 $$
-P(Alex|Red sweater) = \frac{0.75 * 0.4 = 0.3 \\
-P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 
+P(Alex|Red sweater) = \frac{0.75 * 0.4}{0.75*0.4 + 0.25*0.6} = 0.67
+$$
+$$
+P(Brenda|Red sweater) = \frac{0.25*0.6}{0.25*0.6 + 0.75*0.4} = 0.33 
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTMwMDI5LDcxMjAzNzExOCwtMTgzMT
-Q0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
+eyJoaXN0b3J5IjpbMTc5MDMzODk1NCw3MTIwMzcxMTgsLTE4Mz
+E0NDI2NjcsLTIwNTI3NDg0NTksOTQ5NjczMDQyXX0=
 -->
