@@ -19,10 +19,12 @@ $$P(Ace \cap Spades) = P(Ace)P(Spades) $$
 ### Expected Values
 The average outcome we expect if we run an experiment many times.
 
+#### Experiment
+To get the probability of an unknown event
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDkzMTQ0MywxNjQ5MDUxMTU0LDE5Mj
-U1MTQxMzcsLTEyNTYwMjYzNTldfQ==
+eyJoaXN0b3J5IjpbLTE0NzA0NjgxNTEsMTY0OTA1MTE1NCwxOT
+I1NTE0MTM3LC0xMjU2MDI2MzU5XX0=
 -->
