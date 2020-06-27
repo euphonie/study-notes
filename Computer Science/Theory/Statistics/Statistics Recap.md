@@ -55,14 +55,24 @@ A collection of the probabilities for each possible outcome.
 
 Using an example of throwing two dices and recording how many times is possible to obtain all results (1 to 12).
 
-| Sum | Frequency |
+| Sum | Frequency | Probability
 |:--------:| -------------:|
-| 2 | right-aligned |
+| 2 | 1 |
+| 3 | 2 |
+| 4 | 3 |
+| 5 | 4 |
+| 6 | 5 |
+| 7 | 6 |
+| 8 | 5 |
+| 9 | 4 |
+| 10 | 3 |
+| 11 | 2 |
+| 12 | 1 |
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjE4MTI3NSwtNjY5NzM0MjA0LDE1Mj
-k1NjIxMDYsLTk4MjQ0MzY3NiwxNjQ5MDUxMTU0LDE5MjU1MTQx
-MzcsLTEyNTYwMjYzNTldfQ==
+eyJoaXN0b3J5IjpbNjU0Njg0NDc3LC02Njk3MzQyMDQsMTUyOT
+U2MjEwNiwtOTgyNDQzNjc2LDE2NDkwNTExNTQsMTkyNTUxNDEz
+NywtMTI1NjAyNjM1OV19
 -->
