@@ -10,7 +10,7 @@ It compounds of two sets of probabilities called: Inferior and Posterior, named 
 
 It stands on this premises to move from a Known probability to an Inferred probability
 
-#### Known probabilities 
+#### Known probabilities (These should be given)
 $$ P(A) \\
 P(R|A) $$
 
@@ -86,7 +86,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MDExNjI2LDI1NTc3NjUwMiwtMjA3MD
+eyJoaXN0b3J5IjpbNTE4MTM2NTk3LDI1NTc3NjUwMiwtMjA3MD
 k0MTY5OSwtMTE2NzA4Mjg1OSwtMTE3ODMxNjkyOCw0OTQzNzEz
 NTksNzEyMDM3MTE4LC0xODMxNDQyNjY3LC0yMDUyNzQ4NDU5LD
 k0OTY3MzA0Ml19
