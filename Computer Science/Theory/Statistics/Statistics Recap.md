@@ -53,12 +53,16 @@ $$E(X) = A*P(A) + B*P(B)+C*P(C)$$
 
 A collection of the probabilities for each possible outcome.
 
+Using an example of throwing two dices and recording how many times is possible to obtain all results (1 to 12).
 
+| Sum | Frequency |
+|:--------:| -------------:|
+| 2 | right-aligned |
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDE3NDIzNywtNjY5NzM0MjA0LDE1Mj
+eyJoaXN0b3J5IjpbLTk5MjE4MTI3NSwtNjY5NzM0MjA0LDE1Mj
 k1NjIxMDYsLTk4MjQ0MzY3NiwxNjQ5MDUxMTU0LDE5MjU1MTQx
 MzcsLTEyNTYwMjYzNTldfQ==
 -->
