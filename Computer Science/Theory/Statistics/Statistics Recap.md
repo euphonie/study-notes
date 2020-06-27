@@ -84,12 +84,12 @@ Having a sum of all the probabilities of all the possible outcomes should be equ
 
 Examples
 Coin Tossing
-$$P(Head) + P(Tails$$
+$$P(Head) + P(Tails) = 1$$
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzQ2ODk5MywtMTI1NzY2MDQyNywxND
+eyJoaXN0b3J5IjpbMTY1NzQzOTE1MCwtMTI1NzY2MDQyNywxND
 EyODU5OTQ4LC02Njk3MzQyMDQsMTUyOTU2MjEwNiwtOTgyNDQz
 Njc2LDE2NDkwNTExNTQsMTkyNTUxNDEzNywtMTI1NjAyNjM1OV
 19
