@@ -23,12 +23,16 @@ The average outcome we expect if we run an experiment many times.
 To get the unknown probability of an event we can conduct an experiment which comprises several trials. A trial is taking a measure of the event and recording the resulting outcome. 
 In this case, multiple trials could help having a certainty of probability of how likely is the preferred event to occur. Doing multiple trials is known as an experiment.
 
->  E.g. doing 20 coin tosses and recording the outcome of each would be considered
-> 
+>  E.g. doing 20 coin tosses and recording the outcome of each would be considered as a Single experiment with 20 trials
+
+#### Experimental probabilities
+A probability obtained after performing an experiment.
+#### Theoretical (True) probabilities
+Known probabilities
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTY1NTM2MCwxNjQ5MDUxMTU0LDE5Mj
+eyJoaXN0b3J5IjpbMjEwMjg3Nzc2NSwxNjQ5MDUxMTU0LDE5Mj
 U1MTQxMzcsLTEyNTYwMjYzNTldfQ==
 -->
