@@ -86,11 +86,14 @@ Examples
 Coin Tossing
 $$P(Head) + P(Tails) = 1$$
 
+#### Dependent events
+When a sum of all the probabilities of the events equals greater than 1. It might be that events are being counted more than once or that events depend on each other
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzQzOTE1MCwtMTI1NzY2MDQyNywxND
-EyODU5OTQ4LC02Njk3MzQyMDQsMTUyOTU2MjEwNiwtOTgyNDQz
-Njc2LDE2NDkwNTExNTQsMTkyNTUxNDEzNywtMTI1NjAyNjM1OV
-19
+eyJoaXN0b3J5IjpbMTA2Nzk5MjM3OCwxNjU3NDM5MTUwLC0xMj
+U3NjYwNDI3LDE0MTI4NTk5NDgsLTY2OTczNDIwNCwxNTI5NTYy
+MTA2LC05ODI0NDM2NzYsMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC
+0xMjU2MDI2MzU5XX0=
 -->
