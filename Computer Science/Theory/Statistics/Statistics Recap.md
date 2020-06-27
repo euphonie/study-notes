@@ -80,13 +80,17 @@ $$
 A + A^c = sample space
 $$
 
+Having a sum of all the probabilities of all the possible outcomes should be equals to 1; having 100% certainty of the outcome.
 
+Examples
+Coin Tossing
+$$P(Head) + P(Tails$$
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTM4ODE5LC0xMjU3NjYwNDI3LDE0MT
-I4NTk5NDgsLTY2OTczNDIwNCwxNTI5NTYyMTA2LC05ODI0NDM2
-NzYsMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC0xMjU2MDI2MzU5XX
-0=
+eyJoaXN0b3J5IjpbLTQyNzQ2ODk5MywtMTI1NzY2MDQyNywxND
+EyODU5OTQ4LC02Njk3MzQyMDQsMTUyOTU2MjEwNiwtOTgyNDQz
+Njc2LDE2NDkwNTExNTQsMTkyNTUxNDEzNywtMTI1NjAyNjM1OV
+19
 -->
