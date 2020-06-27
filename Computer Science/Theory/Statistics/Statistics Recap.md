@@ -45,13 +45,14 @@ This means we would expect to get 5 times an A of spades running an experiment o
 
 For **numerical outcomes**, the formula takes each of the values in the sample space and multiplies them by their probability. Then, all values are added up to get the expected value.
 
-Having a sample space of three possible outcomes 
-$$
+Having a sample space of three possible outcomes, the expected value would be calculated with:
+$$E(X) = A*P(A) + B*P(B)+C*P(C)$$
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDczMjU1OCwxNTI5NTYyMTA2LC05OD
+eyJoaXN0b3J5IjpbLTY2OTczNDIwNCwxNTI5NTYyMTA2LC05OD
 I0NDM2NzYsMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC0xMjU2MDI2
 MzU5XX0=
 -->
