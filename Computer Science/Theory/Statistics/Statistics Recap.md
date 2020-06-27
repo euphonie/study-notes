@@ -92,11 +92,16 @@ When a sum of all the probabilities of the events equals greater than 1. It migh
 #### Sum lesser than 1
 It might be that an event is not being taken into account. A probability of less than 1 is not guaranteed to occur.
 
+#### Equalities
+$$  P(A) + P(B) + P(C) = 1 \\
+P(A^c) = 1 - P(A) \\
+P(A^c) = P(B)+P(C)$$
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTc1OTcwMSwxNjU3NDM5MTUwLC0xMj
-U3NjYwNDI3LDE0MTI4NTk5NDgsLTY2OTczNDIwNCwxNTI5NTYy
-MTA2LC05ODI0NDM2NzYsMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC
-0xMjU2MDI2MzU5XX0=
+eyJoaXN0b3J5IjpbMTc4MjUxMjM0LC0zNTE3NTk3MDEsMTY1Nz
+QzOTE1MCwtMTI1NzY2MDQyNywxNDEyODU5OTQ4LC02Njk3MzQy
+MDQsMTUyOTU2MjEwNiwtOTgyNDQzNjc2LDE2NDkwNTExNTQsMT
+kyNTUxNDEzNywtMTI1NjAyNjM1OV19
 -->
