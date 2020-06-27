@@ -75,12 +75,17 @@ Generated into a graph it would look like:
 
 ### Complements
 
+A complement is everything the event is not. Therefore, it can be assumed that:
+$$
+A + A^c = sample space
+$$
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5Nzk0NzY5LC0xMjU3NjYwNDI3LDE0MT
+eyJoaXN0b3J5IjpbMTM0OTM4ODE5LC0xMjU3NjYwNDI3LDE0MT
 I4NTk5NDgsLTY2OTczNDIwNCwxNTI5NTYyMTA2LC05ODI0NDM2
 NzYsMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC0xMjU2MDI2MzU5XX
 0=
