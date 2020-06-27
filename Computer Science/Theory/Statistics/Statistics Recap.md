@@ -16,10 +16,13 @@ $$P(A \cap B) = P(A)P(B)$$
 Probability of getting an ace of spades while playing cards
 $$P(Ace \cap Spades) = P(Ace)P(Spades) $$
 
+### Expected Values
+The average outcome we expect if we run an experiment many times.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC0xMj
-U2MDI2MzU5XX0=
+eyJoaXN0b3J5IjpbLTkwMDkzMTQ0MywxNjQ5MDUxMTU0LDE5Mj
+U1MTQxMzcsLTEyNTYwMjYzNTldfQ==
 -->
