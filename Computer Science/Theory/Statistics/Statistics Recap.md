@@ -49,10 +49,13 @@ Having a sample space of three possible outcomes, the expected value would be ca
 $$E(X) = A*P(A) + B*P(B)+C*P(C)$$
 
 
+### Probability Frequency Distribution
+
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTczNDIwNCwxNTI5NTYyMTA2LC05OD
-I0NDM2NzYsMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC0xMjU2MDI2
-MzU5XX0=
+eyJoaXN0b3J5IjpbLTcwNjQwNjgxOCwtNjY5NzM0MjA0LDE1Mj
+k1NjIxMDYsLTk4MjQ0MzY3NiwxNjQ5MDUxMTU0LDE5MjU1MTQx
+MzcsLTEyNTYwMjYzNTldfQ==
 -->
