@@ -51,11 +51,14 @@ $$E(X) = A*P(A) + B*P(B)+C*P(C)$$
 
 ### Probability Frequency Distribution
 
+A collection of the probabilities for each possible outcome.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjQwNjgxOCwtNjY5NzM0MjA0LDE1Mj
+eyJoaXN0b3J5IjpbLTQ5MDE3NDIzNywtNjY5NzM0MjA0LDE1Mj
 k1NjIxMDYsLTk4MjQ0MzY3NiwxNjQ5MDUxMTU0LDE5MjU1MTQx
 MzcsLTEyNTYwMjYzNTldfQ==
 -->
