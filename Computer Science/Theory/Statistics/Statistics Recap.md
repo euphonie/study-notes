@@ -35,12 +35,15 @@ Known probabilities
 ### Calculating Expected Values
 
 `E(A)` is the outcome we expect to occur when we run an experiment.
-For **categorical outcomes**, the formula is then calculated by multiplying 
+For **categorical outcomes**, the formula is then calculated by multiplying the probability of the preferred event by the number of trials.
 $$E(A) = P(A) * n$$
+
+If we wanted to get the ace of spades from a deck of cards while executing 20 draws, the formula would be:
+$$E(A) = 0.25 * 20$$
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzY4ODIwLC05ODI0NDM2NzYsMTY0OT
-A1MTE1NCwxOTI1NTE0MTM3LC0xMjU2MDI2MzU5XX0=
+eyJoaXN0b3J5IjpbMTcyMzEyODU1NCwtOTgyNDQzNjc2LDE2ND
+kwNTExNTQsMTkyNTUxNDEzNywtMTI1NjAyNjM1OV19
 -->
