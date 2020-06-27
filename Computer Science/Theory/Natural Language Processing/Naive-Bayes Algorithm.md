@@ -44,17 +44,17 @@ The probability of event `P(R ∩ A)` is calculated by the multiplication of `P(
 $$
 P(R \cap A) = P(A)P(R|A) \\
 P(R^c \cap A) = P(A)P(R^c) \\
-P(R|B) = P(B)P(R) \\
-P(R^c|B) = P(B)P(R^c)
+P(R \cap B) = P(B)P(R|B) \\
+P(R^c \cap B) = P(B)P(R^c|B)
 $$
 
 Therefore the previous probabilities for the events are:
 
 $$
-P(Red sweater|Alex) = 0.75 * 0.4 = 0.3 \\
-P(Other sweater|Alex) = 0.75 * 0.6 = 0.45 \\
-P(Red sweater|Brenda) = 0.25 * 0.6 = 0.15 \\
-P(Other sweater|Brenda) = 0.25 * 0.4 = 0.1
+P(Alex|Red sweater) = 0.75 * 0.4 = 0.3 \\
+P(Alex|Other sweater) = 0.75 * 0.6 = 0.45 \\
+P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 \\
+P(Brenda|Other sweater) = 0.25 * 0.4 = 0.1
 $$
 But as only the conditions having red are needed, is required to normalize both scenarios in order that they add to one.
 
@@ -72,7 +72,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjM1ODUyOSwtMTE2NzA4Mjg1OSwtMT
-E3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3MTE4LC0xODMxNDQy
-NjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml19
+eyJoaXN0b3J5IjpbLTIwNzA5NDE2OTksLTExNjcwODI4NTksLT
+ExNzgzMTY5MjgsNDk0MzcxMzU5LDcxMjAzNzExOCwtMTgzMTQ0
+MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
 -->
