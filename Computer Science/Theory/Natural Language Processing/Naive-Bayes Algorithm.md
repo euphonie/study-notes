@@ -44,7 +44,7 @@ The probability of event `P(R ∩ A)` is calculated by the multiplication of `P(
 Therefore the previous probabilities for the events are:
 
 $$
-P(Alex|Red sweater) = P( 0.75 * 0.4 = 0.3 \\
+P(Alex|Red sweater) = P(Alex) * P(Red sweater|Alex) = 0.75 * 0.4 = 0.3 \\
 P(Alex|Other sweater) = 0.75 * 0.6 = 0.45 \\
 P(Brenda|Red sweater) = 0.25 * 0.6 = 0.15 \\
 P(Brenda|Other sweater) = 0.25 * 0.4 = 0.1
@@ -86,8 +86,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzk4MTcwMyw1MTgxMzY1OTcsMjU1Nz
-c2NTAyLC0yMDcwOTQxNjk5LC0xMTY3MDgyODU5LC0xMTc4MzE2
-OTI4LDQ5NDM3MTM1OSw3MTIwMzcxMTgsLTE4MzE0NDI2NjcsLT
-IwNTI3NDg0NTksOTQ5NjczMDQyXX0=
+eyJoaXN0b3J5IjpbMjI3NDgzMDk2LDUxODEzNjU5NywyNTU3Nz
+Y1MDIsLTIwNzA5NDE2OTksLTExNjcwODI4NTksLTExNzgzMTY5
+MjgsNDk0MzcxMzU5LDcxMjAzNzExOCwtMTgzMTQ0MjY2NywtMj
+A1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
 -->
