@@ -43,11 +43,12 @@ If we wanted to get the ace of spades from a deck of cards while executing 20 dr
 $$E(A) = 0.25 * 20 = 5$$
 This means we would expect to get 5 times an A of spades running an experiment of 20 trials.
 
-For **numerical outcomes**, 
+For **numerical outcomes**, the formula takes the value for each 
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTU2MjEwNiwtOTgyNDQzNjc2LDE2ND
-kwNTExNTQsMTkyNTUxNDEzNywtMTI1NjAyNjM1OV19
+eyJoaXN0b3J5IjpbMTAzNTA5MzA4NSwxNTI5NTYyMTA2LC05OD
+I0NDM2NzYsMTY0OTA1MTE1NCwxOTI1NTE0MTM3LC0xMjU2MDI2
+MzU5XX0=
 -->
