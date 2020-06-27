@@ -75,14 +75,17 @@ $$
 #### Normalization
 
 $$
-
+P(R \cap A) = \frac{P(A)P(R|A)}{P(A)P(R|A) + P(B)P(R|B)} \\
+$$
+$$
+P(R \cap B) = \frac{P(B)P(R|B)}{P(B)P(R|B) + P(A)P(R|A)}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg1ODkxNjQsLTIwNzA5NDE2OTksLT
-ExNjcwODI4NTksLTExNzgzMTY5MjgsNDk0MzcxMzU5LDcxMjAz
-NzExOCwtMTgzMTQ0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMwND
-JdfQ==
+eyJoaXN0b3J5IjpbMTQxNDExNDgxMywtMjA3MDk0MTY5OSwtMT
+E2NzA4Mjg1OSwtMTE3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3
+MTE4LC0xODMxNDQyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml
+19
 -->
