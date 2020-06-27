@@ -60,7 +60,7 @@ Using an example of throwing two dices and recording how many times is possible 
 | 2 | 1 | 1/36
 | 3 | 2 | 2/36
 | 4 | 3 | 3/36
-| 5 | 4 |3/36
+| 5 | 4 |4/36
 | 6 | 5 |5/36
 | 7 | 6 |6/36
 | 8 | 5 |5/36
@@ -72,7 +72,7 @@ Using an example of throwing two dices and recording how many times is possible 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjI2NDUzMywtNjY5NzM0MjA0LDE1Mj
+eyJoaXN0b3J5IjpbMTQxMjg1OTk0OCwtNjY5NzM0MjA0LDE1Mj
 k1NjIxMDYsLTk4MjQ0MzY3NiwxNjQ5MDUxMTU0LDE5MjU1MTQx
 MzcsLTEyNTYwMjYzNTldfQ==
 -->
