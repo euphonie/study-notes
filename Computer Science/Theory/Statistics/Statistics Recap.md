@@ -28,13 +28,18 @@ In this case, multiple trials could help having a certainty of probability of ho
 #### Experimental probabilities
 A probability obtained after performing an experiment.
 The probability is then calculated as 
-$$P(A) = \frac{successfultrials}{all trials}$$
+$$P(A) = \frac{successful\;trials}{all\;trials}$$
 #### Theoretical (True) probabilities
 Known probabilities
+
+### Calculating Expected Values
+
+`E(A)` is the outcome we expect to occur when we run an experiment.
+
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjQ0MzY3NiwxNjQ5MDUxMTU0LDE5Mj
-U1MTQxMzcsLTEyNTYwMjYzNTldfQ==
+eyJoaXN0b3J5IjpbLTE3NjMxNDQwMywtOTgyNDQzNjc2LDE2ND
+kwNTExNTQsMTkyNTUxNDEzNywtMTI1NjAyNjM1OV19
 -->
