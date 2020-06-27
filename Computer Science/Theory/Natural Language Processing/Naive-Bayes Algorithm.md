@@ -37,13 +37,13 @@ P(Other sweater|Brenda) = 0.4$$
 
 ## Using Conditional probability
 
-The probability of event `P(A|R)` is calculated by the multiplication of `P(A)*P(R|A)`
+The probability of event `P(R ∩ A)` is calculated by the multiplication of `P(A)*P(R|A)`
 
 #### Scenarios
 
 $$
-P(R ) = P(A)P(R|A) \\
-P(R^c|A) = P(A)P(R^c) \\
+P(R \cap A) = P(A)P(R|A) \\
+P(R^c \cap A) = P(A)P(R^c) \\
 P(R|B) = P(B)P(R) \\
 P(R^c|B) = P(B)P(R^c)
 $$
@@ -72,7 +72,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcwODI4NTksLTExNzgzMTY5MjgsND
-k0MzcxMzU5LDcxMjAzNzExOCwtMTgzMTQ0MjY2NywtMjA1Mjc0
-ODQ1OSw5NDk2NzMwNDJdfQ==
+eyJoaXN0b3J5IjpbMTI0MjM1ODUyOSwtMTE2NzA4Mjg1OSwtMT
+E3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3MTE4LC0xODMxNDQy
+NjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml19
 -->
