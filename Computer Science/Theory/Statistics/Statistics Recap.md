@@ -35,11 +35,12 @@ Known probabilities
 ### Calculating Expected Values
 
 `E(A)` is the outcome we expect to occur when we run an experiment.
-
+For **categorical outcomes**, the formula is then calculated by multiplying 
+$$E(A) = P(A) * n$$
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMxNDQwMywtOTgyNDQzNjc2LDE2ND
-kwNTExNTQsMTkyNTUxNDEzNywtMTI1NjAyNjM1OV19
+eyJoaXN0b3J5IjpbMTU1NzY4ODIwLC05ODI0NDM2NzYsMTY0OT
+A1MTE1NCwxOTI1NTE0MTM3LC0xMjU2MDI2MzU5XX0=
 -->
