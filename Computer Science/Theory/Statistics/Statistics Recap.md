@@ -20,11 +20,12 @@ $$P(Ace \cap Spades) = P(Ace)P(Spades) $$
 The average outcome we expect if we run an experiment many times.
 
 #### Experiment
-To get the probability of an unknown event
+To get the unknown probability of an event we can conduct an experiment which comprises several trials. A trial is taking a measure of the event and recording the resulting outcome. 
+In this case, multiple trials could help having a certainty of probability of how likely is the e
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzA0NjgxNTEsMTY0OTA1MTE1NCwxOT
-I1NTE0MTM3LC0xMjU2MDI2MzU5XX0=
+eyJoaXN0b3J5IjpbOTYwOTgwMDY4LDE2NDkwNTExNTQsMTkyNT
+UxNDEzNywtMTI1NjAyNjM1OV19
 -->
