@@ -41,13 +41,6 @@ The probability of event `P(R ∩ A)` is calculated by the multiplication of `P(
 
 #### Scenarios
 
-$$
-P(R \cap A) = P(A)P(R|A) \\
-P(R^c \cap A) = P(A)P(R^c) \\
-P(R \cap B) = P(B)P(R|B) \\
-P(R^c \cap B) = P(B)P(R^c|B)
-$$
-
 Therefore the previous probabilities for the events are:
 
 $$
@@ -70,9 +63,26 @@ $$
 P(Brenda|Red sweater) = \frac{0.25*0.6}{0.25*0.6 + 0.75*0.4} = 0.33 
 $$
 
+## Bayes Theorem Generalization
+
+$$
+P(R \cap A) = P(A)P(R|A) \\
+P(R^c \cap A) = P(A)P(R^c) \\
+P(R \cap B) = P(B)P(R|B) \\
+P(R^c \cap B) = P(B)P(R^c|B)
+$$
+
+#### Normalization
+
+$$
+
+$$
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA5NDE2OTksLTExNjcwODI4NTksLT
-ExNzgzMTY5MjgsNDk0MzcxMzU5LDcxMjAzNzExOCwtMTgzMTQ0
-MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjg1ODkxNjQsLTIwNzA5NDE2OTksLT
+ExNjcwODI4NTksLTExNzgzMTY5MjgsNDk0MzcxMzU5LDcxMjAz
+NzExOCwtMTgzMTQ0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMwND
+JdfQ==
 -->
