@@ -63,7 +63,9 @@ $$
 P(Brenda|Red sweater) = \frac{0.25*0.6}{0.25*0.6 + 0.75*0.4} = 0.33 
 $$
 
-## Bayes Theorem Generalization
+## Bayes Theorem Formula
+
+Possible Scenarios for two sets of hypothesis
 
 $$
 P(R \cap A) = P(A)P(R|A) \\
@@ -75,17 +77,17 @@ $$
 #### Normalization
 
 $$
-P(R \cap A) = \frac{P(A)P(R|A)}{P(A)P(R|A) + P(B)P(R|B)} \\
+P(A|R) = \frac{P(A)P(R|A)}{P(A)P(R|A) + P(B)P(R|B)} \\
 $$
 $$
-P(R \cap B) = \frac{P(B)P(R|B)}{P(B)P(R|B) + P(A)P(R|A)}
+P(B|R) = \frac{P(B)P(R|B)}{P(B)P(R|B) + P(A)P(R|A)}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDExNDgxMywtMjA3MDk0MTY5OSwtMT
-E2NzA4Mjg1OSwtMTE3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3
-MTE4LC0xODMxNDQyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml
-19
+eyJoaXN0b3J5IjpbMjU1Nzc2NTAyLC0yMDcwOTQxNjk5LC0xMT
+Y3MDgyODU5LC0xMTc4MzE2OTI4LDQ5NDM3MTM1OSw3MTIwMzcx
+MTgsLTE4MzE0NDI2NjcsLTIwNTI3NDg0NTksOTQ5NjczMDQyXX
+0=
 -->
