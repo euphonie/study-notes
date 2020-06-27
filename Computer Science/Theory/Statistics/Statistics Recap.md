@@ -69,14 +69,16 @@ Using an example of throwing two dices and recording how many times is possible 
 | 11 | 2 |2/36
 | 12 | 1 |1/36
 
-Generated into a graph it ou
-
+Generated into a graph it would look like:
 ![Example for a Probability Frequency Distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/probfreqdist.png)
+
+
+### Complements
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjAwMjQ5ODIsMTQxMjg1OTk0OCwtNj
+eyJoaXN0b3J5IjpbLTEyNTc2NjA0MjcsMTQxMjg1OTk0OCwtNj
 Y5NzM0MjA0LDE1Mjk1NjIxMDYsLTk4MjQ0MzY3NiwxNjQ5MDUx
 MTU0LDE5MjU1MTQxMzcsLTEyNTYwMjYzNTldfQ==
 -->
