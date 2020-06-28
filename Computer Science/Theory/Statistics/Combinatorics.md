@@ -17,10 +17,13 @@ $$
 
 ### Factorials
 
-Permutations can also be expressed as factorials `n!` which denote the product of the naum
+Permutations can also be expressed as factorials `n!` which denote the product of the natural numbers from 1 to n.
+- Notes:
+	- Negative numbers don't have a factorial
+	- `0! = 1`
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MzE1OTk2OSwxNDA1NDg1OTIyLC0xOT
+eyJoaXN0b3J5IjpbMTM0MzgwNjAyNSwxNDA1NDg1OTIyLC0xOT
 c3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
 -->
