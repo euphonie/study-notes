@@ -2,10 +2,12 @@
 
 # Combinatorics
 
+Deals with combinations of objects from a specific finite set. It can contain repetition, order or other restrictions.
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTYyNDExOV19
+eyJoaXN0b3J5IjpbNTI3MDE3ODVdfQ==
 -->
