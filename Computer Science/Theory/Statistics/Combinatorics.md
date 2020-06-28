@@ -41,8 +41,12 @@ $$\frac{n!}{k!} = (k+1) * (k+2) * ... * n$$
 ### Variations with repetition
 Total number of ways we can pick and arrange some elements of a given set.
 
+Given a set where a number of `p` values have to be assigned from a given set of `n`
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTEzOTY2OSwxODIzNzI5MzU4LDE0MD
+eyJoaXN0b3J5IjpbMTE5MTUxMTQ3NiwxODIzNzI5MzU4LDE0MD
 U0ODU5MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0NzVdfQ==
 -->
