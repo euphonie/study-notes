@@ -9,8 +9,7 @@ Deals with combinations of objects from a specific finite set. It can contain re
 Number of different possible ways we can arrange a set of elements.
 
 
-
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ1ODk0NzVdfQ==
+eyJoaXN0b3J5IjpbMTAzOTcwNzc1OSwtMTA3NDU4OTQ3NV19
 -->
