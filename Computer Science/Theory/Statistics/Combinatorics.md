@@ -15,8 +15,12 @@ n, n-1, n-2, n-3, ..., 1 \\
 P_n = n * (n -1 ) * (n-2)*...*1 = n!
 $$
 
+### Factorials
+
+Permutations can also be expressed as factorials `n!` which denote the product of the naum
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTQ4NTkyMiwtMTk3NzQwNzU1MywtMT
-A3NDU4OTQ3NV19
+eyJoaXN0b3J5IjpbLTM2MzE1OTk2OSwxNDA1NDg1OTIyLC0xOT
+c3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
 -->
