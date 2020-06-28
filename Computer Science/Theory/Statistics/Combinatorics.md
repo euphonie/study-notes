@@ -11,11 +11,12 @@ Number of different possible ways we can arrange a set of elements.
 Given a set with `n` values defining an ordered list or configurations of these values would render this possible entries for each position: 
 
 $$
-n, n-1, n-2, n-3, ..., 1
+n, n-1, n-2, n-3, ..., 1 \\
+P_n = n * (n -1 ) * (n-2)*...*1
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjI3MjMyOCwtMTk3NzQwNzU1MywtMT
+eyJoaXN0b3J5IjpbLTM0NTg5NjE4MCwtMTk3NzQwNzU1MywtMT
 A3NDU4OTQ3NV19
 -->
