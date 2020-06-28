@@ -34,9 +34,11 @@ $$
 (n-k)! = \frac{n!}{(n-k+1) * (n-k+2) * ... * n}
 $$
 
+Having two factorials in a fraction would have the following property: 
 
+$$\frac{n!}{k!} = (k+1) * (k+2) * ... * n$$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEzNDA1MTAsMTgyMzcyOTM1OCwxND
-A1NDg1OTIyLC0xOTc3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
+eyJoaXN0b3J5IjpbLTM1MTYwMTUyLDE4MjM3MjkzNTgsMTQwNT
+Q4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
 -->
