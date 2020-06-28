@@ -47,9 +47,12 @@ $$\overline{V}_p^n = n^p$$
 
 Which can be translated to: "The number of variations with repetition when picking p-many elements out of n elements, is equal to n n to the power of p" (*Extracted from header's reference*)
 
+### Variations without repetition
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzkyODczNiwxODIzNzI5MzU4LDE0MD
-U0ODU5MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0NzVdfQ==
+eyJoaXN0b3J5IjpbLTQ4OTgxODcyNCwxMjc3OTI4NzM2LDE4Mj
+M3MjkzNTgsMTQwNTQ4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4
+OTQ3NV19
 -->
