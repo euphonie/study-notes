@@ -29,11 +29,13 @@ $$n! = (n-1)! * n \\
 
 Having a constant for translation would be: 
 
-$$(n+k)
+$$(n+k) ! = n! * (n+1) * (n+2) * ... * (n+k)! $$
+$$
+(n-k)! = \frac{n!}{(n-k+1) * (n-k+2) * ... * n}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MzMyMzkzLDE4MjM3MjkzNTgsMTQwNT
+eyJoaXN0b3J5IjpbODU5NjE4ODA0LDE4MjM3MjkzNTgsMTQwNT
 Q4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
 -->
