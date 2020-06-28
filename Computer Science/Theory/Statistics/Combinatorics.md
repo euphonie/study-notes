@@ -27,8 +27,13 @@ Factorials can also be expressed in recursive means:
 $$n! = (n-1)! * n \\
 (n+1)! = n! * (n+1) $$
 
+Having a constant for translation would be: 
+
+$$(n+k)
+$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzcyOTM1OCwxNDA1NDg1OTIyLC0xOT
-c3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
+eyJoaXN0b3J5IjpbNDk1MzMyMzkzLDE4MjM3MjkzNTgsMTQwNT
+Q4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
 -->
