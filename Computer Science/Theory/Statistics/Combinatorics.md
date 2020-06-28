@@ -22,8 +22,13 @@ Permutations can also be expressed as factorials `n!` which denote the product o
 	- Negative numbers don't have a factorial
 	- `0! = 1`
 
+Factorials can also be expressed in recursive means: 
+
+$$n! = (n-1)! * n \\
+(n+1)! = n! * (n+1) $$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzgwNjAyNSwxNDA1NDg1OTIyLC0xOT
+eyJoaXN0b3J5IjpbMTgyMzcyOTM1OCwxNDA1NDg1OTIyLC0xOT
 c3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
 -->
