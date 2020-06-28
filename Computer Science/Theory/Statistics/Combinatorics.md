@@ -49,10 +49,12 @@ Which can be translated to: "The number of variations with repetition when picki
 
 ### Variations without repetition
 
+The number of variations without repetition when arranging p elements out of a total of n:
+$$V_p^n = \frac{n!}{(n-p)!}$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTgxODcyNCwxMjc3OTI4NzM2LDE4Mj
-M3MjkzNTgsMTQwNTQ4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4
-OTQ3NV19
+eyJoaXN0b3J5IjpbMjc2MDgwOTUxLC00ODk4MTg3MjQsMTI3Nz
+kyODczNiwxODIzNzI5MzU4LDE0MDU0ODU5MjIsLTE5Nzc0MDc1
+NTMsLTEwNzQ1ODk0NzVdfQ==
 -->
