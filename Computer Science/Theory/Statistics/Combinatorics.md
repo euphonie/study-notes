@@ -45,10 +45,11 @@ Given a set where a number of `p` values have to be assigned from a given set of
 
 $$\overline{V}_p^n = n^p$$
 
+Which can be translated to: "The number of variations with repetition when picking p-many elements out of n elements, is equal to n n to the power of p" (*Extracted from header's reference*)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg1NjksMTgyMzcyOTM1OCwxNDA1ND
-g1OTIyLC0xOTc3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
+eyJoaXN0b3J5IjpbMTI3NzkyODczNiwxODIzNzI5MzU4LDE0MD
+U0ODU5MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0NzVdfQ==
 -->
