@@ -12,11 +12,11 @@ Given a set with `n` values defining an ordered list or configurations of these 
 
 $$
 n, n-1, n-2, n-3, ..., 1 \\
-P_n = n * (n -1 ) * (n-2)*...*1
+P_n = n * (n -1 ) * (n-2)*...*1 = n!
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTg5NjE4MCwtMTk3NzQwNzU1MywtMT
+eyJoaXN0b3J5IjpbMTQwNTQ4NTkyMiwtMTk3NzQwNzU1MywtMT
 A3NDU4OTQ3NV19
 -->
