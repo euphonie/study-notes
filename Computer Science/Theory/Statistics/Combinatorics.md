@@ -27,15 +27,16 @@ Factorials can also be expressed in recursive means:
 $$n! = (n-1)! * n \\
 (n+1)! = n! * (n+1) $$
 
-Having a constant for translation would be: 
+Having a constant for computing segments of a factorial would be: 
 
 $$(n+k) ! = n! * (n+1) * (n+2) * ... * (n+k)! $$
 $$
 (n-k)! = \frac{n!}{(n-k+1) * (n-k+2) * ... * n}
 $$
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NjE4ODA0LDE4MjM3MjkzNTgsMTQwNT
-Q4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
+eyJoaXN0b3J5IjpbLTE4NTEzNDA1MTAsMTgyMzcyOTM1OCwxND
+A1NDg1OTIyLC0xOTc3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
 -->
