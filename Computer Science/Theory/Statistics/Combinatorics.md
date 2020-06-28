@@ -39,10 +39,10 @@ Having two factorials in a fraction would have the following property (if `n > k
 $$\frac{n!}{k!} = (k+1) * (k+2) * ... * n$$
 
 ### Variations with repetition
-
+Total number of ways we can pick and arrange some elements of a given set.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NjYyNjk1LDE4MjM3MjkzNTgsMTQwNT
-Q4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
+eyJoaXN0b3J5IjpbMjA0OTEzOTY2OSwxODIzNzI5MzU4LDE0MD
+U0ODU5MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0NzVdfQ==
 -->
