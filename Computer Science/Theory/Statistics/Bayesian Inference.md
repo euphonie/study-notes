@@ -37,8 +37,10 @@ Considering two sets the description of two events:
 - If a set is a subset of another event, it means that one event can only ever occur if the other event occurs as well.
 	- Event B (subset) occurring guarantees event A
 	- However, event A (greater set) occurring does not guarantee event B
+
+#### Intersections
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjcwMjk3MSwtNTkxNDA5NTMyLDE5Nz
-E1NTEwODddfQ==
+eyJoaXN0b3J5IjpbLTE3MDUwOTUwODEsLTU5MTQwOTUzMiwxOT
+cxNTUxMDg3XX0=
 -->
