@@ -122,11 +122,16 @@ $$P(A \cap B) = P(A)P(B)$$
 `P(C) = 4/52 (Getting a queen)`
 Then,
 `P(A|B) = 1/13 (Queen of spades given card is spade)`
-`P(A)
+`P(A|C) = 1/4 (Queen of spades given card is queen)`
+`P(A) != P(A|B)` making the events **dependent**.
+
+If two events are dependent:
+
+$$P(A|B) = \frac{P(A \cap B)}{P(B)}$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzQyOTAyNywtNDkxMjI1NDQxLDE2ND
-MyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1NDQ5OSwtMTcwNTA5
-NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
+eyJoaXN0b3J5IjpbLTEzODc5NjY2MzcsLTQ5MTIyNTQ0MSwxNj
+QzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0OTksLTE3MDUw
+OTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX0=
 -->
