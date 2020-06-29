@@ -63,12 +63,12 @@ $$C_p^n = \frac{V_p^n}{P_p}  = \frac{n!}{p!(n-p)!}$$
 Picking more elements may result in fewer combinations.
 
 We can pick p-many elements in as many ways as we can pick n minus p many elements
-$$C_p^n = C^n\underscore{n-p}$$
+$$C_p^n = C^n_{n-p}$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk0MTQxMzUsLTExNDUyNjE3MzksMj
-c2MDgwOTUxLC00ODk4MTg3MjQsMTI3NzkyODczNiwxODIzNzI5
-MzU4LDE0MDU0ODU5MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0Nz
-VdfQ==
+eyJoaXN0b3J5IjpbMjExMDk4MzIxMCwtMTE0NTI2MTczOSwyNz
+YwODA5NTEsLTQ4OTgxODcyNCwxMjc3OTI4NzM2LDE4MjM3Mjkz
+NTgsMTQwNTQ4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV
+19
 -->
