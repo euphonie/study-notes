@@ -73,8 +73,10 @@ A \cup B = A+B$$
 Sets also have related complements. Which contain all the values in the sample space that are not part of the set. Complements are always mutually exclusive with their related sets. 
 However, not all mutually exclusive sets are complements to each other.
 
+## Independent/Dependent events
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY3MTg1MTAsLTcyNDM1NDQ5OSwtMT
+eyJoaXN0b3J5IjpbLTE1MzkzNDU1ODksLTcyNDM1NDQ5OSwtMT
 cwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
