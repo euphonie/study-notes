@@ -83,11 +83,13 @@ Events which its theoretical probability remains unaffected by other events.
 
 Events which its theoretical probability varies as conditions change
 
-Example, expecting a favourable outcome of a Queen of spades while drawing a card from a deck. At first, the probability is 1/52. If, at the moment, we know that the card we draw is a spade, the sample space then reduces to 1/13; it w
+Example, expecting a favourable outcome of a Queen of spades while drawing a card from a deck. At first, the probability is 1/52. If, at the moment, we know that the card we draw is a spade, the sample space then reduces to 1/13; it would reduce to 1/4, in the case we know it's a queen.
+
+Therefore, as the conditions change the event has a different probability due to its context.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDE2ODQyMzUsLTE1MzkzNDU1ODksLT
-cyNDM1NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1
-NTEwODddfQ==
+eyJoaXN0b3J5IjpbMTY0MzIzMjA3NiwtMTUzOTM0NTU4OSwtNz
+I0MzU0NDk5LC0xNzA1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1
+MTA4N119
 -->
