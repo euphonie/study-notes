@@ -75,11 +75,12 @@ $$p > \frac{n}{2} > n-p$$
 
 For calculating the total number of combinations, is required to multiply the number of options available for each individual event.
 
+# Summary
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk1NzkxMzgsLTg3MDk0Nzc4MCwtMT
-E0NTI2MTczOSwyNzYwODA5NTEsLTQ4OTgxODcyNCwxMjc3OTI4
-NzM2LDE4MjM3MjkzNTgsMTQwNTQ4NTkyMiwtMTk3NzQwNzU1My
-wtMTA3NDU4OTQ3NV19
+eyJoaXN0b3J5IjpbLTExNjcxNDQ4MTMsLTEwNjk1NzkxMzgsLT
+g3MDk0Nzc4MCwtMTE0NTI2MTczOSwyNzYwODA5NTEsLTQ4OTgx
+ODcyNCwxMjc3OTI4NzM2LDE4MjM3MjkzNTgsMTQwNTQ4NTkyMi
+wtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
 -->
