@@ -55,10 +55,17 @@ B = Card\;being\;queen \\
 A \cap B = Queen\;of\;diamonds
 $$
 
-#
+#### Unions
+
+The union is the combination of all outcomes preferred for either A or B.
+$$A \cup B \\
+A U B = A+ B
+$$
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjcxNzE1OCwtNzI0MzU0NDk5LC0xNz
+eyJoaXN0b3J5IjpbMjE0NTM0MTg0MSwtNzI0MzU0NDk5LC0xNz
 A1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N119
 -->
