@@ -118,11 +118,15 @@ $$P(A \cap B) = P(A)P(B)$$
 ### Dependent case
 
 `P(A) = 1/52 (Getting Queen of spades)`
-`P(B) = `
+`P(B) = 13/52 (Getting a spade)`
+`P(C) = 4/52 (Getting a queen)`
+Then,
+`P(A|B) = 1/13 (Queen of spades given card is spade)`
+`P(A)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDI4NDc4MywtNDkxMjI1NDQxLDE2ND
+eyJoaXN0b3J5IjpbLTM3MzQyOTAyNywtNDkxMjI1NDQxLDE2ND
 MyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1NDQ5OSwtMTcwNTA5
 NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
