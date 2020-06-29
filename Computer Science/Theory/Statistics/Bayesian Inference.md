@@ -70,10 +70,11 @@ Sets, which are not allowed to have any overlapping elements. This means:
 $$A \cap B = Ø \\
 A \cup B = A+B$$
 
-Sets also have related complements. Whichc
+Sets also have related complements. Which contain all the values in the sample space that are not part of the set. Complements are always mutually exclusive with their related sets. 
+However, not all mutually exclusive sets are complements to each other.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjA3ODg3NCwtNzI0MzU0NDk5LC0xNz
-A1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N119
+eyJoaXN0b3J5IjpbLTEzNjY3MTg1MTAsLTcyNDM1NDQ5OSwtMT
+cwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
