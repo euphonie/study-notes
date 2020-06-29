@@ -14,9 +14,11 @@ $$x \in A | x \notin A$$
 To denote contention:
 $$A \ni x | A \notni x$$
 
-$$$$
+- The inverted A can be used to make a reference about all elements within a set; is known as `for all`.
+$$\forall$$
+- To make statements about a specific group of elements within a set, `:` is 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU5OTc5NTMsMTk3MTU1MTA4N119
+eyJoaXN0b3J5IjpbLTE4OTgzOTQyOTQsMTk3MTU1MTA4N119
 -->
