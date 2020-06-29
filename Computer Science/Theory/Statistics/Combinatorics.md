@@ -77,10 +77,14 @@ For calculating the total number of combinations, is required to multiply the nu
 
 # Summary
 
+- We choose permutations and variations when we need to arrange a set of objects and the order is crucial
+- In permutations, you always arrange the entire set of elements in the sample space.
+- 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjcxNDQ4MTMsLTEwNjk1NzkxMzgsLT
-g3MDk0Nzc4MCwtMTE0NTI2MTczOSwyNzYwODA5NTEsLTQ4OTgx
-ODcyNCwxMjc3OTI4NzM2LDE4MjM3MjkzNTgsMTQwNTQ4NTkyMi
-wtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
+eyJoaXN0b3J5IjpbMTM5OTIxMjg2MywtMTA2OTU3OTEzOCwtOD
+cwOTQ3NzgwLC0xMTQ1MjYxNzM5LDI3NjA4MDk1MSwtNDg5ODE4
+NzI0LDEyNzc5Mjg3MzYsMTgyMzcyOTM1OCwxNDA1NDg1OTIyLC
+0xOTc3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
 -->
