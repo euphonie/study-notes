@@ -10,10 +10,12 @@
 ## Sets
 
 Sets can be finite or infinite. To denote an element belongs to a set we describe it as: 
-$$$$
+$$x \in A$$
+To denote contention:
+$$A \ni x$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDM5ODQ0MiwxOTcxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbLTcyNDMwMDA5LDE5NzE1NTEwODddfQ==
 -->
