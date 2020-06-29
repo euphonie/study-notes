@@ -133,9 +133,12 @@ This holds true only if `P(B) > 0`. If `P(B) = 0`, then `A|B` would be considere
 - Is important to notice that 
 $$P(A|B) \neq P(B|A)$$
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTg1NDA1NywtNDkxMjI1NDQxLDE2ND
-MyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1NDQ5OSwtMTcwNTA5
-NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
+eyJoaXN0b3J5IjpbLTE2Nzg3OTM2MTMsLTU1NTg1NDA1NywtND
+kxMjI1NDQxLDE2NDMyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1
+NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwOD
+ddfQ==
 -->
