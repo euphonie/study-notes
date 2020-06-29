@@ -64,11 +64,16 @@ if \; A \cap B \ne Ø; \; A \cup B = A + B - A \cap B \\
 if B \subseteq A; \; A \cup B = A + B - B = A
 $$
 
-## Mutually excl
+### Mutually exclusive sets
 
+Sets, which are not allowed to have any overlapping elements. This means:
+$$A \cap B = Ø \\
+A \cup B = A+B$$
+
+Sets also have related complements. Whichc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDEwNTc1NiwtNzI0MzU0NDk5LC0xNz
+eyJoaXN0b3J5IjpbMTkzNjA3ODg3NCwtNzI0MzU0NDk5LC0xNz
 A1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N119
 -->
