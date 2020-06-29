@@ -16,9 +16,13 @@ $$A \ni x | A \notni x$$
 
 - The inverted A can be used to make a reference about all elements within a set; is known as `for all`.
 $$\forall$$
-- To make statements about a specific group of elements within a set, `:` is 
+- To make statements about a specific group of elements within a set, `:` is used and described as `such that`.
+
+Example, declaring a set of all even numbers
+
+$$\forall x \in A : x is even$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTgzOTQyOTQsMTk3MTU1MTA4N119
+eyJoaXN0b3J5IjpbLTExMjY4MDMzNywxOTcxNTUxMDg3XX0=
 -->
