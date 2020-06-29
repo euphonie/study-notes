@@ -50,12 +50,14 @@ B = Cards\;having\;hearts \\
 A \cap B =  Ø
 $$
 - $$
-A = Cards\;hag
+A = Cards\;having\;diamonds \\
+B = Card\;being\;queen \\
+A \cap B = Queen\;of\;diamonds
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODEyOTQ3MCwtMTcwNTA5NTA4MSwtNT
+eyJoaXN0b3J5IjpbLTcyNDM1NDQ5OSwtMTcwNTA5NTA4MSwtNT
 kxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
