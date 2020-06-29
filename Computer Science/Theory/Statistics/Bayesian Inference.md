@@ -127,11 +127,12 @@ Then,
 
 If two events are dependent:
 
-$$P(A|B) = \frac{P(A \cap B)}{P(B)}$$
+$$P(A|B) = \frac{P(A \cap B)}{P(B)}$$ 
+This holds true only if `P(B) > 0`. If `P(B) = 0`, then `A|B` would be considered not interpretable, due to the event B never occurring. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc5NjY2MzcsLTQ5MTIyNTQ0MSwxNj
-QzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0OTksLTE3MDUw
-OTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbODk1NzY3MTU4LC00OTEyMjU0NDEsMTY0Mz
+IzMjA3NiwtMTUzOTM0NTU4OSwtNzI0MzU0NDk5LC0xNzA1MDk1
+MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N119
 -->
