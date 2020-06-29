@@ -64,10 +64,11 @@ if \; A \cap B \ne Ø; \; A \cup B = A + B - A \cap B \\
 if B \subseteq A; \; A \cup B = A + B - B = A
 $$
 
+## Mutually excl
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODg5MjYyMywtNzI0MzU0NDk5LC0xNz
+eyJoaXN0b3J5IjpbLTg1NDEwNTc1NiwtNzI0MzU0NDk5LC0xNz
 A1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N119
 -->
