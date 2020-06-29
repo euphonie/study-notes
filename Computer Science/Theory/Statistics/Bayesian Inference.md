@@ -34,8 +34,9 @@ Considering two sets the description of two events:
 - If the two sets have no related elements, the events can never happen simultaneously
 	- Event A occurring guarantees that event B is not occurring and vice versa
 - If the two sets intersect, the two events can occur at the same time.
+- If a set is a subset of another event, it means that one event can only ever occur if the other event occurs as well.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU1NDI0MjEsLTU5MTQwOTUzMiwxOTcxNT
-UxMDg3XX0=
+eyJoaXN0b3J5IjpbMTcyODE3MTg3NiwtNTkxNDA5NTMyLDE5Nz
+E1NTEwODddfQ==
 -->
