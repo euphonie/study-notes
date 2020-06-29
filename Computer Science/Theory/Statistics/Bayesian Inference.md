@@ -59,13 +59,14 @@ $$
 
 The union is the combination of all outcomes preferred for either A or B.
 $$A \cup B \\
-A U B = A+ B
+if \; A\cap B = Ø;\;A \cup B = A+ B
+if \; A \cap B \ne Ø; \; A \cup B
 $$
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTM0MTg0MSwtNzI0MzU0NDk5LC0xNz
-A1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N119
+eyJoaXN0b3J5IjpbLTE2MjIxNDM1MzcsLTcyNDM1NDQ5OSwtMT
+cwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
