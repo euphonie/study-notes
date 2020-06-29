@@ -58,15 +58,16 @@ $$
 #### Unions
 
 The union is the combination of all outcomes preferred for either A or B.
-$$A \cup B \\
+$$A \cup B \\ 
 if \; A\cap B = Ø;\;A \cup B = A+ B \\
-if \; A \cap B \ne Ø; \; A \cup B = A + B - A \cap B
+if \; A \cap B \ne Ø; \; A \cup B = A + B - A \cap B \\
+if B \subseteq A; \; A \cup B = A + B - B = A
 $$
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4MzE5NzMwLC03MjQzNTQ0OTksLTE3MD
-UwOTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbLTUwODg5MjYyMywtNzI0MzU0NDk5LC0xNz
+A1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N119
 -->
