@@ -2,10 +2,13 @@
 
 # Bayesian Inference
 
-
+## Definitions
+- Every event has a set of outcomes that identify (Favourable outcomes).
+	- 
+- 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTU1MTA4N119
+eyJoaXN0b3J5IjpbMTAwNjU2NjgzOCwxOTcxNTUxMDg3XX0=
 -->
