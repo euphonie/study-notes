@@ -91,9 +91,16 @@ Therefore, as the conditions change the event has a different probability due to
 The probability of getting A, if we are given that B has occurred. Read as the probability of A given B.
 $$P(A|B)$$
 
+Example
+$$
+P(A) = Probability\;of\;getting\;Queen\;of\;Spades \\
+P(B) = Probability\;of\;getting\;a\;spade
+$$
+Then `P(A|B)` would be the probability of drawing the Queen of Spades if we know the card is a spade.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDQ3NTYyMSwxNjQzMjMyMDc2LC0xNT
+eyJoaXN0b3J5IjpbLTQ5MTIyNTQ0MSwxNjQzMjMyMDc2LC0xNT
 M5MzQ1NTg5LC03MjQzNTQ0OTksLTE3MDUwOTUwODEsLTU5MTQw
 OTUzMiwxOTcxNTUxMDg3XX0=
 -->
