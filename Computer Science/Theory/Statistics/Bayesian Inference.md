@@ -133,12 +133,17 @@ This holds true only if `P(B) > 0`. If `P(B) = 0`, then `A|B` would be considere
 - Is important to notice that 
 $$P(A|B) \neq P(B|A)$$
 
+## Law of Total Probability
 
+$$
+A = B_1 \cup B_2 \cup ... \cup B_n \\
+P(A) = P(A|B_1) * P(B_1) + P(A|B_2) + P(B_2) ...
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg3OTM2MTMsLTU1NTg1NDA1NywtND
-kxMjI1NDQxLDE2NDMyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1
-NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwOD
-ddfQ==
+eyJoaXN0b3J5IjpbODE0NTA5MTIyLC01NTU4NTQwNTcsLTQ5MT
+IyNTQ0MSwxNjQzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0
+OTksLTE3MDUwOTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX
+0=
 -->
