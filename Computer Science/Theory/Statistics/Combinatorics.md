@@ -54,11 +54,11 @@ $$V_p^n = \frac{n!}{(n-p)!}$$
 
 ## Combinations
 
-
+All the different permutations of a single combination are different variations.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk3MzY1MTksMjc2MDgwOTUxLC00OD
-k4MTg3MjQsMTI3NzkyODczNiwxODIzNzI5MzU4LDE0MDU0ODU5
-MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0NzVdfQ==
+eyJoaXN0b3J5IjpbMTkxOTM3NDUyNSwyNzYwODA5NTEsLTQ4OT
+gxODcyNCwxMjc3OTI4NzM2LDE4MjM3MjkzNTgsMTQwNTQ4NTky
+MiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV19
 -->
