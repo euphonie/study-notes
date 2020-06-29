@@ -75,11 +75,17 @@ However, not all mutually exclusive sets are complements to each other.
 
 ## Independent/Dependent events
 
+### Independent events
 
+Events which its theoretical probability remains unaffected by other events.
+
+### Dependent events
+
+Events which its theoretical probability varies as cond
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzAwMzgxNSwtMTUzOTM0NTU4OSwtNz
-I0MzU0NDk5LC0xNzA1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1
-MTA4N119
+eyJoaXN0b3J5IjpbLTE3NTc2MjMxNTYsLTE1MzkzNDU1ODksLT
+cyNDM1NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1
+NTEwODddfQ==
 -->
