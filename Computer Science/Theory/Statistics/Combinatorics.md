@@ -57,11 +57,11 @@ $$V_p^n = \frac{n!}{(n-p)!}$$
 All the different permutations of a single combination are different variations. 
 To obtain the formula, we have that the number of combinations equals the number of variations, over the number of permutations.
 
-$$C_p^n = \frac{V_p^n}{P_p}$$
+$$C_p^n = \frac{V_p^n}{P_p}  = \frac{n!}{p!(n-p)!}$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY1ODA1MzksMjc2MDgwOTUxLC00OD
+eyJoaXN0b3J5IjpbLTExNDUyNjE3MzksMjc2MDgwOTUxLC00OD
 k4MTg3MjQsMTI3NzkyODczNiwxODIzNzI5MzU4LDE0MDU0ODU5
 MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0NzVdfQ==
 -->
