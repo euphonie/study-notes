@@ -43,12 +43,19 @@ Considering two sets the description of two events:
 When two events intersect, it consists on all the outcomes that are favourable for both event A and event B simultaneously. 
 $$A \cap B$$
 
-Example, having two sets: in a de
-
+Example, having two sets:
+- $$
+A = Cards\;having\;diamonds \\
+B = Cards\;having\;hearts \\
+A \cap B =  Ø
+$$
+- $$
+A = Cards\;hag
+$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NDMzMTQwLC0xNzA1MDk1MDgxLC01OT
-E0MDk1MzIsMTk3MTU1MTA4N119
+eyJoaXN0b3J5IjpbLTI3ODEyOTQ3MCwtMTcwNTA5NTA4MSwtNT
+kxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
