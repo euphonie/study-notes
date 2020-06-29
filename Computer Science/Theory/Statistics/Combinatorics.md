@@ -65,11 +65,15 @@ Picking more elements may result in fewer combinations.
 We can pick p-many elements in as many ways as we can pick n minus p many elements
 $$C_p^n = C^n_{n-p}$$
 
+Symmetry can be used when:
+
+$$p > \frac{n}{2} > n-p$$
+
 ![Symmetry in combinations](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/combsymmetry.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjMzODY5OSwtMTE0NTI2MTczOSwyNz
+eyJoaXN0b3J5IjpbLTg3MDk0Nzc4MCwtMTE0NTI2MTczOSwyNz
 YwODA5NTEsLTQ4OTgxODcyNCwxMjc3OTI4NzM2LDE4MjM3Mjkz
 NTgsMTQwNTQ4NTkyMiwtMTk3NzQwNzU1MywtMTA3NDU4OTQ3NV
 19
