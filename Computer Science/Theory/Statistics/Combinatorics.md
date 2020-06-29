@@ -62,10 +62,13 @@ $$C_p^n = \frac{V_p^n}{P_p}  = \frac{n!}{p!(n-p)!}$$
 ### Symmetry
 Picking more elements may result in fewer combinations.
 
+We can pick p-many elements in as many ways as we can pick n minus p many elements
+$$C_p^n = C^n\underscore{n-p}$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDExMDc1LC0xMTQ1MjYxNzM5LDI3Nj
-A4MDk1MSwtNDg5ODE4NzI0LDEyNzc5Mjg3MzYsMTgyMzcyOTM1
-OCwxNDA1NDg1OTIyLC0xOTc3NDA3NTUzLC0xMDc0NTg5NDc1XX
-0=
+eyJoaXN0b3J5IjpbLTE2Nzk0MTQxMzUsLTExNDUyNjE3MzksMj
+c2MDgwOTUxLC00ODk4MTg3MjQsMTI3NzkyODczNiwxODIzNzI5
+MzU4LDE0MDU0ODU5MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0Nz
+VdfQ==
 -->
