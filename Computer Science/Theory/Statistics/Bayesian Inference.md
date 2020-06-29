@@ -81,11 +81,13 @@ Events which its theoretical probability remains unaffected by other events.
 
 ### Dependent events
 
-Events which its theoretical probability varies as cond
+Events which its theoretical probability varies as conditions change
+
+Example, expecting 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTc2MjMxNTYsLTE1MzkzNDU1ODksLT
+eyJoaXN0b3J5IjpbLTE4NzE1MjM0NjcsLTE1MzkzNDU1ODksLT
 cyNDM1NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1
 NTEwODddfQ==
 -->
