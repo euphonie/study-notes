@@ -20,9 +20,11 @@ $$\forall$$
 
 Example, declaring a set of all even numbers
 
-$$\forall x \in A : x is even$$
+$$\forall x \in A : x\;is\;even$$
 
+- A **subset** is a set that is fully contained in another set. This is described as: 
+$$A \subseteq B$$
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY4MDMzNywxOTcxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbMjAxNzQ3MTA3OCwxOTcxNTUxMDg3XX0=
 -->
