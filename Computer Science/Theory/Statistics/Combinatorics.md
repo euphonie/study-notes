@@ -60,10 +60,11 @@ To obtain the formula, we have that the number of combinations equals the number
 $$C_p^n = \frac{V_p^n}{P_p}  = \frac{n!}{p!(n-p)!}$$
 
 ### Symmetry
+Picking more elements may result in fewer combinations.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MzQ1OTc2LC0xMTQ1MjYxNzM5LDI3Nj
+eyJoaXN0b3J5IjpbMTUzMDExMDc1LC0xMTQ1MjYxNzM5LDI3Nj
 A4MDk1MSwtNDg5ODE4NzI0LDEyNzc5Mjg3MzYsMTgyMzcyOTM1
 OCwxNDA1NDg1OTIyLC0xOTc3NDA3NTUzLC0xMDc0NTg5NDc1XX
 0=
