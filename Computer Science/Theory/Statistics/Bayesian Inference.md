@@ -35,8 +35,10 @@ Considering two sets the description of two events:
 	- Event A occurring guarantees that event B is not occurring and vice versa
 - If the two sets intersect, the two events can occur at the same time.
 - If a set is a subset of another event, it means that one event can only ever occur if the other event occurs as well.
+	- Event B (subset) occurring guarantees event A
+	- However, event A (greater set) occurring does not guarantee event B
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODE3MTg3NiwtNTkxNDA5NTMyLDE5Nz
+eyJoaXN0b3J5IjpbLTk3MjcwMjk3MSwtNTkxNDA5NTMyLDE5Nz
 E1NTEwODddfQ==
 -->
