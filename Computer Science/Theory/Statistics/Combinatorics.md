@@ -38,7 +38,7 @@ Having two factorials in a fraction would have the following property (if `n > k
 
 $$\frac{n!}{k!} = (k+1) * (k+2) * ... * n$$
 
-### Variations with repetition
+## Variations with repetition
 Total number of ways we can pick and arrange some elements of a given set.
 
 Given a set where a number of `p` values have to be assigned from a given set of `n` values into an ordered sequence, the resulting formula can be written as:
@@ -47,14 +47,18 @@ $$\overline{V}_p^n = n^p$$
 
 Which can be translated to: "The number of variations with repetition when picking p-many elements out of n elements, is equal to n n to the power of p" (*Extracted from header's reference*)
 
-### Variations without repetition
+## Variations without repetition
 
 The number of variations without repetition when arranging p elements out of a total of n:
 $$V_p^n = \frac{n!}{(n-p)!}$$
 
+## Combinations
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MDgwOTUxLC00ODk4MTg3MjQsMTI3Nz
-kyODczNiwxODIzNzI5MzU4LDE0MDU0ODU5MjIsLTE5Nzc0MDc1
-NTMsLTEwNzQ1ODk0NzVdfQ==
+eyJoaXN0b3J5IjpbLTExOTk3MzY1MTksMjc2MDgwOTUxLC00OD
+k4MTg3MjQsMTI3NzkyODczNiwxODIzNzI5MzU4LDE0MDU0ODU5
+MjIsLTE5Nzc0MDc1NTMsLTEwNzQ1ODk0NzVdfQ==
 -->
