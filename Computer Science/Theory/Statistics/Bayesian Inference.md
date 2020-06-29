@@ -39,8 +39,16 @@ Considering two sets the description of two events:
 	- However, event A (greater set) occurring does not guarantee event B
 
 #### Intersections
+
+When two events intersect, it consists on all the outcomes that are favourable for both event A and event B simultaneously. 
+$$A \cap B$$
+
+Example, having two sets: in a de
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUwOTUwODEsLTU5MTQwOTUzMiwxOT
-cxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbOTE3NDMzMTQwLC0xNzA1MDk1MDgxLC01OT
+E0MDk1MzIsMTk3MTU1MTA4N119
 -->
