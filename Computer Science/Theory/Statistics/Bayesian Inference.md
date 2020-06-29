@@ -87,9 +87,13 @@ Example, expecting a favourable outcome of a Queen of spades while drawing a car
 
 Therefore, as the conditions change the event has a different probability due to its context.
 
+**Notation**
+The probability of getting A, if we are given that B has occurred. Read as the probability of A given B.
+$$P(A|B)$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzIzMjA3NiwtMTUzOTM0NTU4OSwtNz
-I0MzU0NDk5LC0xNzA1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1
-MTA4N119
+eyJoaXN0b3J5IjpbLTc2MDQ3NTYyMSwxNjQzMjMyMDc2LC0xNT
+M5MzQ1NTg5LC03MjQzNTQ0OTksLTE3MDUwOTUwODEsLTU5MTQw
+OTUzMiwxOTcxNTUxMDg3XX0=
 -->
