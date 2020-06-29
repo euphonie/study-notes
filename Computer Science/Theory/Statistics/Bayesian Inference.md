@@ -99,11 +99,15 @@ $$
 Then `P(A|B)` would be the probability of drawing the Queen of Spades if we know the card is a spade.
 
 
+## Conditional Probabilities
 
+The likelihood of an event occurring, assuming a different one has already happened.
+
+Having an independent example of flipping a coin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODIzMzg3OSwtNDkxMjI1NDQxLDE2ND
-MyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1NDQ5OSwtMTcwNTA5
-NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
+eyJoaXN0b3J5IjpbLTE1NjQ4Njc0MTksLTQ5MTIyNTQ0MSwxNj
+QzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0OTksLTE3MDUw
+OTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX0=
 -->
