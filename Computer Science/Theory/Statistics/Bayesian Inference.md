@@ -98,9 +98,12 @@ P(B) = Probability\;of\;getting\;a\;spade
 $$
 Then `P(A|B)` would be the probability of drawing the Queen of Spades if we know the card is a spade.
 
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTIyNTQ0MSwxNjQzMjMyMDc2LC0xNT
-M5MzQ1NTg5LC03MjQzNTQ0OTksLTE3MDUwOTUwODEsLTU5MTQw
-OTUzMiwxOTcxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbLTUwODIzMzg3OSwtNDkxMjI1NDQxLDE2ND
+MyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1NDQ5OSwtMTcwNTA5
+NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
