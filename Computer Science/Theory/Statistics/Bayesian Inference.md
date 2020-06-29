@@ -103,6 +103,8 @@ Then `P(A|B)` would be the probability of drawing the Queen of Spades if we know
 
 The likelihood of an event occurring, assuming a different one has already happened.
 
+### Independent case
+
 Having an independent example of flipping a coin:
 `P(A) = 0.5`
 `P(B) = 0.5 (Having heads in the last flip)`
@@ -111,10 +113,16 @@ Then,
 
 If two events are independent:
 
-$$P(A \cap B)$$
+$$P(A \cap B) = P(A)P(B)$$
+
+### Dependent case
+
+`P(A) = 1/52 (Getting Queen of spades)`
+`P(B) = `
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTg4NzM0MjAsLTQ5MTIyNTQ0MSwxNj
-QzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0OTksLTE3MDUw
-OTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbLTg5NDI4NDc4MywtNDkxMjI1NDQxLDE2ND
+MyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1NDQ5OSwtMTcwNTA5
+NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwODddfQ==
 -->
