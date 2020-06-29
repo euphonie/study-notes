@@ -61,7 +61,7 @@ $$C_p^n = \frac{V_p^n}{P_p}  = \frac{n!}{p!(n-p)!}$$
 
 If repetitions are allowed the formula changes to:
 
-$$\overline{}$$
+$$\overline{C}_p^n = \frac{(n+p-1)!}{p!(n-1)!}$$
 
 ### Symmetry
 Picking more elements may result in fewer combinations.
@@ -87,8 +87,8 @@ For calculating the total number of combinations, is required to multiply the nu
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNjMyMjMsLTEwNjk1NzkxMzgsLTg3MD
-k0Nzc4MCwtMTE0NTI2MTczOSwyNzYwODA5NTEsLTQ4OTgxODcy
-NCwxMjc3OTI4NzM2LDE4MjM3MjkzNTgsMTQwNTQ4NTkyMiwtMT
-k3NzQwNzU1MywtMTA3NDU4OTQ3NV19
+eyJoaXN0b3J5IjpbMTI2NDA1MzMzMiwtMTA2OTU3OTEzOCwtOD
+cwOTQ3NzgwLC0xMTQ1MjYxNzM5LDI3NjA4MDk1MSwtNDg5ODE4
+NzI0LDEyNzc5Mjg3MzYsMTgyMzcyOTM1OCwxNDA1NDg1OTIyLC
+0xOTc3NDA3NTUzLC0xMDc0NTg5NDc1XX0=
 -->
