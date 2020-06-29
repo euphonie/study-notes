@@ -141,11 +141,14 @@ P(A) = P(A|B_1) * P(B_1) + P(A|B_2) + P(B_2) ...
 $$
 
 Example, given the following description 
-$$P(Vegetarien) = \frac{44}{}$$
+
+![Probability of being vegeratien](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/totalprob.png)
+
+$$P(Vegetarien) = \frac{44}{100} = 0.44$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NjU3NTQwMSwtNTU1ODU0MDU3LC00OT
+eyJoaXN0b3J5IjpbMTQxNjUxNjM4MiwtNTU1ODU0MDU3LC00OT
 EyMjU0NDEsMTY0MzIzMjA3NiwtMTUzOTM0NTU4OSwtNzI0MzU0
 NDk5LC0xNzA1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N1
 19
