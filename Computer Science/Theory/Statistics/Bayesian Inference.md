@@ -28,7 +28,13 @@ $$A \subseteq B$$
 - Every set contains necessarily two subsets; itself and the null set. 
 $$A \subseteq A \\
 A \subseteq Ø$$
+
+### Characteristics of sets
+Considering two sets the description of two events:
+- If the two sets have no related elements, the events can never happen simultaneously
+	- Event A occurring guarantees that event B is not occurr
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX0=
+eyJoaXN0b3J5IjpbLTEzODc3ODEyMTIsLTU5MTQwOTUzMiwxOT
+cxNTUxMDg3XX0=
 -->
