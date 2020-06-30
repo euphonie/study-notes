@@ -335,10 +335,11 @@ print('F1 score: ', format(f1_score(y_test, predictions)))
 	- It performs well even with the presence of irrelevant features and is relatively unaffected by them.
 	- It is relatively simple.
 		- Tuning the parameters is rarely necessary. Except when the data distribution is known.
-		- It 
+	- It rarely ever overfits data.
+	- Training and prediction times are really fast.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjQxNDkyNywxNjc2NjIyNTM4LDE3Mz
-U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NDYzNTM2MjAsMTY3NjYyMjUzOCwxNz
+M1NDQ3MDA3LDgyNTk4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
