@@ -82,12 +82,14 @@ documents = ['Hello, how are you!',
 from sklearn.feature_extraction.text import CountVectorizer
 count_vector = CountVectorizer()
 
-
+# Fit the documents dataset to the CountVectorizer object and get list of categorized features.
+count_vector.fit(documents)
+count_vector.get_feature_names()
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyNDg2NjY0LDE3MzU0NDcwMDcsODI1OT
-gyNjU4LDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE1NTkxNjE2MTksMTczNTQ0NzAwNyw4Mj
+U5ODI2NTgsMTUwNTIzOTAxM119
 -->
