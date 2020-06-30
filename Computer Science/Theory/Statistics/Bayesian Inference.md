@@ -160,10 +160,13 @@ A new formula can be obtained from the conditional probability rules being:
 
 $$P(A|B) + P(B) = P(A \cap B)$$
 
+![Multiplication rule](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/mult1.png)
+
+![Multiplication Rule 2](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/multi2.png)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgwOTM2MDgsLTU1NTg1NDA1NywtND
-kxMjI1NDQxLDE2NDMyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1
-NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwOD
-ddfQ==
+eyJoaXN0b3J5IjpbLTIxMzAwOTk0MjIsLTE0NjgwOTM2MDgsLT
+U1NTg1NDA1NywtNDkxMjI1NDQxLDE2NDMyMzIwNzYsLTE1Mzkz
+NDU1ODksLTcyNDM1NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NT
+MyLDE5NzE1NTEwODddfQ==
 -->
