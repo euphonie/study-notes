@@ -288,6 +288,7 @@ print('The probability of Gary Johnson saying the words Freedom and Immigration:
 
 - Naive Bayes' implementation using scikit-learn
 
+Specifically, we will be using the **multinomial Naive Bayes** implementation. This particular classifier is suitable for classification with discrete features (such as in our case, word counts for text classification). It takes in integer word counts as its input. On the other hand **Gaussian Naive Bayes** is better suited for continuous data as it assumes that the input data has a Gaussian(normal) distribution.
 ```python
 from sklearn.naive_bayes import MultinomialNB
 naive_bayes = MultinomialNB()
@@ -296,6 +297,6 @@ naive_bayes.fit(training_data, y_train)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTM5MzgwOCwxNjc2NjIyNTM4LDE3Mz
+eyJoaXN0b3J5IjpbLTQ2Nzc1MTA0NiwxNjc2NjIyNTM4LDE3Mz
 U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
