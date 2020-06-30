@@ -33,11 +33,12 @@ From 2 tags, the generalization of multiple PoS tags is called an n-gram.
 
 #### More complicated cases
 
-Problem with n-grams is that not all possible variations exist in the lookup table. Therefore, certain ordered pair of
+Problem with n-grams is that not all possible variations exist in the lookup table. Therefore, certain ordered pair or n-tuples of words won't have a frequency to be evaluated.
 
-### 
+# Hidden Markov Models
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMwNTE1MTIsNjgzOTY2MzY0XX0=
+eyJoaXN0b3J5IjpbLTcwNTY3NzM0OSw2ODM5NjYzNjRdfQ==
 -->
