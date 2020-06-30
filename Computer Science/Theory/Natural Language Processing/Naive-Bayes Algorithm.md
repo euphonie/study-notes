@@ -1,4 +1,4 @@
-> All information gathered from Udacity's Natual Language Processing Nanodegree
+> All information gathered from Udacity's Natural Language Processing Nanodegree
 
 # Naive-Bayes for NLP
 
@@ -95,9 +95,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjYxODkxMSw2Nzc5MjU0OTEsMjI3ND
-gzMDk2LDUxODEzNjU5NywyNTU3NzY1MDIsLTIwNzA5NDE2OTks
-LTExNjcwODI4NTksLTExNzgzMTY5MjgsNDk0MzcxMzU5LDcxMj
-AzNzExOCwtMTgzMTQ0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMw
-NDJdfQ==
+eyJoaXN0b3J5IjpbLTE0MTUzMDk5LDE4MTY2MTg5MTEsNjc3OT
+I1NDkxLDIyNzQ4MzA5Niw1MTgxMzY1OTcsMjU1Nzc2NTAyLC0y
+MDcwOTQxNjk5LC0xMTY3MDgyODU5LC0xMTc4MzE2OTI4LDQ5ND
+M3MTM1OSw3MTIwMzcxMTgsLTE4MzE0NDI2NjcsLTIwNTI3NDg0
+NTksOTQ5NjczMDQyXX0=
 -->
