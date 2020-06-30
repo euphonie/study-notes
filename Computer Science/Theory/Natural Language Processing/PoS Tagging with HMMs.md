@@ -54,11 +54,13 @@ For calculating these, a lookup table is created and then the probabilities for 
 
 Then, the algorithm works along two concepts: 
 
-- Observations. Each word feed into the algorithm as it starts reading each value of the sentence.
-- Hidden States. Th
+- **Observations**. Each word feed into the algorithm as it starts reading each value of the sentence.
+	- Between observations and hidden states: Emission probabilities
+- **Hidden States**. The graph of state transitioning depicted by the PoS and the likelihood of moving from one PoS to the other.
+	- Between hidden states: Transition probabilities.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTU1NDE0NCwtNzA1Njc3MzQ5LDY4Mz
-k2NjM2NF19
+eyJoaXN0b3J5IjpbODY0NjcxNTIzLC03MDU2NzczNDksNjgzOT
+Y2MzY0XX0=
 -->
