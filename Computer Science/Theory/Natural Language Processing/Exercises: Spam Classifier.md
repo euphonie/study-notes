@@ -281,10 +281,13 @@ print('Probability of words freedom and immigration being said are: ', format(p_
 
 p_j_fi = p_j_text/p_f_i
 print('The probability of Jill Stein saying the words Freedom and Immigration: ', format(p_j_fi))
+
+p_g_fi = p_g_text/p_f_i
+print('The probability of Gary Johnson saying the words Freedom and Immigration: ', format(p_g_fi))
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NDk3ODg5NSwxNjc2NjIyNTM4LDE3Mz
-U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDMyMjM3NzEsMTY3NjYyMjUzOCwxNz
+M1NDQ3MDA3LDgyNTk4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
