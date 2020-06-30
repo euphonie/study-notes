@@ -32,9 +32,10 @@ P(B|A) = \frac{P(A)P(B)}{P(A)} \\
 P(B|A) = P(B)
 $$
 
+In this case, it is shown that probabilities neither increase or decrease given the conditions of another event.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTg2NjcxNSwtMTQ4ODcxMTgyNSwtOT
+eyJoaXN0b3J5IjpbMTI1NzQ5NjE1NCwtMTQ4ODcxMTgyNSwtOT
 Q2NjA0NjE3XX0=
 -->
