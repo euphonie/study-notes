@@ -113,9 +113,21 @@ print('Number of rows in the training set: {}'.format(X_train.shape[0]))
 print('Number of rows in the test set: {}'.format(X_test.shape[0]))
 ```
 
+- Applying BoW to the dataset
+
+```python
+# Instantiate the CountVectorizer method
+count_vector = CountVectorizer()
+
+# Fit the training data and then return the matrix
+training_data = count_vector.fit_transform(X_train)
+
+# Transform testing data and return the matrix. Note we are not fitting the testing data into the CountVectorizer()
+testing_data = count_vector.transform(X_test)
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODczMTE1NSwxNzM1NDQ3MDA3LDgyNT
-k4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbNjQyMDc3MTc0LDE3MzU0NDcwMDcsODI1OT
+gyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
