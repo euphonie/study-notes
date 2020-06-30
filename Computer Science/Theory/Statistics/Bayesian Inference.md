@@ -154,9 +154,13 @@ $$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
 
 ![Additive law](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/additivelaw.png)
 
+## Multiplicatio Rule
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTExNTkwNjMsLTU1NTg1NDA1NywtND
+eyJoaXN0b3J5IjpbLTE1NzUyOTk2MDUsLTU1NTg1NDA1NywtND
 kxMjI1NDQxLDE2NDMyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1
 NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwOD
 ddfQ==
