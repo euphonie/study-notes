@@ -189,10 +189,25 @@ p_pos = (p_diabetes * p_pos_diabetes) + (p_no_diabetes * (1-p_neg_no_diabetes))
 print('The probability of getting a positive test result P(Pos) is: {}',format(p_pos))
 ```
 
+** Using all of this information we can calculate our posteriors as follows: **
 
+The probability of an individual having diabetes, given that, that individual got a positive test result:
+
+$$
+P(D|Pos) = \frac{P(D) * Sensitivity}{P(Pos)}
+$$
+
+The probability of an individual not having diabetes, given that, that individual got a positive test result:
+
+`P(~D|Pos) = (P(~D) * (1-Specificity)) / P(Pos)`
+$$
+P(D^c|Pos) = \frac{P(D^c) * (1 - Specificity)}{}
+$$
+
+The sum of our posteriors will always equal  `1`.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzU1OTc4NiwxNzM1NDQ3MDA3LDgyNT
-k4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbLTEwODIzMDQ4ODgsMTczNTQ0NzAwNyw4Mj
+U5ODI2NTgsMTUwNTIzOTAxM119
 -->
