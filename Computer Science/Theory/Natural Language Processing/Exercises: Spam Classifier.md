@@ -100,6 +100,8 @@ TF-IDF features could also be used for this. [TF-IDF Vectorizer - scikit-learn d
 - Training and testing the sets
 
 ```python
+# split into training and testing sets
+# USE from sklearn.model_selection import train_test_split to avoid seeing deprecation warning.
 from sklearn.cross_validation import train_test_split
 
 X_train, X_test, y_train, y_test = train_test_split(df['message'], 
@@ -114,6 +116,6 @@ print('Number of rows in the test set: {}'.format(X_test.shape[0]))
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDYwNTA1NCwxNzM1NDQ3MDA3LDgyNT
+eyJoaXN0b3J5IjpbMTkzODczMTE1NSwxNzM1NDQ3MDA3LDgyNT
 k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
