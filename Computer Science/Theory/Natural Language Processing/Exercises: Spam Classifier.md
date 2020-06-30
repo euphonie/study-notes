@@ -11,7 +11,19 @@ ham| Fine if thats the way...
 spam | England v Macednoia - dont miss the goals...
 ham | Is that seriously how you...
 
+- Importing the dataset with pandas and bootstrapping the values from the column names
+
+```python
+import pandas as pd
+# Dataset available using filepath 'smsspamcollection/SMSSpamCollection'
+filename= 'smsspamcollection/SMSSpamCollection'
+df = pd.read_csv(filename, sep=r'\t', engine='python', header=None, names=['output', 'message'])
+
+# Output printing out first 5 rows
+df.head()
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTE4NDc4NSwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
