@@ -18,8 +18,17 @@ This allows us to find a relationship between the different conditional probabil
 
 ### Independent cases
 
+For indepdendent cases the theorem would generate the following equations:
+
+$$
+P(A|B) = \frac{P(A \cap B)}{P(B)} \\
+P(A|B) = \frac{P(A)P(B)}{P(B)} \\
+P(A|B) = P(A)
+$$
+And from Bay'e
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDQwMzYwMSwtMTQ4ODcxMTgyNSwtOT
+eyJoaXN0b3J5IjpbMTc4OTU5ODM1NiwtMTQ4ODcxMTgyNSwtOT
 Q2NjA0NjE3XX0=
 -->
