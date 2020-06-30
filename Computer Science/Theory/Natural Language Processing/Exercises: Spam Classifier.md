@@ -127,6 +127,7 @@ testing_data = count_vector.transform(X_test)
 ```
 
 - Bayes Theorem from scratch
+
 Let us implement the Bayes Theorem from scratch using a simple example. Let's say we are trying to find the odds of an individual having diabetes, given that he or she was tested for it and got a positive result. In the medical field, such probabilies play a very important role as it usually deals with life and death situations.
 
 We assume the following:
@@ -153,8 +154,11 @@ The Bayes formula is as follows:
     
 -   `P(B|A)`  is the likelihood probability of B occurring, given A. In our example this is  `P(Pos|D)`. This value is given to us.
 
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2ODM2ODA3LDE3MzU0NDcwMDcsODI1OT
-gyNjU4LDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg5MDg0NSwxNzM1NDQ3MDA3LDgyNT
+k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
