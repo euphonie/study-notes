@@ -1,4 +1,4 @@
-> All information gathered from Udacity's Natual Language Processing Nanodegree
+> All information gathered from Udacity's Natural Language Processing Nanodegree
 
 # Spam Classifier
 The objective is to build a SMS spam classifier.
@@ -340,6 +340,6 @@ print('F1 score: ', format(f1_score(y_test, predictions)))
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDYzNTM2MjAsMTY3NjYyMjUzOCwxNz
-M1NDQ3MDA3LDgyNTk4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbMTEzMTk3MTIwMiwxNjc2NjIyNTM4LDE3Mz
+U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
