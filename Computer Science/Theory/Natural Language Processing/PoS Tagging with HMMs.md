@@ -73,11 +73,11 @@ Graphically the HMM algorithm resembles a Neural Network where weights are defin
 
 # Viterbi Algorithm
 
-
+It states that in order to optimize the procedure of computing probability paths within a HMM graph, all 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODAzOTM3LDE2NTAxOTA5MSwyMzI1ND
-A2NDYsLTEwNjYwMzc5NjAsLTcwNTY3NzM0OSw2ODM5NjYzNjRd
-fQ==
+eyJoaXN0b3J5IjpbLTE2NzEwMTAwMSwxNjUwMTkwOTEsMjMyNT
+QwNjQ2LC0xMDY2MDM3OTYwLC03MDU2NzczNDksNjgzOTY2MzY0
+XX0=
 -->
