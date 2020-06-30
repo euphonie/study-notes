@@ -37,10 +37,10 @@ Problem with n-grams is that not all possible variations exist in the lookup tab
 
 # Hidden Markov Models
 
-
+This approach works with probable grammatical structures in sentences. It uses transition probabilities to move from one PoS to another one, and see how likely it is that these two could be neighbours. And uses emission probabilities 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNTM0NDczLC03MDU2NzczNDksNjgzOT
+eyJoaXN0b3J5IjpbMjAwNTg3NDc4LC03MDU2NzczNDksNjgzOT
 Y2MzY0XX0=
 -->
