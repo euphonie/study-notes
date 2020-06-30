@@ -62,11 +62,13 @@ Then, the algorithm works along two concepts:
 The total value from a given set of transitions using HMM is calculated as: 
 
 $$
-Being \; E
+\forall e : e \in EP \\
+\forall t: t \in TP \\
+P(sentence) = e_
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2ODI2MTQ0LC0xMDY2MDM3OTYwLC03MD
+eyJoaXN0b3J5IjpbMTgxMDI4NjQ3LC0xMDY2MDM3OTYwLC03MD
 U2NzczNDksNjgzOTY2MzY0XX0=
 -->
