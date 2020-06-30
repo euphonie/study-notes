@@ -138,9 +138,9 @@ We assume the following:
 
 `P(Neg)`  is the probability of getting a negative test result.
 
-`P(Pos|D)`  is the probability of getting a positive result on a test done for detecting diabetes, given that you have diabetes. This has a value  `0.9`. In other words the test is correct 90% of the time. This is also called the Sensitivity or True Positive Rate.
+`P(Pos|D)`  is the probability of getting a positive result on a test done for detecting diabetes, given that you have diabetes. This has a value  `0.9`. In other words the test is correct 90% of the time. **This is also called the Sensitivity or True Positive Rate.**
 
-`P(Neg|~D)`  is the probability of getting a negative result on a test done for detecting diabetes, given that you do not have diabetes. This also has a value of  `0.9`  and is therefore correct, 90% of the time. This is also called the Specificity or True Negative Rate.
+`P(Neg|~D)`  is the probability of getting a negative result on a test done for detecting diabetes, given that you do not have diabetes. This also has a value of  `0.9`  and is therefore correct, 90% of the time. **This is also called the Specificity or True Negative Rate.**
 
 The Bayes formula is as follows:
 
@@ -159,6 +159,6 @@ The Bayes formula is as follows:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg5MDg0NSwxNzM1NDQ3MDA3LDgyNT
-k4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbLTEyNDg1NDAzODEsMTczNTQ0NzAwNyw4Mj
+U5ODI2NTgsMTUwNTIzOTAxM119
 -->
