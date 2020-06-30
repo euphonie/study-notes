@@ -220,10 +220,16 @@ print('Probability of an individual not having diabetes, given that that individ
 ,p_no_diabetes_pos)
 ```
 
-- Define formula for Naive Baye'
+- Define formula for Naive Bayes' Theorem
+
+$$
+P(y|x_1,...,x_n) = \frac{P(y)P(x_1,...,x_n|y}{P(x_1,...,x_n)}
+$$
+
+Here, `y` is the class variable or in our case the name of the candidate and `x1` through `xn` are the feature vectors or in our case the individual words. The theorem makes the assumption that each of the feature vectors or words (`xi`) are independent of each other.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU0ODI4MzYwLDE2NzY2MjI1MzgsMTczNT
-Q0NzAwNyw4MjU5ODI2NTgsMTUwNTIzOTAxM119
+eyJoaXN0b3J5IjpbMTY5Mzk2MjQ1NywxNjc2NjIyNTM4LDE3Mz
+U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
