@@ -52,8 +52,13 @@ For calculating these, a lookup table is created and then the probabilities for 
 
 ![Emission probabilities' example](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/emissionprobs.png)
 
+Then, the algorithm works along two concepts: 
+
+- Observations. Each word feed into the algorithm as it starts reading each value of the sentence.
+- Hidden States. Th
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzQ1MzcwOCwtNzA1Njc3MzQ5LDY4Mz
+eyJoaXN0b3J5IjpbLTgxNTU1NDE0NCwtNzA1Njc3MzQ5LDY4Mz
 k2NjM2NF19
 -->
