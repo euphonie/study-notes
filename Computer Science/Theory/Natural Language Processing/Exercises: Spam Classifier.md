@@ -61,11 +61,24 @@ for i in sans_punctuation_documents:
     preprocessed_documents.append(i.split())
 
 # Step 4: Count frequencies
+frequency_list = []
+import pprint
+from collections import Counter
+import itertools
+
+frequency_list = Counter([i for i in itertools.chain.from_iterable(preprocessed_documents)])
+pprint.pprint(frequency_list)
+```
+
+- BoW using scikit-learn
+
+```python
+
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5NjU0NjM3LDE3MzU0NDcwMDcsODI1OT
+eyJoaXN0b3J5IjpbNzU4OTg2MDc5LDE3MzU0NDcwMDcsODI1OT
 gyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
