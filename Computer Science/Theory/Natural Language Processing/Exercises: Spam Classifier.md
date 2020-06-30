@@ -331,10 +331,14 @@ print('F1 score: ', format(f1_score(y_test, predictions)))
 
 - Conclusions
 
-	- Naive 
+	- Naive Bayes ability is to hanlde an extremely large number of features.
+	- It performs well even with the presence of irrelevant features and is relatively unaffected by them.
+	- It is relatively simple.
+		- Tuning the parameters is rarely necessary. Except when the data distribution is known.
+		- It 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzE0OTQwMywxNjc2NjIyNTM4LDE3Mz
+eyJoaXN0b3J5IjpbLTQ4NjQxNDkyNywxNjc2NjIyNTM4LDE3Mz
 U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
