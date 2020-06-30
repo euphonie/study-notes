@@ -152,10 +152,12 @@ The probability of the union of two sets is equal to the sum of the individual p
 
 $$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
 
+![Additive law](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/additivelaw.png)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2ODU2OTU4LC01NTU4NTQwNTcsLTQ5MT
-IyNTQ0MSwxNjQzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0
-OTksLTE3MDUwOTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX
-0=
+eyJoaXN0b3J5IjpbLTE2MTExNTkwNjMsLTU1NTg1NDA1NywtND
+kxMjI1NDQxLDE2NDMyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1
+NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwOD
+ddfQ==
 -->
