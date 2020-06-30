@@ -12,11 +12,11 @@ It stands on this premises to move from a Known probability to an Inferred proba
 
 #### Known probabilities (These should be given)
 $$ P(A) \\
-P(R|A) $$
+P(B|A) $$
 
 #### Inferred probability
 $$
-P(A|R)
+P(A|B)
 $$
 
 ### Example
@@ -86,8 +86,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NDgzMDk2LDUxODEzNjU5NywyNTU3Nz
-Y1MDIsLTIwNzA5NDE2OTksLTExNjcwODI4NTksLTExNzgzMTY5
-MjgsNDk0MzcxMzU5LDcxMjAzNzExOCwtMTgzMTQ0MjY2NywtMj
-A1Mjc0ODQ1OSw5NDk2NzMwNDJdfQ==
+eyJoaXN0b3J5IjpbLTg4MjE1OTE3NiwyMjc0ODMwOTYsNTE4MT
+M2NTk3LDI1NTc3NjUwMiwtMjA3MDk0MTY5OSwtMTE2NzA4Mjg1
+OSwtMTE3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3MTE4LC0xOD
+MxNDQyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml19
 -->
