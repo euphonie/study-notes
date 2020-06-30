@@ -89,11 +89,16 @@ count_vector.get_feature_names()
 # Create a matrix with the rows begin the documents and the columns being each word. The row, column values will have the frequency of occurrence of the word in the denoted document
 doc_array = count_vector.transform(documents).toarray()
 doc_array
+
+# Convert the array into a dataframe
+frequency_matrix = pd.DataFrame(doc_array, columns =count_vector.get_feature_names())
+
+
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODI1NjczMSwxNzM1NDQ3MDA3LDgyNT
+eyJoaXN0b3J5IjpbMTA5MTA1MzIzMiwxNzM1NDQ3MDA3LDgyNT
 k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
