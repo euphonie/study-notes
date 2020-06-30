@@ -33,10 +33,25 @@ print(df)
 **Bag of words**
 The basic idea of BoW is to take a piece of text and count the frequency of the words in that text. It is important to note that the BoW concept treats each word individually and the order in which the words occur does not matter.
 
+**Bag of Words algorithm from scratch**
+```python
+# Step 1: Convert all strings to their lower case form.
+documents = ['Hello, how are you!',
+             'Win money, win from home.',
+             'Call me now.',
+             'Hello, Call hello you tomorrow?']
+
+lower_case_documents = []
+for i in documents:
+    lower_case_documents.append(i.lower())
+    
+# Step 2: Removing all punctuations
+
+```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTQ0NzAwNyw4MjU5ODI2NTgsMTUwNT
-IzOTAxM119
+eyJoaXN0b3J5IjpbMjA5MjgzMzcyNywxNzM1NDQ3MDA3LDgyNT
+k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
