@@ -20,11 +20,13 @@ Sentences can be formed of elements such as:
 	-  with the columns being the possible PoS;
 	-  the rows being each word in the sentences; 
 	- and the row, column value being the frequency of usage in the corresponding PoS column. 
-- This means there are words that could fall into two PoS categories but would be identified by the highest frequency.
+- This means there are words that could fall into two PoS categories/tags but would be identified by the highest frequency.
 
 ### Bigrams
 
+In this approach, to avoid high frequency of 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzOTY2MzY0XX0=
+eyJoaXN0b3J5IjpbLTE0MDM4Njc2NzYsNjgzOTY2MzY0XX0=
 -->
