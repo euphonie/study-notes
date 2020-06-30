@@ -27,16 +27,17 @@ Sentences can be formed of elements such as:
 In this approach, to avoid high frequency of a specific tag for a word to generalize its use, bi-grams can be used. These refer to combinations of neighbouring words.
 The columns contain variations of tags and the rows contain the corresponding pair of words.
 
-From 2 tags, the generalization of multiple PoS tags is called an ingram.
+From 2 tags, the generalization of multiple PoS tags is called an n-gram.
 
 ![Bi-gram example](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/bigrams.png)
 
 #### More complicated cases
 
+Problem with n-grams is that not all possible variations exist in the lookup table. Therefore, certain ordered pair of
 
 ### 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzODA4MzExLDY4Mzk2NjM2NF19
+eyJoaXN0b3J5IjpbLTIwODMwNTE1MTIsNjgzOTY2MzY0XX0=
 -->
