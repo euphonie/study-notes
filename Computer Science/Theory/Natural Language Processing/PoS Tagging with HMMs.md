@@ -44,10 +44,12 @@ This approach works with probable grammatical structures in sentences. It uses:
 
 - And uses **emission probabilities** to identify which PoS corresponds to each word in a sentence. 
 
-For calculating these a lookup table is created and then 
+For calculating these, a lookup table is created and then the probabilities for each word and its corresponding PoS are computed. 
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDMwODUzOSwtNzA1Njc3MzQ5LDY4Mz
-k2NjM2NF19
+eyJoaXN0b3J5IjpbODUzNDIzNjc0LC03MDU2NzczNDksNjgzOT
+Y2MzY0XX0=
 -->
