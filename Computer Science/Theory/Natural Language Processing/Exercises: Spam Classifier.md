@@ -306,19 +306,23 @@ $$
 Accuracy = \frac{Number\;correct\;predictions}{Total\;number\;predictions}
 $$
 
-- **Precision**. tells us what proportion of messages we classified as spam, actually were spam. It is a ratio of **true positives**(words classified as spam, and which are actually spam) to **all positives**(all words classified as spam, irrespective of whether that was the correct classification), in other words it is the ratio of
+- **Precision**. Tells us what proportion of messages we classified as spam, actually were spam. It is a ratio of **true positives**(words classified as spam, and which are actually spam) to **all positives**(all words classified as spam, irrespective of whether that was the correct classification), in other words it is the ratio of
 
 `[True Positives/(True Positives + False Positives)]`
 $$
 Precision = \frac{True\;positives}{(True\;positives + False\;positives)}
 $$
 
-- **Recall(sensitivity)**. tells us what proportion of messages that actually were spam were classified by us as spam. It is a ratio of true positives(words classified as spam, and which are actually spam) to all the words that were actually spam, in other words it is the ratio of
+- **Recall(sensitivity)**. Tells us what proportion of messages that actually were spam were classified by us as spam. It is a ratio of **true positives**(words classified as spam, and which are actually spam) to all the words that were actually spam, in other words it is the ratio of
 
 `[True Positives/(True Positives + False Negatives)]`
 
+$$
+Recall = \frac{True\;positives}{(True\;positives + False\;negatives)}
+$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzcwMTQ0NSwxNjc2NjIyNTM4LDE3Mz
-U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzgwNzk2MjksMTY3NjYyMjUzOCwxNz
+M1NDQ3MDA3LDgyNTk4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
