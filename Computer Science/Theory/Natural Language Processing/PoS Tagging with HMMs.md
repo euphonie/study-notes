@@ -40,16 +40,18 @@ Problem with n-grams is that not all possible variations exist in the lookup tab
 This approach works with probable grammatical structures in sentences. It uses:
 -  **Transition probabilities** to move from one PoS to another one, and see how likely it is that these two could be neighbours. 
 
+For calculating these, a lookup table of PoS relationships is created. Having the rows order precedence over the columns and computing the corresponding probabilities.
 
+![Transition Probabilities](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/transitionalgraph.png)
 
 - And uses **emission probabilities** to identify which PoS corresponds to each word in a sentence. 
 
 For calculating these, a lookup table is created and then the probabilities for each word and its corresponding PoS are computed. 
 
-
+![Emission probabilities' example](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/emissionprobs.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzNDIzNjc0LC03MDU2NzczNDksNjgzOT
-Y2MzY0XX0=
+eyJoaXN0b3J5IjpbMTI4NjQxOTM2NywtNzA1Njc3MzQ5LDY4Mz
+k2NjM2NF19
 -->
