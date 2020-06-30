@@ -15,7 +15,10 @@ $$
 P(A|B) = \frac{P(B|A) * P(A)}{P(B)}
 $$
 This allows us to find a relationship between the different conditional probabilities of two events.
+
+### Independent rul
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg3MTE4MjUsLTk0NjYwNDYxN119
+eyJoaXN0b3J5IjpbNTMxMzU4NDU5LC0xNDg4NzExODI1LC05ND
+Y2MDQ2MTddfQ==
 -->
