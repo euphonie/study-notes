@@ -1,4 +1,4 @@
-> All information gathered from Udacity's Natual Language Processing Nanodegree
+> All information gathered from Udacity's Natural Language Processing Nanodegree
 
 # Parts of Speech
 
@@ -42,7 +42,9 @@ This approach works with probable grammatical structures in sentences. It uses:
 
 For calculating these, a lookup table of PoS relationships is created. Having the rows order precedence over the columns and computing the corresponding probabilities.
 
-![Transition Probabilities](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/transitionalgraph.png)
+![Transitional Probabilities' example](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/transitionalprobs.png)
+
+![Transition Probabilities' graph](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/transitionalgraph.png)
 
 - And uses **emission probabilities** to identify which PoS corresponds to each word in a sentence. 
 
@@ -52,6 +54,6 @@ For calculating these, a lookup table is created and then the probabilities for 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjQxOTM2NywtNzA1Njc3MzQ5LDY4Mz
+eyJoaXN0b3J5IjpbLTU5MzQ1MzcwOCwtNzA1Njc3MzQ5LDY4Mz
 k2NjM2NF19
 -->
