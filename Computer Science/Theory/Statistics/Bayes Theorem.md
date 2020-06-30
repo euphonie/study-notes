@@ -25,10 +25,16 @@ P(A|B) = \frac{P(A \cap B)}{P(B)} \\
 P(A|B) = \frac{P(A)P(B)}{P(B)} \\
 P(A|B) = P(A)
 $$
-And from Bay'e
+And from Bayes' Theorem
+$$
+P(B|A) = \frac{P(A|B) P(B)}{P(A)} \\
+P(B|A) = \frac{P(A)P(B)}{P(A)} \\
+P(B|A) = P(B)
+$$
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTU5ODM1NiwtMTQ4ODcxMTgyNSwtOT
+eyJoaXN0b3J5IjpbMTY0OTg2NjcxNSwtMTQ4ODcxMTgyNSwtOT
 Q2NjA0NjE3XX0=
 -->
