@@ -69,7 +69,12 @@ $$
 
 ## Naive Bayes Theorem Formula
 
-Possible Scenarios for two sets of hypothesis
+Possible Scenarios for two sets of hypothesis. 
+Is important to notice that Naive Bayes basically considers each feature to be independent of each other which may not always be the case and hence that can affect the final judgement.
+
+> In short, Bayes Theorem calculates the probability of a certain event happening (in our case, a message being spam) based on the joint probabilistic distributions of certain other events (in our case, the appearance of certain words in a message). We will dive into the workings of Bayes Theorem later in the mission, but first, let us understand the data we are going to work with.
+> 
+> Udacity's Nanodegree - First exercise
 
 $$
 P(R |A) = P(A)P(R|A) \\
@@ -90,8 +95,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3OTI1NDkxLDIyNzQ4MzA5Niw1MTgxMz
-Y1OTcsMjU1Nzc2NTAyLC0yMDcwOTQxNjk5LC0xMTY3MDgyODU5
-LC0xMTc4MzE2OTI4LDQ5NDM3MTM1OSw3MTIwMzcxMTgsLTE4Mz
-E0NDI2NjcsLTIwNTI3NDg0NTksOTQ5NjczMDQyXX0=
+eyJoaXN0b3J5IjpbMTgxNjYxODkxMSw2Nzc5MjU0OTEsMjI3ND
+gzMDk2LDUxODEzNjU5NywyNTU3NzY1MDIsLTIwNzA5NDE2OTks
+LTExNjcwODI4NTksLTExNzgzMTY5MjgsNDk0MzcxMzU5LDcxMj
+AzNzExOCwtMTgzMTQ0MjY2NywtMjA1Mjc0ODQ1OSw5NDk2NzMw
+NDJdfQ==
 -->
