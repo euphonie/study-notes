@@ -22,8 +22,18 @@ df = pd.read_csv(filename, sep=r'\t', engine='python', header=None, names=['outp
 # Output printing out first 5 rows
 df.head()
 ```
+- Converting categorical values into a numeric representation to feed them to scikit-learn
+
+```python
+df['output'] = df.output.map({'ham':'0', 'spam': '1'}) 
+print(df)
+```
+
+**Bag of words**
+The basic idea of 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbNDgxMzQ4MTEwLDgyNTk4MjY1OCwxNTA1Mj
+M5MDEzXX0=
 -->
