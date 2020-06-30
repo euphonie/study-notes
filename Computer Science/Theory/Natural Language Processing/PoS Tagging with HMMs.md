@@ -69,10 +69,15 @@ $$
 
 Graphically the HMM algorithm resembles a Neural Network where weights are defined with the transitional probabilities and each node holds the probability generated from the emission probabilities.
 
+![HMM graph representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/hmmgraph.png)
+
+# Viterbi Algorithm
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDE5MDkxLDIzMjU0MDY0NiwtMTA2Nj
-AzNzk2MCwtNzA1Njc3MzQ5LDY4Mzk2NjM2NF19
+eyJoaXN0b3J5IjpbMTMwODAzOTM3LDE2NTAxOTA5MSwyMzI1ND
+A2NDYsLTEwNjYwMzc5NjAsLTcwNTY3NzM0OSw2ODM5NjYzNjRd
+fQ==
 -->
