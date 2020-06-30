@@ -93,11 +93,12 @@ doc_array
 # Convert the array into a dataframe
 frequency_matrix = pd.DataFrame(doc_array, columns =count_vector.get_feature_names())
 ```
-To mitigate the skewness due to word high frequency in certain languages CountVectorizer 
+To mitigate the skewness due to word high frequency in certain languages CountVectorizer can be instantiated with a parameter named `stop_words` set to `english` for example. This will automatically ignore all words that are found in a built in list of English stop words in scikit-learn.
 
+TF-IDF features could also be used for this. [TF-IDF Vectorizer - sciki](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#sklearn.feature_extraction.text.TfidfVectorizer)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTQ5NTk4NCwxNzM1NDQ3MDA3LDgyNT
+eyJoaXN0b3J5IjpbLTgwMTQ3MzU4MCwxNzM1NDQ3MDA3LDgyNT
 k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
