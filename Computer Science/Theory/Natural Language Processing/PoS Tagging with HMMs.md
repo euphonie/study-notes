@@ -76,9 +76,14 @@ Graphically the HMM algorithm resembles a Neural Network where weights are defin
 It states that in order to optimize the procedure of computing probability paths within a HMM graph, all the paths that come to an state can be evaluated and the highest can be chosen to stay as the preferred path to traverse.
 It is basically applying dynamic programming on top of the process.
 
+The process goes as the following: 
+- Each layer is computed and for each node
+	- Multiply the probabilities from each incoming edge with the value of the node
+	- The edge that calculated the highes
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDIzNDA5NzMsMTY1MDE5MDkxLDIzMj
-U0MDY0NiwtMTA2NjAzNzk2MCwtNzA1Njc3MzQ5LDY4Mzk2NjM2
-NF19
+eyJoaXN0b3J5IjpbNjkwMTU3NDUwLC0xNDQyMzQwOTczLDE2NT
+AxOTA5MSwyMzI1NDA2NDYsLTEwNjYwMzc5NjAsLTcwNTY3NzM0
+OSw2ODM5NjYzNjRdfQ==
 -->
