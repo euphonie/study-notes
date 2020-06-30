@@ -1,16 +1,17 @@
 > All information gathered from Udacity's Natual Language Processing Nanodegree
 
 # Spam Classifier
+The objective is to build a SMS spam classifier.
 
-The data comprises of a file that holds two columns. One describes if the message is spam or ham; and the second column, contains the message.
+The data comprises of a file that holds two columns. One describes if the message is spam or ham; and the second column, contains the SMS message.
 
 Criteria| Message
 -------- | -----
-ham| Fine if thats the w
-spam | $12
-ham | $1
+ham| Fine if thats the way...
+spam | England v Macednoia - dont miss the goals...
+ham | Is that seriously how you...
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0ODAxMTgxLDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbLTcyOTE4NDc4NSwxNTA1MjM5MDEzXX0=
 -->
