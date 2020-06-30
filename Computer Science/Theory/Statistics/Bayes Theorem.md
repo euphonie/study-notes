@@ -7,11 +7,14 @@ Also known as Bayes' Rule or Bayes' Probability.
 Given conditional probability and the multiplication rule we have the following system of equations: 
 
 $$
-P(A|B) = \frac{P(A \cap B)}{P(B)} \text{asdfasd} \\
+P(A|B) = \frac{P(A \cap B)}{P(B)} \\
 P(A \cap B) = P(B|A) * P(A)
+$$
+We can conclude the following equation:
+$$
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjYwNDYxN119
+eyJoaXN0b3J5IjpbMTM4NTA2MTA3MSwtOTQ2NjA0NjE3XX0=
 -->
