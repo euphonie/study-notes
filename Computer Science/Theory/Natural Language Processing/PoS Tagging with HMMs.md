@@ -11,10 +11,14 @@ Sentences can be formed of elements such as:
 - Articles
 - Pronouns, etc...
 
-##
+## Algorithms
+
+### Lookup table
+
+- We take the information from a given set of sentences and tag each word with its corresponding PoS. Then a lookup table is filled, basically a frequency distribution matrix, with the columns being the possible PoS, the rows being each word in the sentences, 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM2OTE4NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3NjE1MzkyMDldfQ==
 -->
