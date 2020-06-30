@@ -24,9 +24,9 @@ Sentences can be formed of elements such as:
 
 ### Bigrams
 
-In this approach, to avoid high frequency of 
+In this approach, to avoid high frequency of a specific tag for a word to generalize its use, bi-grams can be used. These refer to combinations of neighbouring words.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM4Njc2NzYsNjgzOTY2MzY0XX0=
+eyJoaXN0b3J5IjpbLTQ0MDI2NzA0Miw2ODM5NjYzNjRdfQ==
 -->
