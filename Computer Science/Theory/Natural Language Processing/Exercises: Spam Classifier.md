@@ -220,8 +220,10 @@ print('Probability of an individual not having diabetes, given that that individ
 ,p_no_diabetes_pos)
 ```
 
+- Define formula for Naive Baye'
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NjYyMjUzOCwxNzM1NDQ3MDA3LDgyNT
-k4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbMzU0ODI4MzYwLDE2NzY2MjI1MzgsMTczNT
+Q0NzAwNyw4MjU5ODI2NTgsMTUwNTIzOTAxM119
 -->
