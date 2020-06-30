@@ -86,11 +86,12 @@ The process goes as the following:
 
 - Continue to the next layer making the same calculations leaving only one incoming edge to every node where it corresponds.
 
+![Conserve only the edges that have the highest probability](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/viterbi2.png)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjM3NTczLC0xNDQyMzQwOTczLDE2NT
+eyJoaXN0b3J5IjpbMzQzNTk2NzIxLC0xNDQyMzQwOTczLDE2NT
 AxOTA5MSwyMzI1NDA2NDYsLTEwNjYwMzc5NjAsLTcwNTY3NzM0
 OSw2ODM5NjYzNjRdfQ==
 -->
