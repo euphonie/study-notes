@@ -67,10 +67,12 @@ $$
 P(sentence) = e_1 * t_1 * e_2 * t_2 * ... * e_n * t_n
 $$
 
-Graphically the HMM algorithm resembles a Neural Network where weights are defined with the probabilities and each node holds the probability generated from the emission probabilities
+Graphically the HMM algorithm resembles a Neural Network where weights are defined with the transitional probabilities and each node holds the probability generated from the emission probabilities.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTIyOTc1OSwyMzI1NDA2NDYsLTEwNj
-YwMzc5NjAsLTcwNTY3NzM0OSw2ODM5NjYzNjRdfQ==
+eyJoaXN0b3J5IjpbMTY1MDE5MDkxLDIzMjU0MDY0NiwtMTA2Nj
+AzNzk2MCwtNzA1Njc3MzQ5LDY4Mzk2NjM2NF19
 -->
