@@ -1,4 +1,4 @@
-> All information gathered from Udacity's Natual Language Processing Nanodegree
+> All information gathered from Udacity's Natural Language Processing Nanodegree
 
 ## NLP Pipeline
 
@@ -29,5 +29,5 @@ The phases it may comprise are:
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTUwMjE3NCwtMjg1MzEyNDc4XX0=
+eyJoaXN0b3J5IjpbLTg4MjcxODkyNCwtMjg1MzEyNDc4XX0=
 -->
