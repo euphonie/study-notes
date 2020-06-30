@@ -79,11 +79,14 @@ It is basically applying dynamic programming on top of the process.
 The process goes as the following: 
 - Each layer is computed and for each node
 	- Multiply the probabilities from each incoming edge with the value of the node
-	- The edge that calculated the highes
+	- The edge that calculated the highest probability value is saved and the other connections are deleted
+		- In case of a draw, the edge is chosen randomly
+- Continue to the next layer making the same calculations
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwMTU3NDUwLC0xNDQyMzQwOTczLDE2NT
-AxOTA5MSwyMzI1NDA2NDYsLTEwNjYwMzc5NjAsLTcwNTY3NzM0
-OSw2ODM5NjYzNjRdfQ==
+eyJoaXN0b3J5IjpbLTEzMzQ3MTA5NTYsLTE0NDIzNDA5NzMsMT
+Y1MDE5MDkxLDIzMjU0MDY0NiwtMTA2NjAzNzk2MCwtNzA1Njc3
+MzQ5LDY4Mzk2NjM2NF19
 -->
