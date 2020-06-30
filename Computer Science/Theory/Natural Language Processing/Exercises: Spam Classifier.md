@@ -156,15 +156,21 @@ The Bayes formula is as follows:
 
 Putting our values into the formula for Bayes theorem we get:
 
-`P(D|Pos) = P(D) * P(Pos|D) / P(Pos)`
+$$
+P(D|Pos) = \frac{P(D) * P(Pos|D)}{P(Pos)}
+$$
 
 The probability of getting a positive test result  `P(Pos)`  can be calculated using the Sensitivity and Specificity as follows:
 
 `P(Pos) = [P(D) * Sensitivity] + [P(~D) * (1-Specificity))]`
 
+$$
+P(Pos) = [P(D) * Sensitivity] + [P(D^c) * (1- Specificity)]
+$$
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODk2NzY3MSwxNzM1NDQ3MDA3LDgyNT
-k4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbLTExNTU2MDYxNzQsMTczNTQ0NzAwNyw4Mj
+U5ODI2NTgsMTUwNTIzOTAxM119
 -->
