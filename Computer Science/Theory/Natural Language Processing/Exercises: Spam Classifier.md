@@ -73,12 +73,21 @@ pprint.pprint(frequency_list)
 - BoW using scikit-learn
 
 ```python
+documents = ['Hello, how are you!',
+                'Win money, win from home.',
+                'Call me now.',
+                'Hello, Call hello you tomorrow?']
+                
+# import CountVectorizer and create an instance
+from sklearn.feature_extraction.text import CountVectorizer
+count_vector = CountVectorizer()
+
 
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4OTg2MDc5LDE3MzU0NDcwMDcsODI1OT
+eyJoaXN0b3J5IjpbNjAyNDg2NjY0LDE3MzU0NDcwMDcsODI1OT
 gyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
