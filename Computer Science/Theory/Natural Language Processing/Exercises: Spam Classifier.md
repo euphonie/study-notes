@@ -46,12 +46,26 @@ for i in documents:
     lower_case_documents.append(i.lower())
     
 # Step 2: Removing all punctuations
+sans_punctuation_documents = []
+import string
+import re
 
+regex = re.compile('[%s]' % re.escape(string.punctuation))
+
+for i in lower_case_documents:
+    sans_punctuation_documents.append(regex.sub(' ', i))
+
+# Step 3: Tokenization
+preprocessed_documents = []
+for i in sans_punctuation_documents:
+    preprocessed_documents.append(i.split())
+
+# Step 4: Count frequencies
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjgzMzcyNywxNzM1NDQ3MDA3LDgyNT
-k4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbMjY5NjU0NjM3LDE3MzU0NDcwMDcsODI1OT
+gyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
