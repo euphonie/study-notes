@@ -81,12 +81,16 @@ The process goes as the following:
 	- Multiply the probabilities from each incoming edge with the value of the node
 	- The edge that calculated the highest probability value is saved and the other connections are deleted
 		- In case of a draw, the edge is chosen randomly
-- Continue to the next layer making the same calculations
-- 
+
+![Calculate each most probable incoming edge](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/viterbi.png)
+
+- Continue to the next layer making the same calculations leaving only one incoming edge to every node where it corresponds.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ3MTA5NTYsLTE0NDIzNDA5NzMsMT
-Y1MDE5MDkxLDIzMjU0MDY0NiwtMTA2NjAzNzk2MCwtNzA1Njc3
-MzQ5LDY4Mzk2NjM2NF19
+eyJoaXN0b3J5IjpbLTgyNjM3NTczLC0xNDQyMzQwOTczLDE2NT
+AxOTA5MSwyMzI1NDA2NDYsLTEwNjYwMzc5NjAsLTcwNTY3NzM0
+OSw2ODM5NjYzNjRdfQ==
 -->
