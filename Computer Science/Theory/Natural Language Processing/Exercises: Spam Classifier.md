@@ -93,11 +93,11 @@ doc_array
 # Convert the array into a dataframe
 frequency_matrix = pd.DataFrame(doc_array, columns =count_vector.get_feature_names())
 ```
-To mitigate skewness due to word 
+To mitigate the skewness due to word high frequency in certain languages CountVectorizer 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDgyODg1MSwxNzM1NDQ3MDA3LDgyNT
+eyJoaXN0b3J5IjpbMTYyOTQ5NTk4NCwxNzM1NDQ3MDA3LDgyNT
 k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
