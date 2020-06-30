@@ -321,8 +321,20 @@ $$
 Recall = \frac{True\;positives}{(True\;positives + False\;negatives)}
 $$
 
+```python
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
+print('Accuracy score: ', format(accuracy_score(y_test, predictions)))
+print('Precision score: ', format(precision_score(y_test, predictions)))
+print('Recall score: ', format(recall_score(y_test, predictions)))
+print('F1 score: ', format(f1_score(y_test, predictions)))
+```
+
+- Conclusions
+
+	- Naive 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzgwNzk2MjksMTY3NjYyMjUzOCwxNz
-M1NDQ3MDA3LDgyNTk4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbLTU3NzE0OTQwMywxNjc2NjIyNTM4LDE3Mz
+U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
