@@ -293,10 +293,25 @@ Specifically, we will be using the **multinomial Naive Bayes** implementation. T
 from sklearn.naive_bayes import MultinomialNB
 naive_bayes = MultinomialNB()
 naive_bayes.fit(training_data, y_train)
+# Now that our algorithm has been trained using the training data set we can now make some predictions on the test data 
+# stored in 'testing_data' using predict(). Save your predictions into the 'predictions' variable.
+predictions = naive_bayes.predict(testing_data)
 ```
+
+- Evaluating the model
+
+	-	**Accuracy**. Measures how often the classifier makes the correct prediction. It’s the ratio of the number of correct predictions to the total number of predictions (the number of test data points).
+
+** Precision ** tells us what proportion of messages we classified as spam, actually were spam. It is a ratio of true positives(words classified as spam, and which are actually spam) to all positives(all words classified as spam, irrespective of whether that was the correct classification), in other words it is the ratio of
+
+`[True Positives/(True Positives + False Positives)]`
+
+** Recall(sensitivity)** tells us what proportion of messages that actually were spam were classified by us as spam. It is a ratio of true positives(words classified as spam, and which are actually spam) to all the words that were actually spam, in other words it is the ratio of
+
+`[True Positives/(True Positives + False Negatives)]`
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Nzc1MTA0NiwxNjc2NjIyNTM4LDE3Mz
+eyJoaXN0b3J5IjpbLTk0Nzg2ODAwMiwxNjc2NjIyNTM4LDE3Mz
 U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
