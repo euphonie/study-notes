@@ -154,14 +154,16 @@ $$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
 
 ![Additive law](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/additivelaw.png)
 
-## Multiplicatio Rule
+## Multiplication Rule
 
+A new formula can be obtained from the conditional probability rules being: 
 
+$$P(A|B) + P(B) = P(A \$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzUyOTk2MDUsLTU1NTg1NDA1NywtND
-kxMjI1NDQxLDE2NDMyMzIwNzYsLTE1MzkzNDU1ODksLTcyNDM1
-NDQ5OSwtMTcwNTA5NTA4MSwtNTkxNDA5NTMyLDE5NzE1NTEwOD
-ddfQ==
+eyJoaXN0b3J5IjpbNzEwMTgzNzI1LC01NTU4NTQwNTcsLTQ5MT
+IyNTQ0MSwxNjQzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0
+OTksLTE3MDUwOTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX
+0=
 -->
