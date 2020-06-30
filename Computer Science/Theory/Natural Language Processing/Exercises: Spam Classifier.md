@@ -28,13 +28,15 @@ df.head()
 df['output'] = df.output.map({'ham':'0', 'spam': '1'}) 
 print(df)
 ```
+- Convert the texts to a frequency distribution matrix using BoW
 
 **Bag of words**
 The basic idea of BoW is to take a piece of text and count the frequency of the words in that text. It is important to note that the BoW concept treats each word individually and the order in which the words occur does not matter.
 
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzk3MTM1LDgyNTk4MjY1OCwxNTA1Mj
-M5MDEzXX0=
+eyJoaXN0b3J5IjpbMTczNTQ0NzAwNyw4MjU5ODI2NTgsMTUwNT
+IzOTAxM119
 -->
