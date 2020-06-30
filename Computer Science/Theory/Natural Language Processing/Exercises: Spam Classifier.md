@@ -252,6 +252,7 @@ P(G|F,I) = \frac{P(G) * P(F|G) * P(I|G)}{P(F,I)}
 $$
 
 ```python
+# Find probability of Jill saying Freedom and immigration
 # P(J)
 p_j = 0.5
 
@@ -262,10 +263,28 @@ p_j_f = 0.1
 p_j_i = 0.1
 
 p_j_text = (p_j * p_j_f * p_j_i)
+
+# Find probability of Gary saying Freedom and immigration
+# P(G)
+p_g = 0.5
+
+# P(F/G)
+p_g_f = 0.7
+
+# P(I/G)
+p_g_i = 0.2
+
+p_g_text = (p_g * p_g_f * p_g_i)
+
+p_f_i = p_j_text + p_g_text
+print('Probability of words freedom and immigration being said are: ', format(p_f_i))
+
+p_j_fi = p_j_text/p_f_i
+print('The probability of Jill Stein saying the words Freedom and Immigration: ', format(p_j_fi))
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzM1MTA2LDE2NzY2MjI1MzgsMTczNT
-Q0NzAwNyw4MjU5ODI2NTgsMTUwNTIzOTAxM119
+eyJoaXN0b3J5IjpbMTg0NDk3ODg5NSwxNjc2NjIyNTM4LDE3Mz
+U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
