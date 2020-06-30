@@ -162,15 +162,15 @@ $$
 
 The probability of getting a positive test result  `P(Pos)`  can be calculated using the Sensitivity and Specificity as follows:
 
-`P(Pos) = [P(D) * Sensitivity] + [P(~D) * (1-Specificity))]`
-
 $$
-P(Pos) = [P(D) * Sensitivity] + [P(D^c) * (1- Specificity)]
+P(Pos) = [P(D) * Sensitivity] + [P(D^c) * (1- Specificity)] \\
+Sensitivity = P(Pos|D) \\
+Specificity = P(Neg|D^c)
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU2MDYxNzQsMTczNTQ0NzAwNyw4Mj
-U5ODI2NTgsMTUwNTIzOTAxM119
+eyJoaXN0b3J5IjpbMTY2NjY4OTQzOCwxNzM1NDQ3MDA3LDgyNT
+k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
