@@ -15,10 +15,15 @@ Sentences can be formed of elements such as:
 
 ### Lookup table
 
-- We take the information from a given set of sentences and tag each word with its corresponding PoS. Then a lookup table is filled, basically a frequency distribution matrix, with the columns being the possible PoS, the rows being each word in the sentences, 
+- We take the information from a given set of sentences and tag each word with its corresponding PoS. 
+- Then a lookup table is filled, basically a frequency distribution matrix,
+	-  with the columns being the possible PoS;
+	-  the rows being each word in the sentences; and the row, column value being the frequency of usage in the corresponding PoS column. 
+
+This means there are words that could fall into two PoS categories but would be identified by the highest frequency.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE1MzkyMDldfQ==
+eyJoaXN0b3J5IjpbNzUzNjMwODUyXX0=
 -->
