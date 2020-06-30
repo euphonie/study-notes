@@ -59,8 +59,14 @@ Then, the algorithm works along two concepts:
 - **Hidden States**. Every state of the graph of state transitioning depicted by the PoS and the likelihood of moving from one PoS to the other.
 	- Between hidden states: Transition probabilities.
 
+The total value from a given set of transitions using HMM is calculated as: 
+
+$$
+Being \; E
+$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYwMzc5NjAsLTcwNTY3NzM0OSw2OD
-M5NjYzNjRdfQ==
+eyJoaXN0b3J5IjpbNDM2ODI2MTQ0LC0xMDY2MDM3OTYwLC03MD
+U2NzczNDksNjgzOTY2MzY0XX0=
 -->
