@@ -228,8 +228,27 @@ $$
 
 Here, `y` is the class variable or in our case the name of the candidate and `x1` through `xn` are the feature vectors or in our case the individual words. The theorem makes the assumption that each of the feature vectors or words (`xi`) are independent of each other.
 
+**Copied from exercies point 4.2**
+> This exercise tries to find the probability of a presidential candidate of saying specific words in a speech
+
+To break this down, we have to compute the following posterior probabilities:
+
+-   `P(J|F,I)`: Probability of Jill Stein saying the words Freedom and Immigration.
+    
+    Using the formula and our knowledge of Bayes' theorem, we can compute this as follows:  
+    `P(J|F,I)`  =  `(P(J) * P(F|J) * P(I|J)) / P(F,I)`. 
+$$
+P(J|F,I) = \fracP{
+$$
+Here  `P(F,I)`  is the probability of the words 'freedom' and 'immigration' being said in a speech.
+    
+
+-   `P(G|F,I)`: Probability of Gary Johnson saying the words Freedom and Immigration.
+    
+    Using the formula, we can compute this as follows:  `P(G|F,I)`  =  `(P(G) * P(F|G) * P(I|G)) / P(F,I)`
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5Mzk2MjQ1NywxNjc2NjIyNTM4LDE3Mz
-U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
+eyJoaXN0b3J5IjpbMzAzNzA2Mjk2LDE2NzY2MjI1MzgsMTczNT
+Q0NzAwNyw4MjU5ODI2NTgsMTUwNTIzOTAxM119
 -->
