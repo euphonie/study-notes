@@ -168,9 +168,31 @@ Sensitivity = P(Pos|D) \\
 Specificity = P(Neg|D^c)
 $$
 
+```python
+'''
+Solution (skeleton code will be provided)
+'''
+# P(D)
+p_diabetes = 0.01
+
+# P(~D)
+p_no_diabetes = 0.99
+
+# Sensitivity or P(Pos|D)
+p_pos_diabetes = 0.9
+
+# Specificity or P(Neg|~D)
+p_neg_no_diabetes = 0.9
+
+# P(Pos)
+p_pos = (p_diabetes * p_pos_diabetes) + (p_no_diabetes * (1-p_neg_no_diabetes))
+print('The probability of getting a positive test result P(Pos) is: {}',format(p_pos))
+```
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjY4OTQzOCwxNzM1NDQ3MDA3LDgyNT
+eyJoaXN0b3J5IjpbLTE0NzU1OTc4NiwxNzM1NDQ3MDA3LDgyNT
 k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
