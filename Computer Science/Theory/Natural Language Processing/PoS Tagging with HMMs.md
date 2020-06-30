@@ -2,10 +2,10 @@
 
 # Parts of Speech
 
-
+This implementations are usually good for grammar or spelling checkers.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MDg0NjA4XX0=
+eyJoaXN0b3J5IjpbMTg3ODgxNDk5NF19
 -->
