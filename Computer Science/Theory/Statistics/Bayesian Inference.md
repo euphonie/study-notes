@@ -142,14 +142,18 @@ $$
 
 Example, given the following description 
 
-![Probability of being vegeratien](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/totalprob.png)
+![Probability of being vegeratian](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/totalprob.png)
 
-$$P(Vegetarien) = \frac{44}{100} = 0.44$$
+$$P(Vegetarian) = \frac{44}{100} = 0.44$$
+
+## Additive Law
+
+The probability of the union of two sets is equal to the sum of the individual probabilities of each event, minus the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjUxNjM4MiwtNTU1ODU0MDU3LC00OT
-EyMjU0NDEsMTY0MzIzMjA3NiwtMTUzOTM0NTU4OSwtNzI0MzU0
-NDk5LC0xNzA1MDk1MDgxLC01OTE0MDk1MzIsMTk3MTU1MTA4N1
-19
+eyJoaXN0b3J5IjpbLTU0Njk5MzE5LC01NTU4NTQwNTcsLTQ5MT
+IyNTQ0MSwxNjQzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0
+OTksLTE3MDUwOTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX
+0=
 -->
