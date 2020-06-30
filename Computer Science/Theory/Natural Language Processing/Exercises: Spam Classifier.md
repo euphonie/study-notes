@@ -236,19 +236,23 @@ To break this down, we have to compute the following posterior probabilities:
 -   `P(J|F,I)`: Probability of Jill Stein saying the words Freedom and Immigration.
     
     Using the formula and our knowledge of Bayes' theorem, we can compute this as follows:  
-    `P(J|F,I)`  =  `(P(J) * P(F|J) * P(I|J)) / P(F,I)`. 
 $$
-P(J|F,I) = \fracP{
+P(J|F,I) = \frac{P(J) * P(F|J) * P(I|J)}{P(F,I)}
 $$
-Here  `P(F,I)`  is the probability of the words 'freedom' and 'immigration' being said in a speech.
-    
+Here  `P(F,I)`  is the probability of the words 'freedom' and 'immigration' being said in a speech. 
+$$
+P(F,I) = P(F) \cap P(I)
+$$
 
 -   `P(G|F,I)`: Probability of Gary Johnson saying the words Freedom and Immigration.
     
-    Using the formula, we can compute this as follows:  `P(G|F,I)`  =  `(P(G) * P(F|G) * P(I|G)) / P(F,I)`
+    Using the formula, we can compute this as follows:  
+$$
+P(G|F,I) = \frac{P(G) * P(F|G) * P(I|G)}{P(F,I)}
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzNzA2Mjk2LDE2NzY2MjI1MzgsMTczNT
+eyJoaXN0b3J5IjpbNjkzMzI1NDUwLDE2NzY2MjI1MzgsMTczNT
 Q0NzAwNyw4MjU5ODI2NTgsMTUwNTIzOTAxM119
 -->
