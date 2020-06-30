@@ -92,13 +92,12 @@ doc_array
 
 # Convert the array into a dataframe
 frequency_matrix = pd.DataFrame(doc_array, columns =count_vector.get_feature_names())
-
-
 ```
+To mitigate skewness due to word 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTA1MzIzMiwxNzM1NDQ3MDA3LDgyNT
+eyJoaXN0b3J5IjpbLTcyMDgyODg1MSwxNzM1NDQ3MDA3LDgyNT
 k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
