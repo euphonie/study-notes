@@ -148,11 +148,13 @@ $$P(Vegetarian) = \frac{44}{100} = 0.44$$
 
 ## Additive Law
 
-The probability of the union of two sets is equal to the sum of the individual probabilities of each event, minus the 
+The probability of the union of two sets is equal to the sum of the individual probabilities of each event, minus the probability of their intersection. 
+
+$$P(A \cup B) = P(A) + P(B) - P(A \cap B)$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Njk5MzE5LC01NTU4NTQwNTcsLTQ5MT
+eyJoaXN0b3J5IjpbOTY2ODU2OTU4LC01NTU4NTQwNTcsLTQ5MT
 IyNTQ0MSwxNjQzMjMyMDc2LC0xNTM5MzQ1NTg5LC03MjQzNTQ0
 OTksLTE3MDUwOTUwODEsLTU5MTQwOTUzMiwxOTcxNTUxMDg3XX
 0=
