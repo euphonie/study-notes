@@ -126,8 +126,35 @@ training_data = count_vector.fit_transform(X_train)
 testing_data = count_vector.transform(X_test)
 ```
 
+- Bayes Theorem from scratch
+Let us implement the Bayes Theorem from scratch using a simple example. Let's say we are trying to find the odds of an individual having diabetes, given that he or she was tested for it and got a positive result. In the medical field, such probabilies play a very important role as it usually deals with life and death situations.
+
+We assume the following:
+
+`P(D)`  is the probability of a person having Diabetes. It's value is  `0.01`  or in other words, 1% of the general population has diabetes(Disclaimer: these values are assumptions and are not reflective of any medical study).
+
+`P(Pos)`  is the probability of getting a positive test result.
+
+`P(Neg)`  is the probability of getting a negative test result.
+
+`P(Pos|D)`  is the probability of getting a positive result on a test done for detecting diabetes, given that you have diabetes. This has a value  `0.9`. In other words the test is correct 90% of the time. This is also called the Sensitivity or True Positive Rate.
+
+`P(Neg|~D)`  is the probability of getting a negative result on a test done for detecting diabetes, given that you do not have diabetes. This also has a value of  `0.9`  and is therefore correct, 90% of the time. This is also called the Specificity or True Negative Rate.
+
+The Bayes formula is as follows:
+
+![](https://view989a0867.udacity-student-workspaces.com/notebooks/images/bayes_formula.png)
+
+-   `P(A)`  is the prior probability of A occurring independently. In our example this is  `P(D)`. This value is given to us.
+    
+-   `P(B)`  is the prior probability of B occurring independently. In our example this is  `P(Pos)`.
+    
+-   `P(A|B)`  is the posterior probability that A occurs given B. In our example this is  `P(D|Pos)`. That is,  **the probability of an individual having diabetes, given that, that individual got a positive test result. This is the value that we are looking to calculate.**
+    
+-   `P(B|A)`  is the likelihood probability of B occurring, given A. In our example this is  `P(Pos|D)`. This value is given to us.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQyMDc3MTc0LDE3MzU0NDcwMDcsODI1OT
+eyJoaXN0b3J5IjpbNjU2ODM2ODA3LDE3MzU0NDcwMDcsODI1OT
 gyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
