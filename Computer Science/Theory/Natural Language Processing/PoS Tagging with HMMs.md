@@ -39,10 +39,15 @@ Problem with n-grams is that not all possible variations exist in the lookup tab
 
 This approach works with probable grammatical structures in sentences. It uses:
 -  **Transition probabilities** to move from one PoS to another one, and see how likely it is that these two could be neighbours. 
+
+
+
 - And uses **emission probabilities** to identify which PoS corresponds to each word in a sentence. 
+
+For calculating these a lookup table is created and then 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDI3OTIyMywtNzA1Njc3MzQ5LDY4Mz
+eyJoaXN0b3J5IjpbLTg5NDMwODUzOSwtNzA1Njc3MzQ5LDY4Mz
 k2NjM2NF19
 -->
