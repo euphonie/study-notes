@@ -95,10 +95,25 @@ frequency_matrix = pd.DataFrame(doc_array, columns =count_vector.get_feature_nam
 ```
 To mitigate the skewness due to word high frequency in certain languages CountVectorizer can be instantiated with a parameter named `stop_words` set to `english` for example. This will automatically ignore all words that are found in a built in list of English stop words in scikit-learn.
 
-TF-IDF features could also be used for this. [TF-IDF Vectorizer - sciki](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#sklearn.feature_extraction.text.TfidfVectorizer)
+TF-IDF features could also be used for this. [TF-IDF Vectorizer - scikit-learn docs](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#sklearn.feature_extraction.text.TfidfVectorizer)
+
+- Training and testing the sets
+
+```python
+from sklearn.cross_validation import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(df['message'], 
+                                                    df['output'], 
+                                                    random_state=1)
+
+print('Number of rows in the total set: {}'.format(df.shape[0]))
+print('Number of rows in the training set: {}'.format(X_train.shape[0]))
+print('Number of rows in the test set: {}'.format(X_test.shape[0]))
+```
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTQ3MzU4MCwxNzM1NDQ3MDA3LDgyNT
+eyJoaXN0b3J5IjpbMTMwNDYwNTA1NCwxNzM1NDQ3MDA3LDgyNT
 k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
