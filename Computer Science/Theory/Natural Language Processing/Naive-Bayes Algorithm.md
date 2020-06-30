@@ -41,8 +41,12 @@ The probability of event `P(R ∩ A)` is calculated by the multiplication of `P(
 
 #### Scenarios
 
-Therefore the previous probabilities for the events are the following. Here we are computing the probabilities `P(B|A)` using the naive bayes' form. This means 
+Therefore the previous probabilities for the events are the following. Here we are computing the probabilities `P(B|A)` using the naive bayes' form. This means the formula is more similar to: 
 
+$$
+P(B|A) \propto P(A|B) * P(A)
+$$
+Therefore to calculate de proportional pro
 $$
 P(Alex|Red sweater) = P(Alex) * P(Red sweater|Alex) = 0.75 * 0.4 = 0.3 \\
 P(Alex|Other sweater) = 0.75 * 0.6 = 0.45 \\
@@ -86,8 +90,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Njc2OSwyMjc0ODMwOTYsNTE4MTM2NT
-k3LDI1NTc3NjUwMiwtMjA3MDk0MTY5OSwtMTE2NzA4Mjg1OSwt
-MTE3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3MTE4LC0xODMxND
-QyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml19
+eyJoaXN0b3J5IjpbMTU3MTk2MDIxNywyMjc0ODMwOTYsNTE4MT
+M2NTk3LDI1NTc3NjUwMiwtMjA3MDk0MTY5OSwtMTE2NzA4Mjg1
+OSwtMTE3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3MTE4LC0xOD
+MxNDQyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml19
 -->
