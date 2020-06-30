@@ -67,15 +67,15 @@ $$
 P(Brenda|Red sweater) = \frac{0.25*0.6}{0.25*0.6 + 0.75*0.4} = 0.33 
 $$
 
-## Bayes Theorem Formula
+## Naive Bayes Theorem Formula
 
 Possible Scenarios for two sets of hypothesis
 
 $$
-P(R \cap A) = P(A)P(R|A) \\
-P(R^c \cap A) = P(A)P(R^c) \\
-P(R \cap B) = P(B)P(R|B) \\
-P(R^c \cap B) = P(B)P(R^c|B)
+P(R |A) = P(A)P(R|A) \\
+P(R^c | A) = P(A)P(R^c) \\
+P(R | B) = P(B)P(R|B) \\
+P(R^c | B) = P(B)P(R^c|B)
 $$
 
 #### Normalization
@@ -90,8 +90,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzYwMzY4NiwyMjc0ODMwOTYsNTE4MT
-M2NTk3LDI1NTc3NjUwMiwtMjA3MDk0MTY5OSwtMTE2NzA4Mjg1
-OSwtMTE3ODMxNjkyOCw0OTQzNzEzNTksNzEyMDM3MTE4LC0xOD
-MxNDQyNjY3LC0yMDUyNzQ4NDU5LDk0OTY3MzA0Ml19
+eyJoaXN0b3J5IjpbNjc3OTI1NDkxLDIyNzQ4MzA5Niw1MTgxMz
+Y1OTcsMjU1Nzc2NTAyLC0yMDcwOTQxNjk5LC0xMTY3MDgyODU5
+LC0xMTc4MzE2OTI4LDQ5NDM3MTM1OSw3MTIwMzcxMTgsLTE4Mz
+E0NDI2NjcsLTIwNTI3NDg0NTksOTQ5NjczMDQyXX0=
 -->
