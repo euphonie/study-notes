@@ -199,15 +199,29 @@ $$
 
 The probability of an individual not having diabetes, given that, that individual got a positive test result:
 
-`P(~D|Pos) = (P(~D) * (1-Specificity)) / P(Pos)`
 $$
-P(D^c|Pos) = \frac{P(D^c) * (1 - Specificity)}{}
+P(D^c|Pos) = \frac{P(D^c) * (1 - Specificity)}{P(Pos)}
 $$
 
 The sum of our posteriors will always equal  `1`.
 
+```python
+# P(D|Pos)
+p_diabetes_pos = (p_diabetes * p_pos_diabetes) / p_pos
+print('Probability of an individual having diabetes, given that that individual got a positive test result is:\
+',format(p_diabetes_pos)) 
+
+# P(Pos|~D)
+p_pos_no_diabetes = 0.1
+
+# P(~D|Pos)
+p_no_diabetes_pos = (p_no_diabetes * p_pos_no_diabetes) / p_pos
+print('Probability of an individual not having diabetes, given that that individual got a positive test result is:'\
+,p_no_diabetes_pos)
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODIzMDQ4ODgsMTczNTQ0NzAwNyw4Mj
-U5ODI2NTgsMTUwNTIzOTAxM119
+eyJoaXN0b3J5IjpbMTY3NjYyMjUzOCwxNzM1NDQ3MDA3LDgyNT
+k4MjY1OCwxNTA1MjM5MDEzXX0=
 -->
