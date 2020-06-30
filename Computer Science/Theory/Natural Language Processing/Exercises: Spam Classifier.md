@@ -286,8 +286,16 @@ p_g_fi = p_g_text/p_f_i
 print('The probability of Gary Johnson saying the words Freedom and Immigration: ', format(p_g_fi))
 ```
 
+- Naive Bayes' implementation using scikit-learn
+
+```python
+from sklearn.naive_bayes import MultinomialNB
+naive_bayes = MultinomialNB()
+naive_bayes.fit(training_data, y_train)
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMyMjM3NzEsMTY3NjYyMjUzOCwxNz
-M1NDQ3MDA3LDgyNTk4MjY1OCwxNTA1MjM5MDEzXX0=
+eyJoaXN0b3J5IjpbLTYyMTM5MzgwOCwxNjc2NjIyNTM4LDE3Mz
+U0NDcwMDcsODI1OTgyNjU4LDE1MDUyMzkwMTNdfQ==
 -->
