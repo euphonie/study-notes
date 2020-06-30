@@ -251,8 +251,21 @@ $$
 P(G|F,I) = \frac{P(G) * P(F|G) * P(I|G)}{P(F,I)}
 $$
 
+```python
+# P(J)
+p_j = 0.5
+
+# P(F/J)
+p_j_f = 0.1
+
+# P(I/J)
+p_j_i = 0.1
+
+p_j_text = (p_j * p_j_f * p_j_i)
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMzI1NDUwLDE2NzY2MjI1MzgsMTczNT
+eyJoaXN0b3J5IjpbMTUyNzM1MTA2LDE2NzY2MjI1MzgsMTczNT
 Q0NzAwNyw4MjU5ODI2NTgsMTUwNTIzOTAxM119
 -->
