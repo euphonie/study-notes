@@ -37,7 +37,7 @@ Problem with n-grams is that not all possible variations exist in the lookup tab
 
 # Hidden Markov Models
 
-This approach works with probable grammatical structures in sentences. It uses:
+This approach works with probable syntactic structures in sentences. It uses:
 -  **Transition probabilities** to move from one PoS to another one, and see how likely it is that these two could be neighbours. 
 
 For calculating these, a lookup table of PoS relationships is created. Having the rows order precedence over the columns and computing the corresponding probabilities.
@@ -91,7 +91,7 @@ The process goes as the following:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzNTk2NzIxLC0xNDQyMzQwOTczLDE2NT
-AxOTA5MSwyMzI1NDA2NDYsLTEwNjYwMzc5NjAsLTcwNTY3NzM0
-OSw2ODM5NjYzNjRdfQ==
+eyJoaXN0b3J5IjpbLTE3NDU0MDkwODUsMzQzNTk2NzIxLC0xND
+QyMzQwOTczLDE2NTAxOTA5MSwyMzI1NDA2NDYsLTEwNjYwMzc5
+NjAsLTcwNTY3NzM0OSw2ODM5NjYzNjRdfQ==
 -->
