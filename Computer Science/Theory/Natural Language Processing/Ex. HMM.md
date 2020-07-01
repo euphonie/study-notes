@@ -1,5 +1,6 @@
 # Building Hidden Markov Models
 
+> Workbook found in [Jupyter's notebook](https://github.com/euphonie/hmm-tagger/blob/master/HMM%20warmup%20%28optional%29.ipynb)
 
 ```python
 import matplotlib.pyplot as plt
@@ -33,5 +34,5 @@ print("Looks good so far!")
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTYzMDAyMiwxMTQxNTM5Nzg4XX0=
+eyJoaXN0b3J5IjpbLTE1Mzc4MjQ1MTgsMTE0MTUzOTc4OF19
 -->
