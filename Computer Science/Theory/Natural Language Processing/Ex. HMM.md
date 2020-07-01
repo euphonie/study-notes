@@ -68,8 +68,35 @@ print("The state transition matrix, P(Xt|Xt-1):\n")
 print(transitions)
 print("\nThe transition probability from Rainy to Sunny is {:.0f}%".format(100 * transitions[2, 1]))
 ```
+
+## Calculating sequence likelihood
+```python
+# TODO: input a sequence of 'yes'/'no' values in the list below for testing
+observations = ['yes', 'no', 'yes']
+
+assert len(observations) > 0, "You need to choose a sequence of 'yes'/'no' observations to test"
+
+# TODO: use model.forward() to calculate the forward matrix of the observed sequence,
+# and then use np.exp() to convert from log-likelihood to likelihood
+forward_matrix = np.exp(model.forward(observations))
+
+# TODO: use model.log_probability() to calculate the all-paths likelihood of the
+# observed sequence and then use np.exp() to convert log-likelihood to likelihood
+probability_percentage = np.exp(model.log_probability(observations))
+
+# Display the forward probabilities
+print("         " + "".join(s.name.center(len(s.name)+6) for s in model.states))
+for i in range(len(observations) + 1):
+    print(" <start> " if i==0 else observations[i - 1].center(9), end="")
+    print("".join("{:.0f}%".format(100 * forward_matrix[i, j]).center(len(s.name) + 6)
+                  for j, s in enumerate(model.states)))
+
+print("\nThe likelihood over all possible paths " + \
+      "of this model producing the sequence {} is {:.2f}%\n\n"
+      .format(observations, 100 * probability_percentage))
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNzM1MDU2LC0xNTM3ODI0NTE4LDExND
+eyJoaXN0b3J5IjpbNTc3NTExNDk5LC0xNTM3ODI0NTE4LDExND
 E1Mzk3ODhdfQ==
 -->
