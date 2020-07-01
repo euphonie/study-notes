@@ -31,8 +31,9 @@ model.add_states(sunny_state, rainy_state)
 assert rainy_emissions.probability("yes") == 0.8, "The director brings his umbrella with probability 0.8 on rainy days"
 print("Looks good so far!")
 ```
-
+``
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzc4MjQ1MTgsMTE0MTUzOTc4OF19
+eyJoaXN0b3J5IjpbMTY2NTYzODM5NCwtMTUzNzgyNDUxOCwxMT
+QxNTM5Nzg4XX0=
 -->
