@@ -56,8 +56,20 @@ print("Great! You've finished the model.")
 # Generates a PNG image from a Pomegranate HMM network
 show_model(model, figsize=(5, 5), filename="example.png", overwrite=True, show_ends=False)
 ```
+Accessing interpretations from the transition matrix and the hidden states.
+```python
+column_order = ["Example Model-start", "Sunny", "Rainy", "Example Model-end"]  # Override the Pomegranate default order
+column_names = [s.name for s in model.states]
+order_index = [column_names.index(c) for c in column_order]
+
+# re-order the rows/columns to match the specified column order
+transitions = model.dense_transition_matrix()[:, order_index][order_index, :]
+print("The state transition matrix, P(Xt|Xt-1):\n")
+print(transitions)
+print("\nThe transition probability from Rainy to Sunny is {:.0f}%".format(100 * transitions[2, 1]))
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYzMTY1NTgsLTE1Mzc4MjQ1MTgsMT
-E0MTUzOTc4OF19
+eyJoaXN0b3J5IjpbNzAwNzM1MDU2LC0xNTM3ODI0NTE4LDExND
+E1Mzk3ODhdfQ==
 -->
