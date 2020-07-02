@@ -30,9 +30,20 @@ The value is then -1 (less similar), 0 or 1 (most similar). To demonstrate the s
 
 For avoiding having a bias on the importance or inherent high frequency of certain words given a topic, a **document frequency** can be tracked along with the document-term matrix.
 
-The idea is to use the document frequency as a sample space and divide each frequency by it, having then a value that normalizes higher frequency words.
+The idea is to use the document frequency as a sample space and divide each frequency by it, having then a value that normalizes higher frequency words. This highlights words that are more unique in a document.
+
+The formula is:
+
+$$
+tfidf(t, d, D) = tf(t,d) * idf(t,D) \\
+tf = term\;frequency \\
+idf = inverse\;document\;frequ
+$$
+
+
+> image
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjUzNDg3OF19
+eyJoaXN0b3J5IjpbMTg5MjUwMDM4OF19
 -->
