@@ -53,7 +53,11 @@ $$
 
 > image
 
+## One-Hot Encoding
+
+This technique is to give a categorical value 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3Nzc4MzA2XX0=
+eyJoaXN0b3J5IjpbODA0MzQ4OTU3LDEwNzc3ODMwNl19
 -->
