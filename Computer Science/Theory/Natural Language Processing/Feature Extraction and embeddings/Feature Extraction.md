@@ -47,12 +47,13 @@ count(t,d) = count\;of\;word\;t\;in\;document\;d \\
 $$
 $$
 idf(t,D) = log(\frac{|D|}{{d \in D: t \in d}}) \\
- a
+ |D| = total\;number\;of\;documents\;in\;the\;corpus \\
+d \in D: t \in d = number\;of\;documents\;were\;t\;is\;present
 $$
 
 > image
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MTEyOTg1XX0=
+eyJoaXN0b3J5IjpbMTA3Nzc4MzA2XX0=
 -->
