@@ -20,10 +20,10 @@ $$
 
 -  A better approach is using **cosine similarity**, where the dot-product is divided by the product of the magnitudes from the vectors
 $$
-cos(\theta) = \frac{a*b}{\abs{}}
+cos(\theta) = \frac{a*b}{ \abs{a} }
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk5ODM0NDZdfQ==
+eyJoaXN0b3J5IjpbMTA2MTE0NTQzXX0=
 -->
