@@ -42,13 +42,17 @@ $$
 The formulas components are:
 $$
 tf(t,d) = \frac{count(t, d)}{|d|} \\
+count(t,d) = count\;of\;word\;t\;in\;document\;d \\
 |d| = total\;number\;of\;terms\;in\;d
 $$
-
+$$
+idf(t,D) = log(\frac{|D|}{{d \in D: t \in d}}) \\
+ a
+$$
 
 > image
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTU5NDA4M119
+eyJoaXN0b3J5IjpbNjE2MTEyOTg1XX0=
 -->
