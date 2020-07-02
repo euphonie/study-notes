@@ -55,9 +55,12 @@ $$
 
 ## One-Hot Encoding
 
-This technique is to give a categorical value 
+This technique is used to assign a numerical representation for each word that is part of a document. Basically a BoW matrix is created in a categorical way. 
+- Each row represents a word
+- and each column represents each word.
+- Having then a matrix of 1's 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA0MzQ4OTU3LDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbLTEzNzI3MjU3ODAsMTA3Nzc4MzA2XX0=
 -->
