@@ -10,12 +10,14 @@ Vectorization of a set of documents can be accomplished to have a better reading
 
 **Possible analysis**
 - Comparing similarity of term frequency between two rows (vectors) from the matrix.
-	- Thiis is obtained applying the dot-product on the vectors 
-		
-		
+	- This is obtained applying the dot-product on the vectors. **Note**: This ignores the differences between the vec 
+
+$$
+a*b = \sum{a_0*b_0 + a_1*b_1+...+a_n*b_n}
+$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyOTAyNDI4XX0=
+eyJoaXN0b3J5IjpbNTczNTU2NDIxXX0=
 -->
