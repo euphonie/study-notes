@@ -18,12 +18,13 @@ $$
 a*b = \sum{a_0*b_0 + a_1*b_1+...+a_n*b_n}
 $$
 
--  A better approach is using **cosine similarity**, where the dot-product is divided by the product of the magnitudes from the vectors
+-  A better approach is using **cosine similarity**, where the dot-product is divided by the product of the magnitudes from the vectors. This is also known as their **euclidean norms**
 $$
-cos(\theta) = \frac{a*b}{ \abs{a} }
+cos(\theta) = \frac{a*b}{ ||a|| * ||b|| }
 $$
+The value is then -1, 0 or 1. To demonstrate the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTE0NTQzXX0=
+eyJoaXN0b3J5IjpbLTIwMTM5MzI5MTVdfQ==
 -->
