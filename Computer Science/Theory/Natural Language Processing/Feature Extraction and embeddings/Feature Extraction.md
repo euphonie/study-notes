@@ -64,14 +64,19 @@ Where every vector is a bag of words containing only 1 word.
 
 This approach is not the ideal when the size of the corpus is too large, as a similar-sized matrix is required.
 
-## Word embeddings
+## Word2Vec
+
+### Word embeddings
 
 In this approach, the idea is to have a vector space where some properties apply for pair or n-tuples of words:
 - Words with same meaning are close to each other 
 - Words with different meanings are far from each other
 - Words with opposite meaning are separated by the similar magnitudes
 
+### Word2Vec algorithm
+This approach transforms words into vectors. It derives from the idea that a 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxODQwMjIxLDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbLTc2MzgwMDMyMSwxMDc3NzgzMDZdfQ==
 -->
