@@ -5,6 +5,8 @@
 
 This technique converts each document to a corresponding unordered collection of words (bag). One of the applications, could be checking multiple documents for plagiarism or sentiment analysis from a collection of tweets.
 
+This approach has a limitation, **it treats every word as equally important**. When in accor
+
 ### Document-Term Matrix
 Vectorization of a set of documents can be accomplished to have a better reading than analyzing each separate document. In this approach, a corpus would be constructed from all the documents and a frequency table should be composed having a column for each pre-processed token. This can be known as a **Document-Term Matrix**.
 
@@ -26,7 +28,9 @@ The value is then -1 (less similar), 0 or 1 (most similar). To demonstrate the s
 
 ## TF-IDF
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNzQ3NTIyXX0=
+eyJoaXN0b3J5IjpbNTM2NTIyNjRdfQ==
 -->
