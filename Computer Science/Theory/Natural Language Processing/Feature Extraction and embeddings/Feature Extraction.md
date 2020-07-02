@@ -18,9 +18,12 @@ $$
 a*b = \sum{a_0*b_0 + a_1*b_1+...+a_n*b_n}
 $$
 
--  A better approach is using **coi**
+-  A better approach is using **cosine similarity**, where the dot-product is divided by the product of the magnitudes from the vectors
+$$
+cos(\theta) = \frac{a*b}{\abs{}}
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NzMwMTYyXX0=
+eyJoaXN0b3J5IjpbLTIwODk5ODM0NDZdfQ==
 -->
