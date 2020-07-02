@@ -62,10 +62,12 @@ This technique is used to assign a numerical representation for each word that i
 
 Where every vector is a bag of words containing only 1 word.
 
+This approach is not the ideal when the size of the corpus is too large, as a similar-sized matrix is required.
+
 ## Word embeddings
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY3Nzk0NzIsMTA3Nzc4MzA2XX0=
+eyJoaXN0b3J5IjpbMTQzNTE0NzU4NiwxMDc3NzgzMDZdfQ==
 -->
