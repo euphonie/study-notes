@@ -37,7 +37,12 @@ The formula is:
 $$
 tfidf(t, d, D) = tf(t,d) * idf(t,D) \\
 tf = term\;frequency \\
-idf = inverse\;document\;frequ
+idf = inverse\;document\;frequency
+$$
+The formulas components are:
+$$
+tf(t,d) = \frac{count(t, d)}{|d|} \\
+|d| = total\;number\;of\;terms\;in\;d
 $$
 
 
@@ -45,5 +50,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjUwMDM4OF19
+eyJoaXN0b3J5IjpbLTgxMTU5NDA4M119
 -->
