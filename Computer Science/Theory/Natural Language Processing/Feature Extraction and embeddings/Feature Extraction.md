@@ -8,18 +8,19 @@ This technique converts each document to a corresponding unordered collection of
 ### Document-Term Matrix
 Vectorization of a set of documents can be accomplished to have a better reading than analyzing each separate document. In this approach, a corpus would be constructed from all the documents and a frequency table should be composed having a column for each pre-processed token. This can be known as a **Document-Term Matrix**.
 
-
+> image
 
 **Possible analysis**
 - Comparing similarity of term frequency between two rows (vectors) from the matrix.
-	- This is obtained applying the dot-product on the vectors. **Note**: This ignores the differences between the vectors. 
+	- This is obtained applying the dot-product on the vectors. **Note**: This ignores the differences between the vectors; pairs that are different might end up with the same product from identical ones. 
 
 $$
 a*b = \sum{a_0*b_0 + a_1*b_1+...+a_n*b_n}
 $$
 
+-  A better approach is using **coi**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDE5MjU4MV19
+eyJoaXN0b3J5IjpbNDc0NzMwMTYyXX0=
 -->
