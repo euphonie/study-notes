@@ -22,9 +22,11 @@ $$
 $$
 cos(\theta) = \frac{a*b}{ ||a|| * ||b|| }
 $$
-The value is then -1, 0 or 1. To demonstrate the 
+The value is then -1 (less similar), 0 or 1 (most similar). To demonstrate the similarity of the vectors.
+
+## TF-IDF
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM5MzI5MTVdfQ==
+eyJoaXN0b3J5IjpbMjQxNzQ3NTIyXX0=
 -->
