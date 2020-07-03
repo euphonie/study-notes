@@ -87,6 +87,10 @@ This approach transforms words into vectors. It derives from the idea that a mod
 - Memoization can be applied to training
 - It works with deep learning architectures (input for RNNs)
 
+### Deep Learning cases
+
+
+
 ## GloVe (Global Vectors for Word Representation)
 
 - The probability of words `j,i` is computed to know given `j` what is the likelihood of `i` being part of the context. $P(j|i)$. This is also known as the **co-ocurrence probabilities** of `j` and `i`.
@@ -97,8 +101,9 @@ This approach transforms words into vectors. It derives from the idea that a mod
 - It looks for the occurrence of probability between $P(j|i)$ to be equals to the product of the vectors $W_i*W_j$
 - The goal is a set of vectors that capture the similarities and differences between a given set of words
 
+> image
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUyMDM3MiwxMDc3NzgzMDZdfQ==
+eyJoaXN0b3J5IjpbLTE0MzI1MDc2MzUsMTA3Nzc4MzA2XX0=
 -->
