@@ -95,7 +95,7 @@ According to the course, this might be the reason why arithmetic might be plausi
 
 #### Dimensions
 
-Having a vector space, the idea behind introducing new dimensions relies on the fact that words apply meaning to the 
+Having a vector space, the idea behind introducing new dimensions relies on the fact that words apply meaning to the immediate context in which they are used. Therefore, the magnitude or meaning of a word may vary in different contexts or dimensions to other similar words in different contexts or dimensions.
 
 ### Deep Learning cases
 
@@ -115,5 +115,5 @@ Having a vector space, the idea behind introducing new dimensions relies on the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMDg2NTMyLDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbLTExNDUwOTY4MCwxMDc3NzgzMDZdfQ==
 -->
