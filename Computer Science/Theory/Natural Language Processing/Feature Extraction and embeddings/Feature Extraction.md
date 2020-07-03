@@ -90,10 +90,13 @@ This approach transforms words into vectors. It derives from the idea that a mod
 ## GloVe (Global Vectors for Word Representation)
 
 - The probability of words `j,i` is computed to know given `j` what is the likelihood of `i` being part of the context. `P(j|i)`
-	- This means 
+	- This simply means if the word `j` is present in the vicinity (next or a few words) of word `i`. E.g. `a cup (i) of coffee (j)`
+- Two sets of probability vectors are computed
+	- One set when `j` is the target of the desired probability
+	- On
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM5MTY5MzYsMTA3Nzc4MzA2XX0=
+eyJoaXN0b3J5IjpbODQyNzAyMTQ3LDEwNzc3ODMwNl19
 -->
