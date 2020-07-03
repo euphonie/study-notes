@@ -84,9 +84,14 @@ This approach transforms words into vectors. It derives from the idea that a mod
 ### Properties
 - Is a robust, distributed representation for analyzing words.
 - The vector size is independent of the vocabulary
-- 
+- Memoization can be applied to training
+- It works with deep learning architectures (input for RNNs)
+
+## GloVe (Global Vectors for Word Representation)
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NzM4ODc4LDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbLTExMDYyMDY5NTcsMTA3Nzc4MzA2XX0=
 -->
