@@ -74,9 +74,14 @@ In this approach, the idea is to have a vector space where some properties apply
 - Words with opposite meaning are separated by the similar magnitudes
 
 ### Word2Vec algorithm
-This approach transforms words into vectors. It derives from the idea that a 
+This approach transforms words into vectors. It derives from the idea that a model could be able to identify relation between words given two methodologies:
+- Analizing neighbouring words, also called **Continuous Bag of Words (CBoW)**
+
+- Analizing a middle word, also called **Skip-gram.**
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzgwMDMyMSwxMDc3NzgzMDZdfQ==
+eyJoaXN0b3J5IjpbMTMzODcwODQ0MiwxMDc3NzgzMDZdfQ==
 -->
