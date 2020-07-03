@@ -78,10 +78,10 @@ This approach transforms words into vectors. It derives from the idea that a mod
 - Analizing neighbouring words, also called **Continuous Bag of Words (CBoW)**
 
 - Analizing a middle word, also called **Skip-gram.**
-
-
+	- It takes one word and one-hot encodes it into a vector
+	- The vector gets feed into a Neural Network or a Probabilistic model that aims to look for most plausible surrounding words given the context
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODcwODQ0MiwxMDc3NzgzMDZdfQ==
+eyJoaXN0b3J5IjpbODQ0NjMyMjk3LDEwNzc3ODMwNl19
 -->
