@@ -10,7 +10,7 @@ This approach has a limitation, **it treats every word as equally important**. W
 ### Document-Term Matrix
 Vectorization of a set of documents can be accomplished to have a better reading than analyzing each separate document. In this approach, a corpus would be constructed from all the documents and a frequency table should be composed having a column for each pre-processed token. This can be known as a **Document-Term Matrix**.
 
-> image
+![Document-term matrix](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/doctermmatrix.png)
 
 **Possible analysis**
 - Comparing similarity of term frequency between two rows (vectors) from the matrix.
@@ -112,10 +112,10 @@ The process of word embedding can also be incorporated into the training algorit
 - It looks for the occurrence of probability between $P(j|i)$ to be equals to the product of the vectors $W_i*W_j$
 - The goal is a set of vectors that capture the similarities and differences between a given set of words
 
-> image
+![Logic begind co-oc probabilities](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/coocprobs.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3OTExNjc4LC0xODU5NzE5NjU5LC0xMT
+eyJoaXN0b3J5IjpbNTY3NjI1MDczLC0xODU5NzE5NjU5LC0xMT
 Q1MDk2ODAsMTA3Nzc4MzA2XX0=
 -->
