@@ -97,7 +97,7 @@ According to the course, this might be the reason why arithmetic might be plausi
 
 Having a vector space, the idea behind introducing new dimensions relies on the fact that words apply meaning to the immediate context in which they are used. Therefore, the magnitude or meaning of a word may vary in different contexts or dimensions to other similar words in different contexts or dimensions.
 
-The process of word embedding can also be incorporated into the training algorithm to produce a significant word vector to convert 
+The process of word embedding can also be incorporated into the training algorithm to produce a significant word vector to convert the one-hot encoding into. However, using a pre-trained word embedding algorithm could be applied for already defined 
 
 
 ## GloVe (Global Vectors for Word Representation)
@@ -114,6 +114,6 @@ The process of word embedding can also be incorporated into the training algorit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDg1MzAzMCwtMTE0NTA5NjgwLDEwNz
-c3ODMwNl19
+eyJoaXN0b3J5IjpbLTE4NTk3MTk2NTksLTExNDUwOTY4MCwxMD
+c3NzgzMDZdfQ==
 -->
