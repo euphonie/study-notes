@@ -91,7 +91,11 @@ This approach transforms words into vectors. It derives from the idea that a mod
 
 > Words that happen in the same context tend to have the same meanings.
 
-According to the course, this might be the reason why arit
+According to the course, this might be the reason why arithmetic might be plausible on words.
+
+#### Dimensions
+
+Having a vector space, the idea behind introducing new dimensions relies on the fact that words apply meaning to the 
 
 ### Deep Learning cases
 
@@ -111,5 +115,5 @@ According to the course, this might be the reason why arit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NDE0MjAzLDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbMTEyMDg2NTMyLDEwNzc3ODMwNl19
 -->
