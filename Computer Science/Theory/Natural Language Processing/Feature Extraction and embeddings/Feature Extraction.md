@@ -99,7 +99,7 @@ Having a vector space, the idea behind introducing new dimensions relies on the 
 
 The process of word embedding can also be incorporated into the training algorithm to produce a significant word vector to convert the one-hot encoding into. However, using a pre-trained word embedding algorithm could be applied for already defined plausible word vectors for a given corpus.
 
-> image
+![Embedding words model process vs visual analysis model](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/flowmeaning.png)
 
 
 ## GloVe (Global Vectors for Word Representation)
@@ -116,6 +116,6 @@ The process of word embedding can also be incorporated into the training algorit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3NjI1MDczLC0xODU5NzE5NjU5LC0xMT
-Q1MDk2ODAsMTA3Nzc4MzA2XX0=
+eyJoaXN0b3J5IjpbLTIyNjg1MTY5MywtMTg1OTcxOTY1OSwtMT
+E0NTA5NjgwLDEwNzc3ODMwNl19
 -->
