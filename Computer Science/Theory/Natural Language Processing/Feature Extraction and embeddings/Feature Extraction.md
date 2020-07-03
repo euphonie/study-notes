@@ -97,8 +97,7 @@ According to the course, this might be the reason why arithmetic might be plausi
 
 Having a vector space, the idea behind introducing new dimensions relies on the fact that words apply meaning to the immediate context in which they are used. Therefore, the magnitude or meaning of a word may vary in different contexts or dimensions to other similar words in different contexts or dimensions.
 
-### Deep Learning cases
-
+The process of word embedding can also be incorporated into the training algorithm to produce a significant word vector to convert 
 
 
 ## GloVe (Global Vectors for Word Representation)
@@ -115,5 +114,6 @@ Having a vector space, the idea behind introducing new dimensions relies on the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUwOTY4MCwxMDc3NzgzMDZdfQ==
+eyJoaXN0b3J5IjpbMTkzNDg1MzAzMCwtMTE0NTA5NjgwLDEwNz
+c3ODMwNl19
 -->
