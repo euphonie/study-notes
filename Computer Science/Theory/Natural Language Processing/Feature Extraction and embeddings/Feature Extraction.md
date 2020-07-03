@@ -76,12 +76,17 @@ In this approach, the idea is to have a vector space where some properties apply
 ### Word2Vec algorithm
 This approach transforms words into vectors. It derives from the idea that a model could be able to identify relation between words given two methodologies:
 - Analizing neighbouring words, also called **Continuous Bag of Words (CBoW)**
-
 - Analizing a middle word, also called **Skip-gram.**
 	- It takes one word and one-hot encodes it into a vector
 	- The vector gets feed into a Neural Network or a Probabilistic model that aims to look for most plausible surrounding words given the context
+	- The output layers of the model become the corresponding vector
+
+### Properties
+- Is a robust, distributed representation for analyzing words.
+- The vector size is independent of the vocabulary
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NjMyMjk3LDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbODk5NzM4ODc4LDEwNzc3ODMwNl19
 -->
