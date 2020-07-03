@@ -87,6 +87,12 @@ This approach transforms words into vectors. It derives from the idea that a mod
 - Memoization can be applied to training
 - It works with deep learning architectures (input for RNNs)
 
+### Distributional Hyphotesis
+
+> Words that happen in the same context tend to have the same meanings.
+
+According to the course, this might be the reason why arit
+
 ### Deep Learning cases
 
 
@@ -105,5 +111,5 @@ This approach transforms words into vectors. It derives from the idea that a mod
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI1MDc2MzUsMTA3Nzc4MzA2XX0=
+eyJoaXN0b3J5IjpbOTQ0NDE0MjAzLDEwNzc3ODMwNl19
 -->
