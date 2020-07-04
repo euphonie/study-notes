@@ -8,12 +8,12 @@ This type of neural networks rely on a memory element (past inputs being fed aga
 
 This kind of neural networks don't have the ability to capture dependencies that change over time.
 
-- An enhancement proposed were Time Delay Neural Networks (TDNN) which had a window of time represented by a set of inputs into the Neural Network which recollected past versions of the input. 
+- **1989**. An enhancement proposed were Time Delay Neural Networks (TDNN) which had a window of time represented by a set of inputs into the Neural Network which recollected past versions of the input. 
 	- The disadvantage of this approach was the limit set by the size of the window selected
-- Then 
+- **1990**. Then simple RNNs or Elman Neural Networks were introduced.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTcwMzk5NzYsMjA4ODc4NzE4MSwyMD
-QyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTc0NzkyNzA3LDIwODg3ODcxODEsMjA0Mj
+Y0OTE3XX0=
 -->
