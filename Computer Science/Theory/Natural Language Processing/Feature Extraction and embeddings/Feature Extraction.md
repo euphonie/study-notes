@@ -120,12 +120,12 @@ Word embedding need to have high-dimensionality in order to capture variations i
 
 Stands for t-Distributed Stochastic Neighbor Embedding.  Technique that looks to reduce dimensionality that lowers vectors to a representation with less dimensions. Similar to Principal Component Analysis (PCA).
 
-It tries to maintain similarity across words when the process of dimension removal is done. Preserves the line structures that represent the word embedding results from the model.
+It tries to maintain similarity across words when the process of dimension removal is done. Preserves the line structures that represent the word embedding results from the model. This helps identifying bugs in the process of training.
 
-This 
+This technique can also be applied to labelled images. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA0MTM2MjgsLTEyOTY4NDk1NTAsLT
-E4NTk3MTk2NTksLTExNDUwOTY4MCwxMDc3NzgzMDZdfQ==
+eyJoaXN0b3J5IjpbMTcxMDk5OTkxOCwtMTI5Njg0OTU1MCwtMT
+g1OTcxOTY1OSwtMTE0NTA5NjgwLDEwNzc3ODMwNl19
 -->
