@@ -99,6 +99,8 @@ Having a vector space, the idea behind introducing new dimensions relies on the 
 
 The process of word embedding can also be incorporated into the training algorithm to produce a significant word vector to convert the one-hot encoding into. However, using a pre-trained word embedding algorithm could be applied for already defined plausible word vectors for a given corpus.
 
+Word embedding need to have high-dimensionality in order to capture variations in natural language.
+
 ![Embedding words model process vs visual analysis model](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/flowmeaning.png)
 
 
@@ -114,8 +116,12 @@ The process of word embedding can also be incorporated into the training algorit
 
 ![Logic begind co-oc probabilities](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/coocprobs.png)
 
+## t-SNE
+
+Stands for t-Distributed Stochastic Neighbor Embedding. 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgxMzc1OTcsLTE4NTk3MTk2NTksLT
+eyJoaXN0b3J5IjpbLTEyOTY4NDk1NTAsLTE4NTk3MTk2NTksLT
 ExNDUwOTY4MCwxMDc3NzgzMDZdfQ==
 -->
