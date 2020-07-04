@@ -51,7 +51,7 @@ idf(t,D) = log(\frac{|D|}{{d \in D: t \in d}}) \\
 d \in D: t \in d = number\;of\;documents\;were\;t\;is\;present
 $$
 
-> image
+![TD-IDF matrix](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/tdidf1.png)
 
 ## One-Hot Encoding
 
@@ -116,6 +116,6 @@ The process of word embedding can also be incorporated into the training algorit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjg1MTY5MywtMTg1OTcxOTY1OSwtMT
-E0NTA5NjgwLDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbLTIwMDgxMzc1OTcsLTE4NTk3MTk2NTksLT
+ExNDUwOTY4MCwxMDc3NzgzMDZdfQ==
 -->
