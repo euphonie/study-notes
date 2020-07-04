@@ -1,3 +1,5 @@
+> All information gathered from Udacity's Natural Language Processing Nanodegree
+
 # Building Hidden Markov Models
 
 > Workbook found in [Jupyter's notebook](https://github.com/euphonie/hmm-tagger/blob/master/HMM%20warmup%20%28optional%29.ipynb)
@@ -97,5 +99,5 @@ print("\nThe likelihood over all possible paths " + \
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc3NTExNDk5XX0=
+eyJoaXN0b3J5IjpbLTE0Mzc4MzY5MjFdfQ==
 -->
