@@ -1,3 +1,5 @@
+> All information gathered from Udacity's Natural Language Processing Nanodegree
+
 # Recurrent Neural Neworks
 
 This type of neural networks rely on a memory element (past inputs being fed again into the neural network along with new inputs). This type of neural networks works for applications with temporal dependencies. 
@@ -10,10 +12,10 @@ Feedforward neural networks don't have the ability to capture dependencies that 
 	- The disadvantage of this approach was the limit set by the size of the window selected
 - **1990**. Then simple RNNs or Elman/Jordan Networks were introduced.
 
-This types of neural networks have a flaw known as the **vanishing gradient** problem, in which contributions of infrma
+This types of neural networks have a flaw known as the **vanishing gradient** problem, in which contributions of information decay geometrically over time. Making contributions from more than  8 to 10 steps back was practical
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMzExNTYxOCwtNzQ3OTI3MDcsMjA4OD
-c4NzE4MSwyMDQyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTcxNjExOTAxLC03NDc5MjcwNywyMDg4Nz
+g3MTgxLDIwNDI2NDkxN119
 -->
