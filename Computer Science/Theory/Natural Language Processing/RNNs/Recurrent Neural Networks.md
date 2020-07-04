@@ -4,9 +4,11 @@ This type of neural networks rely on a memory element (past inputs being fed aga
 
 > image rnn
 
+## Feedforward Neural Networks
 
+This kind of neural networks don't have the ability to capture dependencies that change over time.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzI2NDY5NCwyMDQyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbMjA4ODc4NzE4MSwyMDQyNjQ5MTddfQ==
 -->
