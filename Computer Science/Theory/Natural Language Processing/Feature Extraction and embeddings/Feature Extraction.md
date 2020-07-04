@@ -1,3 +1,4 @@
+> All information gathered from Udacity's Natural Language Processing Nanodegree
 
 # Feature Extraction
 
@@ -126,6 +127,6 @@ This technique can also be applied to labelled images.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDk5OTkxOCwtMTI5Njg0OTU1MCwtMT
-g1OTcxOTY1OSwtMTE0NTA5NjgwLDEwNzc3ODMwNl19
+eyJoaXN0b3J5IjpbLTQxMzQ4NDU2LC0xMjk2ODQ5NTUwLC0xOD
+U5NzE5NjU5LC0xMTQ1MDk2ODAsMTA3Nzc4MzA2XX0=
 -->
