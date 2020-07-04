@@ -118,10 +118,10 @@ Word embedding need to have high-dimensionality in order to capture variations i
 
 ## t-SNE
 
-Stands for t-Distributed Stochastic Neighbor Embedding. 
+Stands for t-Distributed Stochastic Neighbor Embedding.  Technique that looks to reduce dimensionality that lowers vectors to a representation with less dimensions. Similar to Principal Component Analysis (PCA).
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY4NDk1NTAsLTE4NTk3MTk2NTksLT
-ExNDUwOTY4MCwxMDc3NzgzMDZdfQ==
+eyJoaXN0b3J5IjpbMTMxNjE2Mjg5OSwtMTI5Njg0OTU1MCwtMT
+g1OTcxOTY1OSwtMTE0NTA5NjgwLDEwNzc3ODMwNl19
 -->
