@@ -4,7 +4,7 @@
 
 This type of neural networks rely on a memory element (past inputs being fed again into the neural network along with new inputs). This type of neural networks works for applications with temporal dependencies. 
 
-> image rnn
+![RNN graph's diagram](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/rnn.png)
 
 Feedforward neural networks don't have the ability to capture dependencies that change over time.
 
@@ -21,6 +21,7 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0Nz
-kyNzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbMTg0MTk0ODMzNywxMzM1OTY0ODQxLDQwMj
+AwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTdd
+fQ==
 -->
