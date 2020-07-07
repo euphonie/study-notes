@@ -171,7 +171,12 @@ $$
 
 Adding the values from the example, it would be: 
 $$
-P(7) = \frac{4^7e^{-4}}{}
+P(7) = \frac{4^7e^{-4}}{7!} \sim  0.06
+$$
+
+The expected value would be:
+$$
+E(y) = y_0\frac{\lambda^{y_0} e^{-\lambda}}{y_0!} 
 $$
 
 ### Continuous distributions
@@ -198,7 +203,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM5MTI0MDMsLTE2MjIyMzQyNDksLT
-E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
-NDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbMjA4MTQ0MTUxOSwtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
