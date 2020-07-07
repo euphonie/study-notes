@@ -131,7 +131,7 @@ $$
 With this logic, the number of ways in which 4 out of 6 trials can be successful is the same as picking 4 elements out  of a sample space of 6.
 Resulting in the formula: 
 $$
-P(y) = {n \c}
+P(y) = {n \choose y} * p^y * (1-p)^{n-y}
 $$
 
 #### **Poisson Distribution**
@@ -162,7 +162,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzM3OTA4LC0xNjIyMjM0MjQ5LC0xND
-A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
-LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTM4MTcxMzMzNSwtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
