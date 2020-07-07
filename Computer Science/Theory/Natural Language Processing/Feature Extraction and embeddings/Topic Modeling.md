@@ -49,9 +49,10 @@ Having a triangle as a given space, with points inside of it. Assuming, each cor
 If the probability is high, it "pushes" the value away from the corner; and if the probability is low, it draws the value to the corner.
 
 > image dirichletdist
+> image dirichlet3d
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMTc2NzQ0LDIxNDQ0NjQ1MTcsLTE3OT
-Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
+eyJoaXN0b3J5IjpbMjEzNDgzNzQ1NCwyMTQ0NDY0NTE3LC0xNz
+k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
