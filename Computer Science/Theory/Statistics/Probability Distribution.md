@@ -113,6 +113,12 @@ For this type of distributions, it applies:
 
 5. The probability function of the binomial distribution $p(y)$, is used to obtain the likelihood of getting  given outcome a precise number of times.
 
+$$
+P(desired\;outcome) = p \\
+P(undesired\;outcome) = 1-p \\
+\text{then to get y-times an outcome from the n-trials}
+$$
+
 
 
 #### **Poisson Distribution**
@@ -143,7 +149,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkzNTMxODAsLTE2MjIyMzQyNDksLT
-E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
-NDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbNDI1OTY0MjYwLC0xNjIyMjM0MjQ5LC0xND
+A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
+LC0xMjgwNTMzNjQ4XX0=
 -->
