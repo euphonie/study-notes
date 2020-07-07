@@ -118,8 +118,9 @@ P(desired\;outcome) = p \\
 P(undesired\;outcome) = 1-p
 $$
 
-Then to get how likely is to get $y$ desired outcomes from $n$-trials, the likelihood of $n-y$ also has to be computed, or else the result would be to compute the likelihood 
+Then to get how likely is to get $y$ desired outcomes from $n$-trials, the likelihood of $n-y$ also has to be computed, or else the result would be to compute the likelihood of a desired outcome **at least** $y$ times.
 
+> image probfuncbino
 
 
 #### **Poisson Distribution**
@@ -150,7 +151,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjkwNTQ5NSwtMTYyMjIzNDI0OSwtMT
+eyJoaXN0b3J5IjpbLTQxNDk5OTUzNCwtMTYyMjIzNDI0OSwtMT
 QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
 MSwtMTI4MDUzMzY0OF19
 -->
