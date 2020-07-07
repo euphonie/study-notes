@@ -39,7 +39,9 @@ $$
 Are used on events that have a finite number of outcomes. Like rolling a dice or picking a card. Can be expressed as a table, a graph or a formula. 
 
 - Is important to check that every unique outcome has a probability assigned to it.
-- Is more interesting having the 
+- Is more interesting  to analyze the result of an interval rather than an individual value.
+	- For this, all that it takes is adding up all the probabilities for all the values in the range
+	
 
 - **Equiprobable (Uniform Distribution)**. Events where all outcomes (more than 2) are equally likely to occur.
 - **Benoulli Distribution**. Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false.
@@ -70,6 +72,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDczNjg2NjUsMjI3MTc5NTg0LC02Mj
-QzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbLTEyNDM3NTY2NjksLTE0MDczNjg2NjUsMj
+I3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2
+NDhdfQ==
 -->
