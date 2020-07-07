@@ -153,7 +153,8 @@ $$
 Which means: Variable Y follows a poisson distribution with $\lambda = 4$.
 
 For this type of distributions, it applies:
-1. Requires to know how often an 
+1. Requires to know how often an event occurs for an specific period of time or distance.
+	- E.g. A firefly might light up 3 times in 10 seconds. A poisson distribution could be used to determine how likely it is to light up 8 times during a 20 seconds interval.
 
 
 
@@ -181,7 +182,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk1Nzg3OTIsLTE2MjIyMzQyNDksLT
-E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
-NDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbLTIzNjUxNTk5LC0xNjIyMjM0MjQ5LC0xND
+A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
+LC0xMjgwNTMzNjQ4XX0=
 -->
