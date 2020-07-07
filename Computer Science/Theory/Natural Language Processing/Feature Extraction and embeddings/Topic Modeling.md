@@ -14,10 +14,19 @@ $$
 
 ## Latent Variables: Topics
 
-Is used to reduce the size of the parameters that need to be feed into a ML model. It does this, by identifying which words "drive" the document's content. This introduces the concept of a topic, dneoted 
+Is used to reduce the size of the parameters that need to be feed into a ML model. It does this, by identifying which words "drive" the document's content. This introduces the concept of a topic, denoted by $z$. Then, to compute the model now there are two sets of probabilities that need to be taken into account. 
+
+The probability of the document having an specific topic:
+$$
+P(z|d)
+$$
+and the probability of a given word or token being part of a topic: 
+$$
+P(t|z)
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjA3MTA2MSwyMTQ0NDY0NTE3LC0xNz
+eyJoaXN0b3J5IjpbLTc5NjYzNDcyNCwyMTQ0NDY0NTE3LC0xNz
 k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
