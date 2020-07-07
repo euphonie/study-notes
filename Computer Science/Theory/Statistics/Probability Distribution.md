@@ -115,9 +115,10 @@ For this type of distributions, it applies:
 
 $$
 P(desired\;outcome) = p \\
-P(undesired\;outcome) = 1-p \\
-\text{then to get y-times an outcome from the n-trials}
+P(undesired\;outcome) = 1-p
 $$
+
+Then to get how likely is to get $y$ desired outcomes from $n$-trials, the likelihood of $n-y$ also has to be computed, or else the result would be to compute the likelihood 
 
 
 
@@ -149,7 +150,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1OTY0MjYwLC0xNjIyMjM0MjQ5LC0xND
-A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
-LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTM4NjkwNTQ5NSwtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
