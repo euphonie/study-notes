@@ -169,6 +169,11 @@ $$
 P(Y) = \frac{\lambda^y e^{-\lambda}}{y!}
 $$
 
+Adding the values from the example, it would be: 
+$$
+P(7) = \frac{4^7e^{-4}}{}
+$$
+
 ### Continuous distributions
 
 Are used on events that track time or distance. This are curves in comparison to bars used in discrete distributions.
@@ -193,7 +198,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDY2OTgzMjMsLTE2MjIyMzQyNDksLT
+eyJoaXN0b3J5IjpbLTE5MTM5MTI0MDMsLTE2MjIyMzQyNDksLT
 E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
 NDEsLTEyODA1MzM2NDhdfQ==
 -->
