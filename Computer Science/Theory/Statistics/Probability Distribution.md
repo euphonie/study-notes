@@ -58,7 +58,9 @@ $$
 
 The last part means: event X that has an uniform distribution ranging from 3 to 7.
 
-For this 
+For this types of distributions, it applies:
+- The mean and the variance are uninterpretable.
+- The mean and the variance present no predictive power.
 
 
 - **Benoulli Distribution**. Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false.
@@ -89,7 +91,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU1OTM4MzAsLTE0MDczNjg2NjUsMj
-I3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2
-NDhdfQ==
+eyJoaXN0b3J5IjpbMjUyMTI1MDc4LC0xNDA3MzY4NjY1LDIyNz
+E3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4
+XX0=
 -->
