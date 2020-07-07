@@ -52,12 +52,12 @@ Are used on events that track time or distance. This are curves in comparison to
 
 > image studentst
 
-- **Chi-squared**. An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit.
+- **Chi-squared**. An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
 
 > image chisquared
 
-- Exponential distribution. Is used when dealing with event s
-
+- **Exponential distribution**. Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. 
+- Logistic Distribution. Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome.
 ### Notation
 A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
 $$
@@ -66,6 +66,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTc1MzQ5MCwxMTUzNDg4MTQxLC0xMj
-gwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTE3NDIxNzAxNjUsMTE1MzQ4ODE0MSwtMT
+I4MDUzMzY0OF19
 -->
