@@ -31,10 +31,11 @@ $$
 
 # Latent Dirichlet Allocation
 
-Is based on matrix multiplication 
+Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
+Then, the result of a given tuple 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDQyNTA0MSwyMTQ0NDY0NTE3LC0xNz
-k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
+eyJoaXN0b3J5IjpbNDY2MDY0MjkzLDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
