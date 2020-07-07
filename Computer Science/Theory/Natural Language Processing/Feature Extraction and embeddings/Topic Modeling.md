@@ -46,12 +46,12 @@ Another interesting feature of LDA is that the topics are not defined by the use
 To be able to define an algorithm to apply a modified matrix multiplication, it relies on a set of given distributions that are predefined. 
 Having a triangle as a given space, with points inside of it. Assuming, each corner contains a probability value, the size of these probabilities determine which behavior is expected from the features in the diagram. It also determines which values are evaluated as good guesses for refining a model.
 
-If the probability is high, it "pushes" the value away from the corner; and i
+If the probability is high, it "pushes" the value away from the corner; and if the probability is low, it draws the value to the corner.
 
 > image dirichletdist
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTQxNjk5OSwyMTQ0NDY0NTE3LC0xNz
-k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
+eyJoaXN0b3J5IjpbNDgzMTc2NzQ0LDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
