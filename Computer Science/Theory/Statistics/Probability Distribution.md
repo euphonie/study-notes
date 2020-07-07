@@ -109,7 +109,10 @@ For this type of distributions, it applies:
 3. The expected value of a binomial event $E(Binomial\;event)$, is the number of times we expect to get a specific outcome.
 4. Graph represents the outcome of obtaining an specific value a number of times.
 
-> image bino
+> image binomial
+
+5. The probability function of the binomial distribution $p(y)$, is used to obtain the likelihood of getting  given outcome a precise number of times.
+
 
 
 #### **Poisson Distribution**
@@ -140,7 +143,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MDI0MzkxLC0xNjIyMjM0MjQ5LC0xND
-A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
-LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTE0NDkzNTMxODAsLTE2MjIyMzQyNDksLT
+E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
+NDEsLTEyODA1MzM2NDhdfQ==
 -->
