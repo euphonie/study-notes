@@ -4,8 +4,9 @@
 
 - A distribution shows all the possible values a variable can take and how frequently they occur.
 
+Having $Y$ as the actual outcome of an event, and $y$ as one of the possible outcomes. $P(Y=y)$  is the probability of the outcome being a particular $y$.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY2MzY4NzBdfQ==
+eyJoaXN0b3J5IjpbLTE5MzM3OTg2NDVdfQ==
 -->
