@@ -29,8 +29,10 @@ $$
 P(t|d) = \sum\limits{_z}\;P(t|z)P(z|d)
 $$
 
+## Latent Dirichlet Alloca
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NzkxMjY1LDIxNDQ0NjQ1MTcsLTE3OT
-Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
+eyJoaXN0b3J5IjpbLTE4MjEwMjEwOTcsMjE0NDQ2NDUxNywtMT
+c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
