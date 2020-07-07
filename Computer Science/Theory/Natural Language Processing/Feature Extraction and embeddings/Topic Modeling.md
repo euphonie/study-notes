@@ -32,10 +32,10 @@ $$
 # Latent Dirichlet Allocation
 
 Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
-Then, the result of a given tuple 
+Then, the result of a given tuple of (word, document) could be calculated by multiplying the according row and column from much smaller matrixes. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY2MDY0MjkzLDIxNDQ0NjQ1MTcsLTE3OT
+eyJoaXN0b3J5IjpbMjQ0NDA3MzMzLDIxNDQ0NjQ1MTcsLTE3OT
 Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
