@@ -41,11 +41,14 @@ Another interesting feature of LDA is that the topics are not defined by the use
 > image lda2
 
 
+## Dirichlet distributions
+
+To be able to define an algorithm to apply a modified matrix multiplication, it relies on a set of given distributions that are predefined. 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODczODg1ODAsMjE0NDQ2NDUxNywtMT
-c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbMzI0NTMyMDQ2LDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
