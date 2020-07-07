@@ -158,7 +158,13 @@ For this type of distributions, it applies:
 
 > image poissong
 
-E.g. An event that usually occurs 4 times a day
+E.g. An event that usually occurs 4 times a day, has an unusual behaviour one day when it occurs 7 times. To compute the likelihood of that event happening those 7 times during a day, it would be:
+- $\lambda = 4$
+- Interval = One day
+- $y=7$
+- $Po(4)$
+
+Its p
 
 ### Continuous distributions
 
@@ -184,7 +190,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjE1ODcxMSwtMTYyMjIzNDI0OSwtMT
+eyJoaXN0b3J5IjpbMTI4NDc4NzA1MiwtMTYyMjIzNDI0OSwtMT
 QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
 MSwtMTI4MDUzMzY0OF19
 -->
