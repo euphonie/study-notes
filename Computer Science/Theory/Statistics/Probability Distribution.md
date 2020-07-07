@@ -73,6 +73,8 @@ X \sim Bern(p)
 $$
 Which means: variable X follows a Bernoulli distribution with a probability of success equal to $p$.
 
+For this type of distributions, it applies: 
+
 
 - **Binomial Distribution**. The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
 - **Poisson Distribution**. Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game.
@@ -101,7 +103,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMj
-I3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2
-NDhdfQ==
+eyJoaXN0b3J5IjpbLTUzNTY4OTY4MywtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
