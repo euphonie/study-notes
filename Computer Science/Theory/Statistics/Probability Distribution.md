@@ -8,12 +8,17 @@ Having $Y$ as the actual outcome of an event, and $y$ as one of the possible out
 
 - A **probability frequency distribution**, measures the likelihood of an outcome given how often it is featured in the sample space. The possibilities can be finite or infinite according to the variable that is being measured.
 
-Distributions are defined by two characteristics: 
+### Distributions are defined by two characteristics: 
 - **Mean**. That is the average value of the distribution. It is denoted by $\mu$.
-- **Variance**. How spread out is the data from the center. The more disperse is the data, the higher the variance will be. It is denoted by $\$
+- **Variance**. How spread out is the data from the center. The more disperse is the data, the higher the variance will be. It is denoted by $\sigma^2$.
+
+### Types of data
+- **Population data**. "All" the data of a topic.
+- **Sample data**. A part of all the data.
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDg1ODI1MCwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbMTQ3Mzc1MDU1NiwtMTI4MDUzMzY0OF19
 -->
