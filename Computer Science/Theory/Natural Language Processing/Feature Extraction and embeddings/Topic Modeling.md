@@ -29,10 +29,12 @@ $$
 P(t|d) = \sum\limits{_z}\;P(t|z)P(z|d)
 $$
 
-## Latent Dirichlet Alloca
+# Latent Dirichlet Allocation
+
+Is based on matrix multiplication 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjEwMjEwOTcsMjE0NDQ2NDUxNywtMT
-c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbMjExMDQyNTA0MSwyMTQ0NDY0NTE3LC0xNz
+k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
