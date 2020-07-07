@@ -57,7 +57,7 @@ U(a,b) \\
 X \sim U(3,7)
 $$
 
-The last part means: event X that has an uniform distribution ranging from 3 to 7.
+The last part means: variable X follows an uniform distribution ranging from 3 to 7.
 
 For this types of distributions, it applies:
 1. The mean and the variance are uninterpretable.
@@ -68,9 +68,10 @@ For this types of distributions, it applies:
 Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false. This distribution is denoted as: 
 
 $$
-Ber
+Bern(p) \\
+X \sim Bern(p)
 $$
-
+Which means: variable X follows a Bernoulli distribution with a probability of success equal to $p$.
 
 
 - **Binomial Distribution**. The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
@@ -100,7 +101,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzODI4NTM3LC0xNDA3MzY4NjY1LDIyNz
-E3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4
-XX0=
+eyJoaXN0b3J5IjpbLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMj
+I3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2
+NDhdfQ==
 -->
