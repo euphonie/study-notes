@@ -143,7 +143,17 @@ $$
 
 #### **Poisson Distribution**
 
-Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game.
+Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game. It is denoted as:
+
+$$
+Po(\lambda) \\
+Y \sim Po(4)
+$$
+
+Which means: Variable Y follows a poisson distribution with $\lambda = 4$.
+
+For this type of distributions, it applies:
+1. Requires to know how often an 
 
 
 
@@ -171,7 +181,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTcyNTgzOSwtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTE4MDk1Nzg3OTIsLTE2MjIyMzQyNDksLT
+E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
+NDEsLTEyODA1MzM2NDhdfQ==
 -->
