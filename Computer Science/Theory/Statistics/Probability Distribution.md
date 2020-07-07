@@ -88,10 +88,13 @@ $$
 \sigma^2 = (0-p)^2*(1-p) + (1-p)^2*p \\
 \sigma^2 = p(1-p) \tag{always true}
 $$
+6. 
 
 > image bernoullig
 
-- **Binomial Distribution**. The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
+#### **Binomial Distribution**
+
+The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
 - **Poisson Distribution**. Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game.
 
 ### Continuous distributions
@@ -118,7 +121,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTgzMzY0LC0xNjIyMjM0MjQ5LC0xND
-A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
-LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTYwNTUyNTE1NywtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
