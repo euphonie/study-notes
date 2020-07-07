@@ -57,7 +57,8 @@ Are used on events that track time or distance. This are curves in comparison to
 > image chisquared
 
 - **Exponential distribution**. Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. 
-- Logistic Distribution. Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome.
+- **Logistic Distribution**. Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
+
 ### Notation
 A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
 $$
@@ -66,6 +67,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIxNzAxNjUsMTE1MzQ4ODE0MSwtMT
-I4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTYyNDMyODYsMTE1MzQ4ODE0MSwtMTI4MD
+UzMzY0OF19
 -->
