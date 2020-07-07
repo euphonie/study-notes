@@ -49,7 +49,14 @@ Are used on events that track time or distance. This are curves in comparison to
 
 - **Normal distribution**. Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
 	- **Student's-T distribution**. When there is limited data to an event, this type of distribution can be used as it is a small sample approximation of a normal distribution. It accommodates extremes values significantly better.
-- Chi-squared. An asymmetrical distribution that only contains non-negative values.
+
+> image studentst
+
+- **Chi-squared**. An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit.
+
+> image chisquared
+
+- Exponential distribution. Is used when dealing with event s
 
 ### Notation
 A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
@@ -59,6 +66,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDgzMjQ0MywxMTUzNDg4MTQxLC0xMj
+eyJoaXN0b3J5IjpbMTczOTc1MzQ5MCwxMTUzNDg4MTQxLC0xMj
 gwNTMzNjQ4XX0=
 -->
