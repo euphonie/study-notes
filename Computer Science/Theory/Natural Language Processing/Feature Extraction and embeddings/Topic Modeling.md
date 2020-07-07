@@ -26,11 +26,11 @@ P(t|z)
 $$
 This gives, the probability of word given a document:
 $$
-P(t|d) = \sum_z  P(t|z)P(z|d)
+P(t|d) = \sum\limits{_z}\;P(t|z)P(z|d)
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTExMTE4NCwyMTQ0NDY0NTE3LC0xNz
-k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
+eyJoaXN0b3J5IjpbMzQ1NzkxMjY1LDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
