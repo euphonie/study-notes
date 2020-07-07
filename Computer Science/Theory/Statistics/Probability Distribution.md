@@ -49,8 +49,14 @@ P(Y \leq y) = P[Y < (y+1)]
 $$
 	
 
-- **Equiprobable (Uniform Distribution)**. Events where all outcomes (more than 2) are equally likely to occur.
+- **Equiprobable (Uniform Distribution)**. Events where all outcomes (more than 2) are equally likely to occur. The distribution is denoted as: 
 
+$$
+U(a,b) \\
+X \sim U(3,7)
+$$
+
+The last part me
 
 
 - **Benoulli Distribution**. Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false.
@@ -81,7 +87,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMxMTE4MDMsLTE0MDczNjg2NjUsMj
-I3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2
-NDhdfQ==
+eyJoaXN0b3J5IjpbLTMxMzE0NjY4NywtMTQwNzM2ODY2NSwyMj
+cxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0MSwtMTI4MDUzMzY0
+OF19
 -->
