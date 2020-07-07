@@ -29,11 +29,11 @@ Is calculated by the square root of variance. $\sqrt{\sigma^2}$. It is denoted b
 A constant relationship between mean and variance is denoted by: 
 
 $$
-\sigma^2 = E((Y-)^2)
+\sigma^2 = E((Y-\mu)^2) = E(Y^2) - \mu^2
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzcyMDM0LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
 -->
