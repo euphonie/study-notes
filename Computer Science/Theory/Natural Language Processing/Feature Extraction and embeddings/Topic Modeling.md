@@ -12,8 +12,10 @@ $$
 P(t_i|d) = \frac{C(t_i)}{\sum{C(t_i, ..., t_n)}}
 $$
 
+## Latent 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDQ2NDUxNywtMTc5Njg4NjUwMSwtMT
-c4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbNDg3ODkwMjUzLDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
