@@ -34,11 +34,11 @@ $$
 Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
 Then, the result of a given tuple of (word, document) could be calculated by multiplying the according row and column from much smaller matrixes. 
 
-
+![LDA matric description](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/lda.png)
 
 Another interesting feature of LDA is that the topics are not defined by the user. The topics are generated and posterior analysis on the associated words is needed to define the topic that was suggested by the model.
 
-> image lda2
+![Logic behind matrixes multiplication](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/lda2.png)
 
 
 ## Dirichlet distributions
@@ -54,6 +54,6 @@ If the probability is high, it "pushes" the value away from the corner; and if t
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4NDMxNjE1LDIxNDQ0NjQ1MTcsLTE3OT
-Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
+eyJoaXN0b3J5IjpbLTIxMTQzNDg5NTMsMjE0NDQ2NDUxNywtMT
+c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
