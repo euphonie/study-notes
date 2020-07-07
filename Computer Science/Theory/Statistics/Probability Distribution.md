@@ -6,9 +6,9 @@
 
 Having $Y$ as the actual outcome of an event, and $y$ as one of the possible outcomes. $P(Y=y)\;or\;P(y)$  is the probability of the outcome being a particular $y$. $P(y)$ is also known as the **probability function**.
 
-- A **probability frequency distribution**, measures the likelihood of an outcome given 
+- A **probability frequency distribution**, measures the likelihood of an outcome given how often it is featured in the sample space.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODcxOTk4Ml19
+eyJoaXN0b3J5IjpbMjIzMzgyNTg3XX0=
 -->
