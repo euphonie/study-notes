@@ -10,15 +10,15 @@ Having $Y$ as the actual outcome of an event, and $y$ as one of the possible out
 
 ### Distributions are defined by two characteristics: 
 - **Mean**. That is the average value of the distribution. It is denoted by $\mu$.
-- **Variance**. How spread out is the data from the center. The more disperse is the data, the higher the variance will be. It is denoted by $\sigma^2$.
+- **Variance**. How spread out is the data from the center. The more disperse is the data, the higher the variance will be. It is denoted by $\sigma^2$. It has to be noted that the values of the variance are measured in 
 
 ### Types of data
 - **Population data**. "All" the data of a topic.
-- **Sample data**. A part of all the data.
+- **Sample data**. A part of all the data.  The variables used to denote mean and variance change when using samples. These are: $\bar{x}$ for **sample mean** and $S^2$ for **sample variance**.
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzc1MDU1NiwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbMTc5MzU2MjU5NiwtMTI4MDUzMzY0OF19
 -->
