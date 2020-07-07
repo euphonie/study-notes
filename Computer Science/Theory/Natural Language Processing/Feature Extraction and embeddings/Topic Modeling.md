@@ -34,7 +34,7 @@ $$
 Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
 Then, the result of a given tuple of (word, document) could be calculated by multiplying the according row and column from much smaller matrixes. 
 
-> image lda1
+
 
 Another interesting feature of LDA is that the topics are not defined by the user. The topics are generated and posterior analysis on the associated words is needed to define the topic that was suggested by the model.
 
@@ -48,11 +48,12 @@ Having a triangle as a given space, with points inside of it. Assuming, each cor
 
 If the probability is high, it "pushes" the value away from the corner; and if the probability is low, it draws the value to the corner.
 
-> image dirichletdist
-> image dirichlet3d
+![Dirichlet Distributions graphical representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletDist.png)
+
+![Dirichlet distributions 3D representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichlet3d.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDgzNzQ1NCwyMTQ0NDY0NTE3LC0xNz
-k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
+eyJoaXN0b3J5IjpbNzk4NDMxNjE1LDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
