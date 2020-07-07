@@ -97,8 +97,11 @@ $$
 The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss. This distribution is denoted as: 
 
 $$
-B(n, p)  \tag{n = No. of trials, p = P} \\
+B(n, p)  \\
+X \sim B(10, 0.6) \\ 
+\tag{n = No. of trials, p = Prob. of success e/trial}
 $$
+Which means, variable X follows a binomial distribution, with 10 trials and a likelihod 
 
 For this type of distributions, it applies:
 1. This type of distribution is a sequence of identical Bernoulli events.
@@ -132,7 +135,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDY3MDI2NCwtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTEyMDAzNDkyNDYsLTE2MjIyMzQyNDksLT
+E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
+NDEsLTEyODA1MzM2NDhdfQ==
 -->
