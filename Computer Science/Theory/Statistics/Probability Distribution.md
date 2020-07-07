@@ -40,10 +40,14 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 
 ### Continuous distributions
 
-Are used to track on events that v
+Are used on events that track time or distance. 
+
+### Notation
+A notation to define the type of distribution from a sample or population can be expressed as: 
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjkwMTI0OTAsMTE1MzQ4ODE0MSwtMT
+eyJoaXN0b3J5IjpbLTEwODYyMDM0NTksMTE1MzQ4ODE0MSwtMT
 I4MDUzMzY0OF19
 -->
