@@ -43,12 +43,16 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 	- For this, all that it takes is adding up all the probabilities for all the values in the range
 
 > image ex-add-ranges
+
 $$
-P(Y 
+P(Y \leq y) = P[Y < (y+1)]
 $$
 	
 
 - **Equiprobable (Uniform Distribution)**. Events where all outcomes (more than 2) are equally likely to occur.
+
+
+
 - **Benoulli Distribution**. Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false.
 - **Binomial Distribution**. The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
 - **Poisson Distribution**. Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game.
@@ -77,7 +81,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODEwNTE5NywtMTQwNzM2ODY2NSwyMj
-cxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0MSwtMTI4MDUzMzY0
-OF19
+eyJoaXN0b3J5IjpbLTE4NzMxMTE4MDMsLTE0MDczNjg2NjUsMj
+I3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2
+NDhdfQ==
 -->
