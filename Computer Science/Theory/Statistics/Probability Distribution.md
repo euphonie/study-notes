@@ -40,7 +40,8 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 
 - **Equiprobable (Uniform Distribution)**. Events where all outcomes (more than 2) are equally likely to occur.
 - **Benoulli Distribution**. Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false.
-- **Binomial Distribution**. The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations.
+- **Binomial Distribution**. The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
+- **Poisson Distribution**. Used to test how unusual an event frequency is for a given interval.
 
 
 ### Continuous distributions
@@ -55,6 +56,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzA0ODIxNywxMTUzNDg4MTQxLC0xMj
+eyJoaXN0b3J5IjpbLTk1MDgzMjg4NSwxMTUzNDg4MTQxLC0xMj
 gwNTMzNjQ4XX0=
 -->
