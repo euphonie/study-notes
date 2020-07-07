@@ -43,11 +43,15 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 Are used on events that track time or distance. 
 
 ### Notation
-A notation to define the type of distribution from a sample or population can be expressed as: 
+A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
 $$
+X \sim N (\mu, \sigma^2)
+$$
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYyMDM0NTksMTE1MzQ4ODE0MSwtMT
-I4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbMTQxMTkyMDEyOCwxMTUzNDg4MTQxLC0xMj
+gwNTMzNjQ4XX0=
 -->
