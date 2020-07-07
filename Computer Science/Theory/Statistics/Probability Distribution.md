@@ -41,6 +41,11 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 - Is important to check that every unique outcome has a probability assigned to it.
 - Is more interesting  to analyze the result of an interval rather than an individual value.
 	- For this, all that it takes is adding up all the probabilities for all the values in the range
+
+> image ex-add-ranges
+$$
+P(Y 
+$$
 	
 
 - **Equiprobable (Uniform Distribution)**. Events where all outcomes (more than 2) are equally likely to occur.
@@ -72,7 +77,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM3NTY2NjksLTE0MDczNjg2NjUsMj
-I3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2
-NDhdfQ==
+eyJoaXN0b3J5IjpbMjA2ODEwNTE5NywtMTQwNzM2ODY2NSwyMj
+cxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0MSwtMTI4MDUzMzY0
+OF19
 -->
