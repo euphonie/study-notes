@@ -47,7 +47,8 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 
 Are used on events that track time or distance. This are curves in comparison to bars used in discrete distributions.
 
-- Normal distribution. Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequ.
+- **Normal distribution**. Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
+	- **Student's-T distribution**. When there is limited data to an event, this type of distribution can be used as it is a small sample approximation of a normal distribution. It
 
 ### Notation
 A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
@@ -57,6 +58,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODA0ODk5OCwxMTUzNDg4MTQxLC0xMj
-gwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTE5MDY5NTMyOTAsMTE1MzQ4ODE0MSwtMT
+I4MDUzMzY0OF19
 -->
