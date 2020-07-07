@@ -164,7 +164,10 @@ E.g. An event that usually occurs 4 times a day, has an unusual behaviour one da
 - $y=7$
 - $Po(4)$
 
-Its p
+Its probability function would be: 
+$$
+P(Y) = \frac{\lambda^y e^{-\lambda}}{y!}
+$$
 
 ### Continuous distributions
 
@@ -190,7 +193,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDc4NzA1MiwtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTExNDY2OTgzMjMsLTE2MjIyMzQyNDksLT
+E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
+NDEsLTEyODA1MzM2NDhdfQ==
 -->
