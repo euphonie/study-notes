@@ -12,10 +12,12 @@ $$
 P(t_i|d) = \frac{C(t_i)}{\sum{C(t_i, ..., t_n)}}
 $$
 
-## Latent 
+## Latent Variables: Topics
+
+Is used to reduce the size of the parameters that need to be feed into a ML model. It does this, by identifying which words "drive" the document's content. This introduces the concept of a topic, dneoted 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3ODkwMjUzLDIxNDQ0NjQ1MTcsLTE3OT
-Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
+eyJoaXN0b3J5IjpbMTc1MjA3MTA2MSwyMTQ0NDY0NTE3LC0xNz
+k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
