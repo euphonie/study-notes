@@ -94,7 +94,11 @@ $$
 
 #### **Binomial Distribution**
 
-The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
+The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss. This distribution is denoted as: 
+
+$$
+B(n, p)  \tag{n = No. of trials, p = P} \\
+$$
 
 For this type of distributions, it applies:
 1. This type of distribution is a sequence of identical Bernoulli events.
@@ -128,7 +132,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ2OTQ3OTEsLTE2MjIyMzQyNDksLT
-E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
-NDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbMTExMDY3MDI2NCwtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
