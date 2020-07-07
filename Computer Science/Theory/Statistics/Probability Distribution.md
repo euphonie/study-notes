@@ -95,7 +95,14 @@ $$
 #### **Binomial Distribution**
 
 The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
-- **Poisson Distribution**. Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game.
+
+For this type of distributions, it applies:
+1. This type of distribution is a sequence of identical Bernoulli events.
+
+
+#### **Poisson Distribution**
+
+Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game.
 
 ### Continuous distributions
 
@@ -121,7 +128,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTUyNTE1NywtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTE0MzQ2OTQ3OTEsLTE2MjIyMzQyNDksLT
+E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
+NDEsLTEyODA1MzM2NDhdfQ==
 -->
