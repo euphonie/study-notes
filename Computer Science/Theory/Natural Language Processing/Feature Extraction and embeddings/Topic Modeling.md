@@ -24,9 +24,13 @@ and the probability of a given word or token being part of a topic:
 $$
 P(t|z)
 $$
+This gives, the probability of word given a document:
+$$
+P(t|d) = \sum_z  P(t|z)P(z|d)
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NjYzNDcyNCwyMTQ0NDY0NTE3LC0xNz
+eyJoaXN0b3J5IjpbMTQwNTExMTE4NCwyMTQ0NDY0NTE3LC0xNz
 k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
