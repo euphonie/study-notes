@@ -49,7 +49,8 @@ P(Y \leq y) = P[Y < (y+1)]
 $$
 	
 
-- **Equiprobable (Uniform Distribution)**. Events where all outcomes are equally likely to occur. The distribution is denoted as: 
+#### **Equiprobable (Uniform Distribution)**
+Events where all outcomes are equally likely to occur. The distribution is denoted as: 
 
 $$
 U(a,b) \\
@@ -59,11 +60,19 @@ $$
 The last part means: event X that has an uniform distribution ranging from 3 to 7.
 
 For this types of distributions, it applies:
-- The mean and the variance are uninterpretable.
-- The mean and the variance present no predictive power.
+1. The mean and the variance are uninterpretable.
+2. The mean and the variance present no predictive power.
 
 
-- **Benoulli Distribution**. Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false.
+#### **Benoulli Distribution**
+Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false. This distribution is denoted as: 
+
+$$
+Ber
+$$
+
+
+
 - **Binomial Distribution**. The outcomes of each iteration are two as in Bernoulli, but the experiment consists on many iterations. E.g. the likelihood of getting head two times, when making a 3-iterations coin toss.
 - **Poisson Distribution**. Used to test how unusual an event frequency is for a given interval. E.g. Given a player that scores 35 points per game. What is the probability of the player scoring 12 points on the first quarter of the game.
 
@@ -91,7 +100,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMTI1MDc4LC0xNDA3MzY4NjY1LDIyNz
+eyJoaXN0b3J5IjpbOTAzODI4NTM3LC0xNDA3MzY4NjY1LDIyNz
 E3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4
 XX0=
 -->
