@@ -21,10 +21,19 @@ Having $Y$ as the actual outcome of an event, and $y$ as one of the possible out
 Is calculated by the square root of variance. $\sqrt{\sigma^2}$. It is denoted by $\sigma$ when is a population and an $s$ when it is a sample. It holds the same units as the mean.
 
 - It should be noted that everything between a distribution's boundaries $(\mu-\sigma, \mu+\sigma)$, is within 1 standard deviation $\sigma$ away from the mean.
-	- If the percentage of data, within the standard deviation, is high, the data is 
+	- If the percentage of data, within the standard deviation is high, the data is less dispersed.
+	- If the percentage of data, within the standard deviation is low, the data is more dispersed.
+
+### Mean and variance relation
+
+A constant relationship between mean and variance is denoted by: 
+
+$$
+\sigma^2 = E((Y-)^2)
+$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5Mjk0MzM4LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTc1MzcyMDM0LC0xMjgwNTMzNjQ4XX0=
 -->
