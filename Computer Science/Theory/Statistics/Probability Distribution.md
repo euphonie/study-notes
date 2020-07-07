@@ -32,8 +32,18 @@ $$
 \sigma^2 = E((Y-\mu)^2) = E(Y^2) - \mu^2
 $$
 
+## Types of Distributions
+
+### Discrete distributions
+
+Are used on events that have a finite number of outcomes. Like rolling a dice or picking a card.
+
+### Continuous distributions
+
+Are used to track on events that v
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTE0NjkwMTI0OTAsMTE1MzQ4ODE0MSwtMT
+I4MDUzMzY0OF19
 -->
