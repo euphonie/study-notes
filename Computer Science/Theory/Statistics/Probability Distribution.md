@@ -36,7 +36,9 @@ $$
 
 ### Discrete distributions
 
-Are used on events that have a finite number of outcomes. Like rolling a dice or picking a card.
+Are used on events that have a finite number of outcomes. Like rolling a dice or picking a card. Can be expressed as a table, a graph or a formula. 
+
+- Is important to check that every unique outcome has a probability assigned to it.
 
 - **Equiprobable (Uniform Distribution)**. Events where all outcomes (more than 2) are equally likely to occur.
 - **Benoulli Distribution**. Events that can only have true or false, or only two possible outcomes. Any event having two outcomes can be a Bernoulli event, it's just needed to assign which event falls for true and which one for false.
@@ -67,6 +69,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0OD
-gxNDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbLTU2Njk0ODc0NSwyMjcxNzk1ODQsLTYyND
+MyODYsMTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
 -->
