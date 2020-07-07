@@ -101,10 +101,11 @@ B(n, p)  \\
 X \sim B(10, 0.6) \\ 
 \tag{n = No. of trials, p = Prob. of success e/trial}
 $$
-Which means, variable X follows a binomial distribution, with 10 trials and a likelihod 
+Which means, variable X follows a binomial distribution, with 10 trials and a likelihood of succeed of 0.6 in each individual trial.
 
 For this type of distributions, it applies:
 1. This type of distribution is a sequence of identical Bernoulli events.
+2. A binomial distribution can be expressed as a Bernoulli distribution with a single trial. $Bern(p) = B(1,p)$
 
 
 #### **Poisson Distribution**
@@ -135,7 +136,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDAzNDkyNDYsLTE2MjIyMzQyNDksLT
-E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
-NDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbNjcxMDQxMDYzLC0xNjIyMjM0MjQ5LC0xND
+A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
+LC0xMjgwNTMzNjQ4XX0=
 -->
