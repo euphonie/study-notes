@@ -76,7 +76,8 @@ Which means: variable X follows a Bernoulli distribution with a probability of s
 For this type of distributions, it applies: 
 1. It comprises of 1 trial, and 2 possible outcomes
 2. We either have the probability of $p$ or we have past data indicating some experimental probability.
-3. Which event corresponds to 1 and which one to 0 has to be defined. Making $E( p ) = 1 \;or E( p)= 1- p$
+3. Which event corresponds to 1 and which one to 0 has to be defined. Making $E(x) = p \;or\;E(x)= 1- p$
+4. The higher probability is usually denoted with $p$ and the lower one $1
 
 > image bernoullig
 
@@ -107,7 +108,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDIyNzE4OSwtMTYyMjIzNDI0OSwtMT
+eyJoaXN0b3J5IjpbMTE5ODUyNTYxMCwtMTYyMjIzNDI0OSwtMT
 QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
 MSwtMTI4MDUzMzY0OF19
 -->
