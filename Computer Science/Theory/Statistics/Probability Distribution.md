@@ -122,6 +122,13 @@ Then to get how likely is to get $y$ desired outcomes from $n$-trials, the likel
 
 > image probfuncbino
 
+It can also be posed as, using the combinations notation: 
+
+$$
+{n \choose y} = C^n_y
+$$
+
+With this logic, the number of ways in which 
 
 #### **Poisson Distribution**
 
@@ -151,7 +158,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDk5OTUzNCwtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbNjYyMDI4MDQ0LC0xNjIyMjM0MjQ5LC0xND
+A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
+LC0xMjgwNTMzNjQ4XX0=
 -->
