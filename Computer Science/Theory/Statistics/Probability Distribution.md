@@ -176,7 +176,9 @@ $$
 
 The expected value would be:
 $$
-E(y) = y_0\frac{\lambda^{y_0} e^{-\lambda}}{y_0!} 
+E(y) = y_0\frac{\lambda^{y_0} e^{-\lambda}}{y_0!} + y_1\frac{\lambda^{y_1} e^{-\lambda}}{y_1!} + ...  \\
+\vspace{5mm}
+E(y) = \lambda
 $$
 
 ### Continuous distributions
@@ -203,7 +205,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MTQ0MTUxOSwtMTYyMjIzNDI0OSwtMT
+eyJoaXN0b3J5IjpbLTg0NzAyMDA5OSwtMTYyMjIzNDI0OSwtMT
 QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
 MSwtMTI4MDUzMzY0OF19
 -->
