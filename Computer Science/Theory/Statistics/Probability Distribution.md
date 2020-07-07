@@ -106,6 +106,10 @@ Which means, variable X follows a binomial distribution, with 10 trials and a li
 For this type of distributions, it applies:
 1. This type of distribution is a sequence of identical Bernoulli events.
 2. A binomial distribution can be expressed as a Bernoulli distribution with a single trial. $Bern(p) = B(1,p)$
+3. The expected value of a binomial event $E(Binomial\;event)$, is the number of times we expect to get a specific outcome.
+4. Graph represents the outcome of obtaining an specific value a number of times.
+
+> image bino
 
 
 #### **Poisson Distribution**
@@ -136,7 +140,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMDQxMDYzLC0xNjIyMjM0MjQ5LC0xND
+eyJoaXN0b3J5IjpbNDY2MDI0MzkxLC0xNjIyMjM0MjQ5LC0xND
 A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
 LC0xMjgwNTMzNjQ4XX0=
 -->
