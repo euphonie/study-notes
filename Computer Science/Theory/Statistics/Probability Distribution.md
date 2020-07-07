@@ -78,7 +78,14 @@ For this type of distributions, it applies:
 2. We either have the probability of $p$ or we have past data indicating some experimental probability.
 3. Which event corresponds to 1 and which one to 0 has to be defined. Making $E(x) = p \;or\;E(x)= 1- p$
 4. The higher probability is usually denoted with $p$ and the lower one $1 -p$. Having, $p > 1-p$.
-5. Value of 1 is assigned to $p$ and 0 to $1-p$. That way the expected value expresses the likelihood of the favoured event. Havi
+5. Value of 1 is assigned to $p$ and 0 to $1-p$. That way the expected value expresses the likelihood of the favoured event. 
+$$
+E(X) = 1*p + 0*(1-p) = p
+$$
+and 
+$$
+\sigma^2 = (x_0 - 
+$$
 
 > image bernoullig
 
@@ -109,7 +116,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjk5Mjg4MiwtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbMjMzNTEzNjg2LC0xNjIyMjM0MjQ5LC0xND
+A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
+LC0xMjgwNTMzNjQ4XX0=
 -->
