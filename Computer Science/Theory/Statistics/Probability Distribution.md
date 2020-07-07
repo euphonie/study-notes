@@ -185,8 +185,7 @@ $$
 \mu = \sigma^2 = \lambda
 $$
 
-Finally, for computing a poission distribution's interval: 
-
+Finally, for computing a poission distribution's interval, the joint probability is computed the same as in discrete distributions; using the joint probability of all individual elements.
 
 ### Continuous distributions
 
@@ -212,7 +211,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDc0Mjc1MywtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xND
+A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
+LC0xMjgwNTMzNjQ4XX0=
 -->
