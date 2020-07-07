@@ -84,7 +84,9 @@ E(X) = 1*p + 0*(1-p) = p
 $$
 and 
 $$
-\sigma^2 = (x_0 - 
+\sigma^2 = (x_0 - \mu)^2 * P(x_0) + (x_1 - \mu)^2 * P(x_1) \\
+\sigma^2 = (0-p)^2*(1-p) + (1-p)^2*p \\
+\sigma^2 = p(1-p) \tag{always true}
 $$
 
 > image bernoullig
@@ -116,7 +118,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNTEzNjg2LC0xNjIyMjM0MjQ5LC0xND
+eyJoaXN0b3J5IjpbMTU1OTgzMzY0LC0xNjIyMjM0MjQ5LC0xND
 A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
 LC0xMjgwNTMzNjQ4XX0=
 -->
