@@ -156,7 +156,9 @@ For this type of distributions, it applies:
 1. Requires to know how often an event occurs for an specific period of time or distance.
 	- E.g. A firefly might light up 3 times in 10 seconds. A poisson distribution could be used to determine how likely it is to light up 8 times during a 20 seconds interval.
 
+> image poissong
 
+E.g. An event that usually occurs 4 times a day
 
 ### Continuous distributions
 
@@ -182,7 +184,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjUxNTk5LC0xNjIyMjM0MjQ5LC0xND
-A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
-LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTQwMjE1ODcxMSwtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
