@@ -34,8 +34,14 @@ $$
 Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
 Then, the result of a given tuple of (word, document) could be calculated by multiplying the according row and column from much smaller matrixes. 
 
+> image lda1
+
+Another interesting feature of LDA is that the topics are not defined by the user. The topics are generated and posterior analysis on the associated words is needed to define the topic that was suggested by the model.
+
+> image lda2
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NDA3MzMzLDIxNDQ0NjQ1MTcsLTE3OT
-Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjc5ODQ0NzYsMjE0NDQ2NDUxNywtMT
+c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
