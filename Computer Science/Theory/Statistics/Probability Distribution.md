@@ -255,8 +255,9 @@ Var(X) = E(X^2) - E(X)^2
 $$
 
 ##### 68, 95, 99.7 Law
-
-
+For any normal distribution: 
+- 68% of all outcomes fall under 1 standard deviation from the mean, in the interval $(\mu-\sigma, \mu+\sigma)$
+- 95% fall under 2 standard deviations. $(\mu-2\sigma, \mu+2\sigma)$
 
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -277,9 +278,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQyODUxMDgsNDY4OTM1MDQ0LC0yMD
-cxNTQ2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3LC0yMTEyMTEx
-OTE5LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OS
-wtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4
-ODE0MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbMTg2OTMxOTU3Niw0Njg5MzUwNDQsLTIwNz
+E1NDY1NDcsNjI0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5
+MTksLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC
+0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4
+MTQxLC0xMjgwNTMzNjQ4XX0=
 -->
