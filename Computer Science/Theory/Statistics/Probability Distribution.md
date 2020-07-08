@@ -190,7 +190,13 @@ Finally, for computing a poission distribution's interval, the joint probability
 
 Are used on events that track time or distance. This are curves in comparison to bars used in discrete distributions.
 
-- **Normal distribution**. Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
+- This distributions have infinite many consecutive outcomes.
+- Sample space is infinite.
+- Frequency for each distinct value cannot be recorded. Therefore, is usually represented with a graph; probability distribution function .
+
+#### **Normal distribution**
+
+Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
 	- **Student's-T distribution**. When there is limited data to an event, this type of distribution can be used as it is a small sample approximation of a normal distribution. It accommodates extremes values significantly better.
 
 ![Student's-T distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/studentst.png)
@@ -210,7 +216,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5OTUwOTQsLTEwMzkwMDUyMDYsODA4OT
-Q4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4
-NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTk1MDYyMzQ0NywtMTAzOTAwNTIwNiw4MD
+g5NDgxMTMsLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5
+NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ
+==
 -->
