@@ -203,7 +203,11 @@ Given this, a new function is described. The **Cumulative Distribution Function 
 
 Since no value of probability can be equal to $-\infty$,  $F(-\infty) = 0$. Equally if given $F(\infty)$ would be equal to $1$. As it comprises all possible outcomes.
 
-CDFs are useful for estimating intervals from a continuous probability function. having $p(b > x > a)$
+CDFs are useful for estimating intervals from a continuous probability function. having $p(b > x > a)$. The area of the density curve is then found by: 
+
+$$
+\int_a^b p(x) dx
+$$
 
 #### **Normal distribution**
 
@@ -227,8 +231,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ2MTkxNDIsNjI0MTQxODA5LC04OD
-EzNDQ4MzcsLTIxMTIxMTE5MTksLTEwMzkwMDUyMDYsODA4OTQ4
-MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4NC
-wtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTk3NjIzODUzMSw2MjQxNDE4MDksLTg4MT
+M0NDgzNywtMjExMjExMTkxOSwtMTAzOTAwNTIwNiw4MDg5NDgx
+MTMsLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC
+02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ==
 -->
