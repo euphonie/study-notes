@@ -70,13 +70,13 @@ On top of this the beta distribution is a graph that indicates how likely is tha
 Its formula is: 
 
 $$
-\frac{\gamma()}{} x^{a-1}y^{b-1}
+\frac{\Gamma(a+b)}{\Gamma(a)\Gamm} x^{a-1}y^{b-1}
 $$
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODM4NzI2LDIxNDQ0NjQ1MTcsLTE3OT
-Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
+eyJoaXN0b3J5IjpbMjAzNzE4ODcwNywyMTQ0NDY0NTE3LC0xNz
+k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
