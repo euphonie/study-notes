@@ -85,18 +85,19 @@ $$
 \frac{\Gamma(a+b+c)}{\Gamma(a)\Gamma(b)\Gamma(c)}x^{a-1}y^{b-1}z^{c-1}
 $$
 
-> image dirichletdistform
-> image dirichletdistform2
+![Dirichlet Distribution Formula](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletdistform.png)
+
+![Dirichlet Distribution with non-integer values](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletdistform2.png)
 
 Is important to notice that:
 - When the expected values are small, the distribution graph tends to return the coordinates near the edges.
 - When the expected values are high, the distribution graph tends to return the coordinates near the center.
 - If values are different from each other, the returned coordinates tend towards the smallest values. 
 
-> image dirichletdiffvalues
+![Dirichl](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletdiffvalues.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTQzOTQ3OSw5NTQ5NTk4MTEsMjE0ND
+eyJoaXN0b3J5IjpbMTY3ODc5NzgyNSw5NTQ5NTk4MTEsMjE0ND
 Q2NDUxNywtMTc5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
