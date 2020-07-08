@@ -237,6 +237,20 @@ X \sim N(\mu, \sigma^2)
 $$
 Which means, variable $X$ follows a normal distribution with mean $\mu$ and variance $\sigma^2$. $\mu$ and $\sigma^2$ are usually known.
 
+It applies that: 
+- The graph is bell shaped
+- Most of values are in the mean of the distribution
+- Outliers are less likely to occur in the distribution
+- The graph is equally symmetric
+	- This means value in $\mu-\epsilon$ and $\mu+\epsilon$ are both equally likely to occur
+
+The expected value and variance are: 
+
+$$
+E(X) = \mu
+$$
+and the variance $Var(x) = \sigma^2
+
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
 
@@ -256,9 +270,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyODYzMjIxMCw0Njg5MzUwNDQsLTIwNz
-E1NDY1NDcsNjI0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5
-MTksLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC
-0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4
-MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTM5NDMxMzMsNDY4OTM1MDQ0LC0yMDcxNT
+Q2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3LC0yMTEyMTExOTE5
+LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OSwtMT
+QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
+MSwtMTI4MDUzMzY0OF19
 -->
