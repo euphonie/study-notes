@@ -192,7 +192,8 @@ Are used on events that track time or distance. This are curves in comparison to
 
 - This distributions have infinite many consecutive outcomes.
 - Sample space is infinite.
-- Frequency for each distinct value cannot be recorded. Therefore, is usually represented with a graph; probability distribution function .
+- Frequency for each distinct value cannot be recorded. Therefore, is usually represented with a graph; probability distribution function (**PDF**).
+	- Is denoted as $f(y)$
 
 #### **Normal distribution**
 
@@ -216,7 +217,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDYyMzQ0NywtMTAzOTAwNTIwNiw4MD
+eyJoaXN0b3J5IjpbMTUwNjI5MDM4OCwtMTAzOTAwNTIwNiw4MD
 g5NDgxMTMsLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5
 NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ
 ==
