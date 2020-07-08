@@ -91,10 +91,14 @@ $$
 > image dirichletdistform2
 
 Is important to notice that:
-- When the expected values are small, the graph tends to return the 
+- When the expected values are small, the distribution graph tends to return the coordinates near the edges.
+- When the expected values are high, the distribution graph tends to return the coordinates near the center.
+- If values are different from each other, the returned coordinates tend towards the smallest values. 
+
+> 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI5NzA4MzEsMjE0NDQ2NDUxNywtMT
-c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbNTczNDI0MzkzLDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
