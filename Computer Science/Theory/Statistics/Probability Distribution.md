@@ -201,6 +201,8 @@ Are used on events that track time or distance. This are curves in comparison to
 
 Given this, a new function is described. The **Cumulative Distribution Function (CDF)**. This function describes all the values from below or equal to a defined outcome. Like $F(y) = P(Y \leq y)$.
 
+Since no value of probability can be equal to $-\infty$,  $F(-\infty) = 0$. Equally if given $F(1)$ would be equ
+
 #### **Normal distribution**
 
 Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
@@ -223,8 +225,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MTQxODA5LC04ODEzNDQ4MzcsLTIxMT
-IxMTE5MTksLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0
-MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMT
-UzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbODg1ODI1MjY1LDYyNDE0MTgwOSwtODgxMz
+Q0ODM3LC0yMTEyMTExOTE5LC0xMDM5MDA1MjA2LDgwODk0ODEx
+MywtMTYyMjIzNDI0OSwtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLT
+YyNDMyODYsMTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
 -->
