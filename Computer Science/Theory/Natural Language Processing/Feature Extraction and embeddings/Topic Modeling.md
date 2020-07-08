@@ -81,10 +81,14 @@ If the probability is high, it "pushes" the value away from the corner; and if t
 
 ### Multinomial distribution 
 
-A generalization of the binomial to a higher dimension space.
+A generalization of the binomial two-dimensional space to a higher dimension space. Having a three-dimensional space, for example as the one described above, the generalization of the rule computes the following formula: 
+
+$$
+\frac{}{}x^{a-1}y^{}
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM5NTEzOTgsMjE0NDQ2NDUxNywtMT
+eyJoaXN0b3J5IjpbLTE2NDkyOTMyNzcsMjE0NDQ2NDUxNywtMT
 c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
