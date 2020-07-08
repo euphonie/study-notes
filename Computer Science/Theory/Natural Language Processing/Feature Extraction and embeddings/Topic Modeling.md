@@ -57,10 +57,16 @@ If the probability is high, it "pushes" the value away from the corner; and if t
 
 Given an example of tossing a coin, being $a$ the times that it lands in heads and $b$ the times that it lands in tails, the Beta distribution is a curve that gives the certainty of the probability of an event occurring giving its trial's frequency values. 
 
-This also means that computing n 
+This also means that computing a number of trials for $a$ and $b$ the value of the probability could be denoted as: 
+
+$$
+P(head) = \frac{favourable}{all} = \frac{a}{a+b}
+$$
+
+On top of this the beta distribution is a graph that indicates how likely is that P(head) is the correct value. Having 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTQ4MTc0NSwyMTQ0NDY0NTE3LC0xNz
+eyJoaXN0b3J5IjpbMTQwMzE2MTY2NSwyMTQ0NDY0NTE3LC0xNz
 k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
