@@ -42,8 +42,7 @@ $$
 
 On top of this the beta distribution is a graph that indicates how likely is that $P(head)$ is the correct value. Being more narrow at the value $P(head)$ the more trials are executed. 
 
-> image betadist
-
+![Beta Distribution Graph](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/betadist.png)
 Its formula is: 
 
 $$
@@ -52,8 +51,7 @@ $$
 
 To describe Gamma, if a is an integer then: $\Gamma(a) = (a-1)!$ The interesting part about Gamma is that it takes values in between integers, like $a = 5.5$, $\Gamma(5.5) = 52.35$. This is illustrated having direct probabilities for each event, as seen below.
 
-> image betadist2
-
+![Beta Distribution for Binomial Distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/betadist2.png)
 
 
 # Latent Dirichlet Allocation
@@ -99,6 +97,6 @@ Is important to notice that:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0OTU5ODExLDIxNDQ0NjQ1MTcsLTE3OT
-Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
+eyJoaXN0b3J5IjpbLTg2MTQzOTQ3OSw5NTQ5NTk4MTEsMjE0ND
+Q2NDUxNywtMTc5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
