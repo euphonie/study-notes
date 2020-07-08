@@ -109,7 +109,6 @@ For this type of distributions, it applies:
 4. Graph represents the outcome of obtaining an specific value a number of times.
 
 ![Binomial Distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/binomial.png)
-> image binomial
 
 5. The probability function of the binomial distribution $p(y)$, is used to obtain the likelihood of getting  given outcome a precise number of times.
 
@@ -119,6 +118,7 @@ P(undesired\;outcome) = 1-p
 $$
 
 Then to get how likely is to get $y$ desired outcomes from $n$-trials, the likelihood of $n-y$ also has to be computed, or else the result would be to compute the likelihood of a desired outcome **at least** $y$ times.
+
 
 > image probfuncbino
 
@@ -211,7 +211,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNj
-IyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4
-NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTg0ODEzNTI0OCwtMTAzOTAwNTIwNiw4MD
+g5NDgxMTMsLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5
+NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ
+==
 -->
