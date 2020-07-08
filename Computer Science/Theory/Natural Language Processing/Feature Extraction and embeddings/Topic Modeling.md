@@ -29,29 +29,6 @@ $$
 P(t|d) = \sum\limits{_z}\;P(t|z)P(z|d)
 $$
 
-# Latent Dirichlet Allocation
-
-Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
-Then, the result of a given tuple of (word, document) could be calculated by multiplying the according row and column from much smaller matrixes. 
-
-![LDA matric description](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/lda.png)
-
-Another interesting feature of LDA is that the topics are not defined by the user. The topics are generated and posterior analysis on the associated words is needed to define the topic that was suggested by the model.
-
-![Logic behind matrixes multiplication](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/lda2.png)
-
-
-## Dirichlet distributions
-
-To be able to define an algorithm to apply a modified matrix multiplication, it relies on a set of given distributions that are predefined. 
-Having a triangle as a given space, with points inside of it. Assuming, each corner contains a probability value, the size of these probabilities determine which behavior is expected from the features in the diagram. It also determines which values are evaluated as good guesses for refining a model.
-
-If the probability is high, it "pushes" the value away from the corner; and if the probability is low, it draws the value to the corner.
-
-![Dirichlet Distributions graphical representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletDist.png)
-
-![Dirichlet distributions 3D representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichlet3d.png)
-
 
 # Beta Distributions
 
@@ -79,8 +56,35 @@ To describe Gamma, if a is an integer then: $\Gamma(a) = (a-1)!$ The interesting
 
 
 
+# Latent Dirichlet Allocation
+
+Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
+Then, the result of a given tuple of (word, document) could be calculated by multiplying the according row and column from much smaller matrixes. 
+
+![LDA matric description](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/lda.png)
+
+Another interesting feature of LDA is that the topics are not defined by the user. The topics are generated and posterior analysis on the associated words is needed to define the topic that was suggested by the model.
+
+![Logic behind matrixes multiplication](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/lda2.png)
+
+
+## Dirichlet distributions
+
+To be able to define an algorithm to apply a modified matrix multiplication, it relies on a set of given distributions that are predefined. 
+Having a triangle as a given space, with points inside of it. Assuming, each corner contains a probability value, the size of these probabilities determine which behavior is expected from the features in the diagram. It also determines which values are evaluated as good guesses for refining a model.
+
+If the probability is high, it "pushes" the value away from the corner; and if the probability is low, it draws the value to the corner.
+
+![Dirichlet Distributions graphical representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletDist.png)
+
+![Dirichlet distributions 3D representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichlet3d.png)
+
+### Multinomial distribution 
+
+A generalization of the binomial to a higher dimension space.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjU2NDUwNywyMTQ0NDY0NTE3LC0xNz
-k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
+eyJoaXN0b3J5IjpbLTIwNDM5NTEzOTgsMjE0NDQ2NDUxNywtMT
+c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
