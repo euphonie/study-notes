@@ -94,10 +94,10 @@ Is important to notice that:
 - When the expected values are high, the distribution graph tends to return the coordinates near the center.
 - If values are different from each other, the returned coordinates tend towards the smallest values. 
 
-![Dirichl](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletdiffvalues.png)
+![Dirichlet Distributions with different values in each edge](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/dirichletdiffvalues.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODc5NzgyNSw5NTQ5NTk4MTEsMjE0ND
+eyJoaXN0b3J5IjpbMTA3MTc2MzIwOSw5NTQ5NTk4MTEsMjE0ND
 Q2NDUxNywtMTc5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
