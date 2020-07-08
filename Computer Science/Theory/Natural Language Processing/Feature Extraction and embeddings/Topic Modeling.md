@@ -84,11 +84,11 @@ If the probability is high, it "pushes" the value away from the corner; and if t
 A generalization of the binomial two-dimensional space to a higher dimension space. Having a three-dimensional space, for example as the one described above, the generalization of the rule computes the following formula: 
 
 $$
-\frac{}{}x^{a-1}y^{}
+\frac{\Gamma(a+b+c)}{\Gamma(a)\Gamma(b)\Gamma(c)}x^{a-1}y^{b-1}z^{c-1}
 $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkyOTMyNzcsMjE0NDQ2NDUxNywtMT
-c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbLTgyMDAxNjM5MiwyMTQ0NDY0NTE3LC0xNz
+k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
