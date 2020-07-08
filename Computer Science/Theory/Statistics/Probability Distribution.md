@@ -195,7 +195,8 @@ Are used on events that track time or distance. This are curves in comparison to
 - Frequency for each distinct value cannot be recorded. Therefore, is usually represented with a graph; probability distribution function (**PDF**).
 	- Is denoted as $f(y)$, as this function returns probability it holds that $f(y) \geq 0$.
 	- The resulting curve from the function is called the **Probability distribution Curve (PDC)**
-- Using the formula, $P(y) = \frac{favourable}{sample\;space}$, and given that $space = \infty$, 
+- Using the formula, $P(y) = \frac{favourable}{sample\;space}$, and given that $space = \infty$, probabilities can be considered extremely insignificant. 
+- This means the probability of an event for a continuous distribution can be assigned as 0. $P(X) = 0$.
 
 #### **Normal distribution**
 
@@ -219,8 +220,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMTg3OTUxLC0yMTEyMTExOTE5LC0xMD
-M5MDA1MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OSwtMTQwNzM2
-ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0MSwtMT
-I4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbMTI1ODA0OTgwMywtMjExMjExMTkxOSwtMT
+AzOTAwNTIwNiw4MDg5NDgxMTMsLTE2MjIyMzQyNDksLTE0MDcz
+Njg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLT
+EyODA1MzM2NDhdfQ==
 -->
