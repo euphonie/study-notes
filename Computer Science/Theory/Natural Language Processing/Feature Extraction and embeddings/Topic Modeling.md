@@ -55,10 +55,10 @@ If the probability is high, it "pushes" the value away from the corner; and if t
 
 # Beta Distributions
 
-
+Given an example of tossing a coin, being a 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjMyNjk5MSwyMTQ0NDY0NTE3LC0xNz
+eyJoaXN0b3J5IjpbMTg2NTkxOTAyNSwyMTQ0NDY0NTE3LC0xNz
 k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
