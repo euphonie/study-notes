@@ -70,13 +70,16 @@ On top of this the beta distribution is a graph that indicates how likely is tha
 Its formula is: 
 
 $$
-\frac{\Gamma(a+b)}{\Gamma(a)\Gamm} x^{a-1}y^{b-1}
+\frac{\Gamma(a+b)}{\Gamma(a)\Gamma(b)} x^{a-1}y^{b-1} 
 $$
+
+To describe Gamma, if a is an integer then: $\Gamma(a) = (a-1)!$ The interesting part about Gamma is that it takes values in between 
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzE4ODcwNywyMTQ0NDY0NTE3LC0xNz
-k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
+eyJoaXN0b3J5IjpbLTE5NTUyNjgyNjQsMjE0NDQ2NDUxNywtMT
+c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
 -->
