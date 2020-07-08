@@ -201,7 +201,9 @@ Are used on events that track time or distance. This are curves in comparison to
 
 Given this, a new function is described. The **Cumulative Distribution Function (CDF)**. This function describes all the values from below or equal to a defined outcome. Like $F(y) = P(Y \leq y)$.
 
-Since no value of probability can be equal to $-\infty$,  $F(-\infty) = 0$. Equally if given $F(1)$ would be equ
+Since no value of probability can be equal to $-\infty$,  $F(-\infty) = 0$. Equally if given $F(\infty)$ would be equal to $1$. As it comprises all possible outcomes.
+
+CDFs are useful for estimating intervals from a continuous probability function. having $p(b > x > a)$
 
 #### **Normal distribution**
 
@@ -225,8 +227,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1ODI1MjY1LDYyNDE0MTgwOSwtODgxMz
-Q0ODM3LC0yMTEyMTExOTE5LC0xMDM5MDA1MjA2LDgwODk0ODEx
-MywtMTYyMjIzNDI0OSwtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLT
-YyNDMyODYsMTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTE0NzQ2MTkxNDIsNjI0MTQxODA5LC04OD
+EzNDQ4MzcsLTIxMTIxMTE5MTksLTEwMzkwMDUyMDYsODA4OTQ4
+MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4NC
+wtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
 -->
