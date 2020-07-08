@@ -209,6 +209,8 @@ $$
 \int_a^b p(x) dx
 $$
 
+Another way of describe this would be, that the Cumulative Distribution Function is the probability of the interval between $(-\infty; y)$.
+
 #### **Normal distribution**
 
 Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
@@ -231,8 +233,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjIzODUzMSw2MjQxNDE4MDksLTg4MT
-M0NDgzNywtMjExMjExMTkxOSwtMTAzOTAwNTIwNiw4MDg5NDgx
-MTMsLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC
-02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbLTIwNzE1NDY1NDcsNjI0MTQxODA5LC04OD
+EzNDQ4MzcsLTIxMTIxMTE5MTksLTEwMzkwMDUyMDYsODA4OTQ4
+MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4NC
+wtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
 -->
