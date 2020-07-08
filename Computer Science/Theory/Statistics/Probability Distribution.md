@@ -88,9 +88,8 @@ $$
 \sigma^2 = (0-p)^2*(1-p) + (1-p)^2*p \\
 \sigma^2 = p(1-p) \tag{always true}
 $$
-6. 
 
-> image bernoullig
+![Bernoulli distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/bernoullig.png)
 
 #### **Binomial Distribution**
 
@@ -109,6 +108,7 @@ For this type of distributions, it applies:
 3. The expected value of a binomial event $E(Binomial\;event)$, is the number of times we expect to get a specific outcome.
 4. Graph represents the outcome of obtaining an specific value a number of times.
 
+![Binomial Distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/binomial.png)
 > image binomial
 
 5. The probability function of the binomial distribution $p(y)$, is used to obtain the likelihood of getting  given outcome a precise number of times.
@@ -211,7 +211,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMTU1NTkxLDgwODk0ODExMywtMTYyMj
-IzNDI0OSwtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYs
-MTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNj
+IyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4
+NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
 -->
