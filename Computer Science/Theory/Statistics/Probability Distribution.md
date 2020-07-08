@@ -230,12 +230,18 @@ Often observed in most natural events. Extreme values in a distribution curve ar
 
 ![Student's-T distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/studentst.png)
 
-- **Chi-squared**. An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
+Denoted as 
+
+#### **Chi-squared**
+ An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
 
 ![Chi-squared distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/chisquared.png)
 
-- **Exponential distribution**. Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. 
-- **Logistic Distribution**. Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
+#### **Exponential distribution**
+Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. 
+
+#### **Logistic Distribution**
+Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
 
 ### Notation
 A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
@@ -245,9 +251,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU2OTQ5NDQsNDY4OTM1MDQ0LC0yMD
-cxNTQ2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3LC0yMTEyMTEx
-OTE5LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OS
-wtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4
-ODE0MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbMTU2MTY5MDYxNiw0Njg5MzUwNDQsLTIwNz
+E1NDY1NDcsNjI0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5
+MTksLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC
+0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4
+MTQxLC0xMjgwNTMzNjQ4XX0=
 -->
