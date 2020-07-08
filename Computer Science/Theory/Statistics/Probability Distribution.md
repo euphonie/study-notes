@@ -119,8 +119,7 @@ $$
 
 Then to get how likely is to get $y$ desired outcomes from $n$-trials, the likelihood of $n-y$ also has to be computed, or else the result would be to compute the likelihood of a desired outcome **at least** $y$ times.
 
-
-> image probfuncbino
+![Notice about probability function for binomial distributions](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/probfuncbino.png)
 
 It can also be posed as, using the combinations notation: 
 
@@ -156,6 +155,7 @@ For this type of distributions, it applies:
 1. Requires to know how often an event occurs for an specific period of time or distance.
 	- E.g. A firefly might light up 3 times in 10 seconds. A poisson distribution could be used to determine how likely it is to light up 8 times during a 20 seconds interval.
 
+![Poission Di](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/poissong.png)
 > image poissong
 
 E.g. An event that usually occurs 4 times a day, has an unusual behaviour one day when it occurs 7 times. To compute the likelihood of that event happening those 7 times during a day, it would be:
@@ -211,8 +211,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODEzNTI0OCwtMTAzOTAwNTIwNiw4MD
-g5NDgxMTMsLTE2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5
-NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ
-==
+eyJoaXN0b3J5IjpbLTE4ODM5OTE4MDUsLTEwMzkwMDUyMDYsOD
+A4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3
+OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX
+0=
 -->
