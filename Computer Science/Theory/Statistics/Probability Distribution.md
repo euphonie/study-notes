@@ -42,8 +42,7 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 - Is more interesting  to analyze the result of an interval rather than an individual value.
 	- For this, all that it takes is adding up all the probabilities for all the values in the range
 
-> image ex-add-ranges
-
+![Example of adding ranges](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/ex-add-ranges.png)
 
 $$
 P(Y \leq y) = P[Y < (y+1)]
@@ -212,7 +211,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTkzNzQzNyw4MDg5NDgxMTMsLTE2Mj
-IyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2
-LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbMjYxMTU1NTkxLDgwODk0ODExMywtMTYyMj
+IzNDI0OSwtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYs
+MTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
 -->
