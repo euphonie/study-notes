@@ -249,7 +249,14 @@ The expected value and variance are:
 $$
 E(X) = \mu
 $$
-and the variance $Var(x) = \sigma^2
+and the variance $Var(X) = \sigma^2$ is usually given in the description. If it isn't it can be deduced from the expected value: 
+$$
+Var(X) = E(X^2) - E(X)^2
+$$
+
+##### 68, 95, 99.7 Law
+
+
 
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -270,9 +277,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDMxMzMsNDY4OTM1MDQ0LC0yMDcxNT
-Q2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3LC0yMTEyMTExOTE5
-LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OSwtMT
-QwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0
-MSwtMTI4MDUzMzY0OF19
+eyJoaXN0b3J5IjpbLTE3NzQyODUxMDgsNDY4OTM1MDQ0LC0yMD
+cxNTQ2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3LC0yMTEyMTEx
+OTE5LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OS
+wtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4
+ODE0MSwtMTI4MDUzMzY0OF19
 -->
