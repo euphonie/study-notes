@@ -199,6 +199,8 @@ Are used on events that track time or distance. This are curves in comparison to
 - This means the probability of an event for a continuous distribution can be assigned as 0. $P(X) = 0$. 
 - Therefore, is also accepted to assume $P(x > X) = P(x \geq X) = 0$.
 
+Given this, a new function is described. The **Cumulative Distribution Function (CDF)**
+
 #### **Normal distribution**
 
 Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
@@ -221,8 +223,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkwMDUwMzAsLTIxMTIxMTE5MTksLT
-EwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3
-MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC
-0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTg4MTM0NDgzNywtMjExMjExMTkxOSwtMT
+AzOTAwNTIwNiw4MDg5NDgxMTMsLTE2MjIyMzQyNDksLTE0MDcz
+Njg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLT
+EyODA1MzM2NDhdfQ==
 -->
