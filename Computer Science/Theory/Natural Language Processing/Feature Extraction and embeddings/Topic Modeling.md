@@ -63,10 +63,20 @@ $$
 P(head) = \frac{favourable}{all} = \frac{a}{a+b}
 $$
 
-On top of this the beta distribution is a graph that indicates how likely is that P(head) is the correct value. Having 
+On top of this the beta distribution is a graph that indicates how likely is that $P(head)$ is the correct value. Being more narrow at the value $P(head)$ the more trials are executed. 
+
+> image betadist
+
+Its formula is: 
+
+$$
+\frac{\gamma()}{} x^{a-1}y^{b-1}
+$$
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzE2MTY2NSwyMTQ0NDY0NTE3LC0xNz
-k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
+eyJoaXN0b3J5IjpbLTUzODM4NzI2LDIxNDQ0NjQ1MTcsLTE3OT
+Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
