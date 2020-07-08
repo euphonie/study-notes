@@ -196,7 +196,8 @@ Are used on events that track time or distance. This are curves in comparison to
 	- Is denoted as $f(y)$, as this function returns probability it holds that $f(y) \geq 0$.
 	- The resulting curve from the function is called the **Probability distribution Curve (PDC)**
 - Using the formula, $P(y) = \frac{favourable}{sample\;space}$, and given that $space = \infty$, probabilities can be considered extremely insignificant. 
-- This means the probability of an event for a continuous distribution can be assigned as 0. $P(X) = 0$.
+- This means the probability of an event for a continuous distribution can be assigned as 0. $P(X) = 0$. 
+- Therefore, is also accepted to assume $P(x > X) = P(x \geq X) = 0$.
 
 #### **Normal distribution**
 
@@ -220,8 +221,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODA0OTgwMywtMjExMjExMTkxOSwtMT
-AzOTAwNTIwNiw4MDg5NDgxMTMsLTE2MjIyMzQyNDksLTE0MDcz
-Njg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgxNDEsLT
-EyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbLTExOTkwMDUwMzAsLTIxMTIxMTE5MTksLT
+EwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3
+MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC
+0xMjgwNTMzNjQ4XX0=
 -->
