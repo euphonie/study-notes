@@ -44,6 +44,7 @@ Are used on events that have a finite number of outcomes. Like rolling a dice or
 
 > image ex-add-ranges
 
+
 $$
 P(Y \leq y) = P[Y < (y+1)]
 $$
@@ -211,7 +212,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xND
-A3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQx
-LC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTgzNTkzNzQzNyw4MDg5NDgxMTMsLTE2Mj
+IyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2
+LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ==
 -->
