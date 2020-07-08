@@ -230,7 +230,12 @@ Often observed in most natural events. Extreme values in a distribution curve ar
 
 ![Student's-T distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/studentst.png)
 
-Denoted as 
+Denoted as: 
+$$
+N(\mu, \sigma^2) \\
+X \sim N(\mu, \sigma^2)
+$$
+Which means, variable $X$ follows a normal distribution with mean $\mu$ and variance $\sigma^2$. $\mu$ and $\sigma^2$ are usually known.
 
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -251,7 +256,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTY5MDYxNiw0Njg5MzUwNDQsLTIwNz
+eyJoaXN0b3J5IjpbMTIyODYzMjIxMCw0Njg5MzUwNDQsLTIwNz
 E1NDY1NDcsNjI0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5
 MTksLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC
 0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4
