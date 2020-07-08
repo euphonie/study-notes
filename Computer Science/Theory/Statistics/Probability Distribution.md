@@ -218,9 +218,11 @@ Using this we can compute PDF from CDF and viceversa applying the formulas:
 Computing Expected values and variance would be:
 
 $$
-
+E(y) = \int_{-\infty}^\infty yp(y) dy
 $$
-
+$$
+var(y) = E(y^2) - E(y)^2
+$$
 #### **Normal distribution**
 
 Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
@@ -243,9 +245,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTI1MDU0NCw0Njg5MzUwNDQsLTIwNz
-E1NDY1NDcsNjI0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5
-MTksLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC
-0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4
-MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTEzMDU2OTQ5NDQsNDY4OTM1MDQ0LC0yMD
+cxNTQ2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3LC0yMTEyMTEx
+OTE5LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OS
+wtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4
+ODE0MSwtMTI4MDUzMzY0OF19
 -->
