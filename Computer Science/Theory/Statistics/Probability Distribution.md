@@ -244,8 +244,7 @@ It applies that:
 - The graph is equally symmetric
 	- This means value in $\mu-\epsilon$ and $\mu+\epsilon$ are both equally likely to occur
 
-> image normaldist
-
+![Normal Distribution Graph](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/normaldist.png)
 
 The expected value and variance are: 
 
@@ -282,9 +281,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDk5MTgwNyw0Njg5MzUwNDQsLTIwNz
-E1NDY1NDcsNjI0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5
-MTksLTEwMzkwMDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC
-0xNDA3MzY4NjY1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4
-MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbMTM5NjIyOTM2LDQ2ODkzNTA0NCwtMjA3MT
+U0NjU0Nyw2MjQxNDE4MDksLTg4MTM0NDgzNywtMjExMjExMTkx
+OSwtMTAzOTAwNTIwNiw4MDg5NDgxMTMsLTE2MjIyMzQyNDksLT
+E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
+NDEsLTEyODA1MzM2NDhdfQ==
 -->
