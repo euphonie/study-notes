@@ -155,8 +155,7 @@ For this type of distributions, it applies:
 1. Requires to know how often an event occurs for an specific period of time or distance.
 	- E.g. A firefly might light up 3 times in 10 seconds. A poisson distribution could be used to determine how likely it is to light up 8 times during a 20 seconds interval.
 
-![Poission Di](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/poissong.png)
-> image poissong
+![Poisson Distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/poissong.png)
 
 E.g. An event that usually occurs 4 times a day, has an unusual behaviour one day when it occurs 7 times. To compute the likelihood of that event happening those 7 times during a day, it would be:
 - $\lambda = 4$
@@ -211,8 +210,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM5OTE4MDUsLTEwMzkwMDUyMDYsOD
-A4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3
-OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX
-0=
+eyJoaXN0b3J5IjpbOTE5OTUwOTQsLTEwMzkwMDUyMDYsODA4OT
+Q4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4
+NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
 -->
