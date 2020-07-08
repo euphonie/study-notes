@@ -211,6 +211,8 @@ $$
 
 Another way of describe this would be, that the Cumulative Distribution Function is the probability of the interval between $(-\infty; y)$.
 
+
+
 #### **Normal distribution**
 
 Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
@@ -233,8 +235,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE1NDY1NDcsNjI0MTQxODA5LC04OD
-EzNDQ4MzcsLTIxMTIxMTE5MTksLTEwMzkwMDUyMDYsODA4OTQ4
-MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4NjY1LDIyNzE3OTU4NC
-wtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgwNTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbLTEyMjE2NDg3MjcsLTIwNzE1NDY1NDcsNj
+I0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5MTksLTEwMzkw
+MDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4Nj
+Y1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgw
+NTMzNjQ4XX0=
 -->
