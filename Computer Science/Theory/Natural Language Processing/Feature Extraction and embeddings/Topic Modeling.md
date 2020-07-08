@@ -95,10 +95,10 @@ Is important to notice that:
 - When the expected values are high, the distribution graph tends to return the coordinates near the center.
 - If values are different from each other, the returned coordinates tend towards the smallest values. 
 
-> 
+> image dirichletdiffvalues
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNDI0MzkzLDIxNDQ0NjQ1MTcsLTE3OT
+eyJoaXN0b3J5IjpbOTU0OTU5ODExLDIxNDQ0NjQ1MTcsLTE3OT
 Y4ODY1MDEsLTE3ODI3MDY2MjFdfQ==
 -->
