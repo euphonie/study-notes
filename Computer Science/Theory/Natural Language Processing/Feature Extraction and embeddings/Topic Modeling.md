@@ -88,9 +88,13 @@ $$
 $$
 
 > image dirichletdistform
+> image dirichletdistform2
+
+Is important to notice that:
+- When the multinomial are small, the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM5MDY5OTIsMjE0NDQ2NDUxNywtMT
-c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbMTU0NTM2OTg1MCwyMTQ0NDY0NTE3LC0xNz
+k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
