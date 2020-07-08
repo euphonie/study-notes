@@ -211,7 +211,9 @@ $$
 
 Another way of describe this would be, that the Cumulative Distribution Function is the probability of the interval between $(-\infty; y)$.
 
-
+Using this we can compute PDF from CDF and viceversa applying the formulas:
+- PDF to CDF. $\int_{-\infty}^y p(y)dy = F(y)$
+- CDF to PDF. $p(y) = F(y)\frac{d}{dy}$
 
 #### **Normal distribution**
 
@@ -235,9 +237,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE2NDg3MjcsLTIwNzE1NDY1NDcsNj
-I0MTQxODA5LC04ODEzNDQ4MzcsLTIxMTIxMTE5MTksLTEwMzkw
-MDUyMDYsODA4OTQ4MTEzLC0xNjIyMjM0MjQ5LC0xNDA3MzY4Nj
-Y1LDIyNzE3OTU4NCwtNjI0MzI4NiwxMTUzNDg4MTQxLC0xMjgw
-NTMzNjQ4XX0=
+eyJoaXN0b3J5IjpbNDY4OTM1MDQ0LC0yMDcxNTQ2NTQ3LDYyND
+E0MTgwOSwtODgxMzQ0ODM3LC0yMTEyMTExOTE5LC0xMDM5MDA1
+MjA2LDgwODk0ODExMywtMTYyMjIzNDI0OSwtMTQwNzM2ODY2NS
+wyMjcxNzk1ODQsLTYyNDMyODYsMTE1MzQ4ODE0MSwtMTI4MDUz
+MzY0OF19
 -->
