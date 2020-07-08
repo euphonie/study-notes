@@ -73,13 +73,14 @@ $$
 \frac{\Gamma(a+b)}{\Gamma(a)\Gamma(b)} x^{a-1}y^{b-1} 
 $$
 
-To describe Gamma, if a is an integer then: $\Gamma(a) = (a-1)!$ The interesting part about Gamma is that it takes values in between integers, like $a = 5.5$, $\Gamma(5.5) = 52.35$.
+To describe Gamma, if a is an integer then: $\Gamma(a) = (a-1)!$ The interesting part about Gamma is that it takes values in between integers, like $a = 5.5$, $\Gamma(5.5) = 52.35$. This is illustrated having direct probabilities for each event, as seen below.
 
+> image betadist2
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA5OTQzMTAsMjE0NDQ2NDUxNywtMT
-c5Njg4NjUwMSwtMTc4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbMTg3NjU2NDUwNywyMTQ0NDY0NTE3LC0xNz
+k2ODg2NTAxLC0xNzgyNzA2NjIxXX0=
 -->
