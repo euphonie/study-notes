@@ -14,18 +14,21 @@ LDA is used to classify text in a document to a particular topic. It builds a to
 
 Load the dataset from the CSV and save it to 'data_text'
 
-  
+```python
+import pandas as pd
+data = pd.read_csv('abcnews-date-text.csv', error_bad_lines=False);
+# We only need the Headlines text column from the data
+data_text = data[:300000][['headline_text']];
+data_text['index'] = data_text.index
+documents = data_text
+print(len(documents))
+documents[:5]
+```
 
-       import pandas as pd
-       data = pd.read_csv('abcnews-date-text.csv', error_bad_lines=False);
-       # We only need the Headlines text column from the data
-       data_text = data[:300000][['headline_text']];
-       data_text['index'] = data_text.index
-	documents = data_text
+### Data pre-processing
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUzMjAzNjcsLTE1OTU2MDIwMDhdfQ
-==
+eyJoaXN0b3J5IjpbNjcxNzU3NDI0LC0xNTk1NjAyMDA4XX0=
 -->
