@@ -27,17 +27,17 @@ In this step, the objective is to find the best position for each word to be abl
 # Example process
 
 1. Choose a set of n-topics.
-1. Generate a set of n-documents. 
-	2. This is done using a dirichlet distribution on the n-topics. Probabilities of the relation between each document and a topic are generated in a matrix ($\theta$)
-	3. A sample, defined by a poisson distribution, is generated 
+2. Generate a set of n-documents. 
+	a. This is done using a dirichlet distribution on the n-topics. Probabilities of the relation between each document and a topic are generated in a matrix ($\theta$)
+	b. A sample, the size defined by a poisson distribution, is generated for each topic with the corresponding probabilities.
 
 > image sublda5
 
-
+> image sublda6
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzExODM5NjAsNzM2MzM2MzFdfQ==
+eyJoaXN0b3J5IjpbLTE4NzAwMzc4Nyw3MzYzMzYzMV19
 -->
