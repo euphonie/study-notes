@@ -42,8 +42,14 @@ In this step, the objective is to find the best position for each word to be abl
 
 > image sublda7
 
+## Notes
+
+- From $\alpha$, a set of documents is obtained. 
+- From $\beta$, a set of topics is obtained
+- $\alpha$ and $\beta$ are used to create fake articles or documents.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjM2NDk5NSwtMTgwMjM4OTM5NSw3Mz
+eyJoaXN0b3J5IjpbMTQwMTkwOTA2NywtMTgwMjM4OTM5NSw3Mz
 YzMzYzMV19
 -->
