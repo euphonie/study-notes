@@ -24,10 +24,14 @@ $\phi$ gets computed along with every topic to generate the following matrix.
 In this step, the objective is to find the best position for each word to be able to generate the corresponding topic. This is done by matrix multiplication between $\theta$ and $\phi$
 
 
-## Generating documents
+# Example process
+
+1. Choose a set of n-topics.
+1. Generate a set of n-documents. 
+	2. This is done using a dirichlet distribution on the n-topics. Probabilities of th
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDMwMDc3XX0=
+eyJoaXN0b3J5IjpbMzE5ODIwNTE3XX0=
 -->
