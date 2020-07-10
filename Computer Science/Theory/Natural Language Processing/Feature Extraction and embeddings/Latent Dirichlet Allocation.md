@@ -4,7 +4,7 @@
 
 In the following steps, an LDA modal is proposed by generating fake documents related to each topic and then comparing them to the real documents to analyze.
 
-> image sublda1
+![Main description](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Feature%20Extraction%20and%20embeddings/sublda1.png)
 
 ## Sample a topic
 
@@ -60,6 +60,6 @@ In this step, the objective is to find the best position for each word to be abl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUyNDQ3NDksLTg2MjUzMDY5NywtMT
+eyJoaXN0b3J5IjpbLTE1MjIzMzIxNjEsLTg2MjUzMDY5NywtMT
 gwMjM4OTM5NSw3MzYzMzYzMV19
 -->
