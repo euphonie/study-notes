@@ -6,15 +6,15 @@ In the following steps, an LDA modal is proposed by generating fake documents re
 
 ## Sample a topic
 
-The first step to build the model is to build a dirichlet distribution matrix ($\theta$) for a set of documents and a set of topics. In the following image a probability is given for every pair (document, topic).
+The first step to build the model is to build a dirichlet distribution space ($\alpha$) that gets map into a multinomial distribution matrix ($\theta$) for a set of documents and a set of topics. In the following image a probability is given for every pair (document, topic).
 
 > image sublda2
 
 ## Sample a word
 
-
+Now, a second dirichlet distribution space ($\beta$), in the case of the image is a 3-dimensi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM2OTQxOTNdfQ==
+eyJoaXN0b3J5IjpbLTE4Mjk1Nzk3MjddfQ==
 -->
