@@ -1,3 +1,5 @@
+> All information gathered from Udacity's Natural Language Processing Nanodegree
+
 # Latent Dirichlet Allocation
 
 In the following steps, an LDA modal is proposed by generating fake documents related to each topic and then comparing them to the real documents to analyze.
@@ -58,6 +60,6 @@ In this step, the objective is to find the best position for each word to be abl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjUzMDY5NywtMTgwMjM4OTM5NSw3Mz
-YzMzYzMV19
+eyJoaXN0b3J5IjpbLTE4NDUyNDQ3NDksLTg2MjUzMDY5NywtMT
+gwMjM4OTM5NSw3MzYzMzYzMV19
 -->
