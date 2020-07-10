@@ -35,9 +35,12 @@ In this step, the objective is to find the best position for each word to be abl
 
 > image sublda6
 
+3. Then, a set of n-words is selected. This will conform a dirichlet disitribution as well. 
+	a. For each, word a probability distribution will be generated taking into account each topic.
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzAwMzc4Nyw3MzYzMzYzMV19
+eyJoaXN0b3J5IjpbMTU3NjYwMjI2NCw3MzYzMzYzMV19
 -->
