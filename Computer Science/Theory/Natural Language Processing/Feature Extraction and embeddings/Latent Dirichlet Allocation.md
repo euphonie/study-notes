@@ -37,11 +37,13 @@ In this step, the objective is to find the best position for each word to be abl
 
 3. Then, a set of n-words is selected. This will conform a dirichlet disitribution as well. 
 	a. For each, word a probability distribution ($\phi$) will be generated taking into account each topic.
-	
+4. Then, for each generated or fake document a topic is selected 
+5. Finally, documents are compared are corrected.
 
 > image sublda7
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDIzODkzOTUsNzM2MzM2MzFdfQ==
+eyJoaXN0b3J5IjpbLTcxMjM2NDk5NSwtMTgwMjM4OTM5NSw3Mz
+YzMzYzMV19
 -->
