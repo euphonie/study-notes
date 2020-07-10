@@ -51,9 +51,11 @@ In this step, the objective is to find the best position for each word to be abl
 - The idea is to maximize the arrangement of points in both spaces $\alpha$ and $\beta$ that gets the highest likelihood between fake and real articles.
 	- This is executed by optimizing the error function that results from comparing fake and real articles.
 	- The error then backpropagates to the distributions and sets a gradient to move each point in the space to reduce the error.
+- When the best configuration for the points is obtained, $\alpha$ will indicate which articles are associated to the topics, and $\beta$ will indicate which words are associated to the topics.
+- The backpropg
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMDc1MzI2LC0xODAyMzg5Mzk1LDczNj
+eyJoaXN0b3J5IjpbODgyOTU3MTg1LC0xODAyMzg5Mzk1LDczNj
 MzNjMxXX0=
 -->
