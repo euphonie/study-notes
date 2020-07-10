@@ -6,9 +6,9 @@ In the following steps, an LDA modal is proposed by generating fake documents re
 
 ## Sample a topic
 
-The first step of the 
+The first step to build the model is to build a multinomial distribution matrix for a set of documents and a set of topics. In the following image a probability is given for every pair (document, 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTMyNjQ1OF19
+eyJoaXN0b3J5IjpbLTI0MzUzMzMzOV19
 -->
