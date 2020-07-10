@@ -10,7 +10,7 @@ In the following steps, an LDA modal is proposed by generating fake documents re
 
 The first step to build the model is to build a dirichlet distribution space ($\alpha$) that gets map into a multinomial distribution matrix ($\theta$) for a set of documents and a set of topics. In the following image a probability is given for every pair (document, topic).
 
-> image sublda2
+![Sample a topic](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Feature%20Extraction%20and%20embeddings/sublda2.png)
 
 ## Sample a word
 
@@ -18,7 +18,7 @@ Now, a second dirichlet distribution space ($\beta$), in the case of the image i
 
 $\phi$ gets computed along with every topic to generate the following matrix.
 
-> image sublda3
+![Sample a word](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Feature%20Extraction%20and%20embeddings/sublda3.png)
 
 ## Combining $\theta$ and $\phi$
 
@@ -60,6 +60,6 @@ In this step, the objective is to find the best position for each word to be abl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIzMzIxNjEsLTg2MjUzMDY5NywtMT
-gwMjM4OTM5NSw3MzYzMzYzMV19
+eyJoaXN0b3J5IjpbLTE5Nzg4NDk4NTAsLTE1MjIzMzIxNjEsLT
+g2MjUzMDY5NywtMTgwMjM4OTM5NSw3MzYzMzYzMV19
 -->
