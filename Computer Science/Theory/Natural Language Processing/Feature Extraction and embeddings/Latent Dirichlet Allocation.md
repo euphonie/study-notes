@@ -37,10 +37,11 @@ In this step, the objective is to find the best position for each word to be abl
 
 3. Then, a set of n-words is selected. This will conform a dirichlet disitribution as well. 
 	a. For each, word a probability distribution ($\phi$) will be generated taking into account each topic.
+	
 
-
+> image sublda7
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTM3Nzg4MTgsNzM2MzM2MzFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDIzODkzOTUsNzM2MzM2MzFdfQ==
 -->
