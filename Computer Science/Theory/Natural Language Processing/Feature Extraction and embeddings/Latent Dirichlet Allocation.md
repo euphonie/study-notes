@@ -47,9 +47,12 @@ In this step, the objective is to find the best position for each word to be abl
 - From $\alpha$, a set of documents is obtained. 
 - From $\beta$, a set of topics is obtained
 - $\alpha$ and $\beta$ are used to create fake articles or documents.
+- Real articles are compared to take ones, expecting the probability of guessing correctly to be small.
+- The idea is to maximize the arrangement of points in both spaces $\alpha$ and $\beta$ that gets the highest likelihood between fake and real articles.
+	- This is exe
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTkwOTA2NywtMTgwMjM4OTM5NSw3Mz
+eyJoaXN0b3J5IjpbLTE3NTA5MDg2NiwtMTgwMjM4OTM5NSw3Mz
 YzMzYzMV19
 -->
