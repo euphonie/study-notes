@@ -21,8 +21,8 @@ $\phi$ gets computed along with every topic to generate the following matrix.
 ## Combining $\theta$ and $\phi$
 
 > image sublda4
-In this step, the objective is to find the best position for each word to be able to generate the corresponding topic. This is done by matrix multiplication between $\theta$ and $\phi$
 
+In this step, the objective is to find the best position for each word to be able to generate the corresponding topic. This is done by matrix multiplication between $\theta$ and $\phi$
 
 # Example process
 
@@ -35,7 +35,8 @@ In this step, the objective is to find the best position for each word to be abl
 
 
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MzM2MzFdfQ==
+eyJoaXN0b3J5IjpbMjc1NDQwNTg5LDczNjMzNjMxXX0=
 -->
