@@ -14,7 +14,11 @@ The first step to build the model is to build a dirichlet distribution space ($\
 
 Now, a second dirichlet distribution space ($\beta$), in the case of the image is a 3-dimensional space),  is now mapped to another multinomial distribution matrix ($\phi$). $\phi$ represents the connections between the words and the topics.
 
+$\phi$ 
+
+> image sublda3
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTA3NzEyNV19
+eyJoaXN0b3J5IjpbLTU5MDI3NTkwOV19
 -->
