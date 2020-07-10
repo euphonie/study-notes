@@ -24,11 +24,25 @@ documents = data_text
 print(len(documents))
 documents[:5]
 ```
-
 ### Data pre-processing
 
-
+-   **Tokenization**: Split the text into sentences and the sentences into words. Lowercase the words and remove punctuation.
+-   Words that have fewer than 3 characters are removed.
+-   All  **stopwords**  are removed.
+-   Words are  **lemmatized**  - words in third person are changed to first person and verbs in past and future tenses are changed into present.
+-   Words are  **stemmed**  - words are reduced to their root form.
+```python
+import gensim
+from gensim.utils import simple_preprocess
+from gensim.parsing.preprocessing import STOPWORDS
+from nltk.stem import WordNetLemmatizer, SnowballStemmer
+from nltk.stem.porter import *
+import numpy as np
+np.random.seed(400)
+import nltk
+nltk.download('wordnet')
+```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxNzU3NDI0LC0xNTk1NjAyMDA4XX0=
+eyJoaXN0b3J5IjpbNzMzNDYzOTc3LC0xNTk1NjAyMDA4XX0=
 -->
