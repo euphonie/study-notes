@@ -41,8 +41,16 @@ import numpy as np
 np.random.seed(400)
 import nltk
 nltk.download('wordnet')
+## Lemmatizing example
+print(WordNetLemmatizer().lemmatize('went', pos = 'v')) # past tense to present tense
+## Stemming example
+stemmer = SnowballStemmer("english")
+original_words = ['caresses', 'flies', 'dies', 'mules', 'denied','died', 'agreed', 'owned', 'humbled', 'sized','meeting', 'stating', 'siezing', 'itemization','sensational', 'traditional', 'reference', 'colonizer','plotted']
+singles = [stemmer.stem(plural) for plural in original_words]
+
+pd.DataFrame(data={'original word':original_words, 'stemmed':singles })
 ```
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzNDYzOTc3LC0xNTk1NjAyMDA4XX0=
+eyJoaXN0b3J5IjpbODI4OTkyMjA4LC0xNTk1NjAyMDA4XX0=
 -->
