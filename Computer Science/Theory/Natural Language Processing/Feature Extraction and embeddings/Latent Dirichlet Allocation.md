@@ -6,9 +6,9 @@ In the following steps, an LDA modal is proposed by generating fake documents re
 
 ## Sample a topic
 
-
+The first step of the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTYxMTg4MV19
+eyJoaXN0b3J5IjpbLTY0NTMyNjQ1OF19
 -->
