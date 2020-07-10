@@ -28,10 +28,14 @@ In this step, the objective is to find the best position for each word to be abl
 
 1. Choose a set of n-topics.
 1. Generate a set of n-documents. 
-	2. This is done using a dirichlet distribution on the n-topics. Probabilities of th
+	2. This is done using a dirichlet distribution on the n-topics. Probabilities of the relation between each document and a topic are generated in a matrix ($\theta$)
+
+> image sublda5
+
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5ODIwNTE3XX0=
+eyJoaXN0b3J5IjpbNzM2MzM2MzFdfQ==
 -->
