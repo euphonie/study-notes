@@ -54,7 +54,7 @@ To describe Gamma, if a is an integer then: $\Gamma(a) = (a-1)!$ The interesting
 ![Beta Distribution for Binomial Distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/betadist2.png)
 
 
-# Latent Dirichlet Allocation
+# Intro: Latent Dirichlet Allocation
 
 Is based on matrix multiplication as a means to simplify computing a huge BoW modeled matrix. 
 Then, the result of a given tuple of (word, document) could be calculated by multiplying the according row and column from much smaller matrixes. 
@@ -98,6 +98,7 @@ Is important to notice that:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTc2MzIwOSw5NTQ5NTk4MTEsMjE0ND
-Q2NDUxNywtMTc5Njg4NjUwMSwtMTc4MjcwNjYyMV19
+eyJoaXN0b3J5IjpbLTE1NzY4NjEzMywxMDcxNzYzMjA5LDk1ND
+k1OTgxMSwyMTQ0NDY0NTE3LC0xNzk2ODg2NTAxLC0xNzgyNzA2
+NjIxXX0=
 -->
