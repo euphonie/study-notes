@@ -52,10 +52,12 @@ In this step, the objective is to find the best position for each word to be abl
 	- This is executed by optimizing the error function that results from comparing fake and real articles.
 	- The error then backpropagates to the distributions and sets a gradient to move each point in the space to reduce the error.
 - When the best configuration for the points is obtained, $\alpha$ will indicate which articles are associated to the topics, and $\beta$ will indicate which words are associated to the topics.
-- The backpropg
+- The backpropagation could even be passed up to the dirichlet distributions itself, generating $\alpha'$ and $\beta'$
+
+> image sublda8
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgyOTU3MTg1LC0xODAyMzg5Mzk1LDczNj
-MzNjMxXX0=
+eyJoaXN0b3J5IjpbLTg2MjUzMDY5NywtMTgwMjM4OTM5NSw3Mz
+YzMzYzMV19
 -->
