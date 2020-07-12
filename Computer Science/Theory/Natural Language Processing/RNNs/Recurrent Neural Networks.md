@@ -21,6 +21,8 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 - Speech recognition. Sequence of data samples extracted from an audio signal is continuously mapped to text. 
 - Time series prediction. Prediction of pattern to suggest best possible solution.
+- NLP. Machine translation, question answering, chatbots.
+- Gesture recognition. Evaluating a sequence of data frames to identify gestures.
 
 ## Vanishing Gradient Problem
 
@@ -28,7 +30,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODQ5NTA0MiwxMzM1OTY0ODQxLDQwMj
-AwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTdd
-fQ==
+eyJoaXN0b3J5IjpbLTEyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MD
+IwMDk1MzEsLTc0NzkyNzA3LDIwODg3ODcxODEsMjA0MjY0OTE3
+XX0=
 -->
