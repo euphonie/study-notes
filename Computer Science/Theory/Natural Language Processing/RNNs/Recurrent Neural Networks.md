@@ -36,7 +36,7 @@ Usually uses backpropagation to adjust the weights between the network's nodes. 
 $$
 \bar{y} = (\bar{x}, W) 
 $$
-Where $\bar{x}$ is the input vecotr,
+Where $\bar{x}$ is the input vector, $\bar{y}$ is the output vector and W are the weights that make inner connections in the network.
 
 ## Vanishing Gradient Problem
 
@@ -44,7 +44,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA3MTU1NSwtMTIxMjg3MzA0NiwxMz
+eyJoaXN0b3J5IjpbLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMz
 M1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4
 MSwyMDQyNjQ5MTddfQ==
 -->
