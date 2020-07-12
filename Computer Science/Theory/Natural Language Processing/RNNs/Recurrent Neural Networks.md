@@ -17,11 +17,17 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 - **Mid 90's**. Long Short-term memory (LSTM) were invented to address the vanishing gradient problem. The approach proposed that some signals (state variables) could be kept fixed using gates in the design, and this state variables could be reintroduced or not at an appropriate time in the future. This added the ability to represent arbitrary time intervals and to capture temporal dependencies.
 - Gated Recurrent Networks are variations on LSTMs further refine the ability to represent arbitrary time intervals.
 
+## Applications
+
+- 
+
 ## Vanishing Gradient Problem
+
+TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTk0ODMzNywxMzM1OTY0ODQxLDQwMj
+eyJoaXN0b3J5IjpbMTQwMjQxNDkwNywxMzM1OTY0ODQxLDQwMj
 AwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTdd
 fQ==
 -->
