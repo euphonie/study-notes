@@ -50,7 +50,7 @@ There are two main phases:
 
 > image ffnn1
 
-In the graphical representation of a FFNN, the result of multiplying the input values with each corresponding weight is then applied to a summing function which contains a bias. The bias belongs to the neuron and 
+In the graphical representation of a FFNN, the result of multiplying the input values with each corresponding weight is then applied to a summing function. Neurons can also contain a bias that affects the resulting value. The output of the summing function is run through an activation function which determines the obtained output.
 
 ## Vanishing Gradient Problem
 
@@ -58,7 +58,8 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MTIwMTM3LDEwOTE2MjY4NzksLTMzOT
-M1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUz
-MSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTEzMTYwMDIzMTQsNDY3MTIwMTM3LDEwOT
+E2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0
+ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMD
+QyNjQ5MTddfQ==
 -->
