@@ -19,7 +19,8 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 ## Applications
 
-- 
+- Speech recognition. Sequence of data samples extracted from an audio signal is continuously mapped to text. 
+- Time series prediction. Prediction of pattern to suggest best possible solution.
 
 ## Vanishing Gradient Problem
 
@@ -27,7 +28,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjQxNDkwNywxMzM1OTY0ODQxLDQwMj
+eyJoaXN0b3J5IjpbLTUxODQ5NTA0MiwxMzM1OTY0ODQxLDQwMj
 AwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTdd
 fQ==
 -->
