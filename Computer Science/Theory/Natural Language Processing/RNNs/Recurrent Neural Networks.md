@@ -46,7 +46,9 @@ The goal behind neural networks is to find the best set of weights $W$ to be abl
 
 There are two main phases: 
 - Training. A subset of all given points is used to adjust the weights to the best approximator function. 
-	- Consists of two steps: Feedforward and backpropagation.
+	- Consists of two steps:
+		- Feedforward. The input is feed through the weights and an output is generated.
+		- Backpropagation. Output is compared to desired output and backpropagation adjusts the weights to correct the function in terms of the current input, value pair.
 - Evaluation. The network is used to the testing set (the remaining points that are not part of testing phase but carry their desired output), to find how good is the neural network to generalize unknown data. 
 
 > image ffnn1
@@ -59,8 +61,8 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQyODQ4NzgsNDY3MTIwMTM3LDEwOT
-E2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0
-ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMD
-QyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTU5MzMxODUxNSw0NjcxMjAxMzcsMTA5MT
+YyNjg3OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4
+NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3MTgxLDIwND
+I2NDkxN119
 -->
