@@ -48,6 +48,9 @@ There are two main phases:
 - Training. A subset of all given points is used to adjust the weights to the best approximator function.
 - Evaluation. The network is used to the testing set (the remaining points that are not part of testing phase but carry their desired output), to find how good is the neural network to generalize unknown data. 
 
+> image ffnn1
+
+In the graphical representation of a FFNN, the result of multiplying the input values with each corresponding weight is then applied to a summing function which contains a bias. Te bias 
 
 ## Vanishing Gradient Problem
 
@@ -55,7 +58,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMj
-EyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5Mjcw
-NywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
+eyJoaXN0b3J5IjpbMzczNDA4ODk3LDEwOTE2MjY4NzksLTMzOT
+M1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUz
+MSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTddfQ==
 -->
