@@ -37,7 +37,10 @@ $$
 \bar{y} = (\bar{x}, W) 
 $$
 Where $\bar{x}$ is the input vector, $\bar{y}$ is the output vector and W are the weights that make inner connections in the network.
-Neural networks essentially work as non-linear function approximators, it searches to fit a smooth function between a given set of points given that a new point $x'$ a new output $y'$
+Neural networks essentially work as non-linear function approximators, it searches to fit a smooth function between a given set of points given that a new point $x'$ a new output $y'$ can be found.
+The two main types of applications neural networks have is: 
+- Classification for a given input
+- Regression for function approximation (through a supervised learning strategy)
 
 ## Vanishing Gradient Problem
 
@@ -45,7 +48,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDUwNzk2NCwtMzM5MzUyODI2LC0xMj
+eyJoaXN0b3J5IjpbLTUzNjE5MTA2NCwtMzM5MzUyODI2LC0xMj
 EyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5Mjcw
 NywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
 -->
