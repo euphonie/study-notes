@@ -24,13 +24,15 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 - NLP. Machine translation, question answering, chatbots.
 - Gesture recognition. Evaluating a sequence of data frames to identify gestures.
 
+
+
 ## Vanishing Gradient Problem
 
 TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MD
-IwMDk1MzEsLTc0NzkyNzA3LDIwODg3ODcxODEsMjA0MjY0OTE3
-XX0=
+eyJoaXN0b3J5IjpbMTQzNjgxNjcxOCwtMTIxMjg3MzA0NiwxMz
+M1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4
+MSwyMDQyNjQ5MTddfQ==
 -->
