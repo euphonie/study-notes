@@ -42,13 +42,17 @@ The two main types of applications neural networks have is:
 - Classification for a given input
 - Regression for function approximation (through a supervised learning strategy)
 
+The goal behind neural networks is to find the best set of weights $W$ to be able to produce a reliable output $\bar{y}$ given some known and unknown inputs. $W$ starts as a random set of weights that gets approximated, each execution, to a better approximation.
+
+
+
 ## Vanishing Gradient Problem
 
 TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjE5MTA2NCwtMzM5MzUyODI2LC0xMj
+eyJoaXN0b3J5IjpbLTY3OTA5MzgyNywtMzM5MzUyODI2LC0xMj
 EyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5Mjcw
 NywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
 -->
