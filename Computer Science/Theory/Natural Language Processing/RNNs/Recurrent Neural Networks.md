@@ -45,8 +45,8 @@ The two main types of applications neural networks have is:
 The goal behind neural networks is to find the best set of weights $W$ to be able to produce a reliable output $\bar{y}$ given some known and unknown inputs. $W$ starts as a random set of weights that gets approximated, each execution, to a better approximation.
 
 There are two main phases: 
-- Training. A subset of all given points is used to adjust the weights to the best fu
-- Evaluation
+- Training. A subset of all given points is used to adjust the weights to the best approximator function.
+- Evaluation. The network is used to the testing set (the remaining points that are not part of testing phase but carry their desired output), to find how good is the neural network to generalize unknown data. 
 
 
 ## Vanishing Gradient Problem
@@ -55,7 +55,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODgxMzY1LC0zMzkzNTI4MjYsLTEyMT
-I4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0NzkyNzA3
-LDIwODg3ODcxODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMj
+EyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5Mjcw
+NywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
 -->
