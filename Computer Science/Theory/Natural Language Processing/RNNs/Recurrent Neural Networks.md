@@ -45,7 +45,8 @@ The two main types of applications neural networks have is:
 The goal behind neural networks is to find the best set of weights $W$ to be able to produce a reliable output $\bar{y}$ given some known and unknown inputs. $W$ starts as a random set of weights that gets approximated, each execution, to a better approximation.
 
 There are two main phases: 
-- Training. A subset of all given points is used to adjust the weights to the best approximator function.
+- Training. A subset of all given points is used to adjust the weights to the best approximator function. 
+	- Consists of two steps: Feedforward and backpropagation.
 - Evaluation. The network is used to the testing set (the remaining points that are not part of testing phase but carry their desired output), to find how good is the neural network to generalize unknown data. 
 
 > image ffnn1
@@ -58,7 +59,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTYwMDIzMTQsNDY3MTIwMTM3LDEwOT
+eyJoaXN0b3J5IjpbLTE3NjQyODQ4NzgsNDY3MTIwMTM3LDEwOT
 E2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0
 ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMD
 QyNjQ5MTddfQ==
