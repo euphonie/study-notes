@@ -31,7 +31,12 @@ Composed of three set of layers:
 - n-Hidden Layers
 - Output Layer
 
-Usually uses backpropagation to adjust the weights between the network's nodes. 
+Usually uses backpropagation to adjust the weights between the network's nodes.  A generalized version of a neural network can be described using: 
+
+$$
+\bar{y} = (\bar{x}, W) 
+$$
+Where $\bar{x}$ is the input vecotr,
 
 ## Vanishing Gradient Problem
 
@@ -39,7 +44,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDM5OTI5MjcsLTEyMTI4NzMwNDYsMT
-MzNTk2NDg0MSw0MDIwMDk1MzEsLTc0NzkyNzA3LDIwODg3ODcx
-ODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbLTE1NzA3MTU1NSwtMTIxMjg3MzA0NiwxMz
+M1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4
+MSwyMDQyNjQ5MTddfQ==
 -->
