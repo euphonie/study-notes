@@ -38,13 +38,14 @@ $$
 $$
 Where $\bar{x}$ is the input vector, $\bar{y}$ is the output vector and W are the weights that make inner connections in the network.
 
+
 ## Vanishing Gradient Problem
 
 TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMz
-M1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4
-MSwyMDQyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbMTkwNzMxNTA5NiwtMzM5MzUyODI2LC0xMj
+EyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5Mjcw
+NywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
 -->
