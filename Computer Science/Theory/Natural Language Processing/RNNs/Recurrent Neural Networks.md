@@ -24,7 +24,14 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 - NLP. Machine translation, question answering, chatbots.
 - Gesture recognition. Evaluating a sequence of data frames to identify gestures.
 
+# Feedforward Neural Networks
 
+Composed of three set of layers: 
+- Input Layer
+- n-Hidden Layers
+- Output Layer
+
+Usually uses backpropagation to adjust the weights between the network's nodes. 
 
 ## Vanishing Gradient Problem
 
@@ -32,7 +39,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjgxNjcxOCwtMTIxMjg3MzA0NiwxMz
-M1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4
-MSwyMDQyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTIwNDM5OTI5MjcsLTEyMTI4NzMwNDYsMT
+MzNTk2NDg0MSw0MDIwMDk1MzEsLTc0NzkyNzA3LDIwODg3ODcx
+ODEsMjA0MjY0OTE3XX0=
 -->
