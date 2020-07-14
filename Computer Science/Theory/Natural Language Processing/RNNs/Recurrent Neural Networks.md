@@ -92,16 +92,18 @@ Some errors functions that are used:
 - Mean Squared Error. Usually used in regression problems.
 - Cross Entropy. Usually used in classification problems.
 
+####
+
 ## Vanishing Gradient Problem
 
 TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDE0NTA5MDgsNDU4OTIwNDEzLDEwOD
-UwMDg3NjgsMTQwMjc1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3
-OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAxMzcsMT
-A5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LDEzMzU5
-NjQ4NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3MTgxLD
-IwNDI2NDkxN119
+eyJoaXN0b3J5IjpbMjExMDI5MjY4MCwtMTEwMTQ1MDkwOCw0NT
+g5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2
+NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LD
+Q2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4
+NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0NzkyNzA3LD
+IwODg3ODcxODEsMjA0MjY0OTE3XX0=
 -->
