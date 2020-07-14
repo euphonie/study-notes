@@ -99,7 +99,15 @@ The two solutions for overfitting are:
 - Stop the training process early. This can be done by selecting a subset from the training set, named the validation set, and use it to validate when is pertinent to stop.
 - Using regularization. It means imposing a constraint on the training of the network to have better generalization. Dropout is a common used technique for this.
 
+#### Mini batch training
 
+Generalizing the gradient results from a set of N steps before applying them to the weights on the network. The benefits are:
+- Reduces the complexity of the training process
+- 
+
+$$
+\delta = \frac{1}{N} \sum{\delta_{ij}}_k^N
+$$
 
 
 ## Vanishing Gradient Problem
@@ -108,10 +116,10 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNzUzMjEyLC00OTE5Mzg3NDYsLTExMD
-E0NTA5MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMjc1MjA1
-NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLT
-U5MzMxODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUy
-ODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC
-03NDc5MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
+eyJoaXN0b3J5IjpbMTk5MDAzNTQzNywtNDkxOTM4NzQ2LC0xMT
+AxNDUwOTA4LDQ1ODkyMDQxMywxMDg1MDA4NzY4LDE0MDI3NTIw
+NTcsMTk4NjY3NzY0MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC
+01OTMzMTg1MTUsNDY3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1
+MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUzMS
+wtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTddfQ==
 -->
