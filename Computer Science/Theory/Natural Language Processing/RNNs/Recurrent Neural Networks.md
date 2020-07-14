@@ -99,16 +99,19 @@ The two solutions for overfitting are:
 - Stop the training process early. This can be done by selecting a subset from the training set, named the validation set, and use it to validate when is pertinent to stop.
 - Using regularization. It means imposing a constraint on the training of the network to have better generalization. Dropout is a common used technique for this.
 
+
+
+
 ## Vanishing Gradient Problem
 
 TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NT
-g5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2
-NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LD
-Q2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4
-NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0NzkyNzA3LD
-IwODg3ODcxODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbNzEzNzUzMjEyLC00OTE5Mzg3NDYsLTExMD
+E0NTA5MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMjc1MjA1
+NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLT
+U5MzMxODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUy
+ODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC
+03NDc5MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
 -->
