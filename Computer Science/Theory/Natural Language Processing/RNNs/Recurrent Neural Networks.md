@@ -92,7 +92,9 @@ Some errors functions that are used:
 - Mean Squared Error. Usually used in regression problems.
 - Cross Entropy. Usually used in classification problems.
 
-####
+#### Overfitting
+
+Overfitting is the quality of having a model that almost exactly represents the behaviour of the data. In this case, noise 
 
 ## Vanishing Gradient Problem
 
@@ -100,7 +102,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDI5MjY4MCwtMTEwMTQ1MDkwOCw0NT
+eyJoaXN0b3J5IjpbMTQ3OTg3OTAwMSwtMTEwMTQ1MDkwOCw0NT
 g5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2
 NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LD
 Q2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4
