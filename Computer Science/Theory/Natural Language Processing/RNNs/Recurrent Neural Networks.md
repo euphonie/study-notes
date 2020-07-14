@@ -57,6 +57,7 @@ In the graphical representation of a FFNN, the result of multiplying the input v
 
 ### Matrix multiplication
 
+A neural network consists of a resulting vector $\bar{y}$ obtained from multiplying 
 
 ## Vanishing Gradient Problem
 
@@ -64,8 +65,8 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0Nj
-cxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODcz
-MDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMD
-g4Nzg3MTgxLDIwNDI2NDkxN119
+eyJoaXN0b3J5IjpbMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNT
+kzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4
+MjYsLTEyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLT
+c0NzkyNzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX0=
 -->
