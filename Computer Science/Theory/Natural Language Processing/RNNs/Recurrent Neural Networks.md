@@ -83,7 +83,8 @@ $$
 
 Finally, the adjustment of each matrix weights is done by comparing the output against the expected value. Error functions are used to calculate the difference between these values, and the goal is to minimize it below a specific threshold.
 Some errors functions that are used:
-- Mean Squred E
+- Mean Squared Error. Usually used in regression problems.
+- Cross Entropy. Usually used in classification problems.
 
 ## Vanishing Gradient Problem
 
@@ -91,10 +92,9 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkyOTQ2NjIsMTA4NTAwODc2OCwxND
-AyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5
-NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC
-0zMzkzNTI4MjYsLTEyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIw
-MDk1MzEsLTc0NzkyNzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX
-0=
+eyJoaXN0b3J5IjpbNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMj
+c1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1
+NjMsLTU5MzMxODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMz
+M5MzUyODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5
+NTMxLC03NDc5MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
 -->
