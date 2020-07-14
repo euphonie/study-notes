@@ -61,8 +61,8 @@ A neural network consists of a resulting vector $\bar{y}$ obtained from multiply
 In the case, there is more than one hidden layer the number of matrices to compute the resulting $\bar{y}$ augments.
 
 When multiplying each incoming node $i$ and a destination node $j$ inside of each layer, an activation function $\phi$ is applied to the result to ensure the resulting value stays within a certain limit. For $\phi$, there are several functions that can be used: 
-- Hyperbolic tangent function $f(x) = tanh(x)$. Leaves output between -1 and 1.
-- Sigmoid function $\sigma(x) = $
+- Hyperbolic tangent function $f(x) = tanh(x)$. Returns outputs between -1 and 1.
+- Sigmoid function $\sigma(x) = \frac{1}{1+e^{-x}}$. Returns outputs between 0 and 1.
 
 ## Vanishing Gradient Problem
 
@@ -70,7 +70,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzcwMDYyOCwxMDAzMDYxNzkzLC0xMD
+eyJoaXN0b3J5IjpbMTk4NjY3NzY0MiwxMDAzMDYxNzkzLC0xMD
 UyMzk1NTYzLC01OTMzMTg1MTUsNDY3MTIwMTM3LDEwOTE2MjY4
 NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0ODQxLD
 QwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5
