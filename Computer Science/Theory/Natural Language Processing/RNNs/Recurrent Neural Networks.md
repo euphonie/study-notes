@@ -71,6 +71,7 @@ f(x) =
 x for x \geq 0
 \end{cases}
 $$
+This activation functions allow the network to represent non-linear relationships between inputs and outputs.
 
 ## Vanishing Gradient Problem
 
@@ -78,7 +79,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDk1Njc2NSwxOTg2Njc3NjQyLDEwMD
+eyJoaXN0b3J5IjpbMTQwMjc1MjA1NywxOTg2Njc3NjQyLDEwMD
 MwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAx
 MzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LD
 EzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3
