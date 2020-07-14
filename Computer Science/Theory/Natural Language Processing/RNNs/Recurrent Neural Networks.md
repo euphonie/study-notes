@@ -94,7 +94,10 @@ Some errors functions that are used:
 
 #### Overfitting
 
-Overfitting is the quality of having a model that almost exactly represents the behaviour of the data. In this case, noise 
+Overfitting is the quality of having a model that almost exactly represents the behaviour of the data. In this case, noise or random elements, are also taken into account to build the model and may affect the estimation on new and unknown data. The model will fail generalizing for new inputs. 
+The two solutions for overfitting are:
+- Stop the training process early
+- 
 
 ## Vanishing Gradient Problem
 
@@ -102,7 +105,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3OTg3OTAwMSwtMTEwMTQ1MDkwOCw0NT
+eyJoaXN0b3J5IjpbMjEwNDAzMjM2NiwtMTEwMTQ1MDkwOCw0NT
 g5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2
 NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LD
 Q2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4
