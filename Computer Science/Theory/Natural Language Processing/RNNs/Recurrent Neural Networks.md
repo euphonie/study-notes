@@ -73,7 +73,11 @@ x for x \geq 0
 $$
 This activation functions allow the network to represent non-linear relationships between inputs and outputs.
 
-At the last step, when multiplying the corresponding hidden vector $h_n$ with the last matrix $W_n$ a softmax function can be used to 
+At the last step, when multiplying the corresponding hidden vector $h_n$ with the last matrix $W_n$ a softmax function can be used to limit results in outputs to values between 0 and 1. The formula for **softmax** is:
+
+$$
+\sigma(x)_j = \frac{e^{x_j}}{\sum{e^{x_k}}^k_1}
+$$
 
 ## Vanishing Gradient Problem
 
@@ -81,9 +85,9 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODE4NDk3LDE0MDI3NTIwNTcsMTk4Nj
-Y3NzY0MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1
-MTUsNDY3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMT
-IxMjg3MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3
-MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTEwMzI0NTY4MDcsMTQwMjc1MjA1NywxOT
+g2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMx
+ODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC
+0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5
+MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
 -->
