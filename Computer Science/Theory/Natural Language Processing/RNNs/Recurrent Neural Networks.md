@@ -103,7 +103,7 @@ The two solutions for overfitting are:
 
 Generalizing the gradient results from a set of N steps before applying them to the weights on the network. The benefits are:
 - Reduces the complexity of the training process
-- 
+- Noise reduction
 
 $$
 \delta = \frac{1}{N} \sum{\delta_{ij}}_k^N
@@ -116,7 +116,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDAzNTQzNywtNDkxOTM4NzQ2LC0xMT
+eyJoaXN0b3J5IjpbLTc1NTg0MDk5OCwtNDkxOTM4NzQ2LC0xMT
 AxNDUwOTA4LDQ1ODkyMDQxMywxMDg1MDA4NzY4LDE0MDI3NTIw
 NTcsMTk4NjY3NzY0MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC
 01OTMzMTg1MTUsNDY3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1
