@@ -66,6 +66,10 @@ When multiplying each incoming node $i$ and a destination node $j$ inside of eac
 - ReLu function, Rectified linear unit. Negative values are nulled and positive values remain as they are.
 $$
 f(x) = 
+\begin{cases}
+0 for x < 0 \\
+x for x \geq 0
+\end{cases}
 $$
 
 ## Vanishing Gradient Problem
@@ -74,7 +78,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzMzMDYzNCwxOTg2Njc3NjQyLDEwMD
+eyJoaXN0b3J5IjpbMjEyNDk1Njc2NSwxOTg2Njc3NjQyLDEwMD
 MwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAx
 MzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LD
 EzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3
