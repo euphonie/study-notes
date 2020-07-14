@@ -2,9 +2,9 @@
 
 # Sentiment Analysis
 
-
+Classifies sentiment o
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY4MjI2NDQsLTQ5MzcyMjAxOF19
+eyJoaXN0b3J5IjpbLTE5NzgxMjI1ODAsLTQ5MzcyMjAxOF19
 -->
