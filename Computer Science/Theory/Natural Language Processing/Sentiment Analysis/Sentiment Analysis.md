@@ -9,10 +9,11 @@ Steps:
 - Starts with a corpus
 - Process the corpus into documents
 - Extract set of features from the document (BoW, TF-IDF, word2vec)
-- Build a classifier (
+- Build a classifier (NN, decision tree, SVM (Bow), RNN (word2vec))
+- Define a Loss function for training
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg3ODg1NjQsLTQ5MzcyMjAxOF19
+eyJoaXN0b3J5IjpbLTE3MTAwNTAyNTIsLTQ5MzcyMjAxOF19
 -->
