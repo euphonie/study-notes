@@ -81,15 +81,18 @@ $$
 \sigma(x)_j = \frac{e^{x_j}}{\sum{e^{x_k}}^k_1}
 $$
 
+Finally, 
+
 ## Vanishing Gradient Problem
 
 TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
-Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
-NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLT
-EyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0Nzky
-NzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbLTIxMjAwNzE0MjUsMTA4NTAwODc2OCwxND
+AyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5
+NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC
+0zMzkzNTI4MjYsLTEyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIw
+MDk1MzEsLTc0NzkyNzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX
+0=
 -->
