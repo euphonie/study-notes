@@ -60,6 +60,8 @@ In the graphical representation of a FFNN, the result of multiplying the input v
 A neural network consists of a resulting vector $\bar{y}$ obtained from multiplying an input vector $\bar{x}$ by two matrices of edges $W_{n}$ (being $n$ the number of hidden layers) connected from an input to a hidden layer node or from a hidden layer node to an output. 
 In the case, there is more than one hidden layer the number of matrices to compute the resulting $\bar{y}$ augments.
 
+**Note:** *For having good approximations for an output $\bar{y}$, the network should consist of at least 10 hidden layers.*
+
 When multiplying each incoming node $i$ and a destination node $j$ inside of each layer, an activation function $\phi$ is applied to the result to ensure the resulting value stays within a certain limit. For $\phi$, there are several functions that can be used: 
 - Hyperbolic tangent function $f(x) = tanh(x)$. Returns outputs between -1 and 1.
 - Sigmoid function $\sigma(x) = \frac{1}{1+e^{-x}}$. Returns outputs between 0 and 1.
@@ -85,9 +87,9 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzI0NTY4MDcsMTQwMjc1MjA1NywxOT
-g2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMx
-ODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC
-0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5
-MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
+eyJoaXN0b3J5IjpbMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
+Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
+NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLT
+EyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0Nzky
+NzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX0=
 -->
