@@ -55,12 +55,14 @@ There are two main phases:
 
 In the graphical representation of a FFNN, the result of multiplying the input values with each corresponding weight is then applied to a summing function. Neurons can also contain a bias that affects the resulting value. The output of the summing function is run through an activation function which determines the obtained output.
 
-### Matrix multiplication
+#### Matrix multiplication
 
 A neural network consists of a resulting vector $\bar{y}$ obtained from multiplying an input vector $\bar{x}$ by two matrices of edges $W_{n}$ (being $n$ the number of hidden layers) connected from an input to a hidden layer node or from a hidden layer node to an output. 
 In the case, there is more than one hidden layer the number of matrices to compute the resulting $\bar{y}$ augments.
 
 **Note:** *For having good approximations for an output $\bar{y}$, the network should consist of at least 10 hidden layers.*
+
+#### Activation Functions
 
 When multiplying each incoming node $i$ and a destination node $j$ inside of each layer, an activation function $\phi$ is applied to the result to ensure the resulting value stays within a certain limit. For $\phi$, there are several functions that can be used: 
 - Hyperbolic tangent function $f(x) = tanh(x)$. Returns outputs between -1 and 1.
@@ -75,11 +77,15 @@ x for x \geq 0
 $$
 This activation functions allow the network to represent non-linear relationships between inputs and outputs.
 
+#### Softmax 
+
 At the last step, when multiplying the corresponding hidden vector $h_n$ with the last matrix $W_n$ a softmax function can be used to limit results in outputs to values between 0 and 1. The formula for **softmax** is:
 
 $$
 \sigma(x)_j = \frac{e^{x_j}}{\sum{e^{x_k}}^k_1}
 $$
+
+#### Error functions
 
 Finally, the adjustment of each matrix weights is done by comparing the output against the expected value. Error functions are used to calculate the difference between these values, and the goal is to minimize it below a specific threshold.
 Some errors functions that are used:
@@ -92,9 +98,10 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMj
-c1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1
-NjMsLTU5MzMxODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMz
-M5MzUyODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5
-NTMxLC03NDc5MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
+eyJoaXN0b3J5IjpbLTExMDE0NTA5MDgsNDU4OTIwNDEzLDEwOD
+UwMDg3NjgsMTQwMjc1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3
+OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAxMzcsMT
+A5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LDEzMzU5
+NjQ4NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3MTgxLD
+IwNDI2NDkxN119
 -->
