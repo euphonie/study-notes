@@ -57,7 +57,7 @@ In the graphical representation of a FFNN, the result of multiplying the input v
 
 ### Matrix multiplication
 
-A neural network consists of a resulting vector $\bar{y}$ obtained from multiplying an input vector $\bar{x}$ by two matrices of edges $W_{i}$ connected from an input to a hidden layer node or from a hidden layer node to an output. 
+A neural network consists of a resulting vector $\bar{y}$ obtained from multiplying an input vector $\bar{x}$ by two matrices of edges $W_{n}$ (being $n$ the number of hidden layers) connected from an input to a hidden layer node or from a hidden layer node to an output. 
 In the case, there is more than one hidden layer the number of matrices to compute the resulting $\bar{y}$ augments.
 
 When multiplying each incoming node $i$ and a destination node $j$ inside of each layer, an activation function $\phi$ is applied to the result to ensure the resulting value stays within a certain limit. For $\phi$, there are several functions that can be used: 
@@ -73,15 +73,17 @@ x for x \geq 0
 $$
 This activation functions allow the network to represent non-linear relationships between inputs and outputs.
 
+At the last step, when multiplying the corresponding hidden vector $h_n$ with the last matrix $W_n$ a softmax function can be used to 
+
 ## Vanishing Gradient Problem
 
 TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTY1MzEyNSwxNDAyNzUyMDU3LDE5OD
-Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
-NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLT
-EyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0Nzky
-NzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbMjAxODE4NDk3LDE0MDI3NTIwNTcsMTk4Nj
+Y3NzY0MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1
+MTUsNDY3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMT
+IxMjg3MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3
+MDcsMjA4ODc4NzE4MSwyMDQyNjQ5MTddfQ==
 -->
