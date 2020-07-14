@@ -96,8 +96,8 @@ Some errors functions that are used:
 
 Overfitting is the quality of having a model that almost exactly represents the behaviour of the data. In this case, noise or random elements, are also taken into account to build the model and may affect the estimation on new and unknown data. The model will fail generalizing for new inputs. 
 The two solutions for overfitting are:
-- Stop the training process early
-- 
+- Stop the training process early. This can be done by selecting a subset from the training set, named the validation set, and use it to validate when is pertinent to stop t
+- Using regularization
 
 ## Vanishing Gradient Problem
 
@@ -105,10 +105,10 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNDAzMjM2NiwtMTEwMTQ1MDkwOCw0NT
-g5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2
-NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LD
-Q2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4
-NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0NzkyNzA3LD
-IwODg3ODcxODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbNzcwMzk1NjAxLC0xMTAxNDUwOTA4LDQ1OD
+kyMDQxMywxMDg1MDA4NzY4LDE0MDI3NTIwNTcsMTk4NjY3NzY0
+MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1MTUsND
+Y3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3
+MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMj
+A4ODc4NzE4MSwyMDQyNjQ5MTddfQ==
 -->
