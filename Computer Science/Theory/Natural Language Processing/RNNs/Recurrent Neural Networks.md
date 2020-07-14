@@ -81,7 +81,9 @@ $$
 \sigma(x)_j = \frac{e^{x_j}}{\sum{e^{x_k}}^k_1}
 $$
 
-Finally, 
+Finally, the adjustment of each matrix weights is done by comparing the output against the expected value. Error functions are used to calculate the difference between these values, and the goal is to minimize it below a specific threshold.
+Some errors functions that are used:
+- Mean Squred E
 
 ## Vanishing Gradient Problem
 
@@ -89,7 +91,7 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAwNzE0MjUsMTA4NTAwODc2OCwxND
+eyJoaXN0b3J5IjpbLTEwNDkyOTQ2NjIsMTA4NTAwODc2OCwxND
 AyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5
 NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC
 0zMzkzNTI4MjYsLTEyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIw
