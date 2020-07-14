@@ -57,7 +57,8 @@ In the graphical representation of a FFNN, the result of multiplying the input v
 
 ### Matrix multiplication
 
-A neural network consists of a resulting vector $\bar{y}$ obtained from multiplying 
+A neural network consists of a resulting vector $\bar{y}$ obtained from multiplying an input vector $\bar{x}$ by two matrices of edges $W_{i,j}$ connected from an input to a hidden layer node or from a hidden layer node to an output. 
+In the case, there is more than one hidden layer 
 
 ## Vanishing Gradient Problem
 
@@ -65,8 +66,9 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNT
-kzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4
-MjYsLTEyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLT
-c0NzkyNzA3LDIwODg3ODcxODEsMjA0MjY0OTE3XX0=
+eyJoaXN0b3J5IjpbMTcwNzc3MzE5MSwxMDAzMDYxNzkzLC0xMD
+UyMzk1NTYzLC01OTMzMTg1MTUsNDY3MTIwMTM3LDEwOTE2MjY4
+NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0ODQxLD
+QwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4NzE4MSwyMDQyNjQ5
+MTddfQ==
 -->
