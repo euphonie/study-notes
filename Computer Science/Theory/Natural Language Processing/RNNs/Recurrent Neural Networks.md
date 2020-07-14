@@ -63,7 +63,10 @@ In the case, there is more than one hidden layer the number of matrices to compu
 When multiplying each incoming node $i$ and a destination node $j$ inside of each layer, an activation function $\phi$ is applied to the result to ensure the resulting value stays within a certain limit. For $\phi$, there are several functions that can be used: 
 - Hyperbolic tangent function $f(x) = tanh(x)$. Returns outputs between -1 and 1.
 - Sigmoid function $\sigma(x) = \frac{1}{1+e^{-x}}$. Returns outputs between 0 and 1.
-- 
+- ReLu function, Rectified linear unit. Negative values are nulled and positive values remain as they are.
+$$
+f(x) = 
+$$
 
 ## Vanishing Gradient Problem
 
@@ -71,9 +74,9 @@ TODO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI5MDIyMjUsMTk4NjY3NzY0MiwxMD
-AzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1MTUsNDY3MTIw
-MTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0Ni
-wxMzM1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3MDcsMjA4ODc4
-NzE4MSwyMDQyNjQ5MTddfQ==
+eyJoaXN0b3J5IjpbLTM5NzMzMDYzNCwxOTg2Njc3NjQyLDEwMD
+MwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAx
+MzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LD
+EzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3
+MTgxLDIwNDI2NDkxN119
 -->
