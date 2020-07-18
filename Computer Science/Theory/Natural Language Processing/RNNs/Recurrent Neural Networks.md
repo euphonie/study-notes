@@ -23,20 +23,22 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 - Time series prediction. Prediction of pattern to suggest best possible solution.
 - NLP. Machine translation, question answering, chatbots.
 - Gesture recognition. Evaluating a sequence of data frames to identify gestures.
+- Predicting next word in a sentence.
+- Sentiment analysis.
 
 ## Explaining RNNs
 
-- RNNs can reuse pieces of information for future parts of the process by variables called **states**
+- RNNs can reuse pieces of information for future parts of the process by variables called **states**. This is like this because most applications have dependencies over time.
 
 > image states
-
+>image temporaldep
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4Mzg2MDEsLTQwNDQxODQ0LC00OTE5Mz
-g3NDYsLTExMDE0NTA5MDgsNDU4OTIwNDEzLDEwODUwMDg3Njgs
-MTQwMjc1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNT
-IzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3
-OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsND
-AyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkx
-N119
+eyJoaXN0b3J5IjpbMTUxMjY2MjAxOCwyMzgzODYwMSwtNDA0ND
+E4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NTg5MjA0MTMs
+MTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMz
+A2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEz
+NywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4NzMwNDYsMT
+MzNTk2NDg0MSw0MDIwMDk1MzEsLTc0NzkyNzA3LDIwODg3ODcx
+ODFdfQ==
 -->
