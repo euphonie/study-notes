@@ -32,9 +32,13 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > image states
 >image temporaldep
+
+- 
+- 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjY2MjAxOCwyMzgzODYwMSwtNDA0ND
+eyJoaXN0b3J5IjpbMjEyNDgyMjc0MCwyMzgzODYwMSwtNDA0ND
 E4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NTg5MjA0MTMs
 MTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMz
 A2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEz
