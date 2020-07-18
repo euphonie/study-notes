@@ -37,11 +37,15 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > image inputsfeeded
 
-- In the topology of the NN a new set of inputs are added, these new inputs come from the latest result from the hidden layer. In this case, new inputs come to be named as the vector $\bar{y}$ and the hidden layers $\bar{s}$
+- In the topology of the NN a new set of inputs are added, these new inputs come from the latest result from the hidden layer. In this case, new inputs come to be named as the vector $\bar{y}_{t-1}$ and the hidden layers $\bar{s}_t$. The image below describes a simple RNN or Elman Network.
+
+> image elmann
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTA0NzMyNCwyMzgzODYwMSwtNDA0ND
+eyJoaXN0b3J5IjpbMTU5MDQ3ODMyNCwyMzgzODYwMSwtNDA0ND
 E4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NTg5MjA0MTMs
 MTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMz
 A2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEz
