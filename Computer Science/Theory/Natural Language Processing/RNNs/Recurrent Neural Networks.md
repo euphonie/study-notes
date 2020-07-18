@@ -37,11 +37,11 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > image inputsfeeded
 
-- In the topology of the NN a new set of inputs are added, 
+- In the topology of the NN a new set of inputs are added, these new inputs come from the latest result from the hidden layer
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgzNTU5NzAsMjM4Mzg2MDEsLTQwND
+eyJoaXN0b3J5IjpbLTEyMjY0Mzk2NjksMjM4Mzg2MDEsLTQwND
 QxODQ0LC00OTE5Mzg3NDYsLTExMDE0NTA5MDgsNDU4OTIwNDEz
 LDEwODUwMDg3NjgsMTQwMjc1MjA1NywxOTg2Njc3NjQyLDEwMD
 MwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAx
