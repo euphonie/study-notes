@@ -24,14 +24,15 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 - NLP. Machine translation, question answering, chatbots.
 - Gesture recognition. Evaluating a sequence of data frames to identify gestures.
 
-
+#
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNDQxODQ0LC00OTE5Mzg3NDYsLTExMD
-E0NTA5MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMjc1MjA1
-NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLT
-U5MzMxODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUy
-ODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC
-03NDc5MjcwNywyMDg4Nzg3MTgxLDIwNDI2NDkxN119
+eyJoaXN0b3J5IjpbMTc3NTk4MjU1MywtNDA0NDE4NDQsLTQ5MT
+kzODc0NiwtMTEwMTQ1MDkwOCw0NTg5MjA0MTMsMTA4NTAwODc2
+OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMzA2MTc5MywtMT
+A1MjM5NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2
+ODc5LC0zMzkzNTI4MjYsLTEyMTI4NzMwNDYsMTMzNTk2NDg0MS
+w0MDIwMDk1MzEsLTc0NzkyNzA3LDIwODg3ODcxODEsMjA0MjY0
+OTE3XX0=
 -->
