@@ -41,15 +41,19 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > image elmann
 
-- In RNNs, previous inputs directly 
+- In RNNs, previous inputs directly affect the result of the current training phase.
+
+> image elmann2
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc4NzUzMjgsLTE4NjAyMDU0NzMsMj
-M4Mzg2MDEsLTQwNDQxODQ0LC00OTE5Mzg3NDYsLTExMDE0NTA5
-MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMjc1MjA1NywxOT
-g2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMx
-ODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC
-0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5
-MjcwN119
+eyJoaXN0b3J5IjpbLTQ4Mjg5NjkzMywtMTg2MDIwNTQ3MywyMz
+gzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkw
+OCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
+Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
+NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLT
+EyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0Nzky
+NzA3XX0=
 -->
