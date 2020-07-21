@@ -53,11 +53,13 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > image rnn3
 
+> image rnn4
 
+The activation function for inner
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNDQ4MTc4LC0xODYwMjA1NDczLDIzOD
+eyJoaXN0b3J5IjpbOTMxMjA3OTIxLC0xODYwMjA1NDczLDIzOD
 M4NjAxLC00MDQ0MTg0NCwtNDkxOTM4NzQ2LC0xMTAxNDUwOTA4
 LDQ1ODkyMDQxMywxMDg1MDA4NzY4LDE0MDI3NTIwNTcsMTk4Nj
 Y3NzY0MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1
