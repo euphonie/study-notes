@@ -47,15 +47,21 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 **Folded model**, is known as the configuration for a RNN with input and output vectors $\bar{X}_t$ and $\bar{Y}_t$, weight matrices $W_x$, $W_y$ , $W_s$, and a state vector $\bar{S}_t$ which results from a previous training and is feed once again along with the inputs.
 
+- $\bar{x}_t$ is the input vector at time $t$
+- $\bar{y}_t$ is the output vector at time $t$
+- $\bar{s}_t$ is the hidden state vector at time $t$
+
+> image rnn3
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNTEyMjczMSwtMTg2MDIwNTQ3MywyMz
-gzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkw
-OCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
-Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
-NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLT
-EyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0Nzky
-NzA3XX0=
+eyJoaXN0b3J5IjpbODgxNDQ4MTc4LC0xODYwMjA1NDczLDIzOD
+M4NjAxLC00MDQ0MTg0NCwtNDkxOTM4NzQ2LC0xMTAxNDUwOTA4
+LDQ1ODkyMDQxMywxMDg1MDA4NzY4LDE0MDI3NTIwNTcsMTk4Nj
+Y3NzY0MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1
+MTUsNDY3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMT
+IxMjg3MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3
+MDddfQ==
 -->
