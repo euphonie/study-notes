@@ -10,9 +10,13 @@ The main difference in the process of activation of the "cell" vs RNNs, is that 
 
 > image lstm2
 
-
+The operations inside the cell are used for the following processes:
+- $\sigma$ Sigmoid function. Is used to determine:
+	- What goes into the cell
+	- What is retained within the cell
+	- What passes to the output
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzM2NjE3NSw3MTQzMjg1MTVdfQ==
+eyJoaXN0b3J5IjpbLTkyNDg3MDM3OSw3MTQzMjg1MTVdfQ==
 -->
