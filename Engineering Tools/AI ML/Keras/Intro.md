@@ -52,7 +52,25 @@ model.add(Activation('sigmoid'))
 ```
 Only the first layer needs to be specifically indicated, as Keras, infers the succeeding layers.
 
+We'll specify the loss function to be  `categorical_crossentropy`  which can be used when there are only two classes, and specify  `adam`  as the optimizer (which is a reasonable default when speed is a priority). And finally, we can specify what metrics we want to evaluate the model with. Here we'll use accuracy.
+
+```python
+model.compile(loss="categorical_crossentropy", optimizer="adam", metrics = ["accuracy"])
+```
+
+We can see the resulting model architecture with the following command:
+
+```python
+model.summary()
+```
+
+The model is trained with the  `fit()`  method, through the following command that specifies the number of training epochs and the message level (how much information we want displayed on the screen during training).
+
+```python
+model.fit(X, y, nb_epoch=1000, verbose=0)
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5ODQwNDYzXX0=
+eyJoaXN0b3J5IjpbMTAwNTE4MDYxNV19
 -->
