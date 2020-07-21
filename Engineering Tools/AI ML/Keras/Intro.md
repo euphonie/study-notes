@@ -50,8 +50,9 @@ model.add(Dense(1))
 # Add a sigmoid activation layer
 model.add(Activation('sigmoid'))
 ```
+Only the first layer needs to be specifically indicated, as Keras, infers the succeeding layers.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODEwNjM5OTldfQ==
+eyJoaXN0b3J5IjpbNDM5ODQwNDYzXX0=
 -->
