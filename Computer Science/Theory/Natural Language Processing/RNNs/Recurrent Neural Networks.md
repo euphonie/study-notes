@@ -41,15 +41,15 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > image elmann
 
-
+- In RNNs, previous inputs directly 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjAyMDU0NzMsMjM4Mzg2MDEsLTQwND
-QxODQ0LC00OTE5Mzg3NDYsLTExMDE0NTA5MDgsNDU4OTIwNDEz
-LDEwODUwMDg3NjgsMTQwMjc1MjA1NywxOTg2Njc3NjQyLDEwMD
-MwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0NjcxMjAx
-MzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODczMDQ2LD
-EzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5MjcwNywyMDg4Nzg3
-MTgxXX0=
+eyJoaXN0b3J5IjpbLTEyMjc4NzUzMjgsLTE4NjAyMDU0NzMsMj
+M4Mzg2MDEsLTQwNDQxODQ0LC00OTE5Mzg3NDYsLTExMDE0NTA5
+MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMjc1MjA1NywxOT
+g2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMx
+ODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC
+0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5NTMxLC03NDc5
+MjcwN119
 -->
