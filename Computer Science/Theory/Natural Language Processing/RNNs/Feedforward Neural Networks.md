@@ -27,7 +27,7 @@ There are two main phases:
 		- Backpropagation. Output is compared to desired output and backpropagation adjusts the weights to correct the function in terms of the current input, value pair.
 - Evaluation. The network is used to the testing set (the remaining points that are not part of testing phase but carry their desired output), to find how good is the neural network to generalize unknown data. 
 
-> image ffnn1
+
 
 In the graphical representation of a FFNN, the result of multiplying the input values with each corresponding weight is then applied to a summing function. Neurons can also contain a bias that affects the resulting value. The output of the summing function is run through an activation function which determines the obtained output.
 
@@ -99,5 +99,6 @@ The Gradient Clipping process works by, at a given timestep $t$, if the current 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDk1OTYwNCwtMTE5OTYwMDg5Ml19
+eyJoaXN0b3J5IjpbMjgyNTY0MDE4LDE5NTA5NTk2MDQsLTExOT
+k2MDA4OTJdfQ==
 -->
