@@ -46,7 +46,7 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 - In RNNs, previous inputs directly affect the result of the current training phase.
 
-
+![Elman Network with activation function](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/elmann2.png)
 
 **Folded model**, is known as the configuration for a RNN with input and output vectors $\bar{X}_t$ and $\bar{Y}_t$, weight matrices $W_x$, $W_y$ , $W_s$, and a state vector $\bar{S}_t$ which results from a previous training and is feed once again along with the inputs.
 
@@ -54,11 +54,11 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 - $\bar{y}_t$ is the output vector at time $t$
 - $\bar{s}_t$ is the hidden state vector at time $t$
 
-> image rnn4
+![Elements of a RNN](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/rnn4.png)
 
 When each phase of the training process is shown, it is called an **unfolded model**
 
-> image rnn3
+![RNN unfolded model](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/rnn3.png)
 
 
 The activation function for inner layers has as inputs the linear combination of the inputs in the input vector multiplied by the weights in $W_x$, and the previous state values $\bar{s}_{t-1}$ multiplied by the weights in $W_s$. It is described as:
@@ -67,11 +67,11 @@ $$
 \bar{s}_t = \phi(\bar{x}_tW_x + \bar{s}_{t-1}W_x)
 $$
 
-> image rnn5
+![RNN activation functions](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/rnn5.png)
 
 As FFNN, RNNs can be stacked to form ensemble methods. 
 
-> image rnn6
+
 
 ## Backpropagation Through Time (BPTT)
 
@@ -94,7 +94,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTIxNzkzNCw4ODk0NTI0MjksLTIxMj
+eyJoaXN0b3J5IjpbMTE4ODg1MDE5Niw4ODk0NTI0MjksLTIxMj
 A2NzAyMjIsNjgwNjk1MDg3LDQwNTk0NzIzOSwtNTc2NDQzMjkw
 LC0xODYwMjA1NDczLDIzODM4NjAxLC00MDQ0MTg0NCwtNDkxOT
 M4NzQ2LC0xMTAxNDUwOTA4LDQ1ODkyMDQxMywxMDg1MDA4NzY4
