@@ -61,7 +61,7 @@ When each phase of the training process is shown, it is called an **unfolded mod
 The activation function for inner layers has as inputs the linear combination of the inputs in the input vector multiplied by the weights in $W_x$, and the previous state values $\bar{s}_{t-1}$ multiplied by the weights in $W_s$. It is described as:
 
 $$
-\bar{s}_t = \Phi(\bar{x}_tW_x + \bar{s}_{t-1}W_x)
+\bar{s}_t = \phi(\bar{x}_tW_x + \bar{s}_{t-1}W_x)
 $$
 
 > image rnn5
@@ -72,12 +72,12 @@ As FFNN, RNNs can be stacked to form ensemble methods.
 
 ## Backpropagation Through Time (BPTT)
 
-BPTT is the normal process used to train RNNs.
+BPTT is the normal process used to train RNNs. While training RNNs, the network doesn't only learn by the input given at $t$, rather it
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MzQyODQ4LC01NzY0NDMyOTAsLTE4Nj
+eyJoaXN0b3J5IjpbNjE1NTM1NzkyLC01NzY0NDMyOTAsLTE4Nj
 AyMDU0NzMsMjM4Mzg2MDEsLTQwNDQxODQ0LC00OTE5Mzg3NDYs
 LTExMDE0NTA5MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMj
 c1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1
