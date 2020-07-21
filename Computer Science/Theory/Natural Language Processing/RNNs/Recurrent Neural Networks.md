@@ -79,13 +79,13 @@ To calculate the descent gradient for matrix $W_s$, a concept named **Accumulati
 
 The formula behind this process is described as:
 $$
-\frac{\partial E_n}{\partial W_s} = \sum
+\frac{\partial E_n}{\partial W_s} = \sum_{i=1}^N \frac{\partial E_N}{\partial \bar{y}_N} . \frac{\partial \bar{y}_N}{\partial \bar{s}_i} . \frac{\partial \bar{s}_i}{\partial \bar{s}_i}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDc0MDY5OCw0MDU5NDcyMzksLTU3Nj
+eyJoaXN0b3J5IjpbMTE2MDMxMjcwMiw0MDU5NDcyMzksLTU3Nj
 Q0MzI5MCwtMTg2MDIwNTQ3MywyMzgzODYwMSwtNDA0NDE4NDQs
 LTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NTg5MjA0MTMsMTA4NT
 AwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMzA2MTc5
