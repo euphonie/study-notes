@@ -33,13 +33,13 @@ $$
 Var(X) = E(X^2) - E(X)^2
 $$
 
-##### 68, 95, 99.7 Law
+## 68, 95, 99.7 Law
 For any normal distribution: 
 - 68% of all outcomes fall under 1 standard deviation from the mean, in the interval $(\mu-\sigma, \mu+\sigma)$
 - 95% fall under 2 standard deviations. $(\mu-2\sigma, \mu+2\sigma)$
 - 99.7% fall under 3 standard deviations. $(\mu-3\sigma, \mu+3\sigma)$
 
-##### Standardization
+## Standardization
 
 Works along with **transformations**. Which are a way in which every element of a distribution can be altered to get a new distribution. 
 
@@ -56,18 +56,18 @@ $$
 
 **Note**. If the data is scarce, standardization could affect the analysis by introducing outliers as relevant values of the distribution (*in cases were there are less than 30 entries, normal distributions shouldn't be assumed*).
 
-#### **Chi-squared**
+# **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
 
 ![Chi-squared distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/chisquared.png)
 
-#### **Exponential distribution**
+# **Exponential distribution**
 Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. 
 
-#### **Logistic Distribution**
+# **Logistic Distribution**
 Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
 
-### Notation
+## Notation
 A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
 $$
 X \sim N (\mu, \sigma^2)
@@ -75,5 +75,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTkwMzExM119
+eyJoaXN0b3J5IjpbOTU4MTIzNzAzXX0=
 -->
