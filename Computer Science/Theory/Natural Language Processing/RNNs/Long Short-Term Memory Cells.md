@@ -2,9 +2,9 @@
 
 # Long Short-Term Memory Cells (LSTM)
 
-This neural network structure allows to avoid the vanishing gradient problem. It does it by 
+This neural network structure allows to avoid the vanishing gradient problem. It does it by allowing certain inputs to be latched, or stored, for long periods of time in case they are needed in future steps of the training process.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwNzAxODA4XX0=
+eyJoaXN0b3J5IjpbLTExMDEyMjgzMzBdfQ==
 -->
