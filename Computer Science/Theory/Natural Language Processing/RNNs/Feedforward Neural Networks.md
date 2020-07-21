@@ -88,9 +88,9 @@ $$
 
 ## Vanishing Gradient Problem
 
-TODO
+When the gradient applied to adjust the weight matrices connecting the layers within a network is too small, the contributions to the network are not as relevant, eventually stalling the process of learning.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk2MDA4OTJdfQ==
+eyJoaXN0b3J5IjpbMTg1Njg4MDYwMSwtMTE5OTYwMDg5Ml19
 -->
