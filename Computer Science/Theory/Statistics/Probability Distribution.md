@@ -262,6 +262,9 @@ For any normal distribution:
 - 95% fall under 2 standard deviations. $(\mu-2\sigma, \mu+2\sigma)$
 - 99.7% fall under 3 standard deviations. $(\mu-3\sigma, \mu+3\sigma)$
 
+###
+
+
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
 
@@ -281,9 +284,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjIyOTM2LDQ2ODkzNTA0NCwtMjA3MT
-U0NjU0Nyw2MjQxNDE4MDksLTg4MTM0NDgzNywtMjExMjExMTkx
-OSwtMTAzOTAwNTIwNiw4MDg5NDgxMTMsLTE2MjIyMzQyNDksLT
-E0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQzMjg2LDExNTM0ODgx
-NDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbLTExMTE4MjMyNDEsMTM5NjIyOTM2LDQ2OD
+kzNTA0NCwtMjA3MTU0NjU0Nyw2MjQxNDE4MDksLTg4MTM0NDgz
+NywtMjExMjExMTkxOSwtMTAzOTAwNTIwNiw4MDg5NDgxMTMsLT
+E2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQz
+Mjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ==
 -->
