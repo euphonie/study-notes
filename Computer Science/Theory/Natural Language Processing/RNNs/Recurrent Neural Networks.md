@@ -55,15 +55,18 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 > image rnn4
 
-The activation function for inner
+The activation function for inner layers has as inputs the linear combination of the inputs in the input vector multiplied by the weights in $W_x$, and the previous state values $\bar{s}_{t-1}$ multiplied by the weights in $W_s$
+
+> image rnn5
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMjA3OTIxLC0xODYwMjA1NDczLDIzOD
-M4NjAxLC00MDQ0MTg0NCwtNDkxOTM4NzQ2LC0xMTAxNDUwOTA4
-LDQ1ODkyMDQxMywxMDg1MDA4NzY4LDE0MDI3NTIwNTcsMTk4Nj
-Y3NzY0MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1
-MTUsNDY3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMT
-IxMjg3MzA0NiwxMzM1OTY0ODQxLDQwMjAwOTUzMSwtNzQ3OTI3
-MDddfQ==
+eyJoaXN0b3J5IjpbLTM3MzkwNTg5NywtMTg2MDIwNTQ3MywyMz
+gzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkw
+OCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
+Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
+NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLT
+EyMTI4NzMwNDYsMTMzNTk2NDg0MSw0MDIwMDk1MzEsLTc0Nzky
+NzA3XX0=
 -->
