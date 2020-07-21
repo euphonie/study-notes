@@ -264,7 +264,9 @@ For any normal distribution:
 
 ##### Standardization
 
-Works along with **transformations**. Which are a way in which every element of a distribution can be altered to get a new distribution. This means addition, subtraction, multiplication and division 
+Works along with **transformations**. Which are a way in which every element of a distribution can be altered to get a new distribution. 
+
+This means addition, subtraction, multiplication and division can be used to alter the values while conserving the type of distribution.
 
 
 #### **Chi-squared**
@@ -286,7 +288,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAzMTg1MzUsMTM5NjIyOTM2LDQ2OD
+eyJoaXN0b3J5IjpbLTE2MjAyMTk0NTIsMTM5NjIyOTM2LDQ2OD
 kzNTA0NCwtMjA3MTU0NjU0Nyw2MjQxNDE4MDksLTg4MTM0NDgz
 NywtMjExMjExMTkxOSwtMTAzOTAwNTIwNiw4MDg5NDgxMTMsLT
 E2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQz
