@@ -10,7 +10,9 @@ The main difference in the process of activation of the "cell" vs RNNs, is that 
 
 > image lstm2
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MzI4NTE1XX0=
+eyJoaXN0b3J5IjpbMTQyNzM2NjE3NSw3MTQzMjg1MTVdfQ==
 -->
