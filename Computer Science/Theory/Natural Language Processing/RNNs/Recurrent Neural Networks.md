@@ -79,17 +79,17 @@ To calculate the descent gradient for matrix $W_s$, a concept named **Accumulati
 
 The formula behind this process is described as:
 $$
-\frac{\partial E_n}{\partial W_s} = \sum_{i=1}^N \frac{\partial E_N}{\partial \bar{y}_N} . \frac{\partial \bar{y}_N}{\partial \bar{s}_i} . \frac{\partial \bar{s}_i}{\partial \bar{s}_i}
+\frac{\partial E_n}{\partial W_s} = \sum_{i=1}^N \frac{\partial E_N}{\partial \bar{y}_N} . \frac{\partial \bar{y}_N}{\partial \bar{s}_i} . \frac{\partial \bar{s}_i}{\partial W_s}
 $$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDMxMjcwMiw0MDU5NDcyMzksLTU3Nj
-Q0MzI5MCwtMTg2MDIwNTQ3MywyMzgzODYwMSwtNDA0NDE4NDQs
-LTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NTg5MjA0MTMsMTA4NT
-AwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMzA2MTc5
-MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEzNywxMD
-kxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4NzMwNDYsMTMzNTk2
-NDg0MV19
+eyJoaXN0b3J5IjpbNjgwNjk1MDg3LDQwNTk0NzIzOSwtNTc2ND
+QzMjkwLC0xODYwMjA1NDczLDIzODM4NjAxLC00MDQ0MTg0NCwt
+NDkxOTM4NzQ2LC0xMTAxNDUwOTA4LDQ1ODkyMDQxMywxMDg1MD
+A4NzY4LDE0MDI3NTIwNTcsMTk4NjY3NzY0MiwxMDAzMDYxNzkz
+LC0xMDUyMzk1NTYzLC01OTMzMTg1MTUsNDY3MTIwMTM3LDEwOT
+E2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0
+ODQxXX0=
 -->
