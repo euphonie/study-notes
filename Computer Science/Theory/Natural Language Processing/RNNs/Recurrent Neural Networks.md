@@ -75,13 +75,14 @@ As FFNN, RNNs can be stacked to form ensemble methods.
 BPTT is the normal process used to train RNNs. While training RNNs, the network doesn't only learn by the input given at $t$, rather it uses $t$ and all previous instances to train the network.
 
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1OTQ3MjM5LC01NzY0NDMyOTAsLTE4Nj
-AyMDU0NzMsMjM4Mzg2MDEsLTQwNDQxODQ0LC00OTE5Mzg3NDYs
-LTExMDE0NTA5MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMj
-c1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1
-NjMsLTU5MzMxODUxNSw0NjcxMjAxMzcsMTA5MTYyNjg3OSwtMz
-M5MzUyODI2LC0xMjEyODczMDQ2LDEzMzU5NjQ4NDEsNDAyMDA5
-NTMxXX0=
+eyJoaXN0b3J5IjpbLTIzMzA5MzE2Myw0MDU5NDcyMzksLTU3Nj
+Q0MzI5MCwtMTg2MDIwNTQ3MywyMzgzODYwMSwtNDA0NDE4NDQs
+LTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NTg5MjA0MTMsMTA4NT
+AwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIsMTAwMzA2MTc5
+MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LDQ2NzEyMDEzNywxMD
+kxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4NzMwNDYsMTMzNTk2
+NDg0MV19
 -->
