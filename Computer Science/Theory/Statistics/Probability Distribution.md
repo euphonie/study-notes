@@ -272,7 +272,10 @@ In standardizing, the goal is to make $E(X) = 0$ and $Var(X) = 1$. The distribut
 
 The process of standardizing is done by: 
 - Moving the graph towards 0, such that $\mu  = 0$. This is done by subtracting the value of $\mu$ from each element $x$.
-- Then, the standard deviation $\sigma = 1$. This is done by dividing each element $x$
+- Then, the standard deviation $\sigma = 1$. This is done by dividing each element $x-\mu$ by $\sigma$.
+$$
+y = f(\frac{x - \mu}{\sigma})
+$$
 
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -293,7 +296,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjIxNzk3NSwxMzk2MjI5MzYsNDY4OT
+eyJoaXN0b3J5IjpbMTk0MDI0ODgzMywxMzk2MjI5MzYsNDY4OT
 M1MDQ0LC0yMDcxNTQ2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3
 LC0yMTEyMTExOTE5LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMT
 YyMjIzNDI0OSwtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMy
