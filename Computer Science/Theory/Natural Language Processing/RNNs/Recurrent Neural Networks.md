@@ -72,12 +72,12 @@ As FFNN, RNNs can be stacked to form ensemble methods.
 
 ## Backpropagation Through Time (BPTT)
 
-BPTT is the normal process used to train RNNs. While training RNNs, the network doesn't only learn by the input given at $t$, rather it
+BPTT is the normal process used to train RNNs. While training RNNs, the network doesn't only learn by the input given at $t$, rather it uses $t$ and all previous instances to train the network.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1NTM1NzkyLC01NzY0NDMyOTAsLTE4Nj
+eyJoaXN0b3J5IjpbNDA1OTQ3MjM5LC01NzY0NDMyOTAsLTE4Nj
 AyMDU0NzMsMjM4Mzg2MDEsLTQwNDQxODQ0LC00OTE5Mzg3NDYs
 LTExMDE0NTA5MDgsNDU4OTIwNDEzLDEwODUwMDg3NjgsMTQwMj
 c1MjA1NywxOTg2Njc3NjQyLDEwMDMwNjE3OTMsLTEwNTIzOTU1
