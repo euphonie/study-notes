@@ -1,3 +1,4 @@
+> All information gathered from Udacity's Natural Language Processing Nanodegree
 
 # Feedforward Neural Networks
 
@@ -94,8 +95,9 @@ When the gradient applied to adjust the weight matrices connecting the layers wi
 
 When the gradient grows uncontrollably. Usually a concept named Gradient Clipping is used to resolve this issue. 
 
+The Gradient Clipping process works by, at a given timestep $t$, if the current gradient exceeds a given threshold, the successive gradient is normalized.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDkyODk0NTcsLTExOTk2MDA4OTJdfQ
-==
+eyJoaXN0b3J5IjpbMTk1MDk1OTYwNCwtMTE5OTYwMDg5Ml19
 -->
