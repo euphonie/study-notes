@@ -6,9 +6,10 @@ This neural network structure allows to avoid the vanishing gradient problem. It
 
 > image lstm1
 
+The main difference in the process of activation of the "cell" vs a RNN, is that LSTM cells 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODEyMDA1Nl19
+eyJoaXN0b3J5IjpbMTAzMzgzMDQyNV19
 -->
