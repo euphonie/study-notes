@@ -32,20 +32,21 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 *Note* Take into account that temporal dependencies that may spam many time steps, more than 8 or 10 steps, might be affected by the vanishing gradient problem.  
 
-> image states
->image temporaldep
+![State layers](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/states.png)
+
+![Temporal dependency description](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/temporaldep.png)
 
 - Inputs are fed with previous values of the sequence at the same time.
 
-> image inputsfeeded
+![Previous input representation](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/inputsfeeded.png)
 
 - In the topology of the NN a new set of inputs are added, these new inputs come from the latest result from the hidden layer. In this case, new inputs come to be named as the vector $\bar{y}_{t-1}$ (previous sequences) and the hidden layers $\bar{s}_t$ (memory state). The image below describes a simple RNN or Elman Network.
 
-> image elmann
+![Elman Nework](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/elmann.png)
 
 - In RNNs, previous inputs directly affect the result of the current training phase.
 
-> image elmann2
+
 
 **Folded model**, is known as the configuration for a RNN with input and output vectors $\bar{X}_t$ and $\bar{Y}_t$, weight matrices $W_x$, $W_y$ , $W_s$, and a state vector $\bar{S}_t$ which results from a previous training and is feed once again along with the inputs.
 
@@ -93,11 +94,11 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NDUyNDI5LC0yMTIwNjcwMjIyLDY4MD
-Y5NTA4Nyw0MDU5NDcyMzksLTU3NjQ0MzI5MCwtMTg2MDIwNTQ3
-MywyMzgzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMT
-Q1MDkwOCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3
-LDE5ODY2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNT
-kzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4
-MjZdfQ==
+eyJoaXN0b3J5IjpbMTE0OTIxNzkzNCw4ODk0NTI0MjksLTIxMj
+A2NzAyMjIsNjgwNjk1MDg3LDQwNTk0NzIzOSwtNTc2NDQzMjkw
+LC0xODYwMjA1NDczLDIzODM4NjAxLC00MDQ0MTg0NCwtNDkxOT
+M4NzQ2LC0xMTAxNDUwOTA4LDQ1ODkyMDQxMywxMDg1MDA4NzY4
+LDE0MDI3NTIwNTcsMTk4NjY3NzY0MiwxMDAzMDYxNzkzLC0xMD
+UyMzk1NTYzLC01OTMzMTg1MTUsNDY3MTIwMTM3LDEwOTE2MjY4
+NzldfQ==
 -->
