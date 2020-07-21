@@ -59,10 +59,11 @@ The activation function for inner layers has as inputs the linear combination of
 
 > image rnn5
 
+As FFNN, RNNs can be stacked to form ensemble methods
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzkwNTg5NywtMTg2MDIwNTQ3MywyMz
+eyJoaXN0b3J5IjpbLTUzMDIwNTg4MCwtMTg2MDIwNTQ3MywyMz
 gzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkw
 OCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
 Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
