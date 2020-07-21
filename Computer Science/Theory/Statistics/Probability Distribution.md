@@ -268,6 +268,7 @@ Works along with **transformations**. Which are a way in which every element of 
 
 This means addition, subtraction, multiplication and division can be used to alter the values while conserving the type of distribution.
 
+In standardizing, the goal is to make $E(X) = 0$ and $Var(X) = 1$. The distribution obtained would be a Standard Normal Distribution.
 
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -288,9 +289,9 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAyMTk0NTIsMTM5NjIyOTM2LDQ2OD
-kzNTA0NCwtMjA3MTU0NjU0Nyw2MjQxNDE4MDksLTg4MTM0NDgz
-NywtMjExMjExMTkxOSwtMTAzOTAwNTIwNiw4MDg5NDgxMTMsLT
-E2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQz
-Mjg2LDExNTM0ODgxNDEsLTEyODA1MzM2NDhdfQ==
+eyJoaXN0b3J5IjpbMTI0Mzg0MTE1NiwxMzk2MjI5MzYsNDY4OT
+M1MDQ0LC0yMDcxNTQ2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3
+LC0yMTEyMTExOTE5LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMT
+YyMjIzNDI0OSwtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMy
+ODYsMTE1MzQ4ODE0MSwtMTI4MDUzMzY0OF19
 -->
