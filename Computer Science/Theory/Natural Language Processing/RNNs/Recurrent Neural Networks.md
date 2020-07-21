@@ -51,19 +51,24 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 - $\bar{y}_t$ is the output vector at time $t$
 - $\bar{s}_t$ is the hidden state vector at time $t$
 
+> image rnn4
+
+When each phase of the training process is shown, it is called an **unfolded model**
+
 > image rnn3
 
-> image rnn4
 
 The activation function for inner layers has as inputs the linear combination of the inputs in the input vector multiplied by the weights in $W_x$, and the previous state values $\bar{s}_{t-1}$ multiplied by the weights in $W_s$
 
 > image rnn5
 
-As FFNN, RNNs can be stacked to form ensemble methods
+As FFNN, RNNs can be stacked to form ensemble methods. 
+
+> image rnn6
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDIwNTg4MCwtMTg2MDIwNTQ3MywyMz
+eyJoaXN0b3J5IjpbLTM1OTAzNjg0NiwtMTg2MDIwNTQ3MywyMz
 gzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkw
 OCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
 Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
