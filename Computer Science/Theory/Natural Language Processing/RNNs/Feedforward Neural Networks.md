@@ -86,11 +86,16 @@ $$
 
 
 
-## Vanishing Gradient Problem
+### Vanishing Gradient Problem
 
 When the gradient applied to adjust the weight matrices connecting the layers within a network is too small, the contributions to the network are not as relevant, eventually stalling the process of learning.
 
+### Exploding Gradient Problem
+
+When the gradient grows uncontrollably. Usually a concept named Gradient Clipping is used to resolve this issue. 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1Njg4MDYwMSwtMTE5OTYwMDg5Ml19
+eyJoaXN0b3J5IjpbLTEyNDkyODk0NTcsLTExOTk2MDA4OTJdfQ
+==
 -->
