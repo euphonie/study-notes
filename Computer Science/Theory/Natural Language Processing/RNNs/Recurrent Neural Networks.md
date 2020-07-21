@@ -58,7 +58,11 @@ When each phase of the training process is shown, it is called an **unfolded mod
 > image rnn3
 
 
-The activation function for inner layers has as inputs the linear combination of the inputs in the input vector multiplied by the weights in $W_x$, and the previous state values $\bar{s}_{t-1}$ multiplied by the weights in $W_s$
+The activation function for inner layers has as inputs the linear combination of the inputs in the input vector multiplied by the weights in $W_x$, and the previous state values $\bar{s}_{t-1}$ multiplied by the weights in $W_s$. It is described as:
+
+$$
+\bar{s}_t = \Phi(\bar{x}_tW_x + \bar{s}_{t-1}W_x)
+$$
 
 > image rnn5
 
@@ -68,7 +72,7 @@ As FFNN, RNNs can be stacked to form ensemble methods.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTAzNjg0NiwtMTg2MDIwNTQ3MywyMz
+eyJoaXN0b3J5IjpbLTU3NjQ0MzI5MCwtMTg2MDIwNTQ3MywyMz
 gzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkw
 OCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5OD
 Y2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4
