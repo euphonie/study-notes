@@ -262,7 +262,9 @@ For any normal distribution:
 - 95% fall under 2 standard deviations. $(\mu-2\sigma, \mu+2\sigma)$
 - 99.7% fall under 3 standard deviations. $(\mu-3\sigma, \mu+3\sigma)$
 
-###
+##### Standardization
+
+Works along with **transformations**. Which are a way in which every element of a distribution can be altered to get a new distribution. This means addition, subtraction, multiplication and division 
 
 
 #### **Chi-squared**
@@ -284,7 +286,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE4MjMyNDEsMTM5NjIyOTM2LDQ2OD
+eyJoaXN0b3J5IjpbLTE2MjAzMTg1MzUsMTM5NjIyOTM2LDQ2OD
 kzNTA0NCwtMjA3MTU0NjU0Nyw2MjQxNDE4MDksLTg4MTM0NDgz
 NywtMjExMjExMTkxOSwtMTAzOTAwNTIwNiw4MDg5NDgxMTMsLT
 E2MjIyMzQyNDksLTE0MDczNjg2NjUsMjI3MTc5NTg0LC02MjQz
