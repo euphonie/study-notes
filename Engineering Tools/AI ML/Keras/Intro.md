@@ -69,8 +69,14 @@ The model is trained with the  `fit()`  method, through the following command th
 ```python
 model.fit(X, y, nb_epoch=1000, verbose=0)
 ```
+*Note* For version 2 of Keras, **nb_epoch** is modified to **epochs**
+
+Finally, the model is evaluated.
+```python
+model.evaluate()
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTE4MDYxNV19
+eyJoaXN0b3J5IjpbLTE0NTY1MDg2MDhdfQ==
 -->
