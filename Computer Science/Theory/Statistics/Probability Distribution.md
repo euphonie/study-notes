@@ -277,7 +277,7 @@ $$
 y = f(\frac{x - \mu}{\sigma})
 $$
 
-**Note**. If the data is scarce, standardization could affect the analysis by introducing outliers as defining values of the distribution.
+**Note**. If the data is scarce, standardization could affect the analysis by introducing outliers as relevant values of the distribution (*in cases were there are less than 30 entries, normal distributions shouldn't be assumed*).
 
 #### **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -298,7 +298,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MTIxMjE5NiwxMzk2MjI5MzYsNDY4OT
+eyJoaXN0b3J5IjpbMTA2MDk0MjE1OSwxMzk2MjI5MzYsNDY4OT
 M1MDQ0LC0yMDcxNTQ2NTQ3LDYyNDE0MTgwOSwtODgxMzQ0ODM3
 LC0yMTEyMTExOTE5LC0xMDM5MDA1MjA2LDgwODk0ODExMywtMT
 YyMjIzNDI0OSwtMTQwNzM2ODY2NSwyMjcxNzk1ODQsLTYyNDMy
