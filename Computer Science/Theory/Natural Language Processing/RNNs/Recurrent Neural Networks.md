@@ -30,6 +30,8 @@ This types of neural networks have a flaw known as the **vanishing gradient** pr
 
 - RNNs can reuse pieces of information for future parts of the process by variables called **states**. This is like this because most applications have dependencies over time.
 
+*Note* Take into account that temporal dependencies that may spam many time steps, more than 8 or 10 steps, might be affected by the vanishing gradient problem.  
+
 > image states
 >image temporaldep
 
@@ -91,11 +93,11 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjA2NzAyMjIsNjgwNjk1MDg3LDQwNT
-k0NzIzOSwtNTc2NDQzMjkwLC0xODYwMjA1NDczLDIzODM4NjAx
-LC00MDQ0MTg0NCwtNDkxOTM4NzQ2LC0xMTAxNDUwOTA4LDQ1OD
-kyMDQxMywxMDg1MDA4NzY4LDE0MDI3NTIwNTcsMTk4NjY3NzY0
-MiwxMDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1MTUsND
-Y3MTIwMTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3
-MzA0Nl19
+eyJoaXN0b3J5IjpbODg5NDUyNDI5LC0yMTIwNjcwMjIyLDY4MD
+Y5NTA4Nyw0MDU5NDcyMzksLTU3NjQ0MzI5MCwtMTg2MDIwNTQ3
+MywyMzgzODYwMSwtNDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMT
+Q1MDkwOCw0NTg5MjA0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3
+LDE5ODY2Nzc2NDIsMTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNT
+kzMzE4NTE1LDQ2NzEyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4
+MjZdfQ==
 -->
