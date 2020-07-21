@@ -83,15 +83,15 @@ $$
 \frac{\partial E_n}{\partial W_s} = \sum_{i=1}^N \frac{\partial E_N}{\partial \bar{y}_N} . \frac{\partial \bar{y}_N}{\partial \bar{s}_i} . \frac{\partial \bar{s}_i}{\partial W_s}
 $$
 
-The last step is to adjust weights that are connected to the input vector. 
+The last step is to adjust weights that are connected to the input vector. For this step accumulative gradient is also applied following the trajectory from the ouput through the corresponding states given $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTg3NDEzMiw2ODA2OTUwODcsNDA1OT
-Q3MjM5LC01NzY0NDMyOTAsLTE4NjAyMDU0NzMsMjM4Mzg2MDEs
-LTQwNDQxODQ0LC00OTE5Mzg3NDYsLTExMDE0NTA5MDgsNDU4OT
-IwNDEzLDEwODUwMDg3NjgsMTQwMjc1MjA1NywxOTg2Njc3NjQy
-LDEwMDMwNjE3OTMsLTEwNTIzOTU1NjMsLTU5MzMxODUxNSw0Nj
-cxMjAxMzcsMTA5MTYyNjg3OSwtMzM5MzUyODI2LC0xMjEyODcz
-MDQ2XX0=
+eyJoaXN0b3J5IjpbMTM3NzQxODYzLDY4MDY5NTA4Nyw0MDU5ND
+cyMzksLTU3NjQ0MzI5MCwtMTg2MDIwNTQ3MywyMzgzODYwMSwt
+NDA0NDE4NDQsLTQ5MTkzODc0NiwtMTEwMTQ1MDkwOCw0NTg5Mj
+A0MTMsMTA4NTAwODc2OCwxNDAyNzUyMDU3LDE5ODY2Nzc2NDIs
+MTAwMzA2MTc5MywtMTA1MjM5NTU2MywtNTkzMzE4NTE1LDQ2Nz
+EyMDEzNywxMDkxNjI2ODc5LC0zMzkzNTI4MjYsLTEyMTI4NzMw
+NDZdfQ==
 -->
