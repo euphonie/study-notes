@@ -73,6 +73,7 @@ As FFNN, RNNs can be stacked to form ensemble methods.
 ## Backpropagation Through Time (BPTT)
 
 BPTT is the normal process used to train RNNs. While training RNNs, the network doesn't only learn by the input given at $t$, rather it uses $t$ and all previous instances to train the network.
+
 To calculate the descent gradient for matrix $W_s$, a concept named **Accumulative Gradient** needs to be applied. This means gradients have to be added making the partial derivative calculation from the output error until the corresponding state $\bar{s}_t$ and its matrix $W_s$.
 
 > image rnn7
@@ -85,11 +86,11 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNjk1MDg3LDQwNTk0NzIzOSwtNTc2ND
-QzMjkwLC0xODYwMjA1NDczLDIzODM4NjAxLC00MDQ0MTg0NCwt
-NDkxOTM4NzQ2LC0xMTAxNDUwOTA4LDQ1ODkyMDQxMywxMDg1MD
-A4NzY4LDE0MDI3NTIwNTcsMTk4NjY3NzY0MiwxMDAzMDYxNzkz
-LC0xMDUyMzk1NTYzLC01OTMzMTg1MTUsNDY3MTIwMTM3LDEwOT
-E2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0NiwxMzM1OTY0
-ODQxXX0=
+eyJoaXN0b3J5IjpbLTgwMTY3MzksNjgwNjk1MDg3LDQwNTk0Nz
+IzOSwtNTc2NDQzMjkwLC0xODYwMjA1NDczLDIzODM4NjAxLC00
+MDQ0MTg0NCwtNDkxOTM4NzQ2LC0xMTAxNDUwOTA4LDQ1ODkyMD
+QxMywxMDg1MDA4NzY4LDE0MDI3NTIwNTcsMTk4NjY3NzY0Miwx
+MDAzMDYxNzkzLC0xMDUyMzk1NTYzLC01OTMzMTg1MTUsNDY3MT
+IwMTM3LDEwOTE2MjY4NzksLTMzOTM1MjgyNiwtMTIxMjg3MzA0
+Nl19
 -->
