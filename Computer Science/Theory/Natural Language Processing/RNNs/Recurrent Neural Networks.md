@@ -71,7 +71,7 @@ $$
 
 As FFNN, RNNs can be stacked to form ensemble methods. 
 
-
+![Stacked RNNs](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/rnn6.png)
 
 ## Backpropagation Through Time (BPTT)
 
@@ -79,7 +79,7 @@ BPTT is the normal process used to train RNNs. While training RNNs, the network 
 
 To calculate the descent gradient for matrix $W_s$, a concept named **Accumulative Gradient** needs to be applied. This means gradients have to be added making the partial derivative calculation from the output error until the corresponding state $\bar{s}_t$ and its matrix $W_s$.
 
-> image rnn7
+![BPTT equations](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/rnn7.png)
 
 The formula behind this process is described as:
 $$
@@ -94,7 +94,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODg1MDE5Niw4ODk0NTI0MjksLTIxMj
+eyJoaXN0b3J5IjpbLTI4MzQ5OTE5NCw4ODk0NTI0MjksLTIxMj
 A2NzAyMjIsNjgwNjk1MDg3LDQwNTk0NzIzOSwtNTc2NDQzMjkw
 LC0xODYwMjA1NDczLDIzODM4NjAxLC00MDQ0MTg0NCwtNDkxOT
 M4NzQ2LC0xMTAxNDUwOTA4LDQ1ODkyMDQxMywxMDg1MDA4NzY4
