@@ -109,6 +109,11 @@ model.add(Dense(32, input_dim=X.shape[1]))
 model.add(Dense(128, activation='relu', input_shape=(6,)))
 ###
 
+###
+model.add(Dropout(.2))
+###
+
+
 # Add a softmax activation layer
 model.add(Activation('softmax'))
 
@@ -146,6 +151,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc1MjMwMjEsMTE4MDQwNzkwLC0xND
-U2NTA4NjA4XX0=
+eyJoaXN0b3J5IjpbLTgwNjczNDY3NiwxMTgwNDA3OTAsLTE0NT
+Y1MDg2MDhdfQ==
 -->
