@@ -144,6 +144,7 @@ model.summary()
 The model is trained with the  `fit()`  method, through the following command that specifies the number of training epochs and the message level (how much information we want displayed on the screen during training).
 
 ```python
+# batch_size(int) can also be added to the training process 
 model.fit(X, y, nb_epoch=1000, verbose=0)
 ```
 *Note* For version 2 of Keras, **nb_epoch** is modified to **epochs**
@@ -155,6 +156,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTg3NTQ1NSwtODA2NzM0Njc2LDExOD
-A0MDc5MCwtMTQ1NjUwODYwOF19
+eyJoaXN0b3J5IjpbLTE3OTk1MTYyNzcsLTgwNjczNDY3NiwxMT
+gwNDA3OTAsLTE0NTY1MDg2MDhdfQ==
 -->
