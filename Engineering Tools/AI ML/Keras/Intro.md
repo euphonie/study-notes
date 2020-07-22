@@ -105,6 +105,10 @@ model = Sequential()
 # the training samples in X
 model.add(Dense(32, input_dim=X.shape[1]))
 
+#### Other ways of defining initial layers
+model.add(Dense(128, activation='relu', input_shape=(6,)))
+###
+
 # Add a softmax activation layer
 model.add(Activation('softmax'))
 
@@ -142,6 +146,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTMzMTM2NCwxMTgwNDA3OTAsLTE0NT
-Y1MDg2MDhdfQ==
+eyJoaXN0b3J5IjpbLTE4NDc1MjMwMjEsMTE4MDQwNzkwLC0xND
+U2NTA4NjA4XX0=
 -->
