@@ -6,6 +6,26 @@ Python library for building deep neural networks.
 
 # Code Intro
 
+## Preparing data
+
+### Splitting into features and tar
+
+Now, as a final step before the training, we'll split the data into features (X) and targets (y).
+
+Also, in Keras, we need to one-hot encode the output. We'll do this with the  `to_categorical function`.
+
+```python
+import keras
+# Separate data and one-hot encode the output
+# Note: We're also turning the data into numpy arrays, in order to train the model in Keras
+features = np.array(train_data.drop('admit', axis=1))
+targets = np.array(keras.utils.to_categorical(train_data['admit'], 2))
+features_test = np.array(test_data.drop('admit', axis=1))
+targets_test = np.array(keras.utils.to_categorical(test_data['admit'], 2))
+
+print(features[:10])
+print(targets[:10])
+```
 
 ## Sequential Model
 
@@ -78,5 +98,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTY1MDg2MDhdfQ==
+eyJoaXN0b3J5IjpbLTExMTExMjU5OTUsLTE0NTY1MDg2MDhdfQ
+==
 -->
