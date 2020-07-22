@@ -105,11 +105,11 @@ model = Sequential()
 # the training samples in X
 model.add(Dense(32, input_dim=X.shape[1]))
 
-#### Other ways of defining initial layers
+#### VARIATIONS Other ways of defining initial layers
 model.add(Dense(128, activation='relu', input_shape=(6,)))
 ###
 
-### Dropout layers helps prevent overfitting by setting the value inside the function (rate) of inputs to 0. In the following example, the hidden layer would set 20% of inputs to 0 to avoid overfitting.
+### VARIATIONS Dropout layers helps prevent overfitting by setting the value inside the function (rate) of inputs to 0. In the following example, the hidden layer would set 20% of inputs to 0 to avoid overfitting.
 model.add(Dropout(.2))
 ###
 
@@ -120,10 +120,12 @@ model.add(Activation('softmax'))
 # 2nd Layer - Add a fully connected output layer
 model.add(Dense(1))
 
-##
-
 # Add a sigmoid activation layer
 model.add(Activation('sigmoid'))
+
+### VARIATIONS an output layer can also contain more than one node
+model.add(Dense(2, activation='softmax'))
+###
 ```
 Only the first layer needs to be specifically indicated, as Keras, infers the succeeding layers.
 
@@ -153,6 +155,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNzc5MzA1LC04MDY3MzQ2NzYsMTE4MD
-QwNzkwLC0xNDU2NTA4NjA4XX0=
+eyJoaXN0b3J5IjpbLTU5NTg3NTQ1NSwtODA2NzM0Njc2LDExOD
+A0MDc5MCwtMTQ1NjUwODYwOF19
 -->
