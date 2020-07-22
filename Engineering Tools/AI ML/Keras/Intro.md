@@ -8,7 +8,11 @@ Python library for building deep neural networks.
 
 ## Preparing data
 
-### Splitting into features and tar
+### Splitting data
+
+#### Training and testing data sets
+
+#### Features and targets
 
 Now, as a final step before the training, we'll split the data into features (X) and targets (y).
 
@@ -98,6 +102,5 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTExMjU5OTUsLTE0NTY1MDg2MDhdfQ
-==
+eyJoaXN0b3J5IjpbMTE4MDQwNzkwLC0xNDU2NTA4NjA4XX0=
 -->
