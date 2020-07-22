@@ -1,3 +1,4 @@
+> Information gathered from Udacity's Natural Language Processing Nanodegree
 
 # Keras
 
@@ -8,9 +9,24 @@ Python library for building deep neural networks.
 
 ## Preparing data
 
+### One-hot encoding
+
+For categorical values, one-hot encoding is recommended. 
+
+```python
+# Make dummy variables for rank
+one_hot_data = pd.concat([data, pd.get_dummies(data['rank'], prefix='rank')], axis=1)
+
+# Drop the previous rank column
+one_hot_data = one_hot_data.drop('rank', axis=1)
+
+# Print the first 10 rows of our data
+one_hot_data[:10]
+```
+
 ### Scaling data
 
-If data from inputs come in different ranges, the process of training might be affected. In this case is better to scale data in the ga
+If data from inputs come in different ranges, the process of training might be affected. In this case is better to scale data in the range 0-1.
 
 ```python
 # Copying our data
@@ -126,6 +142,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2OTc4Njc3LDExODA0MDc5MCwtMTQ1Nj
-UwODYwOF19
+eyJoaXN0b3J5IjpbLTY2OTMzMTM2NCwxMTgwNDA3OTAsLTE0NT
+Y1MDg2MDhdfQ==
 -->
