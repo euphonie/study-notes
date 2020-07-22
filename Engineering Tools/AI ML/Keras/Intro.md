@@ -8,9 +8,33 @@ Python library for building deep neural networks.
 
 ## Preparing data
 
+### Scaling data
+
+If data from inputs come in different ranges, the process of training might be affected. In this case is better to scale data in the ga
+
+```python
+# Copying our data
+processed_data = one_hot_data[:]
+
+# Scaling the columns
+processed_data['gre'] = processed_data['gre']/800
+processed_data['gpa'] = processed_data['gpa']/4.0
+processed_data[:10]
+```
+
 ### Splitting data
 
 #### Training and testing data sets
+
+```python
+sample = np.random.choice(processed_data.index, size=int(len(processed_data)*0.9), replace=False)
+train_data, test_data = processed_data.iloc[sample], processed_data.drop(sample)
+
+print("Number of training samples is", len(train_data))
+print("Number of testing samples is", len(test_data))
+print(train_data[:10])
+print(test_data[:10])
+```
 
 #### Features and targets
 
@@ -102,5 +126,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MDQwNzkwLC0xNDU2NTA4NjA4XX0=
+eyJoaXN0b3J5IjpbNzY2OTc4Njc3LDExODA0MDc5MCwtMTQ1Nj
+UwODYwOF19
 -->
