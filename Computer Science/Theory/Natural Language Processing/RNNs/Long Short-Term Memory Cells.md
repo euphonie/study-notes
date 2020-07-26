@@ -24,6 +24,8 @@ A LSTM works by conserving Long Term Memory (**LTM**) and Short-Term Memory (**S
 	- Takes the information conserved from the Forget Gate and joins it with the information obtained in the Learn Gate. This outputs to an updated Long Term Memory.
 - **Learn Gate**
 	- Takes the Short Term Memory and the current event and removes any unnecessary information.
+
+
 - **Use Gate**
 	- Decides what to take from the information conserved from the Forget Gate and the information conserved from the Learn Gate. This outputs becomes an updated Short Term Memory and the prediction.
 
@@ -32,7 +34,7 @@ A LSTM works by conserving Long Term Memory (**LTM**) and Short-Term Memory (**S
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUyMDY0MCwxNDE2MzQzMTg5LDE3ND
-I4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMxNjY5LDcxNDMyODUx
-NV19
+eyJoaXN0b3J5IjpbOTI3NDg2NjIwLC0xMTY1MjA2NDAsMTQxNj
+M0MzE4OSwxNzQyODQ3MDgxLDE5MDE1MTczMjUsMTYxMjczMTY2
+OSw3MTQzMjg1MTVdfQ==
 -->
