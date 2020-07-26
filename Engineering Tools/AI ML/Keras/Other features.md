@@ -14,7 +14,7 @@ no_words = 1000
 tokenizer = Tokenizer(num_words=no_words)
 x_train = tokenizer.sequences_to_matrix(x_train, mode='binary')
 x_test = tokenizer.sequences_to_matrix(x_test, mode='binary')
-print(x_train[0])
+print(x_train[0]) 
 
 # One-hot encoding the output
 num_classes = 2
@@ -23,10 +23,10 @@ y_test = keras.utils.to_categorical(y_test, num_classes)
 print(y_train.shape)
 print(y_test.shape)
 
-y_train[:10] # -> []
+y_train[:10] # -> [0,1] or [1,0] para Y, N
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ2NTY3MjYsNjA2NjQ3MDE4XX0=
+eyJoaXN0b3J5IjpbMTQ3MTAxODkwMiw2MDY2NDcwMThdfQ==
 -->
