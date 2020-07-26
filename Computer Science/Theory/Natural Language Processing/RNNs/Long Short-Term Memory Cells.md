@@ -26,12 +26,15 @@ Takes the information conserved from the Forget Gate and joins it with the infor
 ### Learn Gate
 Takes the Short Term Memory and the current event and joins them, ignoring certain information.
 
-
+> 
 
 The output is calculated as $N_ti_t$, where: 
 
 $$
-N_t = tanh(W_n
+N_t = tanh(W_n[STM_{t-1}, E_t] + b_n)
+$$
+$$
+i_t = \sigma(W_i[STM_{t-1}, E_t] + b_i)
 $$
 
 
@@ -43,7 +46,7 @@ Decides what to take from the information conserved from the Forget Gate and the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE5MDQ5NzAsLTExNjUyMDY0MCwxND
+eyJoaXN0b3J5IjpbLTE1Nzg4NTI0NDYsLTExNjUyMDY0MCwxND
 E2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMx
 NjY5LDcxNDMyODUxNV19
 -->
