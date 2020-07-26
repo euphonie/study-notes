@@ -80,11 +80,13 @@ $$
 V_t = \sigma(W_v[STM_{t-1}, E_t] + b_v)
 $$
 
+## Architecture of LSTMs
 
+> image finalarch
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4MzAzOTUsMzY5NjkwNDg2LC0xMTY1Mj
-A2NDAsMTQxNjM0MzE4OSwxNzQyODQ3MDgxLDE5MDE1MTczMjUs
-MTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
+eyJoaXN0b3J5IjpbLTIwMDQ5MjY0MjksMzY5NjkwNDg2LC0xMT
+Y1MjA2NDAsMTQxNjM0MzE4OSwxNzQyODQ3MDgxLDE5MDE1MTcz
+MjUsMTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
 -->
