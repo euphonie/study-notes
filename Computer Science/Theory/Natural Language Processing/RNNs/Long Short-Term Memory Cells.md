@@ -15,8 +15,10 @@ The operations inside the cell are used for the following processes. This functi
 - What is retained within the cell
 - What passes to the output
 
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTUxNzMyNSwxNjEyNzMxNjY5LDcxND
-MyODUxNV19
+eyJoaXN0b3J5IjpbMTc0Mjg0NzA4MSwxOTAxNTE3MzI1LDE2MT
+I3MzE2NjksNzE0MzI4NTE1XX0=
 -->
