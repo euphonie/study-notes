@@ -91,11 +91,15 @@ $$
 
 Combines the forget and learn gate into one Update Gate and then outputs the value into a combine gate. It only retains one working memory.
 
-> image 
+> image gru
+
+### Peephole connections 
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc5NDk4MDMsMzY5NjkwNDg2LC0xMT
-Y1MjA2NDAsMTQxNjM0MzE4OSwxNzQyODQ3MDgxLDE5MDE1MTcz
-MjUsMTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
+eyJoaXN0b3J5IjpbMTgyNzI3MDU3LDM2OTY5MDQ4NiwtMTE2NT
+IwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1
+LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
 -->
