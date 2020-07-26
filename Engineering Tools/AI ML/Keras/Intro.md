@@ -145,8 +145,17 @@ The model is trained with the  `fit()`  method, through the following command th
 
 ```python
 # batch_size(int) can also be added to the training process 
-model.fit(X, y, nb_epoch=1000, verbose=0)
+history = model.fit(X, y, nb_epoch=1000, verbose=0)
 ```
+The returned "history" object holds a record of the loss values and metric values during training
+
+```json
+{'loss': [0.3417845368385315, 0.16126595437526703],
+ 'sparse_categorical_accuracy': [0.9011200070381165, 0.9516199827194214],
+ 'val_loss': [0.20176522433757782, 0.1449517160654068],
+ 'val_sparse_categorical_accuracy': [0.9398000240325928, 0.95660001039505]}
+```
+
 *Note* For version 2 of Keras, **nb_epoch** is modified to **epochs**
 
 Finally, the model is evaluated.
@@ -156,6 +165,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTk1MTYyNzcsLTgwNjczNDY3NiwxMT
-gwNDA3OTAsLTE0NTY1MDg2MDhdfQ==
+eyJoaXN0b3J5IjpbNzg5NzE3MjY5LC0xNzk5NTE2Mjc3LC04MD
+Y3MzQ2NzYsMTE4MDQwNzkwLC0xNDU2NTA4NjA4XX0=
 -->
