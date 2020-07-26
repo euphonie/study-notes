@@ -28,10 +28,11 @@ A LSTM works by conserving Long Term Memory (**LTM**) and Short-Term Memory (**S
 	- Decides what to take from the information conserved from the Forget Gate and the information conserved from the Learn Gate. This outputs becomes an updated Short Term Memory and the prediction.
 
 > image lstmarch
+> image lstmarch2
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMzI0MDM3LDE0MTYzNDMxODksMTc0Mj
-g0NzA4MSwxOTAxNTE3MzI1LDE2MTI3MzE2NjksNzE0MzI4NTE1
-XX0=
+eyJoaXN0b3J5IjpbLTExNjUyMDY0MCwxNDE2MzQzMTg5LDE3ND
+I4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMxNjY5LDcxNDMyODUx
+NV19
 -->
