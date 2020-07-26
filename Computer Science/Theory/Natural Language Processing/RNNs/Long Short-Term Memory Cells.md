@@ -77,13 +77,14 @@ $$
 U_t = tanh(W_uLTM_{t-1}f_t + b_u)
 $$
 $$
+V_t = \sigma(W_v[STM_{t-1}, E_t] + b_v)
 $$
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0MDg1NjIyLDM2OTY5MDQ4NiwtMTE2NT
-IwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1
-LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
+eyJoaXN0b3J5IjpbODI4MzAzOTUsMzY5NjkwNDg2LC0xMTY1Mj
+A2NDAsMTQxNjM0MzE4OSwxNzQyODQ3MDgxLDE5MDE1MTczMjUs
+MTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
 -->
