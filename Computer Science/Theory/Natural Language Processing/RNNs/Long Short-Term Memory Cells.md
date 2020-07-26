@@ -28,6 +28,12 @@ Takes the Short Term Memory and the current event and joins them, ignoring certa
 
 
 
+The output is calculated as $N_ti_t$, where: 
+
+$$
+N_t = tanh(W_n
+$$
+
 
 ### Use Gate
 Decides what to take from the information conserved from the Forget Gate and the information conserved from the Learn Gate. This outputs becomes an updated Short Term Memory and the prediction.
@@ -37,7 +43,7 @@ Decides what to take from the information conserved from the Forget Gate and the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE3MjgyMTcsLTExNjUyMDY0MCwxND
+eyJoaXN0b3J5IjpbLTEwOTE5MDQ5NzAsLTExNjUyMDY0MCwxND
 E2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMx
 NjY5LDcxNDMyODUxNV19
 -->
