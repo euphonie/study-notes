@@ -19,6 +19,10 @@ The operations inside the cell are used for the following processes. This functi
 
 A LSTM works by conserving Long Term Memory (**LTM**) and Short-Term Memory (**STM**) and finding better predictions of the current event thanks to an ensemble of the two. At high-level it comprises four gates: 
 
+> image lstmarch
+> image lstmarch2
+
+
 ### Forget Gate
 Takes Long Term Memory and it forgets everything that is not considered useful.
 
@@ -65,12 +69,20 @@ $$
 ### Use Gate
 Decides what to take from the information conserved from the Forget Gate and the information conserved from the Learn Gate. This outputs becomes an updated Short Term Memory and the prediction.
 
-> image lstmarch
-> image lstmarch2
+> image usegate
+
+The output is calculated as $U_tV_t$, where:
+
+$$
+$$
+$$
+$$
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTUxNTA5NSwzNjk2OTA0ODYsLTExNj
-UyMDY0MCwxNDE2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMy
-NSwxNjEyNzMxNjY5LDcxNDMyODUxNV19
+eyJoaXN0b3J5IjpbNTAzNTIxMjUyLDM2OTY5MDQ4NiwtMTE2NT
+IwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1
+LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
 -->
