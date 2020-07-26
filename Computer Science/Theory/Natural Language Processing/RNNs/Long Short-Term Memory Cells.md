@@ -95,13 +95,20 @@ Combines the forget and learn gate into one Update Gate and then outputs the val
 
 ### Peephole connections 
 
-Regarding the Forget Gate, the value use to forget some elements from the LTM is defined by $f_t$. However, this vector does not take into account the LTM at all as is a result from STM_{t-1} and $E_t$. 
+Regarding the Forget Gate, the value use to forget some elements from the LTM is defined by $f_t$. However, this vector does not take into account the LTM at all as is a result from $STM_{t-1}$ and $E_t$. 
+In this case, peephole connections might add up LTM to modify the values of $f_t$ using a connection as shown in the following image, which would change $f_t$ to:
+
+> image peephole1
+
+$$
+f_t = \sigma(W_f[LTM_{t-1}, STM_{t-1}, E_t] + b)
+$$
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE0MDY3MjE1LDM2OTY5MDQ4NiwtMTE2NT
-IwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1
-LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
+eyJoaXN0b3J5IjpbMTYwNjgwOTg3NSwzNjk2OTA0ODYsLTExNj
+UyMDY0MCwxNDE2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMy
+NSwxNjEyNzMxNjY5LDcxNDMyODUxNV19
 -->
