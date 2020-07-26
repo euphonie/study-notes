@@ -17,10 +17,11 @@ The operations inside the cell are used for the following processes. This functi
 
 ## High-Level architecture LSTM
 
-
+A LSTM works by conserving Long Term Memory and Short-Term Memory and finding better predictions of the current event thanks to an 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjM0MzE4OSwxNzQyODQ3MDgxLDE5MD
-E1MTczMjUsMTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
+eyJoaXN0b3J5IjpbMTk5ODk3MjcxOSwxNDE2MzQzMTg5LDE3ND
+I4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMxNjY5LDcxNDMyODUx
+NV19
 -->
