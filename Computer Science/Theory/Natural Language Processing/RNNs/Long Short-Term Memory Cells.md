@@ -27,11 +27,26 @@ Takes Long Term Memory and it forgets everything that is not considered useful.
 The output is calculated as $LTM_{t-1}f_t$, where:
 
 $$
-
+f_t = \sigma(W_f[STM_{t-1}, E_t] + b_f)
 $$
 
 ### Remember Gate
 Takes the information conserved from the Forget Gate and joins it with the information obtained in the Learn Gate. This outputs to an updated Long Term Memory.
+
+> image remembergate
+
+The output is calculated as $LTM_{t-1}f_t + N_ti_t$, where: 
+
+$$
+N_t = tanh(W_n[STM_{t-1}, E_t] + b_n)
+$$
+$$
+i_t = \sigma(W_i[STM_{t-1}, E_t] + b_i)
+$$
+$$
+f_t = \sigma(W_f[STM_{t-1}, E_t] + b_f)
+$$
+
 ### Learn Gate
 Takes the Short Term Memory and the current event and joins them, ignoring certain information.
 
@@ -55,7 +70,7 @@ Decides what to take from the information conserved from the Forget Gate and the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzU3MTQzOSwzNjk2OTA0ODYsLTExNj
+eyJoaXN0b3J5IjpbLTIzMTUxNTA5NSwzNjk2OTA0ODYsLTExNj
 UyMDY0MCwxNDE2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMy
 NSwxNjEyNzMxNjY5LDcxNDMyODUxNV19
 -->
