@@ -24,7 +24,7 @@ Takes Long Term Memory and it forgets everything that is not considered useful.
 ### Remember Gate
 Takes the information conserved from the Forget Gate and joins it with the information obtained in the Learn Gate. This outputs to an updated Long Term Memory.
 ### Learn Gate
-Takes the Short Term Memory and the current event and  removes any unnecessary information.
+Takes the Short Term Memory and the current event and joins them, ignoring certain information.
 
 
 
@@ -37,7 +37,7 @@ Decides what to take from the information conserved from the Forget Gate and the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA3MDExMiwtMTE2NTIwNjQwLDE0MT
-YzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1LDE2MTI3MzE2
-NjksNzE0MzI4NTE1XX0=
+eyJoaXN0b3J5IjpbLTE0ODE3MjgyMTcsLTExNjUyMDY0MCwxND
+E2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMx
+NjY5LDcxNDMyODUxNV19
 -->
