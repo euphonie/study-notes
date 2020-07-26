@@ -21,16 +21,17 @@ A LSTM works by conserving Long Term Memory and Short-Term Memory and finding be
 - Forget Gate
 	- Takes Long Term Memory and it forgets everything that is not considered useful.
 - Remember Gate
-	- 
+	- Takes the information conserved from the Forget Gate and joins it with the information obtained in the Learn Gate. This outputs to an updated Long Term Memory.
 - Learn Gate
-	- Takes the Short Term Memory and the current event and remov
+	- Takes the Short Term Memory and the current event and removes any unnecessary information.
 - Use Gate
+	- Decides what to take from the 
 
 > image lstmarch
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzExNzU2MiwxNDE2MzQzMTg5LDE3ND
-I4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMxNjY5LDcxNDMyODUx
-NV19
+eyJoaXN0b3J5IjpbMzcxOTU2NjUzLDE0MTYzNDMxODksMTc0Mj
+g0NzA4MSwxOTAxNTE3MzI1LDE2MTI3MzE2NjksNzE0MzI4NTE1
+XX0=
 -->
