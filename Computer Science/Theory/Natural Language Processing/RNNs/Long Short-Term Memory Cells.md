@@ -74,6 +74,7 @@ Decides what to take from the information conserved from the Forget Gate and the
 The output is calculated as $U_tV_t$, where:
 
 $$
+U_t = tanh(W_uLTM_{t-1}f_t + b_u)
 $$
 $$
 $$
@@ -82,7 +83,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzNTIxMjUyLDM2OTY5MDQ4NiwtMTE2NT
+eyJoaXN0b3J5IjpbOTU0MDg1NjIyLDM2OTY5MDQ4NiwtMTE2NT
 IwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1
 LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
 -->
