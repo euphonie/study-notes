@@ -26,7 +26,7 @@ Takes the information conserved from the Forget Gate and joins it with the infor
 ### Learn Gate
 Takes the Short Term Memory and the current event and joins them, ignoring certain information.
 
-> 
+> image learngate
 
 The output is calculated as $N_ti_t$, where: 
 
@@ -46,7 +46,7 @@ Decides what to take from the information conserved from the Forget Gate and the
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg4NTI0NDYsLTExNjUyMDY0MCwxND
-E2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMx
-NjY5LDcxNDMyODUxNV19
+eyJoaXN0b3J5IjpbMzY5NjkwNDg2LC0xMTY1MjA2NDAsMTQxNj
+M0MzE4OSwxNzQyODQ3MDgxLDE5MDE1MTczMjUsMTYxMjczMTY2
+OSw3MTQzMjg1MTVdfQ==
 -->
