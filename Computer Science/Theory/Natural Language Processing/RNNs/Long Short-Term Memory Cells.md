@@ -17,11 +17,20 @@ The operations inside the cell are used for the following processes. This functi
 
 ## High-Level architecture LSTM
 
-A LSTM works by conserving Long Term Memory and Short-Term Memory and finding better predictions of the current event thanks to an 
+A LSTM works by conserving Long Term Memory and Short-Term Memory and finding better predictions of the current event thanks to an ensemble of the two. At high-level it comprises four gates: 
+- Forget Gate
+	- Takes Long Term Memory and it forgets everything that is not considered useful.
+- Remember Gate
+	- 
+- Learn Gate
+	- Takes the Short Term Memory and the current event and remov
+- Use Gate
+
+> image lstmarch
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODk3MjcxOSwxNDE2MzQzMTg5LDE3ND
+eyJoaXN0b3J5IjpbLTY2MzExNzU2MiwxNDE2MzQzMTg5LDE3ND
 I4NDcwODEsMTkwMTUxNzMyNSwxNjEyNzMxNjY5LDcxNDMyODUx
 NV19
 -->
