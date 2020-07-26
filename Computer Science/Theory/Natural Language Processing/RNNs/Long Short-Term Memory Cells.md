@@ -101,14 +101,17 @@ In this case, peephole connections might add up LTM to modify the values of $f_t
 > image peephole1
 
 $$
-f_t = \sigma(W_f[LTM_{t-1}, STM_{t-1}, E_t] + b)
+f_t = \sigma(W_f[LTM_{t-1}, STM_{t-1}, E_t] + b_f)
 $$
 
+This process can be replicated to all the forget gates to have a new LSTM architecture as follows:
+
+> image peephole2
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjgwOTg3NSwzNjk2OTA0ODYsLTExNj
-UyMDY0MCwxNDE2MzQzMTg5LDE3NDI4NDcwODEsMTkwMTUxNzMy
-NSwxNjEyNzMxNjY5LDcxNDMyODUxNV19
+eyJoaXN0b3J5IjpbNTQwMjIwMjQ5LDM2OTY5MDQ4NiwtMTE2NT
+IwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1
+LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
 -->
