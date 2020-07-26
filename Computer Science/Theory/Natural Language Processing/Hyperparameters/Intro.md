@@ -19,7 +19,13 @@ Related to the optimization and training process than to the model itself. They 
 
 ###Learning Rate
 
-The most important hyperparameter and also should be tuned up. A good starting point is $0.01$, and the recommended values are
+The most important hyperparameter and also should be tuned up. A good starting point is $0.01$, and the recommended values are: 
+- 0.1
+- 0.01
+- 0.001
+- 0.0001
+- 0.00001
+- 0.000001
 
 - Minibatch Size
 - Number of Epochs
@@ -32,5 +38,5 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MTU3MDY5XX0=
+eyJoaXN0b3J5IjpbLTE0NDkxNzIxNzddfQ==
 -->
