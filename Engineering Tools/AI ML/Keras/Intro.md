@@ -146,6 +146,7 @@ The model is trained with the  `fit()`  method, through the following command th
 ```python
 # batch_size(int) can also be added to the training process 
 history = model.fit(X, y, nb_epoch=1000, verbose=0)
+print(history.history)
 ```
 The returned "history" object holds a record of the loss values and metric values during training
 
@@ -165,6 +166,6 @@ model.evaluate()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NzE3MjY5LC0xNzk5NTE2Mjc3LC04MD
-Y3MzQ2NzYsMTE4MDQwNzkwLC0xNDU2NTA4NjA4XX0=
+eyJoaXN0b3J5IjpbMTE3MTcwMjM4NSwtMTc5OTUxNjI3NywtOD
+A2NzM0Njc2LDExODA0MDc5MCwtMTQ1NjUwODYwOF19
 -->
