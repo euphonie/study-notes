@@ -39,7 +39,9 @@ There are algorithms that use **Adaptive Learning** that decreases or increases 
 
 This parameter impacts in speed and the number of iterations. There are two ways of backpropagating the error to the weights of a neural network, it can be either: 
 - Online (stochastic). Where for every input the process of backpropagation will calculate error and adjust the weights, or through
-- Batch (Batch training. Where calculation of the error and adjustment of the weights will be executed per batch size.
+- Batch (Batch training). Where calculation of the error and adjustment of the weights will be executed per batch size.
+
+In this case, online training can also be referred to minibatch training of size 1. 
 
 ### Number of Epochs
 
@@ -51,6 +53,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzY3ODM2MiwtODk5ODE0MDUzLC0xNz
-c5OTY1ODQsLTE0NDkxNzIxNzddfQ==
+eyJoaXN0b3J5IjpbODk2Nzg4MzExLC04OTk4MTQwNTMsLTE3Nz
+k5NjU4NCwtMTQ0OTE3MjE3N119
 -->
