@@ -92,14 +92,14 @@ $$
 
 Combines the forget and learn gate into one Update Gate and then outputs the value into a combine gate. It only retains one working memory.
 
-> image gru
+![Gated Recurrent Units](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/gru.png)
 
 ### Peephole connections 
 
 Regarding the Forget Gate, the value use to forget some elements from the LTM is defined by $f_t$. However, this vector does not take into account the LTM at all as is a result from $STM_{t-1}$ and $E_t$. 
 In this case, peephole connections might add up LTM to modify the values of $f_t$ using a connection as shown in the following image, which would change $f_t$ to:
 
-> image peephole1
+![Peephole Connections](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/peephole1.png)
 
 $$
 f_t = \sigma(W_f[LTM_{t-1}, STM_{t-1}, E_t] + b_f)
@@ -107,12 +107,12 @@ $$
 
 This process can be replicated to all the forget gates to have a new LSTM architecture as follows:
 
-> image peephole2
+![P](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/peephole2.png)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Njk2ODY5OSw1NDAyMjAyNDksMzY5Nj
+eyJoaXN0b3J5IjpbLTQzMDU2NDYxNyw1NDAyMjAyNDksMzY5Nj
 kwNDg2LC0xMTY1MjA2NDAsMTQxNjM0MzE4OSwxNzQyODQ3MDgx
 LDE5MDE1MTczMjUsMTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
 -->
