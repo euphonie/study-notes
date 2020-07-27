@@ -54,6 +54,9 @@ Recommended values are as following:
 - 128
 - 256
 
+Higher mini batch sizes requires more memory for the training process and, generally, more computational resources. 
+*Note*: Some Out of Memory errors in TensorFlow can be eliminated by decreasing minibatch size.
+
 ### Number of Epochs
 
 ## Model Hyperparameters
@@ -64,6 +67,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTE1ODQ2LDg5Njc4ODMxMSwtODk5OD
-E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
+eyJoaXN0b3J5IjpbMTM4OTgxOTQ2Nyw4OTY3ODgzMTEsLTg5OT
+gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
 -->
