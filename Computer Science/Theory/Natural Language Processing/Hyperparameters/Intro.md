@@ -43,6 +43,17 @@ This parameter impacts in speed and the number of iterations. There are two ways
 
 In this case, online training can also be referred to minibatch training of size 1. 
 
+Recommended values are as following: 
+- 1
+- 2
+- 4
+- 8
+- 16
+- **32** (Good Candidate)
+- 64
+- 128
+- 256
+
 ### Number of Epochs
 
 ## Model Hyperparameters
@@ -53,6 +64,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2Nzg4MzExLC04OTk4MTQwNTMsLTE3Nz
-k5NjU4NCwtMTQ0OTE3MjE3N119
+eyJoaXN0b3J5IjpbLTg3NTE1ODQ2LDg5Njc4ODMxMSwtODk5OD
+E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
 -->
