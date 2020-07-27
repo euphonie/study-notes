@@ -33,6 +33,8 @@ A technique named **Learning Rate Decay** is good at moments where the gradient 
 - Decreasing the learning rate by half every 5 epochs to do it linearly
 - Decreasing the learning rate by a factor of 0.1 every 8 epochs to do it exponentially
 
+There are algorithms that use **Adaptive Learning** that decreases or increases the learning rate according to the obtained results of each epoch.
+
 - Minibatch Size
 - Number of Epochs
 
@@ -44,6 +46,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTc5MDMzNywtMTc3OTk2NTg0LC0xND
+eyJoaXN0b3J5IjpbLTg5OTgxNDA1MywtMTc3OTk2NTg0LC0xND
 Q5MTcyMTc3XX0=
 -->
