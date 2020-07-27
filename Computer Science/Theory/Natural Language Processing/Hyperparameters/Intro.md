@@ -69,12 +69,12 @@ Are more involved in the structure of the model. This include:
 
 ### Number of layers and hidden units
 
-The number of layers and hidden units should be 
+The number of layers and hidden units should be proportional to the complexity of the function that the neural network is trying to learn. **This hyperpameter is the main measure for a model's learning capacity**. However, if the model has too much capacity it may tend to overfit.
 
 ### Model specific hyperparameters for architectures like RNMs.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg4OTQyMzQ5LDg5Njc4ODMxMSwtODk5OD
+eyJoaXN0b3J5IjpbNjgzMTY5NjczLDg5Njc4ODMxMSwtODk5OD
 E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
 -->
