@@ -73,12 +73,15 @@ The number of layers and hidden units should be proportional to the complexity o
 
 According to the content, having more hidden units that inputs is a good starting value, and, three hidden layers is the most beneficial architecture to start with. Having as an exception, Convolutional Networks, as the more deeper they are the better they perform.
 
-### Model specific hyperparameters for architectures like RNNs.
+### Model specific hyperparameters for architectures like RNNs*.
 
-In this case, vanilla RNNs tend to perform worse than LSTMs and GRUs. 
+In this case, vanilla RNNs tend to perform worse than LSTMs and GRUs. The recommendation is to test both when deciding between LSTMs and GRUs. 
+In this matter, it is also recommended using a depth of 2 layers. 
+
+*
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDg5OTAyMCw4OTY3ODgzMTEsLTg5OT
-gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
+eyJoaXN0b3J5IjpbMTY0NjQ4ODUwLDg5Njc4ODMxMSwtODk5OD
+E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
 -->
