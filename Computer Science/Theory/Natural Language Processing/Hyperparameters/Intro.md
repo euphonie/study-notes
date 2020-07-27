@@ -55,6 +55,7 @@ Recommended values are as following:
 - 256
 
 Higher mini batch sizes requires more memory for the training process and, generally, more computational resources. 
+Lower mini batch sizes permits to escape local minima for computing the error in training. 
 *Note*: Some Out of Memory errors in TensorFlow can be eliminated by decreasing minibatch size.
 
 ### Number of Epochs
@@ -67,6 +68,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTgxOTQ2Nyw4OTY3ODgzMTEsLTg5OT
-gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
+eyJoaXN0b3J5IjpbLTE5Mzk2ODc0ODQsODk2Nzg4MzExLC04OT
+k4MTQwNTMsLTE3Nzk5NjU4NCwtMTQ0OTE3MjE3N119
 -->
