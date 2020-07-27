@@ -67,7 +67,7 @@ For choosing the number of epochs, the validation error can be used in a techniq
 
 Are more involved in the structure of the model. This include: 
 
-### Number of layers and hidden units
+### Number of layers and hidden units*
 
 The number of layers and hidden units should be proportional to the complexity of the function that the neural network is trying to learn. **This hyperpameter is the main measure for a model's learning capacity**. However, if the model has too much capacity it may tend to overfit.
 
@@ -78,10 +78,12 @@ According to the content, having more hidden units that inputs is a good startin
 In this case, vanilla RNNs tend to perform worse than LSTMs and GRUs. The recommendation is to test both when deciding between LSTMs and GRUs. 
 In this matter, it is also recommended using a depth of 2 layers. 
 
-*
+[*] Recommendations given from papers presented in the course.
+
+## Further 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjQ4ODUwLDg5Njc4ODMxMSwtODk5OD
-E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
+eyJoaXN0b3J5IjpbLTEzNjc2NDkxNDksODk2Nzg4MzExLC04OT
+k4MTQwNTMsLTE3Nzk5NjU4NCwtMTQ0OTE3MjE3N119
 -->
