@@ -61,7 +61,7 @@ Lower mini batch sizes permits to escape local minima for computing the error in
 
 ### Number of Epochs
 
-For choosing the number o
+For choosing the number of epochs, the validation error can be used in a technique called **Early stopping**. This means the training should stop, when the error stops decreasing. As the validation error can jump from decreasing to increasing and back to decreasing, is best to apply this technique when it hasn't improve
 
 ## Model Hyperparameters
 
@@ -71,6 +71,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNTI4NTgwLDg5Njc4ODMxMSwtODk5OD
-E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
+eyJoaXN0b3J5IjpbLTU5Njg4NzY3MSw4OTY3ODgzMTEsLTg5OT
+gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
 -->
