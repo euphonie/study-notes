@@ -27,6 +27,8 @@ The most important hyperparameter and also should be tuned up. A good starting p
 - 0.00001
 - 0.000001
 
+> image learning
+
 - Minibatch Size
 - Number of Epochs
 
@@ -38,5 +40,5 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkxNzIxNzddfQ==
+eyJoaXN0b3J5IjpbMTA4MDcxNTI1NiwtMTQ0OTE3MjE3N119
 -->
