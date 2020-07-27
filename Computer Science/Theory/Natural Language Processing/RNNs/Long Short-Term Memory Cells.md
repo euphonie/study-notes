@@ -83,7 +83,7 @@ $$
 
 ## Architecture of LSTMs
 
-![enter image description here](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/finalarch.png)
+![LSTM's complete architecture](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/finalarch.png)
 
 
 ## Other architectures
@@ -112,7 +112,7 @@ This process can be replicated to all the forget gates to have a new LSTM archit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxOTM5MzkyLDU0MDIyMDI0OSwzNjk2OT
-A0ODYsLTExNjUyMDY0MCwxNDE2MzQzMTg5LDE3NDI4NDcwODEs
-MTkwMTUxNzMyNSwxNjEyNzMxNjY5LDcxNDMyODUxNV19
+eyJoaXN0b3J5IjpbMTY4Njk2ODY5OSw1NDAyMjAyNDksMzY5Nj
+kwNDg2LC0xMTY1MjA2NDAsMTQxNjM0MzE4OSwxNzQyODQ3MDgx
+LDE5MDE1MTczMjUsMTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
 -->
