@@ -29,7 +29,9 @@ The most important hyperparameter and also should be tuned up. A good starting p
 
 > image learningrate
 
-A technique named **Learning Rate Decay** is good at moments where the gradient step applied to the weights keeps the error 
+A technique named **Learning Rate Decay** is good at moments where the gradient step applied to the weights keeps the error as far from the minima as in the previous step. It can be done by:
+- Decreasing the learning rate by half every 5 epochs to do it linearly
+- Decreasing the learning rate by a factor of 0.1 every 8 epochs to do it exponentially
 
 - Minibatch Size
 - Number of Epochs
@@ -42,6 +44,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI4MjkxNDM2LC0xNzc5OTY1ODQsLTE0ND
-kxNzIxNzddfQ==
+eyJoaXN0b3J5IjpbMjExMTc5MDMzNywtMTc3OTk2NTg0LC0xND
+Q5MTcyMTc3XX0=
 -->
