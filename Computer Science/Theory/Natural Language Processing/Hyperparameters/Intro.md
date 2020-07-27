@@ -49,12 +49,13 @@ Recommended values are as following:
 - 4
 - 8
 - 16
-- **32** (Good Candidate)
-- 64
-- 128
-- 256
+(Good Candidates)
+- **32** 
+- **64** 
+- **128** 
+- **256** 
 
-Higher mini batch sizes requires more memory for the training process and, generally, more computational resources. While keeping the same learning rate, higher mini batch sizes decrease the accuracy of the model (This is according to the paper [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228)); on comparison, if learning rate changes with minibatch size the decrease i. 
+Higher mini batch sizes requires more memory for the training process and, generally, more computational resources. While keeping the same learning rate, higher mini batch sizes decrease the accuracy of the model (This is according to the paper [Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/abs/1606.02228)); on comparison, if learning rate changes with minibatch size the decrease is less significant. 
 Lower mini batch sizes permits to escape local minima for computing the error in training. 
 *Note*: Some Out of Memory errors in TensorFlow can be eliminated by decreasing minibatch size.
 
@@ -68,6 +69,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTk3Njk0NCw4OTY3ODgzMTEsLTg5OT
+eyJoaXN0b3J5IjpbMTg0ODQ1NTM4NCw4OTY3ODgzMTEsLTg5OT
 gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
 -->
