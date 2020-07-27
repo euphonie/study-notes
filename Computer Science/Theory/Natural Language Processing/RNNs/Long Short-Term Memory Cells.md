@@ -19,7 +19,7 @@ The operations inside the cell are used for the following processes. This functi
 
 A LSTM works by conserving Long Term Memory (**LTM**) and Short-Term Memory (**STM**) and finding better predictions of the current event thanks to an ensemble of the two. At high-level it comprises four gates: 
 
-> image lstmarch
+![LSTM architecture](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/lstmarch.png)
 > image lstmarch2
 
 
@@ -111,7 +111,7 @@ This process can be replicated to all the forget gates to have a new LSTM archit
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwMjIwMjQ5LDM2OTY5MDQ4NiwtMTE2NT
-IwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4MSwxOTAxNTE3MzI1
-LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
+eyJoaXN0b3J5IjpbLTEyMDA1OTMwMjUsNTQwMjIwMjQ5LDM2OT
+Y5MDQ4NiwtMTE2NTIwNjQwLDE0MTYzNDMxODksMTc0Mjg0NzA4
+MSwxOTAxNTE3MzI1LDE2MTI3MzE2NjksNzE0MzI4NTE1XX0=
 -->
