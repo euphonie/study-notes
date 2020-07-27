@@ -71,12 +71,14 @@ Are more involved in the structure of the model. This include:
 
 The number of layers and hidden units should be proportional to the complexity of the function that the neural network is trying to learn. **This hyperpameter is the main measure for a model's learning capacity**. However, if the model has too much capacity it may tend to overfit.
 
-In general, having more hidden units that inputs is a good value for training. And, three layers is
+According to the content, having more hidden units that inputs is a good starting value, and, three hidden layers is the most beneficial architecture to start with. Having as an exception, Convolutional Networks, as the more deeper they are the better they perform.
 
-### Model specific hyperparameters for architectures like RNMs.
+### Model specific hyperparameters for architectures like RNNs.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzExNTMwLDg5Njc4ODMxMSwtODk5OD
-E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
+eyJoaXN0b3J5IjpbMTM2NTY5NjA3OCw4OTY3ODgzMTEsLTg5OT
+gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
 -->
