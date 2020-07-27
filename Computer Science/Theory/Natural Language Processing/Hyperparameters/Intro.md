@@ -27,7 +27,7 @@ The most important hyperparameter and also should be tuned up. A good starting p
 - 0.00001
 - 0.000001
 
-> image learningrate
+![Different cases on learning rate](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/learningrate.png)
 
 A technique named **Learning Rate Decay** is good at moments where the gradient step applied to the weights keeps the error as far from the minima as in the previous step. It can be done by:
 - Decreasing the learning rate by half every 5 epochs to do it linearly
@@ -90,6 +90,7 @@ In this matter, it is also recommended using a depth of 2 layers.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzM1OTAwMiw4OTY3ODgzMTEsLTg5OT
-gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
+eyJoaXN0b3J5IjpbLTc4NDEwNTQxNiwxMDg3MzU5MDAyLDg5Nj
+c4ODMxMSwtODk5ODE0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIx
+NzddfQ==
 -->
