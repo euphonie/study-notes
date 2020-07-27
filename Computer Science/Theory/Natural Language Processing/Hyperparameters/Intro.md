@@ -85,10 +85,11 @@ In this matter, it is also recommended using a depth of 2 layers.
 - [Practical recommendations for gradient-based training of deep architectures](https://arxiv.org/abs/1206.5533)
 - [Deep Learning Book - Chapter 11.4: Selecting Hyperparameters](http://www.deeplearningbook.org/contents/guidelines.html)
 - [Neural Networks and Deep Learning book - Chapter 3: How to choose a neural network's hyper-parameters?](http://neuralnetworksanddeeplearning.com/chap3.html#how_to_choose_a_neural_network%27s_hyper-parameters)
-- 
+- [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+- [Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTMxNDE2NzIsODk2Nzg4MzExLC04OT
-k4MTQwNTMsLTE3Nzk5NjU4NCwtMTQ0OTE3MjE3N119
+eyJoaXN0b3J5IjpbMTA4NzM1OTAwMiw4OTY3ODgzMTEsLTg5OT
+gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
 -->
