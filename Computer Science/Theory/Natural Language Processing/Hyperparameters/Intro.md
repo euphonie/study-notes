@@ -61,6 +61,8 @@ Lower mini batch sizes permits to escape local minima for computing the error in
 
 ### Number of Epochs
 
+For choosing the number o
+
 ## Model Hyperparameters
 
 Are more involved in the structure of the model. This include: 
@@ -69,6 +71,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODQ1NTM4NCw4OTY3ODgzMTEsLTg5OT
-gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
+eyJoaXN0b3J5IjpbMjcxNTI4NTgwLDg5Njc4ODMxMSwtODk5OD
+E0MDUzLC0xNzc5OTY1ODQsLTE0NDkxNzIxNzddfQ==
 -->
