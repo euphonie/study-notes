@@ -75,10 +75,10 @@ According to the content, having more hidden units that inputs is a good startin
 
 ### Model specific hyperparameters for architectures like RNNs.
 
-
+In this case, vanilla RNNs tend to perform worse than LSTMs and GRUs. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTY5NjA3OCw4OTY3ODgzMTEsLTg5OT
+eyJoaXN0b3J5IjpbMTU5MDg5OTAyMCw4OTY3ODgzMTEsLTg5OT
 gxNDA1MywtMTc3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
 -->
