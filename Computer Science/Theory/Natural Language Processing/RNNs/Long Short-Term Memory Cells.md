@@ -107,12 +107,12 @@ $$
 
 This process can be replicated to all the forget gates to have a new LSTM architecture as follows:
 
-![P](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/peephole2.png)
+![Peephole Connections Complete](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/RNNs/peephole2.png)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDU2NDYxNyw1NDAyMjAyNDksMzY5Nj
+eyJoaXN0b3J5IjpbLTYzMDE2ODA4NSw1NDAyMjAyNDksMzY5Nj
 kwNDg2LC0xMTY1MjA2NDAsMTQxNjM0MzE4OSwxNzQyODQ3MDgx
 LDE5MDE1MTczMjUsMTYxMjczMTY2OSw3MTQzMjg1MTVdfQ==
 -->
