@@ -35,8 +35,11 @@ A technique named **Learning Rate Decay** is good at moments where the gradient 
 
 There are algorithms that use **Adaptive Learning** that decreases or increases the learning rate according to the obtained results of each epoch.
 
-- Minibatch Size
-- Number of Epochs
+### Minibatch Size
+
+This parameter impacts in speed and the number of iterations. There are two ways of backpro
+
+### Number of Epochs
 
 ## Model Hyperparameters
 
@@ -46,6 +49,6 @@ Are more involved in the structure of the model. This include:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTgxNDA1MywtMTc3OTk2NTg0LC0xND
-Q5MTcyMTc3XX0=
+eyJoaXN0b3J5IjpbLTEwNjU2NDU3MDAsLTg5OTgxNDA1MywtMT
+c3OTk2NTg0LC0xNDQ5MTcyMTc3XX0=
 -->
