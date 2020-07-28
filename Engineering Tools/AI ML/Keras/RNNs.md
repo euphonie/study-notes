@@ -19,14 +19,24 @@ model = keras.Sequential()
 model.add(layers.Embedding(input_dim=1000, output_dim=64))
 # Add a LSTM layer with 128 internal units.
 model.add(layers.LSTM(128))
+
+model.add(Dropout(.1))
+
 # Add a Dense layer with 10 units.
 model.add(layers.Dense(10))
 
 model.summary()
+
+# Compile
+model.compile(loss="categorical_crossentropy", optimizer="adam", metrics = ["accuracy"])
+
+# Train 
+
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUxMzMwOTYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjExNTQ4NzE5MCwtMTUzNTEzMzA5Niw3Mz
+A5OTgxMTZdfQ==
 -->
