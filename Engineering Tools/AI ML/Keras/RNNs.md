@@ -31,12 +31,15 @@ model.summary()
 model.compile(loss="categorical_crossentropy", optimizer="adam", metrics = ["accuracy"])
 
 # Train 
-
+history = model.fit(X, y, nb_epoch=1000, verbose=0)
+print(history.history)
 ```
+
+**Tip**: You can split off a small portion of the training set to be used for validation during training. This will help monitor the training process and identify potential overfitting. You can supply a validation set to `model.fit()` using its `validation_data` parameter, or just specify `validation_split` - a fraction of the training data for Keras to set aside for this purpose (typically 5-10%). Validation metrics are evaluated once at the end of each epoch.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTQ4NzE5MCwtMTUzNTEzMzA5Niw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTQzMDU3MjczLC0xNTM1MTMzMDk2LDczMD
+k5ODExNl19
 -->
