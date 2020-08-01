@@ -77,7 +77,11 @@ It also has a table with CDF values known as T-table.
 # **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
 
+It is mostly featured in statistical analysis as few real life events follow this kind of distribution. It can be used in: 
+- Hypothesis testing
+- Computing confidence intervals
 
+In general it can be used when determining the Goodness of fit of categorical 
 
 ![Chi-squared distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/chisquared.png)
 
@@ -104,6 +108,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTQ5MjkzMiwtMTI3MDIwNTkyMCwtMT
-UxMDY3MDQwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbOTQ2MDQ2ODk0LC0xMjcwMjA1OTIwLC0xNT
+EwNjcwNDAsOTU4MTIzNzAzXX0=
 -->
