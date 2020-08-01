@@ -3,7 +3,6 @@
 # **Normal distribution**
 
 Often observed in most natural events. Extreme values in a distribution curve are called **Outliers** and don't feature frequently in this distributions.
-	- **Student's-T distribution**. When there is limited data to an event, this type of distribution can be used as it is a small sample approximation of a normal distribution. It accommodates extremes values significantly better.
 
 ![Student's-T distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/studentst.png)
 
@@ -56,6 +55,14 @@ $$
 
 **Note**. If the data is scarce, standardization could affect the analysis by introducing outliers as relevant values of the distribution (*in cases were there are less than 30 entries, normal distributions shouldn't be assumed*).
 
+
+# **Student's-T distribution**
+When there is limited data to an event, this type of distribution can be used as it is a small sample approximation of a normal distribution. It accommodates extremes values significantly better. It is denoted as: 
+$$
+t(k) 
+$$
+Where $k$ stands for **degrees of freedom**.
+
 # **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
 
@@ -75,5 +82,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4MTIzNzAzXX0=
+eyJoaXN0b3J5IjpbMTU4NzExNDQxMyw5NTgxMjM3MDNdfQ==
 -->
