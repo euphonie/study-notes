@@ -81,17 +81,23 @@ It is mostly featured in statistical analysis as few real life events follow thi
 - Hypothesis testing
 - Computing confidence intervals
 
-In general it can be used when determining the Goodness of fit of categorical 
+In general it can be used when determining the Goodness of fit of categorical values.
 
 ![Chi-squared distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/chisquared.png)
 
 Is it denoted as: 
 $$
-\Chi^2(k)
+\Chi^2(k) \\
 Y \sim \Chi^2(3)
 $$
 Where $k$ stands for **degrees of freedom**.
 
+It can be interpreted as a transformation of the Student's T-distribution elevated to the second power:
+
+$$
+Y \sim t(k) \\
+Y^2 \sim \Chi^2(k)
+$$
 
 
 # **Exponential distribution**
@@ -108,6 +114,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MDQ2ODk0LC0xMjcwMjA1OTIwLC0xNT
+eyJoaXN0b3J5IjpbNzUzODIyNTYzLC0xMjcwMjA1OTIwLC0xNT
 EwNjcwNDAsOTU4MTIzNzAzXX0=
 -->
