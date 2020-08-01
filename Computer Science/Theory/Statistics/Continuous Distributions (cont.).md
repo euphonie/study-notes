@@ -156,11 +156,12 @@ It aids to determine how continuous variable inputs can affect the probability o
 
 > image logistic
 
-For the CDF, the behavior is a curve with a lower gradient until it reaches the mean ($\mu$), at that moment the gradient 
+For the CDF, the behavior is a curve with a low slope until it reaches the mean ($\mu$), at that moment the slope increases just before plateauing almost reaching the probability of 1.
 
+> image cdfl
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDA1NDk5MywyMDEwNTY4Mzk2LC0xMj
+eyJoaXN0b3J5IjpbLTQyMzczNzcyMywyMDEwNTY4Mzk2LC0xMj
 cwMjA1OTIwLC0xNTEwNjcwNDAsOTU4MTIzNzAzXX0=
 -->
