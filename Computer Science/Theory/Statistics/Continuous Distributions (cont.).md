@@ -158,10 +158,17 @@ It aids to determine how continuous variable inputs can affect the probability o
 
 For the CDF, the behavior is a curve with a low slope until it reaches the mean ($\mu$), at that moment the slope increases just before plateauing almost reaching the probability of 1.
 
-> image cdfl
+> image cdflog
+
+It has:
+
+$$
+E(Y) = \mu \\
+Var(Y) = \frac{S^2\pi^2}{3}
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzczNzcyMywyMDEwNTY4Mzk2LC0xMj
-cwMjA1OTIwLC0xNTEwNjcwNDAsOTU4MTIzNzAzXX0=
+eyJoaXN0b3J5IjpbLTE3MTI5MjM2NTMsMjAxMDU2ODM5NiwtMT
+I3MDIwNTkyMCwtMTUxMDY3MDQwLDk1ODEyMzcwM119
 -->
