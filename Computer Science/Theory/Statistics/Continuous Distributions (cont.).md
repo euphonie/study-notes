@@ -79,6 +79,15 @@ It also has a table with CDF values known as T-table.
 
 ![Chi-squared distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/chisquared.png)
 
+Is it denoted as: 
+$$
+\Chi^2(k)
+Y \sim \Chi^2(3)
+$$
+Where $k$ stands for **degrees of freedom**.
+
+
+
 # **Exponential distribution**
 Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. 
 
@@ -93,6 +102,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDczNDcwOTQsLTE1MTA2NzA0MCw5NT
+eyJoaXN0b3J5IjpbLTEyNzAyMDU5MjAsLTE1MTA2NzA0MCw5NT
 gxMjM3MDNdfQ==
 -->
