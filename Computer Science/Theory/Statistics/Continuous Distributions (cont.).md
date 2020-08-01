@@ -123,6 +123,8 @@ The type of probability in this kind of distributions starts high, decreasing at
 
 > image exp
 
+And its CDF starts from 0 surmounting up to 1 as time passes with a steep rise and then a plateau as time continu
+
 > image expcdf
 
 
@@ -137,6 +139,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTU5NDA0NTcsLTEyNzAyMDU5MjAsLT
-E1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
+eyJoaXN0b3J5IjpbMjA3ODU0MzQ1LC0xMjcwMjA1OTIwLC0xNT
+EwNjcwNDAsOTU4MTIzNzAzXX0=
 -->
