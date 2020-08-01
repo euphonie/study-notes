@@ -6,6 +6,7 @@ Often observed in most natural events. Extreme values in a distribution curve ar
 
 ![Student's-T distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/studentst.png)
 
+
 Denoted as: 
 $$
 N(\mu, \sigma^2) \\
@@ -143,16 +144,20 @@ X \sim N(\mu, \sigma^2)
 $$
 
 # **Logistic Distribution**
-Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
+Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty. Denoted by: 
 
-## Notation
-A notation to define the type of distribution from a sample or population can be expressed as (variable, type and characteristics): 
 $$
-X \sim N (\mu, \sigma^2)
+Logistic(\mu, S)
 $$
+Where $\mu$ stands for **Location** and $S$ for 
+
+
+
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYxNzU4MzYsLTEyNzAyMDU5MjAsLT
-E1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
+eyJoaXN0b3J5IjpbLTc2NTk3NjA3MCwtMTI3MDIwNTkyMCwtMT
+UxMDY3MDQwLDk1ODEyMzcwM119
 -->
