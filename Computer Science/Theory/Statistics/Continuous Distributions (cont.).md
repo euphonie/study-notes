@@ -111,7 +111,13 @@ Var(X) = 2k
 $$
 
 # **Exponential distribution**
-Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. 
+Is used when dealing with events that are rapidly changing early on.E.g. the relevance of news articles, as time passes interest wears off. It is denoted by: 
+
+$$
+Exp(\lambda) \\
+X \sim Exp(\frac{1}{2})
+$$
+Where $\lambda$ stands for a scale value. 
 
 
 
@@ -126,6 +132,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2Mzc5MTk3MywtMTI3MDIwNTkyMCwtMT
-UxMDY3MDQwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbMzU2OTI0MDU1LC0xMjcwMjA1OTIwLC0xNT
+EwNjcwNDAsOTU4MTIzNzAzXX0=
 -->
