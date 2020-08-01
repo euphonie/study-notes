@@ -65,10 +65,12 @@ $$
 Where $k$ stands for **degrees of freedom**. If $k > 2$:
 $$
 E(Y) = \mu \\
-Var(Y
+Var(Y) = \frac{S^2*k}{k-2}
 $$
 
 It is similar to the shape of the normal distribution, however has higher-valued tails to accommodate the occurrence of values far away from the mean.
+
+It also has a table with CDF values known as T-table.
 
 ![Student's-T distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/studentst.png)
 
@@ -91,6 +93,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTYxMTcyMCwtMTUxMDY3MDQwLDk1OD
-EyMzcwM119
+eyJoaXN0b3J5IjpbLTE2MDczNDcwOTQsLTE1MTA2NzA0MCw5NT
+gxMjM3MDNdfQ==
 -->
