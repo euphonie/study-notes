@@ -64,7 +64,9 @@ Y \sim t(3)
 $$
 Where $k$ stands for **degrees of freedom**.
 
-![Normal Distribution Graph](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/normaldist.png)
+It is similar to the shape of the normal distribution, however has higher-valued tails to accommodate the occurrence of values far away from the mean.
+
+![Student's-T distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/studentst.png)
 
 # **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -85,5 +87,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1ODc0OTEwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbLTE1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
 -->
