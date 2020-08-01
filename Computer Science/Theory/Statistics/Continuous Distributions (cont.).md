@@ -123,9 +123,16 @@ The type of probability in this kind of distributions starts high, decreasing at
 
 > image exp
 
-And its CDF starts from 0 surmounting up to 1 as time passes with a steep rise and then a plateau as time continu
+And its CDF starts from 0 surmounting up to 1 as time passes with a steep rise and then a plateau as time continues.
 
 > image expcdf
+
+In here the value $\lambda$ or **rate parameter**, determines how fast the CDF/PDF curve reaches the point of plateauing and how spread out the graph is. Having: 
+
+$$
+E(Y)  = \frac{1}{\lambda} \\
+Var(Y
+$$
 
 
 # **Logistic Distribution**
@@ -139,6 +146,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODU0MzQ1LC0xMjcwMjA1OTIwLC0xNT
-EwNjcwNDAsOTU4MTIzNzAzXX0=
+eyJoaXN0b3J5IjpbLTEzNzU1Njg3NCwtMTI3MDIwNTkyMCwtMT
+UxMDY3MDQwLDk1ODEyMzcwM119
 -->
