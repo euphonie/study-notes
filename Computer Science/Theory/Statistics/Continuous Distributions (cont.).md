@@ -147,10 +147,12 @@ $$
 Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty. Denoted by: 
 
 $$
-Logistic(\mu, S)
+Logistic(\mu, S) \\
+X \sim Logistic(6, 3)
 $$
-Where $\mu$ stands for **Location** and $S$ for 
+Where $\mu$ stands for **Location** and $S$ for **Scale parameter**.
 
+It aids to determine how continuous variable inputs can affect the probability of a binary outcome. 
 
 
 
@@ -158,6 +160,6 @@ Where $\mu$ stands for **Location** and $S$ for
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTk3NjA3MCwtMTI3MDIwNTkyMCwtMT
+eyJoaXN0b3J5IjpbMjAxMDU2ODM5NiwtMTI3MDIwNTkyMCwtMT
 UxMDY3MDQwLDk1ODEyMzcwM119
 -->
