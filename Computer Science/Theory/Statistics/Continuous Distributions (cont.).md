@@ -122,11 +122,11 @@ Where $\lambda$ stands for a scale value.
 
 The type of probability in this kind of distributions starts high, decreasing at first and eventually it plateaus into a fixed interval.
 
-> image exp
+![PDF Exponential distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/exp.png)
 
 And its CDF starts from 0 surmounting up to 1 as time passes with a steep rise and then a plateau as time continues.
 
-> image expcdf
+![CDF Exponential Distribution](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/expcdf.png)
 
 In here the value $\lambda$ or **rate parameter**, determines how fast the CDF/PDF curve reaches the point of plateauing and how spread out the graph is. Having: 
 
@@ -154,11 +154,11 @@ Where $\mu$ stands for **Location** and $S$ for **Scale parameter**.
 
 It aids to determine how continuous variable inputs can affect the probability of a binary outcome. The PDF resembles a normal distribution which might have a wider mean denoted by the scale parameter.
 
-> image logistic
+![PDF Logistic Dist](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/logistic.png)
 
 For the CDF, the behavior is a curve with a low slope until it reaches the mean ($\mu$), at that moment the slope increases just before plateauing almost reaching the probability of 1.
 
-> image cdflog
+![CDF Logistic Dist](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/cdflog.png)
 
 It has:
 
@@ -169,6 +169,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI5MjM2NTMsMjAxMDU2ODM5NiwtMT
-I3MDIwNTkyMCwtMTUxMDY3MDQwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbLTUzMjY2NDAwMywtMTcxMjkyMzY1MywyMD
+EwNTY4Mzk2LC0xMjcwMjA1OTIwLC0xNTEwNjcwNDAsOTU4MTIz
+NzAzXX0=
 -->
