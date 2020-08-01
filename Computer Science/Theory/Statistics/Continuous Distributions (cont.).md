@@ -131,9 +131,10 @@ In here the value $\lambda$ or **rate parameter**, determines how fast the CDF/P
 
 $$
 E(Y)  = \frac{1}{\lambda} \\
-Var(Y
+Var(Y) = \frac{1}{\lambda^2}
 $$
 
+This distribution does not contain a table of known values, but it can be transformed into a normal distribution
 
 # **Logistic Distribution**
 Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
@@ -146,6 +147,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU1Njg3NCwtMTI3MDIwNTkyMCwtMT
-UxMDY3MDQwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbLTE2ODE1MDg3MjcsLTEyNzAyMDU5MjAsLT
+E1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
 -->
