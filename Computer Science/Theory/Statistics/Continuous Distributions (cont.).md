@@ -62,7 +62,11 @@ $$
 t(k)  \\
 Y \sim t(3)
 $$
-Where $k$ stands for **degrees of freedom**.
+Where $k$ stands for **degrees of freedom**. If $k > 2$:
+$$
+E(Y) = \mu \\
+Var(Y
+$$
 
 It is similar to the shape of the normal distribution, however has higher-valued tails to accommodate the occurrence of values far away from the mean.
 
@@ -87,5 +91,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
+eyJoaXN0b3J5IjpbLTQ0NTYxMTcyMCwtMTUxMDY3MDQwLDk1OD
+EyMzcwM119
 -->
