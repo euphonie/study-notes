@@ -152,14 +152,15 @@ X \sim Logistic(6, 3)
 $$
 Where $\mu$ stands for **Location** and $S$ for **Scale parameter**.
 
-It aids to determine how continuous variable inputs can affect the probability of a binary outcome. 
+It aids to determine how continuous variable inputs can affect the probability of a binary outcome. The PDF resembles a normal distribution which might have a wider mean denoted by the scale parameter.
 
+> image logistic
 
-
+For the CDF, the behavior 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDU2ODM5NiwtMTI3MDIwNTkyMCwtMT
-UxMDY3MDQwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbLTYzNTA1MzA3MSwyMDEwNTY4Mzk2LC0xMj
+cwMjA1OTIwLC0xNTEwNjcwNDAsOTU4MTIzNzAzXX0=
 -->
