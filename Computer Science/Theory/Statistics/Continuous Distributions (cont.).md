@@ -121,6 +121,11 @@ Where $\lambda$ stands for a scale value.
 
 The type of probability in this kind of distributions starts high, decreasing at first and eventually it plateaus into a fixed interval.
 
+> image exp
+
+> image expcdf
+
+
 # **Logistic Distribution**
 Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
 
@@ -132,6 +137,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTU0OTQ1NiwtMTI3MDIwNTkyMCwtMT
-UxMDY3MDQwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbLTE4MTU5NDA0NTcsLTEyNzAyMDU5MjAsLT
+E1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
 -->
