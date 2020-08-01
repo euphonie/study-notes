@@ -59,9 +59,12 @@ $$
 # **Student's-T distribution**
 When there is limited data to an event, this type of distribution can be used as it is a small sample approximation of a normal distribution. It accommodates extremes values significantly better. It is denoted as: 
 $$
-t(k) 
+t(k)  \\
+Y \sim t(3)
 $$
 Where $k$ stands for **degrees of freedom**.
+
+![Normal Distribution Graph](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Statistics/normaldist.png)
 
 # **Chi-squared**
  An asymmetrical distribution that only contains non-negative values. Is used in hypothesis testing and determining the goodness of fit. 
@@ -82,5 +85,5 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzExNDQxMyw5NTgxMjM3MDNdfQ==
+eyJoaXN0b3J5IjpbNTE1ODc0OTEwLDk1ODEyMzcwM119
 -->
