@@ -104,7 +104,7 @@ x \sim \Chi^2(k) \\
 \sqrt{X} \sim t(k)
 $$
 
-It also contains a table of known values (CDF table).  Having: 
+It also contains a table of known values ($\Chi^2$ table).  Having: 
 $$
 E(X) = k \\
 Var(X) = 2k
@@ -134,7 +134,12 @@ E(Y)  = \frac{1}{\lambda} \\
 Var(Y) = \frac{1}{\lambda^2}
 $$
 
-This distribution does not contain a table of known values, but it can be transformed into a normal distribution
+This distribution does not contain a table of known values, but it can be transformed into a normal distribution like: 
+$$
+Y \sim Exp(\lambda) \\
+X = ln(Y) \\
+X \sim N(\mu, \sigma^2)
+$$
 
 # **Logistic Distribution**
 Is useful in forecast analysis. Like trying to determine a cut-off point for a successful outcome. E.g. It can be used to predict, in a competitive online game, how much of an in-game advantage is necessary to predict a victory. With forecasting, predictions would never reach true certainty.
@@ -147,6 +152,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODE1MDg3MjcsLTEyNzAyMDU5MjAsLT
-E1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
+eyJoaXN0b3J5IjpbMTY1MDk2MzcwNCwtMTI3MDIwNTkyMCwtMT
+UxMDY3MDQwLDk1ODEyMzcwM119
 -->
