@@ -134,7 +134,8 @@ E(Y)  = \frac{1}{\lambda} \\
 Var(Y) = \frac{1}{\lambda^2}
 $$
 
-This distribution does not contain a table of known values, but it can be transformed into a normal distribution like: 
+This distribution does not contain a table of known values, but it can be transformed into a normal distribution described below. This transformation can be used to calculate linear regressions.  
+
 $$
 Y \sim Exp(\lambda) \\
 X = ln(Y) \\
@@ -152,6 +153,6 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDk2MzcwNCwtMTI3MDIwNTkyMCwtMT
-UxMDY3MDQwLDk1ODEyMzcwM119
+eyJoaXN0b3J5IjpbLTE3ODYxNzU4MzYsLTEyNzAyMDU5MjAsLT
+E1MTA2NzA0MCw5NTgxMjM3MDNdfQ==
 -->
