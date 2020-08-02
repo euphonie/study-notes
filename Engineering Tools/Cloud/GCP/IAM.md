@@ -35,6 +35,8 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 Is used to give permissions to server-to-server interactions or actions between services or resources.
 These are identified with an email address, and instead of passwords use cryptographic keys. 
 
+Service accounts can be used to allow certain levels of server-to-server interaction within the same project. For example having project A, with components 1 and 2. Service account 1 attach
+
 *Note*. A service account is also a resource, and can have IAM policies on its own attached to it.
 
 ## Organization
@@ -54,6 +56,6 @@ To be able two have an organization node there can be two ways:
 *Note*: A less restrictive parent policy overrides a more restrictive resource policy.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDEzMTc0MjQsLTQ1NTIxOTg1NywtMT
-IzMTcyMzQ2M119
+eyJoaXN0b3J5IjpbLTMzOTY1MTU2OSwtNDU1MjE5ODU3LC0xMj
+MxNzIzNDYzXX0=
 -->
