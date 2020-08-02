@@ -6,7 +6,10 @@ Provision multiple instances at the same time
 
 ## Identity & Access Management
 
-Google cloud is organized through the concept of projects. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hiera
+Google cloud is organized through the concept of projects. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
+- Folders can be used to assign policies, as all the resources in a folder inherit the IAM policies from the folder.
+
+### Organization
 
 ## Network Services
 
@@ -27,6 +30,6 @@ External load balancers might be used for connections between clients and app se
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTY3MzgxNCwxMTcwNzUyNTgzLC01ND
-QyNDcxNTUsLTg1MTUxMzY0OSw3NDUzOTg2ODBdfQ==
+eyJoaXN0b3J5IjpbNDM5MTQxNzgxLDExNzA3NTI1ODMsLTU0ND
+I0NzE1NSwtODUxNTEzNjQ5LDc0NTM5ODY4MF19
 -->
