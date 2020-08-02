@@ -26,7 +26,7 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 	- **Billing Administrator**
 		- Manage billing
 		- Add and remove administrators
-- **Predefined**. Can be applied on Compute Engine resources in a project, folder or organization.
+- **Predefined**. Can be applied on Compute Engine resources in a project, folder or organization. Pro
 - **Custom**
 
 ## Organization
@@ -46,5 +46,6 @@ To be able two have an organization node there can be two ways:
 *Note*: A less restrictive parent policy overrides a more restrictive resource policy.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTIxOTg1NywtMTIzMTcyMzQ2M119
+eyJoaXN0b3J5IjpbLTE2NzUxMjUwMjIsLTQ1NTIxOTg1NywtMT
+IzMTcyMzQ2M119
 -->
