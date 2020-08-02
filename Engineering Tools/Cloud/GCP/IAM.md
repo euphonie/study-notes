@@ -6,9 +6,13 @@ Google cloud is organized through the concept of projects. An organization can h
 
 ## Organization
 
-Allows having centralized visibility on how the resources are being used, and also permits applying centralized policies on all the projects that belong to an organization. It's the top of the hierarchy.
+Allows having centralized visibility on how the resources are being used, and also permits applying centralized policies on all the projects that belong to an organization. It's the top of the hierarchy. It contains two main roles: 
+
+- **Organization Policy Administrator**. Broad control over resources, makes it necessary for people to have the privilege in order to change policies.
+- **Project Creator**. Fine-grained control over 
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA5MDgxMTFdfQ==
+eyJoaXN0b3J5IjpbLTg3MTU1NzIxNF19
 -->
