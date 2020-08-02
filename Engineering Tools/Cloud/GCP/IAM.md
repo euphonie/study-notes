@@ -9,10 +9,13 @@ Google cloud is organized through the concept of projects. An organization can h
 Allows having centralized visibility on how the resources are being used, and also permits applying centralized policies on all the projects that belong to an organization. It's the top of the hierarchy. It contains two main roles: 
 
 - **Organization Policy Administrator**. Broad control over resources, makes it necessary for people to have the privilege in order to change policies.
-- **Project Creator**. Fine-grained control over 
+- **Project Creator**. Fine-grained control of project creation. A way to control who can spend money.
 
+To be able two have an organization node there can be two ways:
+- Your an owner of a G-Suite account
+- Using Google Cloud Identity for creating an organization node.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTU1NzIxNF19
+eyJoaXN0b3J5IjpbLTEzMDIwNjg4NF19
 -->
