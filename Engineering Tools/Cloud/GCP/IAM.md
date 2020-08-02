@@ -1,6 +1,8 @@
 
 # Identity & Access Management
 
+
+
 Google cloud is organized through the concept of projects. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
 - Folders can be used to assign policies, as all the resources in a folder inherit the IAM policies from the folder.
 
@@ -18,5 +20,5 @@ To be able two have an organization node there can be two ways:
 *Note*: A less restrictive parent policy overrides a more restrictive resource policy.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE3MjM0NjNdfQ==
+eyJoaXN0b3J5IjpbLTE1MDUyNTkzMSwtMTIzMTcyMzQ2M119
 -->
