@@ -10,8 +10,23 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 
 ## Roles 
 
-- Primitive
-- Predefin
+- Primitive. Affect all resources in a project
+	- Owner
+		- Invite members
+		- Remove members
+		- Delete Projects
+		- +editor, viewer
+	- Editor
+		- Deploy applications
+		- Modify code
+		- Configure services
+		- +viewer
+	- Viewer
+		- Read-only access
+	- Billing Administrator
+		- 
+- Predefined
+- Custom
 
 ## Organization
 
@@ -30,5 +45,5 @@ To be able two have an organization node there can be two ways:
 *Note*: A less restrictive parent policy overrides a more restrictive resource policy.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjMzNDcxNywtMTIzMTcyMzQ2M119
+eyJoaXN0b3J5IjpbLTE4NDA5Nzc0MywtMTIzMTcyMzQ2M119
 -->
