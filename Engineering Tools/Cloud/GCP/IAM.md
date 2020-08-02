@@ -30,6 +30,11 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 - **Custom**. The most detailed setup for rules on resources. It can work along the concept of assigning the **least-privilege** needed actions to all users in an organization.
 	- These can only be used at the project or organization levels, this means they can't be used at folder.
 
+### Service Account
+
+Is used to give permissions to server-to-server interactions or actions between services or resources.
+These are identified with an email address, and instead of pass
+
 ## Organization
 
 Google cloud is organized through the concept of projects. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
@@ -47,6 +52,6 @@ To be able two have an organization node there can be two ways:
 *Note*: A less restrictive parent policy overrides a more restrictive resource policy.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjcwNDc5OCwtNDU1MjE5ODU3LC0xMj
-MxNzIzNDYzXX0=
+eyJoaXN0b3J5IjpbLTEyODI5MjA1MjcsLTQ1NTIxOTg1NywtMT
+IzMTcyMzQ2M119
 -->
