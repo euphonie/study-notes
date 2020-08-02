@@ -11,23 +11,23 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 ## Roles 
 
 - **Primitive**. Affect all resources in a project but might be too coarse when handling sensitive data. 
-	- Owner
+	- **Owner**
 		- Invite members
 		- Remove members
 		- Delete Projects
 		- +editor, viewer
-	- Editor
+	- **Editor**
 		- Deploy applications
 		- Modify code
 		- Configure services
 		- +viewer
-	- Viewer
+	- **Viewer**
 		- Read-only access
-	- Billing Administrator
+	- **Billing Administrator**
 		- Manage billing
 		- Add and remove administrators
-- Predefined
-- Custom
+- **Predefined**. Can be applied on Compute Engine resources in a project, folder or organization.
+- **Custom**
 
 ## Organization
 
@@ -46,5 +46,5 @@ To be able two have an organization node there can be two ways:
 *Note*: A less restrictive parent policy overrides a more restrictive resource policy.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5ODIyMzM1LC0xMjMxNzIzNDYzXX0=
+eyJoaXN0b3J5IjpbLTQ1NTIxOTg1NywtMTIzMTcyMzQ2M119
 -->
