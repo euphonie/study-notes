@@ -1,7 +1,4 @@
-# About
-
-
-
+# Google Cloud Platform
 
 ## Instance templates
 
@@ -9,6 +6,7 @@ Provision multiple instances at the same time
 
 ## Identity & Access Management
 
+Google cloud is organized through the concept of projects. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hiera
 
 ## Network Services
 
@@ -29,6 +27,6 @@ External load balancers might be used for connections between clients and app se
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDc1MjU4MywtNTQ0MjQ3MTU1LC04NT
-E1MTM2NDksNzQ1Mzk4NjgwXX0=
+eyJoaXN0b3J5IjpbLTk5MTY3MzgxNCwxMTcwNzUyNTgzLC01ND
+QyNDcxNTUsLTg1MTUxMzY0OSw3NDUzOTg2ODBdfQ==
 -->
