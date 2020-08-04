@@ -64,16 +64,24 @@ model.compile(
     metrics = ["accuracy"]
 )
 
-# Train 
-history = model.fit(X, y, nb_epoch=1000, verbose=0)
+# TODO: Specify training parameters: batch size and number of epochs
+batch_size = 60
+num_epochs = 10
+
+# TODO: Train your model
+history = model.fit(X_train_padded, y_train, epochs=num_epochs, validation_split=0.5, verbose=1, batch_size=batch_size)
 print(history.history)
+
+# Evaluating a model
+scores = model.evaluate(X_test_padded, y_test, verbose=1)  # returns loss and other metrics specified in model.compile()
+print("Test accuracy:", scores[1])  # scores[1] should correspond to accuracy if you passed in metrics=['accuracy']
 ```
 
-**Tip**: You can split off a small portion of the training set to be used for validation during training. This will help monitor the training process and identify potential overfitting. You can supply a validation set to `model.fit()` using its `validation_data` parameter, or just specify `validation_split` - a fraction of the training data for Keras to set aside for this purpose (typically 5-10%). Validation metrics are evaluated once at the end of each epoch.
+**Tip**: You can split off a small portion of the training set to be used for validation during training. This will help monitor the training process and identify potential over fitting. You can supply a validation set to `model.fit()` using its `validation_data` parameter, or just specify `validation_split` - a fraction of the training data for Keras to set aside for this purpose (typically 5-10%). Validation metrics are evaluated once at the end of each epoch.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDU1MDkwMSw5NDMwNTcyNzMsLTE1Mz
+eyJoaXN0b3J5IjpbLTgyMDA2ODA0Myw5NDMwNTcyNzMsLTE1Mz
 UxMzMwOTYsNzMwOTk4MTE2XX0=
 -->
