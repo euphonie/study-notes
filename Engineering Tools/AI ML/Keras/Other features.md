@@ -26,7 +26,20 @@ print(y_test.shape)
 y_train[:10] # -> [0,1] or [1,0] para Y, N
 ```
 
+## Save a model
+
+```python
+# Save your model, so that you can quickly load it in future (and perhaps resume training)
+model_file = "rnn_model.h5"  # HDF5 file
+model.save(os.path.join(cache_dir, model_file))
+
+# Later you can load it using keras.models.load_model()
+#from keras.models import load_model
+#model = load_model(os.path.join(cache_dir, model_file))
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTAxODkwMiw2MDY2NDcwMThdfQ==
+eyJoaXN0b3J5IjpbLTE5MzM1NjQxMzksMTQ3MTAxODkwMiw2MD
+Y2NDcwMThdfQ==
 -->
