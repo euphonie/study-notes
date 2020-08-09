@@ -10,11 +10,12 @@ It can be used for translation, summarization, Q&A answering model or a chatbot.
 ## Architecture
 
 The architecture for a sequence to sequence model consists of two RNNs. It has a:
-- Encoder. handles the sequence inputs and hands
+- Encoder. Handles the input sequence and gives what was understood to the second RNN. It hands over a context, also represented as a fixed size tensor called the state or context.
+- Decoder. Generates the output sequence.
 
 > image s2s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDU3OTgyMCwxNDE5NjYyNjUyXX0=
+eyJoaXN0b3J5IjpbNjQwMjYwMzU2LDE0MTk2NjI2NTJdfQ==
 -->
