@@ -20,9 +20,13 @@ The architecture for a sequence to sequence model consists of two RNNs. It has a
 
 ### Vocabulary
 
-The vocabulary can contain 
+The vocabulary can contain position markers such as: 
+- < PAD > 
+- < EOS >, end of sentence
+- < UNK >, unkown
+- < GO >, start of sentence
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDI2NDcwNywxNDE5NjYyNjUyXX0=
+eyJoaXN0b3J5IjpbMTU0ODUyNzk2OSwxNDE5NjYyNjUyXX0=
 -->
