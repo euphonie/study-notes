@@ -6,9 +6,13 @@ Attention started as an attempt to mimic human perception. "...humans focus atte
 
 ## Description
 
-Deep Learning Attention incorporates a modification into sequence to sequence models to allow previously missing information, hidden states from the first up to the previous 
+Deep Learning Attention incorporates a modification into sequence to sequence models to allow previously missing information, hidden states from the first up to the second last, to be sent to the decoder.
+
+> image s2sattention
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ5NjM0NjksNzQ4NTIwMTk1XX0=
+eyJoaXN0b3J5IjpbLTEwNzU2NDAzMjEsNzQ4NTIwMTk1XX0=
 -->
