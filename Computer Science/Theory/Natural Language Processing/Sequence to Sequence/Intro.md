@@ -14,8 +14,9 @@ The architecture for a sequence to sequence model consists of two RNNs. It has a
 - Decoder. Generates the output sequence.
 
 > image s2s
+> image s2sdetailed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwMjYwMzU2LDE0MTk2NjI2NTJdfQ==
+eyJoaXN0b3J5IjpbLTY3OTc2ODY3OSwxNDE5NjYyNjUyXX0=
 -->
