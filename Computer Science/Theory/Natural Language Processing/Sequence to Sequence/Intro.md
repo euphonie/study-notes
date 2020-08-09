@@ -1,3 +1,5 @@
+> All information gathered from Udacity's Natural Language Processing Nanodegree
+
 # Sequence to Sequence
 
 
@@ -33,5 +35,5 @@ The vocabulary can contain position markers such as:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MTgzMDE3OCwxNDE5NjYyNjUyXX0=
+eyJoaXN0b3J5IjpbMTI4MzgyNzMwMiwxNDE5NjYyNjUyXX0=
 -->
