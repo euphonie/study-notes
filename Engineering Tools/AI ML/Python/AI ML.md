@@ -18,11 +18,11 @@ for each in reviews:
 ```
 **Encoding labels**
 ```python
-labels = np.array([])
+labels = np.array([1 if each =='positive' else 0 for each in labels])
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNDM5NzU1XX0=
+eyJoaXN0b3J5IjpbOTI4MjgzMzM0XX0=
 -->
