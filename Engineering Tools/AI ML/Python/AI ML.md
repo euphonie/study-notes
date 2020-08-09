@@ -28,7 +28,7 @@ seq_len = 200
 features = np.zeros( (len(reviews, seq_len), dtype=int)
 # populate each row with the contents of each review
 # populate the last segment (size len(row)) of the 0s array with the 
-#contents of the len(row) from the current review
+# contents of the len(row) from the current row
 for i, row in enumerate(reviews_ints):
 	features[i, -len(row):] = np.array(row)[:seq_len]
 ```
@@ -36,5 +36,5 @@ for i, row in enumerate(reviews_ints):
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzA0MjY5NCw5MjgyODMzMzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNDY4OTA5MjAsOTI4MjgzMzM0XX0=
 -->
