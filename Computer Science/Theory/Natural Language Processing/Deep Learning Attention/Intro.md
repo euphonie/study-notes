@@ -13,12 +13,12 @@ Deep Learning Attention incorporates a modification into sequence to sequence mo
 ## The attention decoder
 
 The decoder scores the hidden states that are sent from the encoder, applies a softmax function to the values to distribute the relative importance. And finally, it multiplies the values with each hidden state and sums them up into a Attention Context Vector. 
-It is important to notice that for each timestep the Attention Context Vector is computed again with t
+It is important to notice that for each timestep the Attention Context Vector is computed again with the corresponding hidden state.
 
 > image contextvector
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjQ0MjI5MywtMTA3NTY0MDMyMSw3ND
-g1MjAxOTVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDI4MzkwODAsLTEwNzU2NDAzMjEsNz
+Q4NTIwMTk1XX0=
 -->
