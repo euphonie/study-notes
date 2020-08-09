@@ -21,8 +21,14 @@ for each in reviews:
 labels = np.array([1 if each =='positive' else 0 for each in labels])
 ```
 
+**Padding vectors**
+```python
+seq_len = 200
+features = np.zero
+```
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4MjgzMzM0XX0=
+eyJoaXN0b3J5IjpbLTE5Mzc0MTc4NTksOTI4MjgzMzM0XX0=
 -->
