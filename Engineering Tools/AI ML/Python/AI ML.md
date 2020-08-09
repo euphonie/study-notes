@@ -24,11 +24,16 @@ labels = np.array([1 if each =='positive' else 0 for each in labels])
 **Padding vectors**
 ```python
 seq_len = 200
-features = np.zero
+# make a 0s matrix of #reviews x seq_len
+features = np.zeros( (len(reviews, seq_len), dtype=int)
+
+
+for i, row in enumerate(reviews_ints):
+	features[i, -len(row):] = np.array(row)[:seq_len]
 ```
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc0MTc4NTksOTI4MjgzMzM0XX0=
+eyJoaXN0b3J5IjpbLTI1MjEzNDc1Niw5MjgyODMzMzRdfQ==
 -->
