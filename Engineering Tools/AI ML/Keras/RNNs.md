@@ -79,9 +79,14 @@ print("Test accuracy:", scores[1])  # scores[1] should correspond to accuracy if
 
 **Tip**: You can split off a small portion of the training set to be used for validation during training. This will help monitor the training process and identify potential over fitting. You can supply a validation set to `model.fit()` using its `validation_data` parameter, or just specify `validation_split` - a fraction of the training data for Keras to set aside for this purpose (typically 5-10%). Validation metrics are evaluated once at the end of each epoch.
 
+## Note on hyperparameters
+
+- lstm_size: Number of units in the hidden layers in the LSTM cells. Usually larger is better performance wise. Common values are 128, 256, 512, etc.
+- lstm_layers: Number of LSTM layers in the network, it can be started with 1 and add more if its underfitting.
+- batch_size: The number of reviews to feed the network in one training pass. Typically this should be set as high as you can go without running out of memory
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMDA2ODA0Myw5NDMwNTcyNzMsLTE1Mz
-UxMzMwOTYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTc5MTcwMTMyOSwtODIwMDY4MDQzLDk0Mz
+A1NzI3MywtMTUzNTEzMzA5Niw3MzA5OTgxMTZdfQ==
 -->
