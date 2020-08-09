@@ -26,8 +26,9 @@ labels = np.array([1 if each =='positive' else 0 for each in labels])
 seq_len = 200
 # make a 0s matrix of #reviews x seq_len
 features = np.zeros( (len(reviews, seq_len), dtype=int)
-
-
+# populate each row with the contents of each review
+# populate the last segment (size len(row)) of the 0s array with the 
+#contents of the len(row) from the current review
 for i, row in enumerate(reviews_ints):
 	features[i, -len(row):] = np.array(row)[:seq_len]
 ```
@@ -35,5 +36,5 @@ for i, row in enumerate(reviews_ints):
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjEzNDc1Niw5MjgyODMzMzRdfQ==
+eyJoaXN0b3J5IjpbLTcxMzA0MjY5NCw5MjgyODMzMzRdfQ==
 -->
