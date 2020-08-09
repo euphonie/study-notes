@@ -12,11 +12,13 @@ Deep Learning Attention incorporates a modification into sequence to sequence mo
 
 ## The attention decoder
 
-The decoder scores the hidden states that are sent from the encoder, applies a softmax function to the values to distribute the relative importa
+The decoder scores the hidden states that are sent from the encoder, applies a softmax function to the values to distribute the relative importance. And finally, i
 
+
+> image contextvector
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MzUzNTU0NywtMTA3NTY0MDMyMSw3ND
-g1MjAxOTVdfQ==
+eyJoaXN0b3J5IjpbLTY3ODYyMDE3LC0xMDc1NjQwMzIxLDc0OD
+UyMDE5NV19
 -->
