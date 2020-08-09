@@ -7,8 +7,14 @@ Sequence to Sequence RNNs have architectures that allow to output a series of ve
 It can be used for translation, summarization, Q&A answering model or a chatbot. 
 
 
+## Architecture
+
+The architecture for a sequence to sequence model consists of two RNNs. It has a:
+- Encoder. handles the sequence inputs and hands
+
+> image s2s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Nzg4NDM0LDE0MTk2NjI2NTJdfQ==
+eyJoaXN0b3J5IjpbMTI5NDU3OTgyMCwxNDE5NjYyNjUyXX0=
 -->
