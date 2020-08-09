@@ -18,11 +18,11 @@ The architecture for a sequence to sequence model consists of two RNNs. It has a
 > image s2s
 > image s2sdetailed
 
-### On detail
+### Vocabulary
 
-> image s2s2
+The vocabulary can contain 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU4Nzg3MywxNDE5NjYyNjUyXX0=
+eyJoaXN0b3J5IjpbLTUyNDI2NDcwNywxNDE5NjYyNjUyXX0=
 -->
