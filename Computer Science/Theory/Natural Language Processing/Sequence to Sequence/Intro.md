@@ -18,7 +18,10 @@ The architecture for a sequence to sequence model consists of two RNNs. It has a
 > image s2s
 > image s2sdetailed
 
-At the output of the decoder RNN theres is a layer that indicates which element from the vocabulary is chosen by analyzing the context and i
+At the output of the decoder RNN theres is a layer that indicates which element from the vocabulary is chosen by analyzing the outputs. 
+
+> image s2s2
+> image logi
 
 ### Vocabulary
 
@@ -30,5 +33,5 @@ The vocabulary can contain position markers such as:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzIwOTY4NTgsMTQxOTY2MjY1Ml19
+eyJoaXN0b3J5IjpbMTQ2MTgzMDE3OCwxNDE5NjYyNjUyXX0=
 -->
