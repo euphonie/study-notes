@@ -17,8 +17,9 @@ The architecture for a sequence to sequence model consists of two RNNs. It has a
 
 *Note:* the bigger the size of the RNN cell, the more capacity it has to learn the patterns of the sequences and the more resource-intensive it will be.
 
-> image s2s
-> image s2sdetailed
+![Sequence to Sequence architecture](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Sequence%20to%20Sequence/s2s.png)
+
+![Detailed architecture](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Sequence%20to%20Sequence/s2sdetailed.png)
 
 At the output of the decoder RNN theres is a layer that indicates which element from the vocabulary is chosen by analyzing the outputs. 
 
@@ -35,5 +36,5 @@ The vocabulary can contain position markers such as:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzgyNzMwMiwxNDE5NjYyNjUyXX0=
+eyJoaXN0b3J5IjpbLTQyMTMwOTIxNSwxNDE5NjYyNjUyXX0=
 -->
