@@ -8,17 +8,17 @@ Attention started as an attempt to mimic human perception. "...humans focus atte
 
 Deep Learning Attention incorporates a modification into sequence to sequence models to allow previously missing information, hidden states from the first up to the second last, to be sent to the decoder.
 
-> image s2sattention
+![Sequence to Sequence with attention](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Deep%20Learning%20Attention/s2sattention.png)
 
-## The attention decoder
+## The Attention Decoder
 
 The decoder scores the hidden states that are sent from the encoder, applies a softmax function to the values to distribute the relative importance. And finally, it multiplies the values with each hidden state and sums them up into a Attention Context Vector. 
 It is important to notice that for each timestep the Attention Context Vector is computed again with the corresponding hidden state.
 
-> image contextvector
+![Description of the process within the Attention Decoder](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Deep%20Learning%20Attention/contextvector.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI4MzkwODAsLTEwNzU2NDAzMjEsNz
-Q4NTIwMTk1XX0=
+eyJoaXN0b3J5IjpbMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMD
+c1NjQwMzIxLDc0ODUyMDE5NV19
 -->
