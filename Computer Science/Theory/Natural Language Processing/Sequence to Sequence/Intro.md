@@ -23,7 +23,7 @@ The architecture for a sequence to sequence model consists of two RNNs. It has a
 
 At the output of the decoder RNN theres is a layer that indicates which element from the vocabulary is chosen by analyzing the outputs. 
 
-![enter image description here](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Sequence%20to%20Sequence/s2s2.png)
+![](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Sequence%20to%20Sequence/s2s2.png)
 
 > image logi
 
@@ -37,5 +37,6 @@ The vocabulary can contain position markers such as:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjg1ODg5MywxNDE5NjYyNjUyXX0=
+eyJoaXN0b3J5IjpbMTk5NzIxNjY5MCwtOTIyODU4ODkzLDE0MT
+k2NjI2NTJdfQ==
 -->
