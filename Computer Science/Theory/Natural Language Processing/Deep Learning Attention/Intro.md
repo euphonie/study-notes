@@ -25,10 +25,14 @@ $$
 score(h_t, \bar{h}_s)
 $$
 
-> image multiplicati
+> image multiplicative
+
+The scoring function can be evaluated using the following methods: 
+- Dot Product. In this 
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI4ODUzNjcsMTA1Nzc2ODQ0LC0xNz
+eyJoaXN0b3J5IjpbLTE5OTg3OTIxODMsMTA1Nzc2ODQ0LC0xNz
 QyODM5MDgwLC0xMDc1NjQwMzIxLDc0ODUyMDE5NV19
 -->
