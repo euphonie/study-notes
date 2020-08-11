@@ -18,10 +18,15 @@ It is important to notice that for each timestep the Attention Context Vector is
 ![Description of the process within the Attention Decoder](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Deep%20Learning%20Attention/contextvector.png)
 
 
+## Scoring functions
 
+Scoring functions usually take two parameters, where $h_t$ is the current hidden state of the decoder, and $\bar{h}_s$: 
+$$
+score(h_t, \bar{h}_s)
+$$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTAxNjIzNCwxMDU3NzY4NDQsLTE3ND
-I4MzkwODAsLTEwNzU2NDAzMjEsNzQ4NTIwMTk1XX0=
+eyJoaXN0b3J5IjpbLTEzMjgxMTg2MjAsMTA1Nzc2ODQ0LC0xNz
+QyODM5MDgwLC0xMDc1NjQwMzIxLDc0ODUyMDE5NV19
 -->
