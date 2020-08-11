@@ -17,8 +17,11 @@ It is important to notice that for each timestep the Attention Context Vector is
 
 ![Description of the process within the Attention Decoder](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Deep%20Learning%20Attention/contextvector.png)
 
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMD
-c1NjQwMzIxLDc0ODUyMDE5NV19
+eyJoaXN0b3J5IjpbLTU3OTAxNjIzNCwxMDU3NzY4NDQsLTE3ND
+I4MzkwODAsLTEwNzU2NDAzMjEsNzQ4NTIwMTk1XX0=
 -->
