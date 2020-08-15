@@ -12,10 +12,13 @@
 - à cause de (idée négative)
 - grace à (idée positive)
 - d'une part ..... /  d'autre part ...... (opposition)
-
+**les possessifs**
+- Quand le sujet commence avec un voyelle en doit utiliser la version masculin du possessif. Ex. mon histoire, mon ami, mon aventure. 
+- On n'utilise pas **m'** parce que, c'est 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE5OTU0MjYsNDY1MzE5NzY2LDEzMz
-IxNDAyNjUsLTUwMzU3NTU5OCwtMTUyNzQ2Mjg2NV19
+eyJoaXN0b3J5IjpbMTYwNTk5MjAxMywtMTkyMTk5NTQyNiw0Nj
+UzMTk3NjYsMTMzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYy
+ODY1XX0=
 -->
