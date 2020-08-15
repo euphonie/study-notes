@@ -11,9 +11,10 @@
 - Se faire opérer = je ms uis fait opérer / j'ai subi une opération.
 - à cause de (idée négative)
 - grace à (idée positive)
+- d'une part ..... /  d'autre part ...... (opposition)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzE5NzY2LDEzMzIxNDAyNjUsLTUwMz
-U3NTU5OCwtMTUyNzQ2Mjg2NV19
+eyJoaXN0b3J5IjpbOTk4NjAyNTQ0LDQ2NTMxOTc2NiwxMzMyMT
+QwMjY1LC01MDM1NzU1OTgsLTE1Mjc0NjI4NjVdfQ==
 -->
