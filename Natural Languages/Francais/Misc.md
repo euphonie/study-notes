@@ -22,10 +22,11 @@
 - le piratage = pirater
 - une platafrome
 - le téléchargement = télécharger
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcwOTI1NDksMTE0NzIyMDA2NCwtMT
-kyMTk5NTQyNiw0NjUzMTk3NjYsMTMzMjE0MDI2NSwtNTAzNTc1
-NTk4LC0xNTI3NDYyODY1XX0=
+eyJoaXN0b3J5IjpbMzI1MzE4MzkwLC0yMDk3MDkyNTQ5LDExND
+cyMjAwNjQsLTE5MjE5OTU0MjYsNDY1MzE5NzY2LDEzMzIxNDAy
+NjUsLTUwMzU3NTU5OCwtMTUyNzQ2Mjg2NV19
 -->
