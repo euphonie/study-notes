@@ -22,11 +22,12 @@
 - le piratage = pirater
 - une platafrome
 - le téléchargement = télécharger
-- 
+- un journal, un hôpital, un cheval / des jornaux, des hôpitaux, des chevaux
+- un festival, un carnaval / des festivals, des carnavals
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MzE4MzkwLC0yMDk3MDkyNTQ5LDExND
-cyMjAwNjQsLTE5MjE5OTU0MjYsNDY1MzE5NzY2LDEzMzIxNDAy
-NjUsLTUwMzU3NTU5OCwtMTUyNzQ2Mjg2NV19
+eyJoaXN0b3J5IjpbMTQxODU3NjA5NCwtMjA5NzA5MjU0OSwxMT
+Q3MjIwMDY0LC0xOTIxOTk1NDI2LDQ2NTMxOTc2NiwxMzMyMTQw
+MjY1LC01MDM1NzU1OTgsLTE1Mjc0NjI4NjVdfQ==
 -->
