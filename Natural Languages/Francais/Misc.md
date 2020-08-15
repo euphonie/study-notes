@@ -17,9 +17,15 @@
 - Quand le sujet commence avec un voyelle en doit utiliser la version masculin du possessif. Ex. mon histoire, mon ami, mon aventure. 
 - On n'utilise pas **m'** parce que, c'est partient aux possessifs pronominaux. 
 
+### Le piratage
+
+- le piratage = pirater
+- une platafrome
+- le téléchargement = télécharger
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzIyMDA2NCwtMTkyMTk5NTQyNiw0Nj
-UzMTk3NjYsMTMzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYy
-ODY1XX0=
+eyJoaXN0b3J5IjpbLTIwOTcwOTI1NDksMTE0NzIyMDA2NCwtMT
+kyMTk5NTQyNiw0NjUzMTk3NjYsMTMzMjE0MDI2NSwtNTAzNTc1
+NTk4LC0xNTI3NDYyODY1XX0=
 -->
