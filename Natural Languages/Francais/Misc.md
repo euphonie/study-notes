@@ -9,11 +9,11 @@
 -  au fil du temps = al paso del tiempo
 - être vaniteux - la vanité
 - Se faire opérer = je ms uis fait opérer / j'ai subi une opération.
-- à cause de = 
-- grace à = 
+- à cause de (idée négative)
+- grace à (idée positive)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDEzNTk1NjIsMTMzMjE0MDI2NSwtNT
-AzNTc1NTk4LC0xNTI3NDYyODY1XX0=
+eyJoaXN0b3J5IjpbNDY1MzE5NzY2LDEzMzIxNDAyNjUsLTUwMz
+U3NTU5OCwtMTUyNzQ2Mjg2NV19
 -->
