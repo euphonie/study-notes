@@ -42,9 +42,13 @@ h_t^T\bar{h}_s
 $$
 Where the current hidden state is transposed (to have dimensions $1 *n$) and multiplied against a matrix composed by the encoder vectors.
 
+**2. Variation on Dot Product**
+
+In case, the encoder and decoder work with different sized embedding vector spaces, there is a variation that can be applied to the dot product formula.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5OTkzMTY2LDcwMTE3NTA4MywtMTA1ND
+eyJoaXN0b3J5IjpbNDc0NDUwODc2LDcwMTE3NTA4MywtMTA1ND
 AxNjM5NiwtMTk5ODc5MjE4MywxMDU3NzY4NDQsLTE3NDI4Mzkw
 ODAsLTEwNzU2NDAzMjEsNzQ4NTIwMTk1XX0=
 -->
