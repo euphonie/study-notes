@@ -11,7 +11,8 @@
 - **Recurrent Layer(s)**. They incorporate information from the whole sequence, modifying how each token affects or is affected by neighboring tokens.
 	- Inside the layer: input vector $x_t$ is multiplied by matrix $W_x$
 	- A bias is added $x_tW_x + b$
-	- Previous sta
+	- Previous state vector $h_{t-1}$ is multiplied by matrix $W_h$ to produce $h_{t-1}W_h$
+	- To produce current hidden state $h_t$, the formula $activation(x_tW_x + b + h_{t-1}W_h)$ is applied.
 
 This two steps allow to maximize the information that can be gathered from similarities and differences between words in the current sequence. 
 
@@ -22,5 +23,5 @@ This two steps allow to maximize the information that can be gathered from simil
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjkwODM1MF19
+eyJoaXN0b3J5IjpbMjA5NjU4NTc4Nl19
 -->
