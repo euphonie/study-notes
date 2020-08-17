@@ -8,8 +8,12 @@
 
 **Architecture**. The architecture composes of: 
 - **Embedding Layer**. Helps enhance the representation of the word. It generates a more compact word vector. 
-- **Recurrent Layer(s)**. 
+- **Recurrent Layer(s)**. They incorporate information from the whole sequence, modifying how each token affects or is affected by neighboring tokens.
+
+This two steps allow to maximize the information that can be gathered from similarities and differences between words in the current sequence. 
+
+- Dense Layer
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2Nzk1MzI4XX0=
+eyJoaXN0b3J5IjpbLTEyNzY2NjMyNjddfQ==
 -->
