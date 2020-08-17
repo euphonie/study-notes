@@ -60,15 +60,15 @@ $$
 This method uses a feedforward neural network with the input vector being the concatenation of the hidden state of the decoder in the current time step and the vectors of the hidden states from the encoder. 
 
 $$
-score(h_t, \bar{h}_s) = V_a(tanh(h_tW_a))
+score(h_t, \bar{h}_s) = v_a^Ttanh(W_a[h_t, \bar{h}_s])
 $$
-Where $W_a$ and $V_a$ are 
+Where $W_a$ and $V_a$ are weight matrices between the inputs and hidden layer and between the hidden layer and the output.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTc2ODAsMTA0Mzk4NDU0Nyw0NzQ0NT
-A4NzYsNzAxMTc1MDgzLC0xMDU0MDE2Mzk2LC0xOTk4NzkyMTgz
-LDEwNTc3Njg0NCwtMTc0MjgzOTA4MCwtMTA3NTY0MDMyMSw3ND
-g1MjAxOTVdfQ==
+eyJoaXN0b3J5IjpbLTQ4OTI2ODk5OCwxMDQzOTg0NTQ3LDQ3ND
+Q1MDg3Niw3MDExNzUwODMsLTEwNTQwMTYzOTYsLTE5OTg3OTIx
+ODMsMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMDc1NjQwMzIxLD
+c0ODUyMDE5NV19
 -->
