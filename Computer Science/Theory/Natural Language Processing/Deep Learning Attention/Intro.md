@@ -30,7 +30,7 @@ Where $t$ refers to the current time step of the decoder.
 
 The scoring function can be evaluated using the following methods: 
 
-**Dot Product**
+**1. Dot Product**
  It is used to obtain the similarity measure between vectors by understanding the magnitudes and angles that separate each one. Formula: $|a||b|cos\theta$.
 
 This means the output between two vectors is larger given a smaller angle $\theta$. Alternatively, the larger the angle $\theta$ is the smaller the resulting value will be.
@@ -44,7 +44,7 @@ Where the current hidden state is transposed (to have dimensions $1 *n$) and mul
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxMTc1MDgzLC0xMDU0MDE2Mzk2LC0xOT
-k4NzkyMTgzLDEwNTc3Njg0NCwtMTc0MjgzOTA4MCwtMTA3NTY0
-MDMyMSw3NDg1MjAxOTVdfQ==
+eyJoaXN0b3J5IjpbNzg5OTkzMTY2LDcwMTE3NTA4MywtMTA1ND
+AxNjM5NiwtMTk5ODc5MjE4MywxMDU3NzY4NDQsLTE3NDI4Mzkw
+ODAsLTEwNzU2NDAzMjEsNzQ4NTIwMTk1XX0=
 -->
