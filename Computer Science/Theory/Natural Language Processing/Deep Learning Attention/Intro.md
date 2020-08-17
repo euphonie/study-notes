@@ -42,11 +42,11 @@ h_t^T\bar{h}_s
 $$
 Where the current hidden state is transposed (to have dimensions $1 *n$) and multiplied against a matrix composed by the encoder vectors.
 
-**2. Variation on Dot Product**
+**2. General - Dot Product with different embedding vector spaces **
 
 In case, the encoder and decoder work with different sized embedding vector spaces, there is a variation that can be applied to the dot product formula.
 
-It introduces a weight matrix $W_a$, it's a linear transformation which allows input and output to use different embeddings. Where $h_t^T$ is size (1, m), $W_a$ is size (m, n) and $\bar{h}_s$ is size (n, t), to get 
+It introduces a weight matrix $W_a$, it's a linear transformation which allows input and output to use different embeddings. Where $h_t^T$ is size (1, m), $W_a$ is size (m, n) and $\bar{h}_s$ is size (n, t), to get a resulting vector sized (1, t).
 
 $$
 score(h_t, \bar{h}_s) = h_t^TW_a\bar{h}_s
@@ -54,8 +54,8 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI4MTM5MzQsNDc0NDUwODc2LDcwMT
-E3NTA4MywtMTA1NDAxNjM5NiwtMTk5ODc5MjE4MywxMDU3NzY4
-NDQsLTE3NDI4MzkwODAsLTEwNzU2NDAzMjEsNzQ4NTIwMTk1XX
-0=
+eyJoaXN0b3J5IjpbMTA0Mzk4NDU0Nyw0NzQ0NTA4NzYsNzAxMT
+c1MDgzLC0xMDU0MDE2Mzk2LC0xOTk4NzkyMTgzLDEwNTc3Njg0
+NCwtMTc0MjgzOTA4MCwtMTA3NTY0MDMyMSw3NDg1MjAxOTVdfQ
+==
 -->
