@@ -57,11 +57,16 @@ $$
 
 **3. Concat**
 
+This method uses a feedforward neural network with the input vector being the concatenation of the hidden state of the decoder in the current time step and the vectors of the hidden states from the encoder. 
+
+$$
+
+$$
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUzMTk3NCwxMDQzOTg0NTQ3LDQ3ND
+eyJoaXN0b3J5IjpbMTY0Mjg1MjA1NiwxMDQzOTg0NTQ3LDQ3ND
 Q1MDg3Niw3MDExNzUwODMsLTEwNTQwMTYzOTYsLTE5OTg3OTIx
 ODMsMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMDc1NjQwMzIxLD
 c0ODUyMDE5NV19
