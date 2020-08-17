@@ -33,8 +33,21 @@ for i, row in enumerate(reviews_ints):
 	features[i, -len(row):] = np.array(row)[:seq_len]
 ```
 
+**Heatmap visualization of embedded vectors**
+
+```python
+%matplotlib inline
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+# Let's visualize our decoder hidden state
+plt.figure(figsize=(1.5, 4.5))
+sns.heatmap(np.transpose(np.matrix(dec_hidden_state)), annot=True, cmap=sns.light_palette("purple", as_cmap=True), linewidths=1)
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY4OTA5MjAsOTI4MjgzMzM0XX0=
+eyJoaXN0b3J5IjpbLTEzOTY0NzUyNzksLTEyNDY4OTA5MjAsOT
+I4MjgzMzM0XX0=
 -->
