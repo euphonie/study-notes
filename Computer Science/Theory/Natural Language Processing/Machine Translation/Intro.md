@@ -12,8 +12,10 @@
 
 This two steps allow to maximize the information that can be gathered from similarities and differences between words in the current sequence. 
 
-- Dense Layer
+- **Dense Layer(s)**. Produce a softmax output, that can be interpreted as one-hot encoded words in target language. Output is usually padded as well to obtain same sized vectors.
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY2NjMyNjddfQ==
+eyJoaXN0b3J5IjpbLTE4NTEwNjY5OTldfQ==
 -->
