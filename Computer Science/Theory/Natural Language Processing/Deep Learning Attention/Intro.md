@@ -29,13 +29,15 @@ Where $t$ refers to the current time step of the decoder.
 > image multiplicative
 
 The scoring function can be evaluated using the following methods: 
-- Dot Product. It is used to obtain the similarity measure between vectors by understanding the magnitudes and angles that separate each one. Formula: $|a||b|cos\theta$.
-	- This means the output between two vectors is larger given a smaller angle $\theta$
+
+**Dot Product**
+ It is used to obtain the similarity measure between vectors by understanding the magnitudes and angles that separate each one. Formula: $|a||b|cos\theta$.
+	- This means the output between two vectors is larger given a smaller angle $\theta$. Alternatively, the larger the angle $\theta$ is the smaller the resulting value will be.
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzM0NjA3OCwtMTA1NDAxNjM5NiwtMT
-k5ODc5MjE4MywxMDU3NzY4NDQsLTE3NDI4MzkwODAsLTEwNzU2
-NDAzMjEsNzQ4NTIwMTk1XX0=
+eyJoaXN0b3J5IjpbLTIwNjIwMjY3NjYsLTEwNTQwMTYzOTYsLT
+E5OTg3OTIxODMsMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMDc1
+NjQwMzIxLDc0ODUyMDE5NV19
 -->
