@@ -46,9 +46,16 @@ Where the current hidden state is transposed (to have dimensions $1 *n$) and mul
 
 In case, the encoder and decoder work with different sized embedding vector spaces, there is a variation that can be applied to the dot product formula.
 
+It introduces a weight matrix $W_a$, it's a linear transformation which allows input and output to use different embeddings.
+
+$$
+score(h_t, \bar{h}_s = h_t^TW
+$$
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0NDUwODc2LDcwMTE3NTA4MywtMTA1ND
-AxNjM5NiwtMTk5ODc5MjE4MywxMDU3NzY4NDQsLTE3NDI4Mzkw
-ODAsLTEwNzU2NDAzMjEsNzQ4NTIwMTk1XX0=
+eyJoaXN0b3J5IjpbMTY2NjEyODg3Nyw0NzQ0NTA4NzYsNzAxMT
+c1MDgzLC0xMDU0MDE2Mzk2LC0xOTk4NzkyMTgzLDEwNTc3Njg0
+NCwtMTc0MjgzOTA4MCwtMTA3NTY0MDMyMSw3NDg1MjAxOTVdfQ
+==
 -->
