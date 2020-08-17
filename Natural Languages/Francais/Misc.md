@@ -15,19 +15,20 @@
 
 **les possessifs**
 - Quand le sujet commence avec un voyelle en doit utiliser la version masculin du possessif. Ex. mon histoire, mon ami, mon aventure. 
-- On n'utilise pas **m'** parce que, c'est partient aux possessifs pronominaux. 
+- On n'utilise pas **m'** parce que, c'est appartient aux possessifs pronominaux. 
 
 ### Le piratage
 
 - le piratage = pirater
-- une platafrome
+- une plataforme
 - le téléchargement = télécharger
 - un journal, un hôpital, un cheval / des jornaux, des hôpitaux, des chevaux
 - un festival, un carnaval / des festivals, des carnavals
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODU3NjA5NCwtMjA5NzA5MjU0OSwxMT
-Q3MjIwMDY0LC0xOTIxOTk1NDI2LDQ2NTMxOTc2NiwxMzMyMTQw
-MjY1LC01MDM1NzU1OTgsLTE1Mjc0NjI4NjVdfQ==
+eyJoaXN0b3J5IjpbMTkzMjYwMjk4MywxNDE4NTc2MDk0LC0yMD
+k3MDkyNTQ5LDExNDcyMjAwNjQsLTE5MjE5OTU0MjYsNDY1MzE5
+NzY2LDEzMzIxNDAyNjUsLTUwMzU3NTU5OCwtMTUyNzQ2Mjg2NV
+19
 -->
