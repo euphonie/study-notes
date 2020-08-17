@@ -29,12 +29,12 @@ Where $t$ refers to the current time step of the decoder.
 > image multiplicative
 
 The scoring function can be evaluated using the following methods: 
-- Dot Product. Is used as a similarity 
+- Dot Product. Is used as a similarity measure between vectors by understanding the magnitudes and angles that separate each one. 
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk4NjEzMDMsLTE5OTg3OTIxODMsMT
+eyJoaXN0b3J5IjpbLTEwNTQwMTYzOTYsLTE5OTg3OTIxODMsMT
 A1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMDc1NjQwMzIxLDc0ODUy
 MDE5NV19
 -->
