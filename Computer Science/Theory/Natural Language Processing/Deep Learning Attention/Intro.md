@@ -24,6 +24,7 @@ Scoring functions usually take two parameters, where $h_t$ is the current hidden
 $$
 score(h_t, \bar{h}_s)
 $$
+Where $t$ refers to the current time step of the decoder.
 
 > image multiplicative
 
@@ -33,6 +34,7 @@ The scoring function can be evaluated using the following methods:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg3OTIxODMsMTA1Nzc2ODQ0LC0xNz
-QyODM5MDgwLC0xMDc1NjQwMzIxLDc0ODUyMDE5NV19
+eyJoaXN0b3J5IjpbLTk5MDc4NjY4OSwtMTk5ODc5MjE4MywxMD
+U3NzY4NDQsLTE3NDI4MzkwODAsLTEwNzU2NDAzMjEsNzQ4NTIw
+MTk1XX0=
 -->
