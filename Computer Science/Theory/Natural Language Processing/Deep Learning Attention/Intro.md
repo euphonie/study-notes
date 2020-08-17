@@ -26,6 +26,7 @@ score(h_t, \bar{h}_s)
 $$
 Where $t$ refers to the current time step of the decoder.
 
+### Multiplicative Attention
 > image multiplicative
 
 The scoring function can be evaluated using the following methods: 
@@ -52,10 +53,16 @@ $$
 score(h_t, \bar{h}_s) = h_t^TW_a\bar{h}_s
 $$
 
+### Additive Attention
+
+**3. Concat**
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0Mzk4NDU0Nyw0NzQ0NTA4NzYsNzAxMT
-c1MDgzLC0xMDU0MDE2Mzk2LC0xOTk4NzkyMTgzLDEwNTc3Njg0
-NCwtMTc0MjgzOTA4MCwtMTA3NTY0MDMyMSw3NDg1MjAxOTVdfQ
-==
+eyJoaXN0b3J5IjpbLTE4NzUzMTk3NCwxMDQzOTg0NTQ3LDQ3ND
+Q1MDg3Niw3MDExNzUwODMsLTEwNTQwMTYzOTYsLTE5OTg3OTIx
+ODMsMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMDc1NjQwMzIxLD
+c0ODUyMDE5NV19
 -->
