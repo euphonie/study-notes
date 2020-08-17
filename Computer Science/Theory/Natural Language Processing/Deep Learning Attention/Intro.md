@@ -40,11 +40,11 @@ The generalization for multiplying by the vectors $\bar{h}_s$  is:
 $$
 h_t^T\bar{h}_s
 $$
-Where the current hidden state is transposed and multiplied against a matrix composed by the encoder vectors.
+Where the current hidden state is transposed (to have dimensions $1 *n$) and multiplied against a matrix composed by the encoder vectors.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzNjIwMDA3LC0xMDU0MDE2Mzk2LC0xOT
+eyJoaXN0b3J5IjpbNzAxMTc1MDgzLC0xMDU0MDE2Mzk2LC0xOT
 k4NzkyMTgzLDEwNTc3Njg0NCwtMTc0MjgzOTA4MCwtMTA3NTY0
 MDMyMSw3NDg1MjAxOTVdfQ==
 -->
