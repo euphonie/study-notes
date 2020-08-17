@@ -29,12 +29,12 @@ Where $t$ refers to the current time step of the decoder.
 > image multiplicative
 
 The scoring function can be evaluated using the following methods: 
-- Dot Product. In this 
+- Dot Product. Is used as a similarity 
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDc4NjY4OSwtMTk5ODc5MjE4MywxMD
-U3NzY4NDQsLTE3NDI4MzkwODAsLTEwNzU2NDAzMjEsNzQ4NTIw
-MTk1XX0=
+eyJoaXN0b3J5IjpbLTE4NTk4NjEzMDMsLTE5OTg3OTIxODMsMT
+A1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMDc1NjQwMzIxLDc0ODUy
+MDE5NV19
 -->
