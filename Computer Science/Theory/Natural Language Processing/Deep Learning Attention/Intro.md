@@ -32,12 +32,19 @@ The scoring function can be evaluated using the following methods:
 
 **Dot Product**
  It is used to obtain the similarity measure between vectors by understanding the magnitudes and angles that separate each one. Formula: $|a||b|cos\theta$.
-	- This means the output between two vectors is larger given a smaller angle $\theta$. Alternatively, the larger the angle $\theta$ is the smaller the resulting value will be.
-- 
+
+This means the output between two vectors is larger given a smaller angle $\theta$. Alternatively, the larger the angle $\theta$ is the smaller the resulting value will be.
+
+The generalization for multiplying by the vectors $\bar{h}_s$  is: 
+
+$$
+h_t^T\bar{h}_s
+$$
+Where the current hidden state is transposed and multiplied against a matrix composed by the encoder vectors.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjIwMjY3NjYsLTEwNTQwMTYzOTYsLT
-E5OTg3OTIxODMsMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMDc1
-NjQwMzIxLDc0ODUyMDE5NV19
+eyJoaXN0b3J5IjpbNTYzNjIwMDA3LC0xMDU0MDE2Mzk2LC0xOT
+k4NzkyMTgzLDEwNTc3Njg0NCwtMTc0MjgzOTA4MCwtMTA3NTY0
+MDMyMSw3NDg1MjAxOTVdfQ==
 -->
