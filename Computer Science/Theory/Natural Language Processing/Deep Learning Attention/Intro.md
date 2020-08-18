@@ -27,7 +27,8 @@ $$
 Where $t$ refers to the current time step of the decoder.
 
 ### Multiplicative Attention
-> image multiplicative
+
+![Multiplicative Attention](https://raw.githubusercontent.com/euphonie/study-notes/master/Computer%20Science/Theory/Natural%20Language%20Processing/Deep%20Learning%20Attention/multiplicative.png)
 
 The scoring function can be evaluated using the following methods: 
 
@@ -67,8 +68,8 @@ Where $W_a$ and $V_a$ are weight matrices between the inputs and hidden layer an
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1MDU2MDczLDEwNDM5ODQ1NDcsNDc0ND
-UwODc2LDcwMTE3NTA4MywtMTA1NDAxNjM5NiwtMTk5ODc5MjE4
-MywxMDU3NzY4NDQsLTE3NDI4MzkwODAsLTEwNzU2NDAzMjEsNz
-Q4NTIwMTk1XX0=
+eyJoaXN0b3J5IjpbMzcxNjg3NTIzLDYwNTA1NjA3MywxMDQzOT
+g0NTQ3LDQ3NDQ1MDg3Niw3MDExNzUwODMsLTEwNTQwMTYzOTYs
+LTE5OTg3OTIxODMsMTA1Nzc2ODQ0LC0xNzQyODM5MDgwLC0xMD
+c1NjQwMzIxLDc0ODUyMDE5NV19
 -->
