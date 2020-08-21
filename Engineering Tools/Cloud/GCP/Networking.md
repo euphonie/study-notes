@@ -34,12 +34,17 @@ VMs can be allocated on different regions but still belong to the same subnet in
 	- Link on-premise data centers to Google Cloud
 
 
+## Peering
+
+Communication between VPCs can be established, so they can exchange traffic, through VPC Peering. Using Shared VPCs the user can share networks or individual subnets with other GCP projects
+
+
 ## Load Balancing
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDMyODQxOTYsMTY1NDE2ODM3OSwxMj
-gwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTk3NzAyNzY0NCwxNjU0MTY4Mzc5LDEyOD
+AyNDg4MzldfQ==
 -->
