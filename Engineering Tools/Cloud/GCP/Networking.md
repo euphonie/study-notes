@@ -11,8 +11,11 @@ Is arranged around VPC networks. Topics like:
 - External IP 
 - Network segmentation
 - Firewall rules
+	- Global distributed firewall already provided
+	- Restrict access to instances, incoming or outgoing
+	- Defined through metadata tags on Compute En
 - Static routes creation for traffic forwarding
-	- Through Routing Tables. Used to forward traffic between instances in the same network, even across subnets.
+	- Through Routing Tables. Used to forward traffic between instances in the same network, even across subnets and between GCP zones, **with no need of external IP addresses**.
 - SharingVPN content
 
 The size of a subnet in a custom network can be increased by expanding the range of IP addresses allocated to it. And it doesn't affect already configured VMs.
@@ -36,6 +39,6 @@ VMs can be allocated on different regions but still belong to the same subnet in
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQ2ODA1OTUsMTY1NDE2ODM3OSwxMj
-gwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbODQzNzcxMzM2LDE2NTQxNjgzNzksMTI4MD
+I0ODgzOV19
 -->
