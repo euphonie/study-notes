@@ -15,9 +15,11 @@
 да, это стóл - si, es una mesa
 
 что это? what is this?
-кто это
+кто это? who is this?
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQxNjUyOTRdfQ==
+eyJoaXN0b3J5IjpbLTMwMjU1MDc1Ml19
 -->
