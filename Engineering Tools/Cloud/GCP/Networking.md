@@ -3,7 +3,7 @@
 
 A subnet corresponds to a set of IP addresses or segment. 
 
-- Each VPC network is contained in a GCP project, a default VPC.
+- Each VPC network is contained in a GCP project, a default VPC, and belongs to this project.
 - VPC has global scope and subnets have regional scope.
 - It has global scope and can have subnets spanning different zones worldwide.
 
@@ -40,6 +40,6 @@ VMs can be allocated on different regions but still belong to the same subnet in
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTMyMzgzNSwxNjU0MTY4Mzc5LDEyOD
-AyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbLTEzMDMyODQxOTYsMTY1NDE2ODM3OSwxMj
+gwMjQ4ODM5XX0=
 -->
