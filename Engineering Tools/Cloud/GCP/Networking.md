@@ -13,7 +13,8 @@ Is arranged around VPC networks. Topics like:
 - Firewall rules
 	- Global distributed firewall already provided
 	- Restrict access to instances, incoming or outgoing
-	- Defined through metadata tags on Compute En
+	- Defined through metadata tags on Compute Engine
+		- VMs can be tagged (liked "web") and a firewall rule for incoming traffic on ports 80 and 443 can be assigned to all VMs with tag "web", **no matter what IP address it is**.
 - Static routes creation for traffic forwarding
 	- Through Routing Tables. Used to forward traffic between instances in the same network, even across subnets and between GCP zones, **with no need of external IP addresses**.
 - SharingVPN content
@@ -39,6 +40,6 @@ VMs can be allocated on different regions but still belong to the same subnet in
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNzcxMzM2LDE2NTQxNjgzNzksMTI4MD
-I0ODgzOV19
+eyJoaXN0b3J5IjpbLTk3MTMyMzgzNSwxNjU0MTY4Mzc5LDEyOD
+AyNDg4MzldfQ==
 -->
