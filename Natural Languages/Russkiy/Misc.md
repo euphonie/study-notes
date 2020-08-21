@@ -1,14 +1,15 @@
 
 Minia Zabut Joel - mi nombre es Joel
 
+
 ochnen priyatna 
 
-metró - metro - метро
-aptieka - farmacia - apothéke -  аптека
-bulkan  - volcán - булкан
-radio - радио
-televisar - televisor - 
-universitét - 
+(metró) - metro - метро
+(aptieka) - farmacia - apothéke -  аптека
+(bulkan)  - volcán - булкан
+(radio) - радио
+(televisar) - televisor - телевисар
+(universitét) - 
 
 
 я (ia) - yo 
@@ -16,6 +17,6 @@ universitét -
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NTU5MTAzLC0xODc4MzY5MjQwLDUxMD
-A5NjYzOCwtMTY3Mzc1Mjc3OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMjEyOTE1MDM0MSwtMTg3ODM2OTI0MCw1MT
+AwOTY2MzgsLTE2NzM3NTI3NzksNzMwOTk4MTE2XX0=
 -->
