@@ -25,11 +25,12 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 
 ## Preemptible VMs
 
-The only difference is that it has permission to terminate if it's resources are needed elsewhere.
+The only difference is that Compute Engine has the  permission to terminate the VM if it's resources are needed elsewhere.
 - Per-second billing, sustained use discounts
-- High throughput to sto
+- High throughput to storage w/o extra cost
+- Custom machine types: only pay for needed hardware
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MzQyNTcxXX0=
+eyJoaXN0b3J5IjpbMTQzMTE0MDY5OV19
 -->
