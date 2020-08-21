@@ -41,7 +41,7 @@ Service accounts can be used to allow certain levels of server-to-server interac
 
 ## Organization
 
-Google cloud is organized through the concept of projects. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
+Google cloud is organized through the concept of projects, it can optionally be organized into folders. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
 - Folders can be used to assign policies, as all the resources in a folder inherit the IAM policies from the folder.
 
 Allows having centralized visibility on how the resources are being used, and also permits applying centralized policies on all the projects that belong to an organization. It's the top of the hierarchy. It contains two main roles: 
@@ -56,6 +56,6 @@ To be able two have an organization node there can be two ways:
 *Note*: A less restrictive parent policy overrides a more restrictive resource policy.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTkxOTkzMywxMzU1NjY2MjY5LC00NT
-UyMTk4NTcsLTEyMzE3MjM0NjNdfQ==
+eyJoaXN0b3J5IjpbMTYwMzY5MzAwMCwxMjg1OTE5OTMzLDEzNT
+U2NjYyNjksLTQ1NTIxOTg1NywtMTIzMTcyMzQ2M119
 -->
