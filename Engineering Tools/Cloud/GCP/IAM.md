@@ -2,11 +2,11 @@
 # Identity & Access Management
 
 IAM lets administrators authorize who can take action on specific resources. Is conformed by: 
-- Who
+- **Who**
 	-  User or users. Can be defined by a Google Account, a Google Group, a Service Account, an entire G-Suite or a Cloud Identity domain.
-- Can do what
+- **Can do what**
 	- Defined by an IAM role (a collection of permissions)
-- On which resource
+- **On which resource**
 
 ## Roles 
 
@@ -60,7 +60,7 @@ To be able two have an organization node there can be two ways:
 *Note*: Higher-level policies can't take away access that's granted at a lower level.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTMzNDk2NSwxNzU0NTc0NjQ3LC0xMT
+eyJoaXN0b3J5IjpbMjA5MDg3ODk4NywxNzU0NTc0NjQ3LC0xMT
 E3ODgwNTM3LDEyODU5MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5
 ODU3LC0xMjMxNzIzNDYzXX0=
 -->
