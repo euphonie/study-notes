@@ -1,6 +1,6 @@
 # Scales
 
-## Diatonic Scale (C)
+## Diatonic Scale ( C )
 ```abc
 X:1
 M:4/4
@@ -70,7 +70,8 @@ w:S  T  T  S  T  T  T
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDI0NzkzMiwyMDAwNzI0NjY1LDE3ND
-k1MTg2NjIsLTk5MTYzODg1OCwtMTg4MjIwODA0OSwtMTY5MDQ5
-Nzk4MCwtMTQ0NzE5OTU5Myw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA0OTQzMjAyMiwxNTc0MjQ3OTMyLDIwMD
+A3MjQ2NjUsMTc0OTUxODY2MiwtOTkxNjM4ODU4LC0xODgyMjA4
+MDQ5LC0xNjkwNDk3OTgwLC0xNDQ3MTk5NTkzLDczMDk5ODExNl
+19
 -->
