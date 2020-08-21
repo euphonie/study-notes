@@ -14,7 +14,10 @@
 это стóл?  - es ésta una mesa?
 да, это стóл - si, es una mesa
 
+что это? what is this?
+кто это
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgzMDkzMzddfQ==
+eyJoaXN0b3J5IjpbLTExMzQxNjUyOTRdfQ==
 -->
