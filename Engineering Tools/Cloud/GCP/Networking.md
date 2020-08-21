@@ -41,10 +41,11 @@ Communication between VPCs can be established, so they can exchange traffic, thr
 
 ## Cloud Load Balancing
 
+Full
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyOD
-AyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbLTE0NDA5NjcyMDgsMTI1NTA5MjkyMSwxNj
+U0MTY4Mzc5LDEyODAyNDg4MzldfQ==
 -->
