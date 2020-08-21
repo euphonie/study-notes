@@ -49,6 +49,8 @@ Google cloud is organized through the concept of projects, it can optionally be 
 - Project's ID are user-defined, unique and immutable
 	- GCP assigns a name and an unique project number
 
+### Organization Node
+
 Allows having centralized visibility on how the resources are being used, and also permits applying centralized policies on all the projects that belong to an organization. It's the top of the hierarchy. It contains two main roles: 
 
 - **Organization Policy Administrator**. Broad control over resources, makes it necessary for people to have the privilege in order to change policies.
@@ -61,7 +63,7 @@ To be able two have an organization node there can be two ways:
 *Note*: Higher-level policies (resource-level) can't take away access that's granted at a lower level (organization node level).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzcwMjk4NCwtMTAwNDg0OTQwOCwxNz
+eyJoaXN0b3J5IjpbMTg1NzM1NTM5OCwtMTAwNDg0OTQwOCwxNz
 U0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5MTk5MzMsMTM1NTY2
 NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzNDYzXX0=
 -->
