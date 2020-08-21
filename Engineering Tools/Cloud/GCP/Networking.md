@@ -15,6 +15,8 @@ Is arranged around VPC networks. Topics like:
 
 The size of a subnet in a custom network can be increased by expanding the range of IP addresses allocated to it. And it doesn't affect already configured VMs.
 
+VMs can be allocated on different regions but still belong to the same subnet inside a VPC, and share continuous IP segments. 
+
 ## Services
 - Load balancers
 	- Global Load balancers
@@ -27,5 +29,5 @@ The size of a subnet in a custom network can be increased by expanding the range
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzIxMTY5LDEyODAyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbLTE3OTk2MDIwMDUsMTI4MDI0ODgzOV19
 -->
