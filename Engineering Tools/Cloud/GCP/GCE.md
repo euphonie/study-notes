@@ -10,8 +10,8 @@ Let's you create and run VMs inside Google's infrastructure.
 - Can run linux or windows images, by Google, custom versions or imported from physical servers
 
 By choosing a machine type it assigns. Custom machine types can also be created
-- Number of Virtual CPUs
-- Memory
+- Number of Virtual CPUs (Max: 96)
+- Memory (Max in beta: 62
 - GPUs (available in many GCP zones)
 - Persistent Storage
 	- Standard. Default
@@ -29,8 +29,13 @@ The only difference is that Compute Engine has the  permission to terminate the 
 - Per-second billing, sustained use discounts
 - High throughput to storage w/o extra cost
 - Custom machine types: only pay for needed hardware
+- **Note** the job needs to be able to be stopped and restarted
+
+## Auto scaling
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTE0MDY5OV19
+eyJoaXN0b3J5IjpbLTEyMTg1MjkyNjRdfQ==
 -->
