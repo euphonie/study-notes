@@ -28,7 +28,12 @@ VMs can be allocated on different regions but still belong to the same subnet in
 - Hybrid connectivity
 	- Link on-premise data centers to Google Cloud
 
+
+## Load Balancing
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzQyOTU2OCwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
 -->
