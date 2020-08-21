@@ -11,8 +11,10 @@
 это Стена (stená) - pared
 это Потолóк (patalók) - techo
 
-это стóл_?
+это стóл?  - es ésta una mesa?
+да, это стóл - si, es una mesa
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMjE3NDc4XX0=
+eyJoaXN0b3J5IjpbLTEzMTgzMDkzMzddfQ==
 -->
