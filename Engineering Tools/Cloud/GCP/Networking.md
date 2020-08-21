@@ -1,6 +1,8 @@
 
 # Networking
 
+A subnet corresponds to a set of IP addresses or segment. 
+
 - Each VPC network is contained in a GCP project, a default VPC.
 - It has global scope and can have subnets spanning different zones worldwide.
 
@@ -11,7 +13,7 @@ Is arranged around VPC networks. Topics like:
 - Static routes creation for traffic forwarding
 - SharingVPN content
 
-The size of a 
+The size of a subnet in a custom network can be increased by expanding the range of IP addresses allocated to it. And it doesn't affect already configured VMs.
 
 ## Services
 - Load balancers
@@ -25,5 +27,5 @@ The size of a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA3MzI4MTcsMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbLTMzNzIxMTY5LDEyODAyNDg4MzldfQ==
 -->
