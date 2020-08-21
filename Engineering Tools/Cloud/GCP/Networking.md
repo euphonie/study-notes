@@ -12,6 +12,7 @@ Is arranged around VPC networks. Topics like:
 - Network segmentation
 - Firewall rules
 - Static routes creation for traffic forwarding
+	- Through Routing Tables. Used to forward traffic between instances in the same network, even across subnets.
 - SharingVPN content
 
 The size of a subnet in a custom network can be increased by expanding the range of IP addresses allocated to it. And it doesn't affect already configured VMs.
@@ -35,5 +36,6 @@ VMs can be allocated on different regions but still belong to the same subnet in
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTE0NjQ2ODA1OTUsMTY1NDE2ODM3OSwxMj
+gwMjQ4ODM5XX0=
 -->
