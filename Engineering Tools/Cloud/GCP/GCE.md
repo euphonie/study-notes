@@ -13,7 +13,10 @@ By choosing a machine type it assigns. Custom machine types can also be created
 - Number of Virtual CPUs
 - Memory
 - GPUs (available in many GCP zones)
-- Persistent So
+- Persistent Storage
+	- Standard
+	- SSD
+		- There's an option of using local SSD storage but it's volatile and it's removed when the VM terminates.
 
 
 Contains: 
@@ -21,5 +24,5 @@ Contains:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDA4Njc4NF19
+eyJoaXN0b3J5IjpbMjA3MzgwNTc2Nl19
 -->
