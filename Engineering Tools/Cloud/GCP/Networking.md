@@ -42,10 +42,11 @@ Communication between VPCs can be established, so they can exchange traffic, thr
 ## Cloud Load Balancing
 
 Fully distributed and software-defined managed service for all the traffic. They run apart from VMs, so there's no worry for scaling or management.
+- Users get single, global anycast IP address
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1ND
-E2ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbMTc0OTE5NTkzMSwtNDcwMTg5NzcsMTI1NT
+A5MjkyMSwxNjU0MTY4Mzc5LDEyODAyNDg4MzldfQ==
 -->
