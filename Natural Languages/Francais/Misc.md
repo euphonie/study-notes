@@ -8,7 +8,7 @@
 - être beau / belle  ( avoid du chien - familier ) = avoir du charme
 -  au fil du temps = al paso del tiempo
 - être vaniteux - la vanité
-- Se faire opérer = je ms uis fait opérer / j'ai subi une opération.
+- Se faire opérer = je ms suis fait opérer / j'ai subi une opération.
 - à cause de (idée négative)
 - grace à (idée positive)
 - d'une part ..... /  d'autre part ...... (opposition)
@@ -27,8 +27,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjYwMjk4MywxNDE4NTc2MDk0LC0yMD
-k3MDkyNTQ5LDExNDcyMjAwNjQsLTE5MjE5OTU0MjYsNDY1MzE5
-NzY2LDEzMzIxNDAyNjUsLTUwMzU3NTU5OCwtMTUyNzQ2Mjg2NV
-19
+eyJoaXN0b3J5IjpbLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxOD
+U3NjA5NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1
+NDI2LDQ2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLT
+E1Mjc0NjI4NjVdfQ==
 -->
