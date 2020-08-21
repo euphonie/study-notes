@@ -17,9 +17,9 @@
 что это? what is this?
 кто это? who is this?
 
-
+нет (niet) - no
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjU1MDc1Ml19
+eyJoaXN0b3J5IjpbLTE3MjQ5NDQxNTldfQ==
 -->
