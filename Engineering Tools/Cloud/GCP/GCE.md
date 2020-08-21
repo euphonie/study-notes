@@ -21,9 +21,15 @@ By choosing a machine type it assigns. Custom machine types can also be created
 - Boot Image (Linux or Windows)
 - Startup scripts for dependencies installation and environment setup
 
-Snapshots can be applied to running VMs. These can be kept as backups or use them when 
+Snapshots can be applied to running VMs. These can be kept as backups or use them when migrating to another region.
+
+## Preemptible VMs
+
+The only difference is that it has permission to terminate if it's resources are needed elsewhere.
+- Per-second billing, sustained use discounts
+- High throughput to sto
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3NjM4ODEwXX0=
+eyJoaXN0b3J5IjpbODQ5MzQyNTcxXX0=
 -->
