@@ -58,10 +58,10 @@ To be able two have an organization node there can be two ways:
 - Your an owner of a G-Suite account
 - Using Google Cloud Identity for creating an organization node.
 
-*Note*: Higher-level policies can't take away access that's granted at a lower level.
+*Note*: Higher-level policies (resource-v can't take away access that's granted at a lower level.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc4ODQ3MzYsLTEwMDQ4NDk0MDgsMT
-c1NDU3NDY0NywtMTExNzg4MDUzNywxMjg1OTE5OTMzLDEzNTU2
-NjYyNjksLTQ1NTIxOTg1NywtMTIzMTcyMzQ2M119
+eyJoaXN0b3J5IjpbMjA5MjQyNzY4MSwtMTAwNDg0OTQwOCwxNz
+U0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5MTk5MzMsMTM1NTY2
+NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzNDYzXX0=
 -->
