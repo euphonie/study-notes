@@ -18,13 +18,12 @@ By choosing a machine type it assigns. Custom machine types can also be created
 	- SSD
 		- There's an option of using local SSD storage for scratch space but it's volatile and it's removed when the VM terminates.
 			- Scratch space is space on a disk dedicated to temporary user data
-- BB
+- Boot Image (Linux or Windows)
+- Startup scripts for dependencies installation and environment setup
 
-
-Contains: 
-- Disks
+Snapshots can be applied to running VMs. These can be kept as backups or use them when 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mjc0MTg5OV19
+eyJoaXN0b3J5IjpbNjI3NjM4ODEwXX0=
 -->
