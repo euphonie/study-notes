@@ -1,5 +1,5 @@
 
-Minia Zabut Joel - mi nombre es Joel
+меня зовут джоэл  menya zovut dzhoel - mi nombre es Joel
 
 
 ochnen priyatna 
@@ -17,6 +17,6 @@ ochnen priyatna
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTE1MDM0MSwtMTg3ODM2OTI0MCw1MT
+eyJoaXN0b3J5IjpbMTYwMzExMzk2MCwtMTg3ODM2OTI0MCw1MT
 AwOTY2MzgsLTE2NzM3NTI3NzksNzMwOTk4MTE2XX0=
 -->
