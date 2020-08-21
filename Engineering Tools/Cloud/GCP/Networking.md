@@ -39,12 +39,12 @@ VMs can be allocated on different regions but still belong to the same subnet in
 Communication between VPCs can be established, so they can exchange traffic, through VPC Peering. Using Shared VPCs the user can share networks or individual subnets with other GCP projects
 
 
-## Load Balancing
+## Cloud Load Balancing
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NzAyNzY0NCwxNjU0MTY4Mzc5LDEyOD
+eyJoaXN0b3J5IjpbMTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyOD
 AyNDg4MzldfQ==
 -->
