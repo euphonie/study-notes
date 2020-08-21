@@ -11,7 +11,7 @@ Let's you create and run VMs inside Google's infrastructure.
 
 By choosing a machine type it assigns. Custom machine types can also be created
 - Number of Virtual CPUs (Max: 96)
-- Memory (Max in beta: 62
+- Memory (Max in beta: 624 GB)
 - GPUs (available in many GCP zones)
 - Persistent Storage
 	- Standard. Default
@@ -33,9 +33,11 @@ The only difference is that Compute Engine has the  permission to terminate the 
 
 ## Auto scaling
 
+- Big VMs are good for workloads like in-memory databases and CPU intensive analytics
+- Scaling out is usually used instead of scaling up
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg1MjkyNjRdfQ==
+eyJoaXN0b3J5IjpbNTk5OTg0NjEwXX0=
 -->
