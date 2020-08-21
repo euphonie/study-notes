@@ -2,12 +2,13 @@
 # Networking
 
 - Each VPC network is contained in a GCP project, a default VPC.
+- It has Global scope and can have subnets spanning different zones worldwide.
 
 Is arranged around VPC networks. Topics like:
 - External IP 
 - Network segmentation
 - Firewall rules
-- Routes
+- Static routes creation for traffic forwarding
 - SharingVPN content
 
 ## Services
@@ -22,5 +23,5 @@ Is arranged around VPC networks. Topics like:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDc0MzAxMiwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTU0NjA5NjQyOSwxMjgwMjQ4ODM5XX0=
 -->
