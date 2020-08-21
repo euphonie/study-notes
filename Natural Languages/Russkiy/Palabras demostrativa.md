@@ -9,8 +9,10 @@
 это Дверь - puerta
 это Окно (aknó) - ventana
 это Стена (stená) - pared
-это Потолóк (patalók
+это Потолóк (patalók) - techo
+
+это стóл_?
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MjgzNzYzXX0=
+eyJoaXN0b3J5IjpbMjYxMjE3NDc4XX0=
 -->
