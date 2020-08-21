@@ -14,9 +14,11 @@ By choosing a machine type it assigns. Custom machine types can also be created
 - Memory
 - GPUs (available in many GCP zones)
 - Persistent Storage
-	- Standard
+	- Standard. Default
 	- SSD
-		- There's an option of using local SSD storage but it's volatile and it's removed when the VM terminates.
+		- There's an option of using local SSD storage for scratch space but it's volatile and it's removed when the VM terminates.
+			- Scratch space is space on a disk dedicated to temporary user data
+- BB
 
 
 Contains: 
@@ -24,5 +26,5 @@ Contains:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzgwNTc2Nl19
+eyJoaXN0b3J5IjpbLTk2Mjc0MTg5OV19
 -->
