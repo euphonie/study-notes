@@ -34,10 +34,11 @@ The only difference is that Compute Engine has the  permission to terminate the 
 ## Auto scaling
 
 - Big VMs are good for workloads like in-memory databases and CPU intensive analytics
-- Scaling out is usually used instead of scaling up
+- Scaling out is usually most used instead of scaling up
+- Auto scaling lets the user add and take away VMs from your application based on load metrics. Another alternative is using VPC's load balancing.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5OTg0NjEwXX0=
+eyJoaXN0b3J5IjpbLTIxMjUxMjkxN119
 -->
