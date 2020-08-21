@@ -1,5 +1,5 @@
 
-меня зовут джоэл  menya zovut dzhoel - mi nombre es Joel
+меня зовут джоэл  (menya zovut dzhoel) - mi nombre es Joel
 
 
 ochnen priyatna 
@@ -9,7 +9,6 @@ ochnen priyatna
 (bulkan)  - volcán - булкан
 (radio) - радио
 (televisar) - televisor - телевисар
-(universitét) - 
 
 
 я (ia) - yo 
@@ -17,6 +16,6 @@ ochnen priyatna
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMzExMzk2MCwtMTg3ODM2OTI0MCw1MT
+eyJoaXN0b3J5IjpbLTYwMzg1ODAzOSwtMTg3ODM2OTI0MCw1MT
 AwOTY2MzgsLTE2NzM3NTI3NzksNzMwOTk4MTE2XX0=
 -->
