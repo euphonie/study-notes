@@ -83,11 +83,13 @@ Users want to use their already established services along with VPC in GCP.
 - Dedicated InterConnect
 	- Covered by SLA
 	- One or more direct private connections to Google 
-	- Has higher uptime, up to 99.99% 
+	- Has higher uptime, up to 99.99% if the client's topologies meet Google's specifications
+	- Can be backed up by a VPN for greater reliability
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTExOTkyMSwtMTU2NzcxNjAyOSwxNj
-EyMDIyNjMsMTE1Mjc1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3
-NywxMjU1MDkyOTIxLDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbLTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMT
+YxMjAyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5
+NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyODAyNDg4MzldfQ
+==
 -->
