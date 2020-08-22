@@ -25,9 +25,6 @@
 Works for object storage. It relates group of bytes with an unique key for addressing it.
 
 - Comprised by buckets. Unstructured data and files.
-	- Buckets have globally unique names
-	- Created and configured by the user
-	- Objects are immutable. You don't edit them just create new versions.
 	- May contain
 		- Files 
 		- Folders
@@ -45,10 +42,17 @@ Works for object storage. It relates group of bytes with an unique key for addre
 	- Storing data for achival and disaster recovery
 	- Distributing large data objects via Direct Download
 
-**strong text**
+####Buckets**
+- Has a globally unique name
+- Created and configured by user
+- Objects are immutable. You don't edit them just create new versions.
+- A geographic location is selected
+- A class of storage is selected. There is a default storage class.
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzODc0OTM3OCwtMjA5OTQ0Mjc3OCwxNT
-YxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbMTYyNjU1MTIwLC0yMDk5NDQyNzc4LDE1Nj
+E2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
 -->
