@@ -34,12 +34,21 @@
 1. enregistrer
 2. allume
 3. un navigateur
-4. 
+4. un logiciel
+5. telecharger
+6. envoi
+7. eteindre
+8. le bureau
+9. supprime
+10. des dossiers
+11. recu
+12. fichiers
+ 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTUzMzE4NCwtMzIxMjAxNjI3LC0zMj
-c5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIwOTcwOTI1
-NDksMTE0NzIyMDA2NCwtMTkyMTk5NTQyNiw0NjUzMTk3NjYsMT
-MzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYyODY1XX0=
+eyJoaXN0b3J5IjpbMjE1MzU2MTgxLC0zMjEyMDE2MjcsLTMyNz
+k1MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5NCwtMjA5NzA5MjU0
+OSwxMTQ3MjIwMDY0LC0xOTIxOTk1NDI2LDQ2NTMxOTc2NiwxMz
+MyMTQwMjY1LC01MDM1NzU1OTgsLTE1Mjc0NjI4NjVdfQ==
 -->
