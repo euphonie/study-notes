@@ -46,13 +46,14 @@ Fully distributed and software-defined managed service for all the traffic. They
 - Works in front of HTTP, HTTPS, TCP and UDP traffic
 - Works cross-region
 - Automatic multi-region failover
-- Changes based on
-	- 
+- Reacts to changes based in
+	- users, traffic, backend health, network conditions and others
+- No pre-warnings for pikes in traffic
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyNzYxNjk1LDExNTI3NTYxMDAsMTc0OT
+eyJoaXN0b3J5IjpbMzgzMjA1OTczLDExNTI3NTYxMDAsMTc0OT
 E5NTkzMSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5
 LDEyODAyNDg4MzldfQ==
 -->
