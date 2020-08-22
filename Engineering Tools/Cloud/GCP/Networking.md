@@ -62,11 +62,15 @@ Fully distributed and software-defined managed service for all the traffic. They
 
 Create managed zones, then add, edit, delete DNS records. DNS translates internet host names to addresses.
 - It has low latency and high-availability
-- It's programmable through a RESTful API or command line
+- It's programmable through Console, a RESTful API or command line
+
+## Cloud CDN
+
+Google has edge caches that can distribute content that is the closest to users.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODI5Mjg2OCwxMTUyNzU2MTAwLDE3ND
-kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
-OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbMTYxMjAyMjYzLDExNTI3NTYxMDAsMTc0OT
+E5NTkzMSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5
+LDEyODAyNDg4MzldfQ==
 -->
