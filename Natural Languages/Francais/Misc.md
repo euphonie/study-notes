@@ -25,7 +25,6 @@
 - un journal, un hôpital, un cheval / des jornaux, des hôpitaux, des chevaux
 - un festival, un carnaval / des festivals, des carnavals
 
-
 - Si mes souvenirs sont bons // si je ne me trompe pas
 - Avoir de revenus
 - aller au cinoche
@@ -45,10 +44,11 @@
 12. recu
 13. fichiers
  
+### COD (Complément d'object direct=
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTkxMjY4MCwxMDY3Njc1MDIwLC0zMj
+eyJoaXN0b3J5IjpbMTE1OTk4NTEzNSwxMDY3Njc1MDIwLC0zMj
 EyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5
 NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1NDI2LD
 Q2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLTE1Mjc0
