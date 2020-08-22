@@ -66,11 +66,12 @@ Create managed zones, then add, edit, delete DNS records. DNS translates interne
 
 ## Cloud CDN
 
-Google has edge caches that can distribute content that is the closest to users.
+Google has edge caches that can distribute content that is closer to users.
+- Lower network latency
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjAyMjYzLDExNTI3NTYxMDAsMTc0OT
-E5NTkzMSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5
-LDEyODAyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbLTIxNDg2NjgzOSwxNjEyMDIyNjMsMTE1Mj
+c1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIx
+LDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
 -->
