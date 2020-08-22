@@ -76,10 +76,13 @@ Users want to use their already established services along with VPC in GCP.
 		- For example having a subnet in VPC, the on-premise infrastructure automatically gets routes to it.
 - Direct Peering
 	- For users that don't want to use the internet, for security concerns or reliability of the bandwidth, they can use Peering. Peering means putting a router in the same public data center as a Google point of presence and exchanging traffic. 
+- Carrier Peering
+	- Peering through a contract with a partner that already has a PoP in Google's network
+- Dedicated InterCon
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njc3MTYwMjksMTYxMjAyMjYzLDExNT
-I3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5NzcsMTI1NTA5Mjky
-MSwxNjU0MTY4Mzc5LDEyODAyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbMTU3MTc2MzIzLC0xNTY3NzE2MDI5LDE2MT
+IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
+LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
 -->
