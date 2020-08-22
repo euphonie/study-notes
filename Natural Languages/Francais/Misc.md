@@ -41,14 +41,14 @@
 8. éteins
 9. le bureau
 10. supprime
-11. des dossiers / une chemise  (icono 
+11. des dossiers / une chemise  (icono amarillo de folder)
 12. recu
 13. fichiers
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTM3NDkyMSwxMDY3Njc1MDIwLC0zMj
+eyJoaXN0b3J5IjpbLTc2OTkxMjY4MCwxMDY3Njc1MDIwLC0zMj
 EyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5
 NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1NDI2LD
 Q2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLTE1Mjc0
