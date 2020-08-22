@@ -68,10 +68,15 @@ Create managed zones, then add, edit, delete DNS records. DNS translates interne
 
 Google has edge caches that can distribute content that is closer to users.
 - Lower network latency
+- Reduced load at the origin of the content to reduce costs
+
+## Hybrid Connectivity
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDg2NjgzOSwxNjEyMDIyNjMsMTE1Mj
+eyJoaXN0b3J5IjpbMTM4OTMwNzEyOSwxNjEyMDIyNjMsMTE1Mj
 c1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIx
 LDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
 -->
