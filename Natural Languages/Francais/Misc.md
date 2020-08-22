@@ -29,6 +29,8 @@
 - Avoir de revenus
 - aller au cinoche
 - Se faire un restau / demain, je me fais un restau avec mon ami - aller au restaurant
+- visiter = quelque chose
+- rendre visite = quelqu'un / personne
 
 1. grave
 2. allume
@@ -79,9 +81,9 @@ Example:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjAzNzMxMSwxMDY3Njc1MDIwLC0zMj
-EyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5
-NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1NDI2LD
-Q2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLTE1Mjc0
-NjI4NjVdfQ==
+eyJoaXN0b3J5IjpbLTQ3NDY2MjI0MSwtODI2MDM3MzExLDEwNj
+c2NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkzMjYwMjk4
+MywxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDExNDcyMjAwNjQsLT
+E5MjE5OTU0MjYsNDY1MzE5NzY2LDEzMzIxNDAyNjUsLTUwMzU3
+NTU5OCwtMTUyNzQ2Mjg2NV19
 -->
