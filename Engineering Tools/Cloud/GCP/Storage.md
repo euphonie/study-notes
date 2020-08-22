@@ -24,11 +24,14 @@
 
 Works for object storage. It relates group of bytes with an unique key for addressing it.
 
-**Overview**
-- Buckets. Unstructured data and files.
-	- Files 
-	- Folders
-	- Objects 
+- Comprised by buckets. Unstructured data and files.
+	- Created and configured by the user
+	- Objects are immutable. You don't edit them just create new versions.
+	- May contain
+		- Files 
+		- Folders
+		- Objects 
+- Is not a filesystem.
 - High performance, internet-scale
 - Objects stored with high durability and high availability
 - Simple administration
@@ -43,6 +46,6 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTA3NjQ0MiwxNTYxNjM4ODkxLC0xND
-MxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbLTE5NzQwMjkyNjIsMTU2MTYzODg5MSwtMT
+QzMTA2NTM1OV19
 -->
