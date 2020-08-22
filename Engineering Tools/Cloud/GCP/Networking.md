@@ -45,6 +45,9 @@ Fully distributed and software-defined managed service for all the traffic. They
 - Users get single, global anycast IP address
 - Works in front of HTTP, HTTPS, TCP and UDP traffic
 - Works cross-region
+	- Global HTTP(S). Based on load, can route diff URLs to diff backends
+	- Global SSL Proxy. non-HTTPS SSL traffic supported on specific ports
+	- Glo
 - Automatic multi-region failover
 - Reacts to changes based in
 	- users, traffic, backend health, network conditions and others
@@ -53,7 +56,7 @@ Fully distributed and software-defined managed service for all the traffic. They
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzMjA1OTczLDExNTI3NTYxMDAsMTc0OT
-E5NTkzMSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5
-LDEyODAyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbLTgyNDc4MTEwNCwxMTUyNzU2MTAwLDE3ND
+kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
+OSwxMjgwMjQ4ODM5XX0=
 -->
