@@ -1,6 +1,8 @@
 
 # Storage Options
 
+
+
 ## NoSQL Databases
 - Bigtable
 - Datastore
@@ -27,5 +29,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbLTg2NDcyMzMwNywtMTQzMTA2NTM1OV19
 -->
