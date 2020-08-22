@@ -31,24 +31,25 @@
 - aller au cinoche
 - Se faire un restau / demain, je me fais un restau avec mon ami - aller au restaurant
 
-1. enregistre
+1. grave
 2. allume
 3. un navigateur
-4. un logiciel
-5. télécharger
-6. envoi
-7. éteindre
-8. le bureau
-9. supprime
-10. des dossiers
-11. recu
-12. fichiers
+4. enregistre
+5. un logiciel
+6. télécharger
+7. envoi
+8. éteindre
+9. le bureau
+10. supprime
+11. des dossiers
+12. recu
+13. fichiers
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE3ODgxMTE5LC0zMjEyMDE2MjcsLTMyNz
-k1MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5NCwtMjA5NzA5MjU0
-OSwxMTQ3MjIwMDY0LC0xOTIxOTk1NDI2LDQ2NTMxOTc2NiwxMz
-MyMTQwMjY1LC01MDM1NzU1OTgsLTE1Mjc0NjI4NjVdfQ==
+eyJoaXN0b3J5IjpbMTA2NzY3NTAyMCwtMzIxMjAxNjI3LC0zMj
+c5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIwOTcwOTI1
+NDksMTE0NzIyMDA2NCwtMTkyMTk5NTQyNiw0NjUzMTk3NjYsMT
+MzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYyODY1XX0=
 -->
