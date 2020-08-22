@@ -48,6 +48,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 - Object versioning can be turned on, keeping a history of modifications.
 	- Deletes or overrides objects in the bucket
 	- Archived versions can be restored or permanently deleted
+	- Lifecycle management policies can be used to avoid cluttering the bucket with old versions of an object
+		- Ex. Delete objects older than 365 days
+			- Keep only latest 3 versions of the objet
 	- **Without object versioning**, new objects always override old objects
 - Objects are immutable. You don't edit them just create new versions.
 - A geographic location is selected (region or multi-region)
@@ -63,7 +66,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MjgwMzM4LC0xODgxMTIwNzE1LDE0Nj
+eyJoaXN0b3J5IjpbNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0Nj
 UxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2
 NTM1OV19
 -->
