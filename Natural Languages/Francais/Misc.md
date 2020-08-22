@@ -88,13 +88,17 @@ Example:
 - intimidateur / intimidatrice
 - témoin 
 - complice
+- humilier
+- offusquer
+- subir / endurer
+- se moquer de / chambrer quelqu'un / taquiner quelqu'un
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLT
-Q3NDY2MjI0MSwtODI2MDM3MzExLDEwNjc2NzUwMjAsLTMyMTIw
-MTYyNywtMzI3OTUxMTgsMTkzMjYwMjk4MywxNDE4NTc2MDk0LC
-0yMDk3MDkyNTQ5LDExNDcyMjAwNjQsLTE5MjE5OTU0MjYsNDY1
-MzE5NzY2LDEzMzIxNDAyNjUsLTUwMzU3NTU5OCwtMTUyNzQ2Mj
-g2NV19
+eyJoaXN0b3J5IjpbLTE5MDY4MzA1MTYsLTEwNDcwOTg3MjMsLT
+EwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2MDM3MzExLDEwNjc2
+NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkzMjYwMjk4My
+wxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDExNDcyMjAwNjQsLTE5
+MjE5OTU0MjYsNDY1MzE5NzY2LDEzMzIxNDAyNjUsLTUwMzU3NT
+U5OCwtMTUyNzQ2Mjg2NV19
 -->
