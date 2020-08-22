@@ -49,11 +49,14 @@ Works for object storage. It relates group of bytes with an unique key for addre
 - A geographic location is selected (region or multi-region)
 - A class of storage is selected. There is a default storage class.
 - **Access Control**
-	- IAM policies 
+	- IAM policies are inherited from Project > Bucket > Object
+	- Access Control Lists offer a finer control. They define who has access to the bucket and objects and what level of access they have.
+		- Scope. Who can perform the specified action
+			- 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ2NDgyNzgsMTQ2NTEzNTkxNSwtMj
-A5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbMjAxNTM5ODk4NSwxNDY1MTM1OTE1LC0yMD
+k5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
 -->
