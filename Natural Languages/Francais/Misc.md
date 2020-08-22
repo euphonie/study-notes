@@ -28,12 +28,13 @@
 
 - Si mes souvenirs sont bons // si je ne me trompe pas
 - Avoir de revenus
-- al
+- aller au cinoche
+- Se faire un restau / demain, je me fais un restau avec mon ami - aller au restaurant
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTM0NTA1MzQsLTMyMTIwMTYyNywtMz
-I3OTUxMTgsMTkzMjYwMjk4MywxNDE4NTc2MDk0LC0yMDk3MDky
-NTQ5LDExNDcyMjAwNjQsLTE5MjE5OTU0MjYsNDY1MzE5NzY2LD
-EzMzIxNDAyNjUsLTUwMzU3NTU5OCwtMTUyNzQ2Mjg2NV19
+eyJoaXN0b3J5IjpbLTY2NDkwOTY3NSwtMzIxMjAxNjI3LC0zMj
+c5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIwOTcwOTI1
+NDksMTE0NzIyMDA2NCwtMTkyMTk5NTQyNiw0NjUzMTk3NjYsMT
+MzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYyODY1XX0=
 -->
