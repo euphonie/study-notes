@@ -45,6 +45,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 #### Buckets
 - Has a globally unique name
 - Created and configured by user
+- Object versioning can be turned on
 - Objects are immutable. You don't edit them just create new versions.
 - A geographic location is selected (region or multi-region)
 - A class of storage is selected. There is a default storage class.
@@ -52,11 +53,13 @@ Works for object storage. It relates group of bytes with an unique key for addre
 	- IAM policies are inherited from Project > Bucket > Object
 	- Access Control Lists offer a finer control. They define who has access to the bucket and objects and what level of access they have.
 		- Scope. Who can perform the specified action
-			- 
+			- User or group of users 
+		- Permission. What actions can be performed
+			- Ex. Read or write
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTM5ODk4NSwxNDY1MTM1OTE1LC0yMD
-k5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbLTE4ODExMjA3MTUsMTQ2NTEzNTkxNSwtMj
+A5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
 -->
