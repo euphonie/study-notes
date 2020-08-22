@@ -91,11 +91,14 @@ Example:
 - humilier
 - offusquer
 - subir / endurer
-- se moquer de / chambrer quelqu'un / taquiner quelqu'un
+- se moquer de quelqu'un / chambrer quelqu'un / taquiner quelqu'un}
+	- un chambreur
+	- un taquineur
+	- un moquer
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY4MzA1MTYsLTEwNDcwOTg3MjMsLT
+eyJoaXN0b3J5IjpbLTEwMzk4NjE3MDgsLTEwNDcwOTg3MjMsLT
 EwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2MDM3MzExLDEwNjc2
 NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkzMjYwMjk4My
 wxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDExNDcyMjAwNjQsLTE5
