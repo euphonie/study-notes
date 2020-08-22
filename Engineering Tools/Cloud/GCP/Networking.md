@@ -61,10 +61,12 @@ Fully distributed and software-defined managed service for all the traffic. They
 ## Cloud DNS
 
 Create managed zones, then add, edit, delete DNS records. DNS translates internet host names to addresses.
+- It has low latency and high-availability
+- It's programmable through a RESTful API or command line
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjQxMDA2MywxMTUyNzU2MTAwLDE3ND
+eyJoaXN0b3J5IjpbLTgxODI5Mjg2OCwxMTUyNzU2MTAwLDE3ND
 kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
 OSwxMjgwMjQ4ODM5XX0=
 -->
