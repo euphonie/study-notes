@@ -45,9 +45,10 @@ Works for object storage. It relates group of bytes with an unique key for addre
 	- Storing data for achival and disaster recovery
 	- Distributing large data objects via Direct Download
 
+**strong text**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMT
-QzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbLTQzODc0OTM3OCwtMjA5OTQ0Mjc3OCwxNT
+YxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
 -->
