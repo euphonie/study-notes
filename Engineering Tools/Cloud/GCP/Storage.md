@@ -30,11 +30,15 @@ Works for object storage. It relates group of bytes with an unique key for addre
 	- Folders
 	- Objects 
 - High performance, internet-scale
+- objects stored with high durability and high availability
 - Simple administration
-	- Not requiring capacity management
+	- No need to provision capacity ahead of time
+- Each object is assigned an unique key in the form of an URL
+- Fully managed and scalable service
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbMTQ5NzU2MzE5OCwxNTYxNjM4ODkxLC0xND
+MxMDY1MzU5XX0=
 -->
