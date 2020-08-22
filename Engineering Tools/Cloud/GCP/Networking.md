@@ -74,11 +74,13 @@ Google has edge caches that can distribute content that is closer to users.
 
 Users want to use their already established services along with VPC in GCP. 
 - VPN
-	- VPNs can be used to connect with local infrastructure over the internet using the IPSEC protocol. It uses a **Cloud Router** that lets other networks and the VPC exchange route information ove
+	- VPNs can be used to connect with local infrastructure over the internet using the IPSEC protocol. It uses a **Cloud Router** that lets other networks and the VPC exchange route information over the VPN using the Border Gateway Protocol. 
+		- For example having a subnet in VPC, the on-premise infrastructure automatically gets routes to it.
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTczMjQxNCwxNjEyMDIyNjMsMTE1Mj
+eyJoaXN0b3J5IjpbMTQ5NTcyNDI0OSwxNjEyMDIyNjMsMTE1Mj
 c1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIx
 LDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
 -->
