@@ -1,7 +1,7 @@
 
 # Storage Options
 
-
+- VMs come with persistent disks.
 
 ## NoSQL Databases
 - Bigtable
@@ -20,14 +20,18 @@
 
 ## Object System
 
-- Cloud Storage 
-	- Buckets. Unstructured data and files.
-		- Files 
-		- Folders
-		- Objects 
+### Cloud Storage 
+
+**Overview**
+- Buckets. Unstructured data and files.
+	- Files 
+	- Folders
+	- Objects 
+- High performance, internet-scale
+- Simple administration
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDcyMzMwNywtMTQzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbNDM2NTc1NTY0LC0xNDMxMDY1MzU5XX0=
 -->
