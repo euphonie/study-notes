@@ -12,7 +12,7 @@ Is arranged around VPC networks. Topics like:
 - Network segmentation
 - Firewall rules
 	- Global distributed firewall already provided
-	- Managed by Google
+	- Managed by Google as a built-in feature
 	- Restrict access to instances, incoming or outgoing
 	- Defined through metadata tags on Compute Engine
 		- VMs can be tagged (liked "web") and a firewall rule for incoming traffic on ports 80 and 443 can be assigned to all VMs with tag "web", **no matter what IP address it is**.
@@ -89,8 +89,8 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjU4MzE3LC0xMzU3NDkxNTU5LC0xNT
-Y3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5
-MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMj
-gwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTM3NDA5OTYyNiwtMTM1NzQ5MTU1OSwtMT
+U2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEwMCwxNzQ5MTk1
+OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgzNzksMT
+I4MDI0ODgzOV19
 -->
