@@ -58,10 +58,13 @@ Fully distributed and software-defined managed service for all the traffic. They
 	- users, traffic, backend health, network conditions and others
 - No pre-warnings for pikes in traffic
 
+## Cloud DNS
+
+Create managed zones, then add, edit, delete DNS records. DNS translates internet host names to addresses.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUzOTAwOTksMTE1Mjc1NjEwMCwxNz
-Q5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgz
-NzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbMTk5MjQxMDA2MywxMTUyNzU2MTAwLDE3ND
+kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
+OSwxMjgwMjQ4ODM5XX0=
 -->
