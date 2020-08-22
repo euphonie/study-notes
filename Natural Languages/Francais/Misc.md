@@ -95,10 +95,12 @@ Example:
 	- un chambreur
 	- un taquineur
 	- un moquer
+- offenser qqn
+- froisse qqn
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk4NjE3MDgsLTEwNDcwOTg3MjMsLT
+eyJoaXN0b3J5IjpbLTIwMDc2MjY1NTMsLTEwNDcwOTg3MjMsLT
 EwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2MDM3MzExLDEwNjc2
 NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkzMjYwMjk4My
 wxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDExNDcyMjAwNjQsLTE5
