@@ -44,12 +44,15 @@ Communication between VPCs can be established, so they can exchange traffic, thr
 Fully distributed and software-defined managed service for all the traffic. They run apart from VMs, so there's no worry for scaling or management.
 - Users get single, global anycast IP address
 - Works in front of HTTP, HTTPS, TCP and UDP traffic
-- Use of a single Anycast frontend IP
+- Works cross-region
+- Automatic multi-region failover
+- Changes based on
+	- 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mjc1NjEwMCwxNzQ5MTk1OTMxLC00Nz
-AxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgzNzksMTI4MDI0ODgz
-OV19
+eyJoaXN0b3J5IjpbMzQyNzYxNjk1LDExNTI3NTYxMDAsMTc0OT
+E5NTkzMSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5
+LDEyODAyNDg4MzldfQ==
 -->
