@@ -74,15 +74,20 @@ Users want to use their already established services along with VPC in GCP.
 - VPN
 	- VPNs can be used to connect with local infrastructure over the internet using the IPSEC protocol. It uses a **Cloud Router** that lets other networks and the VPC exchange route information over the VPN using the Border Gateway Protocol. 
 		- For example having a subnet in VPC, the on-premise infrastructure automatically gets routes to it.
-- Direct Peering
-	- For users that don't want to use the internet, for security concerns or reliability of the bandwidth, they can use Peering. Peering means putting a router in the same public data center as a Google point of presence and exchanging traffic. 
-- Carrier Peering
-	- Peering through a contract with a partner that already has a PoP in Google's network
-- Dedicated InterCon
+- Peering 
+	- Not covered by a SLA
+	- Direct Peering
+		- For users that don't want to use the internet, for security concerns or reliability of the bandwidth, they can use Peering. Peering means putting a router in the same public data center as a Google point of presence and exchanging traffic. 
+	- Carrier Peering
+		- Peering through a contract with a partner that already has a PoP in Google's network
+- Dedicated InterConnect
+	- Covered by SLA
+	- One or more direct private connections to Google 
+	- Has higher uptime, up to 99.99% 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTc2MzIzLC0xNTY3NzE2MDI5LDE2MT
-IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
-LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTcwMTExOTkyMSwtMTU2NzcxNjAyOSwxNj
+EyMDIyNjMsMTE1Mjc1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3
+NywxMjU1MDkyOTIxLDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
 -->
