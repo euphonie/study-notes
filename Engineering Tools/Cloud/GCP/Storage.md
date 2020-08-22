@@ -49,11 +49,11 @@ Works for object storage. It relates group of bytes with an unique key for addre
 - A geographic location is selected (region or multi-region)
 - A class of storage is selected. There is a default storage class.
 - **Access Control**
-	- IAM policies and Access Control Lists
+	- IAM policies 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNT
-YxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbLTIwNDQ2NDgyNzgsMTQ2NTEzNTkxNSwtMj
+A5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
 -->
