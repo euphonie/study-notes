@@ -25,10 +25,15 @@
 - un journal, un hôpital, un cheval / des jornaux, des hôpitaux, des chevaux
 - un festival, un carnaval / des festivals, des carnavals
 
+
+- Si mes souvenirs sont bons // si je ne me trompe pas
+- Avoir de revenus
+- 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxOD
-U3NjA5NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1
-NDI2LDQ2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLT
-E1Mjc0NjI4NjVdfQ==
+eyJoaXN0b3J5IjpbLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkzMj
+YwMjk4MywxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDExNDcyMjAw
+NjQsLTE5MjE5OTU0MjYsNDY1MzE5NzY2LDEzMzIxNDAyNjUsLT
+UwMzU3NTU5OCwtMTUyNzQ2Mjg2NV19
 -->
