@@ -38,7 +38,7 @@
 5. un logiciel
 6. télécharger
 7. envoi
-8. éteindre
+8. éteins
 9. le bureau
 10. supprime
 11. des dossiers
@@ -48,8 +48,9 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzY3NTAyMCwtMzIxMjAxNjI3LC0zMj
-c5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIwOTcwOTI1
-NDksMTE0NzIyMDA2NCwtMTkyMTk5NTQyNiw0NjUzMTk3NjYsMT
-MzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYyODY1XX0=
+eyJoaXN0b3J5IjpbLTIzNTkxNjQ0MCwxMDY3Njc1MDIwLC0zMj
+EyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5
+NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1NDI2LD
+Q2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLTE1Mjc0
+NjI4NjVdfQ==
 -->
