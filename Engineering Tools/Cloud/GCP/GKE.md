@@ -27,10 +27,15 @@ COPY . /app
 ENTRYPOINT ["python3", "app.py"]
 ```
 
-Create and image and run contai
+Create and image and run container
+```ssh
+# Images can be uploaded to Google Container Registry
+> docker build -t py-server
+> docker run -d py-server
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjQ3NDkyMCwzMjIzMTE1NywtNDczMj
-Y2Nzc0XX0=
+eyJoaXN0b3J5IjpbLTEyNTI1MjEzNjYsMzIyMzExNTcsLTQ3Mz
+I2Njc3NF19
 -->
