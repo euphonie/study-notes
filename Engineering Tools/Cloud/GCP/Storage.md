@@ -1,6 +1,8 @@
 
 # Storage Options
 
+> image storageoptions
+
 - VMs come with persistent disks.
 
 ## NoSQL Databases
@@ -142,8 +144,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjUyMDkyNCwxNTgyMDAzODY3LDExOD
-g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
-MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
-19
+eyJoaXN0b3J5IjpbOTU5MDA3MTc4LDEzODI1MjA5MjQsMTU4Mj
+AwMzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcx
+NSwxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLT
+E0MzEwNjUzNTldfQ==
 -->
