@@ -20,11 +20,17 @@ Example of a Dockerfile
 FROM ubuntu:18.10
 RUN apt-get update -y && \
 	apt-get install -y python3-pip python3-dev
-C
+COPY requirements.txt /app/requirements.txt
+WORKDIR /app
+RUN pip3 install -r requirements.txt
+COPY . /app
+ENTRYPOINT ["python3", "app.py"]
 ```
+
+Create and image and run contai
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3NjI2NDYyLDMyMjMxMTU3LC00NzMyNj
-Y3NzRdfQ==
+eyJoaXN0b3J5IjpbLTQ3MjQ3NDkyMCwzMjIzMTE1NywtNDczMj
+Y2Nzc0XX0=
 -->
