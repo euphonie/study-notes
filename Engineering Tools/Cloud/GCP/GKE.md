@@ -134,7 +134,8 @@ spec:
 # Confirm the external IP is unaffected
 > kubectl get services
 ```
-Updating the version of an application
+Updating the version of an application.
+With a rolling update Kubernetes starts creating new pods with the new version, waiting for each one to be available before destroying the old ones; this in order to spare users from experiencing downtime.
 
 ```yaml
 spec:
@@ -151,6 +152,6 @@ spec:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4MTg4NjQ3LC0xNjQ3OTk0MTM3LDMyMj
-MxMTU3LC00NzMyNjY3NzRdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzg5MTk2MTksLTE2NDc5OTQxMzcsMz
+IyMzExNTcsLTQ3MzI2Njc3NF19
 -->
