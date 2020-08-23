@@ -14,8 +14,17 @@ For building container images there are two options
 - Docker
 - Google Cloud Build
 
+Example of a Dockerfile
+
+```docker
+FROM ubuntu:18.10
+RUN apt-get update -y && \
+	apt-get install -y python3-pip python3-dev
+C
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTYzMjU5NSwzMjIzMTE1NywtNDczMj
-Y2Nzc0XX0=
+eyJoaXN0b3J5IjpbNDA3NjI2NDYyLDMyMjMxMTU3LC00NzMyNj
+Y3NzRdfQ==
 -->
