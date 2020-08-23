@@ -127,11 +127,16 @@ spec:
 > kubectl apply -f nginx-deployment.yaml
 # View replicas and see updated state
 > kubectl get replicasets
-# View pods an
+# View pods and see how they start running
+> kubectl get pods
+# View deployments to check the proper number of replicas are running
+> kubectl get deployments
+# Confirm the external IP is unaffected
+> kubectl get services
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI3NzQ5NywtMTY0Nzk5NDEzNywzMj
+eyJoaXN0b3J5IjpbLTcyNTU3MjEwNCwtMTY0Nzk5NDEzNywzMj
 IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
