@@ -55,6 +55,10 @@ Works for object storage. It relates group of bytes with an unique key for addre
 - Objects are immutable. You don't edit them just create new versions.
 - A geographic location is selected (region or multi-region)
 - A class of storage is selected. There is a default storage class.
+	- Multi-regional. Most frequently accessed. SLA 99.95. Used for CDNs
+	- Regional. Accessed frequently within a region. SLA 99.90. Used for in-region analytics
+	- Nearline
+	- Coldline
 - **Access Control**
 	- IAM policies are inherited from Project > Bucket > Object
 	- Access Control Lists offer a finer control. They define who has access to the bucket and objects and what level of access they have.
@@ -66,7 +70,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0Nj
-UxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2
-NTM1OV19
+eyJoaXN0b3J5IjpbOTI0ODQyNzQ1LDU3MDAwODYyMSwtMTg4MT
+EyMDcxNSwxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4
+OTEsLTE0MzEwNjUzNTldfQ==
 -->
