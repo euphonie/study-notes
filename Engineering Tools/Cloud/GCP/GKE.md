@@ -76,16 +76,18 @@ Opensource orchestrator for containers to better manage and scale applications.
 #   This creates a service (representation of load blanacing)
 #   with a fixed IP address for the pods connected to a public IP
 > kubectl expose deployments ninx --port=80 --type=LoadBalancer
+# Shows service name, type, cluster-IP, External IP, port and time sin
+> kubectl get services
 ```
 
 A **deployment** represents a group of replicas of the same pod. It keeps the pods running even if a node on which some of them run fails. It can be used to contain a component of an application or an entire application
 
 A **service**, created when exposing a deployment of pods to the internet, groups a set of pods together and provides a stable endpoint for them. Ex. A public IP address managed by a network load balancer.
 
-This is a recommended solution for exposing deployments between applications as it usually creates and destroys pods, having each pod a uniq
+This is a recommended solution for exposing deployments between applications as it usually creates and destroys pods, having each pod an unique IP address that doesn't remain stable over time. An stable endpoint is then provided by a service.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5OTMyNzMsLTE2NDc5OTQxMzcsMz
-IyMzExNTcsLTQ3MzI2Njc3NF19
+eyJoaXN0b3J5IjpbMzE3MTA4MDE5LC0xNjQ3OTk0MTM3LDMyMj
+MxMTU3LC00NzMyNjY3NzRdfQ==
 -->
