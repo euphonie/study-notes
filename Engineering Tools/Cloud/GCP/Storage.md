@@ -14,6 +14,9 @@
 - High throughput and low latency. Great for IoT, user analytics and financial data analysis.
 - Accessed using open source HBase API (native database for Apache Hadoop)
 - Native compatibility with big data, Hadoop ecosystems
+- It's managed, increasing machine count doesn't require downtime
+	- Administration tasks are also handled, upgrades and restarts transparently
+- Data encrypted in-flight and at rest
 
 ### Datastore
 ### Firestore
@@ -100,7 +103,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MDU5OTM5OSwxMTg4OTg4MjY1LDU3MD
+eyJoaXN0b3J5IjpbMTY4NzYyOTE3MywxMTg4OTg4MjY1LDU3MD
 AwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1LC0yMDk5NDQy
 Nzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
 -->
