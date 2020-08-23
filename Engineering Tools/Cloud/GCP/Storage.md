@@ -7,6 +7,8 @@
 
 ### Bigtable
 
+- Fully managed NoSQL, wide-column database service for terabyte applications
+
 ### Datastore
 ### Firestore
 
@@ -92,7 +94,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjk4NjE4NjEsMTE4ODk4ODI2NSw1Nz
-AwMDg2MjEsLTE4ODExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0
-Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbMTkwMjQyOTgzNiwxMTg4OTg4MjY1LDU3MD
+AwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1LC0yMDk5NDQy
+Nzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
 -->
