@@ -27,11 +27,13 @@
 ### Firestore
 
 ## Relational Databases
-- Cloud SQL
-	- PostgreSQL
-	- MySQL
-	- Microsoft SQL Server
-- Cloud Spanner
+
+### Cloud SQL
+- PostgreSQL
+- MySQL
+- Microsoft SQL Server
+
+### Cloud Spanner
 
 ## File System
 - Filestore
@@ -108,7 +110,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjAwMzg2NywxMTg4OTg4MjY1LDU3MD
-AwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1LC0yMDk5NDQy
-Nzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbMTA1NTIzMjU1NSwxNTgyMDAzODY3LDExOD
+g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
+MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
+19
 -->
