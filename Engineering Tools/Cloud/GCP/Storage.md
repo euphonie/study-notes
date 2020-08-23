@@ -41,6 +41,14 @@ Works for object storage. It relates group of bytes with an unique key for addre
 	- Serving website content
 	- Storing data for achival and disaster recovery
 	- Distributing large data objects via Direct Download
+- Ways to upload data into Cloud Storage
+	- Online transfer
+		- Self-managed copies using command-line tools or drag-and-drop
+		- **gsutil**, the cloud stora
+	- Storage Transfer Service
+		- Scheduled, managed batch transfers
+	- Transfer Appliance
+		- Rackable appliances to securely ship your data
 
 #### Buckets
 - Has a globally unique name
@@ -75,7 +83,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODQyMDM1Nyw1NzAwMDg2MjEsLTE4OD
-ExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4
-ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbLTIwMzMxMjIzMjEsNTcwMDA4NjIxLC0xOD
+gxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYz
+ODg5MSwtMTQzMTA2NTM1OV19
 -->
