@@ -16,6 +16,14 @@ For building container images there are two options
 - Docker
 - Google Cloud Build
 
+Containers
+- start much faster than virtual machines
+- abstract unimportant details of their environments
+- can have different sized container images
+- need a lightweight container runtime
+- consumes less resources and is less error-prone than VMs
+- are easy to move around
+
 Example of a Dockerfile
 
 ```docker
@@ -38,6 +46,6 @@ Create and image and run container
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTA0ODYzNDgsMzIyMzExNTcsLTQ3Mz
+eyJoaXN0b3J5IjpbLTE1NzE0MjEzNDEsMzIyMzExNTcsLTQ3Mz
 I2Njc3NF19
 -->
