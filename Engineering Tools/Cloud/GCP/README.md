@@ -11,7 +11,12 @@ It's better to define templates for infrastructure to follow a declarative strat
 
 GCP uses **Deployment Manager** (Infrastructure management service) to let users work in this way. Works with a YAML template file or a python file.
 
-`
+```bash
+# Create new deployments through a declarative file
+> gcloud deployment-manager deployments create my-first-depl --config mydeploy.yaml
+# confirm status from deployments
+> gcloud deplyment-manager deployments list
+```
 
 
 ## Proactive monitoring
@@ -30,7 +35,7 @@ It lets you respond with information rather than with panic. GCP works with Stac
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI5ODI5NzksMTExNjA0MTU5NSwxMT
-cwNzUyNTgzLC01NDQyNDcxNTUsLTg1MTUxMzY0OSw3NDUzOTg2
-ODBdfQ==
+eyJoaXN0b3J5IjpbMTI2MTAyODc3MSwxMTE2MDQxNTk1LDExNz
+A3NTI1ODMsLTU0NDI0NzE1NSwtODUxNTEzNjQ5LDc0NTM5ODY4
+MF19
 -->
