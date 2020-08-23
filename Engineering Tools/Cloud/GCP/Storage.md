@@ -28,9 +28,12 @@
 Horizontally scalable NoSQL DB
 - Fully managed service
 	- Automatically handles sharding and replication
+- Handles transactions
+- Lets issue SQL-like queries
 - Main use case is to store structured data from App Engine apps. 
 - Designed for application backends
 - Integration point for applications using App Engine and Compute Engine
+- Free tier with a daily quota of storage, reads, writes, deletes and small operations
 
 ### Firestore
 
@@ -139,8 +142,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzAwMjEsMTU4MjAwMzg2NywxMTg4OT
-g4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1
-LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ
-==
+eyJoaXN0b3J5IjpbMTM4MjUyMDkyNCwxNTgyMDAzODY3LDExOD
+g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
+MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
+19
 -->
