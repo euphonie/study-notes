@@ -12,7 +12,9 @@ App Engine manages the hardware and networking infrastructure required to run co
 		- App runs in a runtime. Only in Java, Python, PHP and Go
 			- Include libraries that support App Engine APIs
 		- Applies restrictions through a sandbox
-			- No writing to l
+			- No writing to local files
+			- All requests time out at 60s
+			- Limits on third-party software
 	- Flexible
 - Automatically scales app in response to the traffic
 - Provides
@@ -26,6 +28,6 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNDU3NTIsLTc1MTc5ODA0MSwxNDk2MT
-czMDc4LDY5MTE1ODMyXX0=
+eyJoaXN0b3J5IjpbODU4NjM3NDkyLC03NTE3OTgwNDEsMTQ5Nj
+E3MzA3OCw2OTExNTgzMl19
 -->
