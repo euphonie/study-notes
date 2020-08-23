@@ -38,7 +38,7 @@ ENTRYPOINT ["python3", "app.py"]
 ```
 
 Create and image and run container
-```ssh
+```bash
 # Images can be uploaded to Google Container Registry
 > docker build -t py-server
 > docker run -d py-server
@@ -65,7 +65,7 @@ Opensource orchestrator for containers to better manage and scale applications.
 	- Containers inside a pod can communicate using the localhost network interface
 - One can be created through the Google Cloud Console or a command provided in Google Cloud SDK
 
-```ssh
+```bash
 # Creating clusters
 > gcloud container clusters create k1
 # Running an image from a container registry into a pod
@@ -73,7 +73,8 @@ Opensource orchestrator for containers to better manage and scale applications.
 # See the running nginx pods
 > kubectl get pods
 # Connect a load balancer to a deployment and expose to the public
-# 
+#   This creates a service (representation of load blanacing)
+#   with a fixed IP address for the pods connected to a public IP
 > kubectl expose deployments ninx --port=80 --type=LoadBalancer
 ```
 
@@ -81,6 +82,6 @@ A **deployment** represents a group of replicas of the same pod. It keeps the po
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODYwNjk5OTksLTE2NDc5OTQxMzcsMz
-IyMzExNTcsLTQ3MzI2Njc3NF19
+eyJoaXN0b3J5IjpbMTU1NTY0MjA2OCwtMTY0Nzk5NDEzNywzMj
+IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
