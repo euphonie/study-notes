@@ -13,10 +13,18 @@ GCP uses **Deployment Manager** (Infrastructure management service) to let users
 
 ## Proactive monitoring
 
-
+Monitoring lets you figure out whether the changes you made were good or bad.
+It lets you respond with information rather than with panic. GCP works with Stackdriver for monitoring, logging and diagnostics.
+	- Infrastructure platforms, VMs, containers, middleware and application tiers, logs, metrics and traces.
+	- Core components
+		- Monitoring. Checks enpo
+		- Logging
+		- Trace
+		- Error Reporting
+		- Debugging
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2ODEwMDUzLDExNzA3NTI1ODMsLTU0ND
+eyJoaXN0b3J5IjpbOTQ3MzQyNjY2LDExNzA3NTI1ODMsLTU0ND
 I0NzE1NSwtODUxNTEzNjQ5LDc0NTM5ODY4MF19
 -->
