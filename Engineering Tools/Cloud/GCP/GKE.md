@@ -55,9 +55,15 @@ Opensource orchestrator for containers to better manage and scale applications.
 ## GKE
 
 - Kubernetes as a managed service in the cloud
-- One can 
+- Support different machine types, numbers of nodes and network settings
+- One can be created through the Google Cloud Console or a command provided in Google Cloud SDK
+
+```ssh
+> gcloud container clusters create k1
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzYyOTA0MywtMTY0Nzk5NDEzNywzMj
+eyJoaXN0b3J5IjpbLTgzMTI3MDA0NywtMTY0Nzk5NDEzNywzMj
 IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
