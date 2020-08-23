@@ -8,6 +8,8 @@ App Engine manages the hardware and networking infrastructure required to run co
 - Two environments
 	- Standard. Simpler experience and fine-grained auto-scale
 		- Free daily quota for some services
+		- SDK for main languages and test locally and deploy
+		- App runs in a runtime. E
 	- Flexible
 - Automatically scales app in response to the traffic
 - Provides
@@ -21,6 +23,6 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTc5ODA0MSwxNDk2MTczMDc4LDY5MT
-E1ODMyXX0=
+eyJoaXN0b3J5IjpbMzA5ODcwNywtNzUxNzk4MDQxLDE0OTYxNz
+MwNzgsNjkxMTU4MzJdfQ==
 -->
