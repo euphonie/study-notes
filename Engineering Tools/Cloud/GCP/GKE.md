@@ -134,9 +134,23 @@ spec:
 # Confirm the external IP is unaffected
 > kubectl get services
 ```
+Updating the version of an application
+
+```yaml
+spec:
+	# ...
+	replicas: 5
+	strategy:
+		rollingUpdate:
+			maxSurge: 1
+			maxUnavailable: 0
+		type: RollingUpdate
+	# ...
+```
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTU3MjEwNCwtMTY0Nzk5NDEzNywzMj
-IzMTE1NywtNDczMjY2Nzc0XX0=
+eyJoaXN0b3J5IjpbODg4MTg4NjQ3LC0xNjQ3OTk0MTM3LDMyMj
+MxMTU3LC00NzMyNjY3NzRdfQ==
 -->
