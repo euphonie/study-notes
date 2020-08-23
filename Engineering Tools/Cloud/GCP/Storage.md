@@ -31,6 +31,8 @@
 ### Cloud SQL
 
 - Managed RDBMS
+- A Database server could also be run inside a Compute Engine VM
+- Cloud SQL provides 
 - Options
 	- PostgreSQL
 	- MySQL
@@ -113,7 +115,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzIyNTM1MiwxNTgyMDAzODY3LDExOD
+eyJoaXN0b3J5IjpbMTA3ODM4MDU4OSwxNTgyMDAzODY3LDExOD
 g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
 MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
 19
