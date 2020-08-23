@@ -19,13 +19,14 @@ It lets you respond with information rather than with panic. GCP works with Stac
 	- Core components
 		- Monitoring. Checks endpoints of web apps and other internet accessible services. Uptime checks, alerts and use with notification tools.
 			- Allows dashboard creation to visualize the state of an application
-		- Logging. View logs from appl
-		- Trace
-		- Error Reporting
-		- Debugging
+		- Logging. View logs from applications and filter and search on them. Define metrics, based on log contents into dashboards and alerts. 
+			- Receives from BigQuery, Cloud Storage and Cloud Pub/Sub.
+		- Trace. Sample latency of app engine applications and report Per-URL statistics
+		- Error Reporting. tracks and groups the errors in your cloud applications. Notifies new errors. 
+		- Debugging. Connect
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjI0MTU4NywxMTcwNzUyNTgzLC01ND
-QyNDcxNTUsLTg1MTUxMzY0OSw3NDUzOTg2ODBdfQ==
+eyJoaXN0b3J5IjpbMTkxNjA0NjAzLDExNzA3NTI1ODMsLTU0ND
+I0NzE1NSwtODUxNTEzNjQ5LDc0NTM5ODY4MF19
 -->
