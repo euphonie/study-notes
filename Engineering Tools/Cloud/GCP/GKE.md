@@ -1,5 +1,7 @@
 # Google Kubernetes Engine
 
+## Introduction
+
 Orchestration platform to manage containers in clusters.
 
 GKE stands in between Compute Engine as a IaaS and App Engine as a PaaS. 
@@ -36,6 +38,6 @@ Create and image and run container
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI1MjEzNjYsMzIyMzExNTcsLTQ3Mz
+eyJoaXN0b3J5IjpbLTIwMTA0ODYzNDgsMzIyMzExNTcsLTQ3Mz
 I2Njc3NF19
 -->
