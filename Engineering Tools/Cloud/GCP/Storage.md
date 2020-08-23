@@ -51,8 +51,10 @@
 
 A horizontally scalable RDBMS
 
-- Offers transactional consistency on a global scale, schemas, automatic syncrhonous replication 
+- Offers transactional consistency on a global scale, schemas, automatic synchronous replication 
 - Managed instances with high availability
+- This should be looked into if relational databases or sharding has been outgrown, there's a need for transactional consistency, global data and strong consistency or to consolidate your database
+	- Use cases: financial applications, and inventory applications
 
 ## File System
 - Filestore
@@ -129,8 +131,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxMDcwNDAxLDE1ODIwMDM4NjcsMTE4OD
-k4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MTUsMTQ2NTEzNTkx
-NSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX
-0=
+eyJoaXN0b3J5IjpbMTc4NTE2MjEyMCwxNTgyMDAzODY3LDExOD
+g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
+MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
+19
 -->
