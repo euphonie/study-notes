@@ -76,8 +76,12 @@ Opensource orchestrator for containers to better manage and scale applications.
 #   This creates a service (representation of load blanacing)
 #   with a fixed IP address for the pods connected to a public IP
 > kubectl expose deployments ninx --port=80 --type=LoadBalancer
-# Shows service name, type, cluster-IP, External IP, port and time sin
+# Shows service name, type, cluster-IP, External IP, port and time since creation
 > kubectl get services
+# Scaling a deployment
+> kubectl scale nginx --replicas=3
+# or autoscaling
+> kubectl autoscale nginx --min=10 --max=15 --cpu=80
 ```
 
 A **deployment** represents a group of replicas of the same pod. It keeps the pods running even if a node on which some of them run fails. It can be used to contain a component of an application or an entire application
@@ -88,6 +92,6 @@ This is a recommended solution for exposing deployments between applications as 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3MTA4MDE5LC0xNjQ3OTk0MTM3LDMyMj
-MxMTU3LC00NzMyNjY3NzRdfQ==
+eyJoaXN0b3J5IjpbLTE0MTc5OTA5OTQsLTE2NDc5OTQxMzcsMz
+IyMzExNTcsLTQ3MzI2Njc3NF19
 -->
