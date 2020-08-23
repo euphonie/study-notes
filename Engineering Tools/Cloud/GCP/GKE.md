@@ -59,7 +59,8 @@ Opensource orchestrator for containers to better manage and scale applications.
 - **Pod**
 	- Abstraction used to deploy containers
 	- Is the smallest deployable unit in Kubernetes
-	- Is usual to have only one container in a pod, but containers with h
+	- Is usual to have only one container in a pod, but containers with hard dependencies can be packaged inside one
+	- It contains a networking component (virtual ethernet) and a disk storage component (volumes). This are shared if more than one container is in a pod
 - One can be created through the Google Cloud Console or a command provided in Google Cloud SDK
 
 ```ssh
@@ -68,6 +69,6 @@ Opensource orchestrator for containers to better manage and scale applications.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MjU3NjAzLC0xNjQ3OTk0MTM3LDMyMj
-MxMTU3LC00NzMyNjY3NzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMzA2MDA2NjksLTE2NDc5OTQxMzcsMz
+IyMzExNTcsLTQ3MzI2Njc3NF19
 -->
