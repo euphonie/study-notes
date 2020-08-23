@@ -159,9 +159,12 @@ Google's modern solution for hybrid and multi-cloud systems and services managem
 	- Monitoring systems and services
 	- Migrating applications from VMs into your clusters
 	- Maintaining consistent policies across all clusters, whether on-premises or in the cloud
+- The client uses GKE On-Prem to replicate an environment more similar to Google Cloud
+- Integra
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwNTg3NDE0LC0xNjc4OTE5NjE5LC0xNj
-Q3OTk0MTM3LDMyMjMxMTU3LC00NzMyNjY3NzRdfQ==
+eyJoaXN0b3J5IjpbMTMzNjI1NDUzNiw3ODA1ODc0MTQsLTE2Nz
+g5MTk2MTksLTE2NDc5OTQxMzcsMzIyMzExNTcsLTQ3MzI2Njc3
+NF19
 -->
