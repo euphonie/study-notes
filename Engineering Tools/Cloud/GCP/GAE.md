@@ -16,7 +16,7 @@ App Engine manages the hardware and networking infrastructure required to run co
 			- All requests time out at 60s
 			- Limits on third-party software
 	- **Flexible**
-		- 
+		- If any restrictions from the standard model don't w
 - Automatically scales app in response to the traffic
 - Provides
 	- No-SQL databases
@@ -29,6 +29,6 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTI5NjEyNywtNzUxNzk4MDQxLDE0OT
-YxNzMwNzgsNjkxMTU4MzJdfQ==
+eyJoaXN0b3J5IjpbLTE2MDc1MjM3LDE1NDEyOTYxMjcsLTc1MT
+c5ODA0MSwxNDk2MTczMDc4LDY5MTE1ODMyXX0=
 -->
