@@ -163,12 +163,12 @@ Google's modern solution for hybrid and multi-cloud systems and services managem
 	- Integrates with Istio, Knative and Marketplace Solutions
 - Stackdriver is the solution for fully managed logging, metrics collection, monitoring dashboarding, and alerting solution (Observability Solution)
 - Cloud Interconnect connects payloads between Anthos Service Mesh and Istio Open Source
-- Anthos Conf
+- Anthos Configuration Management provides a single source of truth for clusters configuration, kept in a Policy Repository (Git)
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg1NDk3NDQsNzgwNTg3NDE0LC0xNj
-c4OTE5NjE5LC0xNjQ3OTk0MTM3LDMyMjMxMTU3LC00NzMyNjY3
-NzRdfQ==
+eyJoaXN0b3J5IjpbLTk5NDM4MzI1OCw3ODA1ODc0MTQsLTE2Nz
+g5MTk2MTksLTE2NDc5OTQxMzcsMzIyMzExNTcsLTQ3MzI2Njc3
+NF19
 -->
