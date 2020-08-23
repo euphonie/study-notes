@@ -43,6 +43,7 @@ Horizontally scalable NoSQL DB
 
 ### Cloud SQL
 
+- Provides Terabytes of capacity
 - Managed RDBMS
 - A Database server could also be run inside a Compute Engine VM
 - Cloud SQL provides replica services, read, failover, and external replicas
@@ -63,11 +64,13 @@ Horizontally scalable NoSQL DB
 ### Cloud Spanner
 
 A horizontally scalable RDBMS
-
+- Provides petabytes of capacity
 - Offers transactional consistency on a global scale, schemas, automatic synchronous replication 
 - Managed instances with high availability
 - This should be looked into if relational databases or sharding has been outgrown, there's a need for transactional consistency, global data and strong consistency or to consolidate your database
 	- Use cases: financial applications, and inventory applications
+
+
 
 ## File System
 - Filestore
@@ -144,7 +147,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MDA3MTc4LDEzODI1MjA5MjQsMTU4Mj
+eyJoaXN0b3J5IjpbOTg2OTcxMDI0LDEzODI1MjA5MjQsMTU4Mj
 AwMzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcx
 NSwxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLT
 E0MzEwNjUzNTldfQ==
