@@ -44,8 +44,12 @@ Create and image and run container
 > docker run -d py-server
 ```
 
+## Kubernetes
+
+Opensource orchestrator for containers to better manage and scale applications.
+- Has an API that allows authorized people to control its operations through several utilities. Ex. **kubectl** command
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE0MjEzNDEsMzIyMzExNTcsLTQ3Mz
+eyJoaXN0b3J5IjpbLTE2NDc5OTQxMzcsMzIyMzExNTcsLTQ3Mz
 I2Njc3NF19
 -->
