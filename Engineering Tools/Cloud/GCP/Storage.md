@@ -1,7 +1,11 @@
 
 # Storage Options
 
+## Summary
+
 > image storageoptions
+> image techdetails
+
 
 - VMs come with persistent disks.
 
@@ -153,8 +157,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjgwNjQwLDEzODI1MjA5MjQsMTU4Mj
-AwMzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcx
-NSwxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLT
-E0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbLTExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNT
+gyMDAzODY3LDExODg5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIw
+NzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MS
+wtMTQzMTA2NTM1OV19
 -->
