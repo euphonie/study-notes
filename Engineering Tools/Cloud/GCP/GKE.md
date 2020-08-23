@@ -70,12 +70,17 @@ Opensource orchestrator for containers to better manage and scale applications.
 > gcloud container clusters create k1
 # Running an image from a container registry into a pod
 > kubectl run nginx --image=nginx:1.15.7
+# See the running nginx pods
+> kubectl get pods
+# Connect a load balancer to a deployment and expose to the public
+# 
+> kubectl expose deployments ninx --port=80 --type=LoadBalancer
 ```
 
 A **deployment** represents a group of replicas of the same pod. It keeps the pods running even if a node on which some of them run fails. It can be used to contain a component of an application or an entire application
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODk3MzM4NSwtMTY0Nzk5NDEzNywzMj
-IzMTE1NywtNDczMjY2Nzc0XX0=
+eyJoaXN0b3J5IjpbLTE3ODYwNjk5OTksLTE2NDc5OTQxMzcsMz
+IyMzExNTcsLTQ3MzI2Njc3NF19
 -->
