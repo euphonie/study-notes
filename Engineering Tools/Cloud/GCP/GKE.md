@@ -80,8 +80,10 @@ Opensource orchestrator for containers to better manage and scale applications.
 
 A **deployment** represents a group of replicas of the same pod. It keeps the pods running even if a node on which some of them run fails. It can be used to contain a component of an application or an entire application
 
+A **service**, created when exposing a deployment of pods to the internet, groups a set of pods together and provides a stable endpoint for them. Ex. A public IP address managed by a network load balancer.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTY0MjA2OCwtMTY0Nzk5NDEzNywzMj
+eyJoaXN0b3J5IjpbLTQ3NTUyNTEwNSwtMTY0Nzk5NDEzNywzMj
 IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
