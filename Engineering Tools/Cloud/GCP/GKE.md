@@ -95,11 +95,33 @@ This is a recommended solution for exposing deployments between applications as 
 
 ```bash
 # Starting point to get a file from current architecture
-> kubectl get pods -l
+> kubectl get pods -l "app=nginx" -o yaml
+```
+Example configuration file
+```yaml
+apiVersion: v1
+kind: Deployment
+metadata:
+	name: nginx
+	labels:
+		app: nginx
+spec:
+	replicas: 3
+	selector:
+		matchLabels:
+			app: nginx 
+	template:
+		metadata:
+			labels:
+				app: nginx
+		spec:
+			containers:
+			- name: nginx
+			- 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NDEwMzY0MywtMTY0Nzk5NDEzNywzMj
-IzMTE1NywtNDczMjY2Nzc0XX0=
+eyJoaXN0b3J5IjpbMjkwODQ0NzAxLC0xNjQ3OTk0MTM3LDMyMj
+MxMTU3LC00NzMyNjY3NzRdfQ==
 -->
