@@ -6,7 +6,7 @@ App Engine manages the hardware and networking infrastructure required to run co
 - Easy deployment, maintenance and scalability
 - Suited for applications where the workload is highly variable or unpredictable, web applications and mobile backends
 - Two environments
-	- Standard. Simpler experience and fine-grained auto-scale
+	- **Standard**. Simpler experience and fine-grained auto-scale
 		- Free daily quota for some services
 		- SDK for main languages and test locally and deploy
 		- App runs in a runtime. Only in Java, Python, PHP and Go
@@ -15,7 +15,8 @@ App Engine manages the hardware and networking infrastructure required to run co
 			- No writing to local files
 			- All requests time out at 60s
 			- Limits on third-party software
-	- Flexible
+	- **Flexible**
+		- 
 - Automatically scales app in response to the traffic
 - Provides
 	- No-SQL databases
@@ -28,6 +29,6 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NjM3NDkyLC03NTE3OTgwNDEsMTQ5Nj
-E3MzA3OCw2OTExNTgzMl19
+eyJoaXN0b3J5IjpbMTU0MTI5NjEyNywtNzUxNzk4MDQxLDE0OT
+YxNzMwNzgsNjkxMTU4MzJdfQ==
 -->
