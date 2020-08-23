@@ -55,9 +55,10 @@ Works for object storage. It relates group of bytes with an unique key for addre
 - Objects are immutable. You don't edit them just create new versions.
 - A geographic location is selected (region or multi-region)
 - A class of storage is selected. There is a default storage class.
-	- The lower accessed type of storage the lower the price is per GB stored per month
+	- Accessible from the cloud storage API
+	- The lower accessed type of storage the lower the price is per GB stored per month and the higher the price per GB transferred.
 	- **Multi-regional**. Most frequently accessed. SLA 99.95%. Used for CDNs
-	- **Regional**. Accessed frequently within a region. SLA 99.90%. Used for in-region analytics, transcoding
+	- **Regional**. Accessed frequently within a region. SLA 99.90%. Used for in-region analytics, transcoding. **Stores in specific GCP region**
 	- **Nearline**. Accessed less than once a month. SLA 99%. Long-tail content, backups
 	- **Coldline**. Accessed less than once a year. SLA 99%. Archiving, disaster recovery
 - **Access Control**
@@ -71,7 +72,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDYxOTE2MjAsNTcwMDA4NjIxLC0xOD
+eyJoaXN0b3J5IjpbLTE5NjI2NDE4NjAsNTcwMDA4NjIxLC0xOD
 gxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYz
 ODg5MSwtMTQzMTA2NTM1OV19
 -->
