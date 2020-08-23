@@ -161,10 +161,14 @@ Google's modern solution for hybrid and multi-cloud systems and services managem
 	- Maintaining consistent policies across all clusters, whether on-premises or in the cloud
 - The client uses GKE On-Prem to replicate an environment more similar to Google Cloud, to provide a consistent experience in both environments
 	- Integrates with Istio, Knative and Marketplace Solutions
-- Stackdriver is the solution 
+- Stackdriver is the solution for fully managed logging, metrics collection, monitoring dashboarding, and alerting solution (Observability Solution)
+- Cloud Interconnect connects payloads between Anthos Service Mesh and Istio Open Source
+- Anthos Conf
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwNjYwODQ4LDc4MDU4NzQxNCwtMTY3OD
-kxOTYxOSwtMTY0Nzk5NDEzNywzMjIzMTE1NywtNDczMjY2Nzc0
-XX0=
+eyJoaXN0b3J5IjpbLTEyMTg1NDk3NDQsNzgwNTg3NDE0LC0xNj
+c4OTE5NjE5LC0xNjQ3OTk0MTM3LDMyMjMxMTU3LC00NzMyNjY3
+NzRdfQ==
 -->
