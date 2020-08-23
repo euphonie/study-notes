@@ -107,7 +107,7 @@ metadata:
 		app: nginx
 spec:
 	replicas: 3
-	selector:
+	selector: # used to define how to group specific pods as replicas
 		matchLabels:
 			app: nginx 
 	template:
@@ -117,11 +117,13 @@ spec:
 		spec:
 			containers:
 			- name: nginx
-			- 
+			  image: nginx:1.15.7
+			  ports:
+			  - containerPort: 80
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwODQ0NzAxLC0xNjQ3OTk0MTM3LDMyMj
+eyJoaXN0b3J5IjpbOTgzOTA3NzA3LC0xNjQ3OTk0MTM3LDMyMj
 MxMTU3LC00NzMyNjY3NzRdfQ==
 -->
