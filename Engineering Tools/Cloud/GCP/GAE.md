@@ -9,7 +9,10 @@ App Engine manages the hardware and networking infrastructure required to run co
 	- Standard. Simpler experience and fine-grained auto-scale
 		- Free daily quota for some services
 		- SDK for main languages and test locally and deploy
-		- App runs in a runtime. E
+		- App runs in a runtime. Only in Java, Python, PHP and Go
+			- Include libraries that support App Engine APIs
+		- Applies restrictions through a sandbox
+			- No writing to l
 	- Flexible
 - Automatically scales app in response to the traffic
 - Provides
@@ -23,6 +26,6 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5ODcwNywtNzUxNzk4MDQxLDE0OTYxNz
-MwNzgsNjkxMTU4MzJdfQ==
+eyJoaXN0b3J5IjpbNDMxNDU3NTIsLTc1MTc5ODA0MSwxNDk2MT
+czMDc4LDY5MTE1ODMyXX0=
 -->
