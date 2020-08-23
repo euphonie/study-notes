@@ -80,7 +80,8 @@ Opensource orchestrator for containers to better manage and scale applications.
 > kubectl get services
 # Scaling a deployment
 > kubectl scale nginx --replicas=3
-# or autoscaling
+# or autoscaling based on cpu usage,
+# scale up when CPU usage hits 80% of capacity
 > kubectl autoscale nginx --min=10 --max=15 --cpu=80
 ```
 
@@ -90,8 +91,15 @@ A **service**, created when exposing a deployment of pods to the internet, group
 
 This is a recommended solution for exposing deployments between applications as it usually creates and destroys pods, having each pod an unique IP address that doesn't remain stable over time. An stable endpoint is then provided by a service.
 
+### Kubernetes configuration file
+
+```bash
+# Starting point to get a file from current architecture
+> kubectl get pods -l
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTc5OTA5OTQsLTE2NDc5OTQxMzcsMz
-IyMzExNTcsLTQ3MzI2Njc3NF19
+eyJoaXN0b3J5IjpbMTI0NDEwMzY0MywtMTY0Nzk5NDEzNywzMj
+IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
