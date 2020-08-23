@@ -51,9 +51,13 @@ Opensource orchestrator for containers to better manage and scale applications.
 - Lets deploy containers on a set of nodes called a cluster
 	- A cluster is a set of master components that control the system and a set of nodes that represent the computing instances
 	- In GCP, nodes are VMs running in CE
-- 
+
+## GKE
+
+- Kubernetes as a managed service in the cloud
+- One can 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkzNjc5MzksLTE2NDc5OTQxMzcsMz
-IyMzExNTcsLTQ3MzI2Njc3NF19
+eyJoaXN0b3J5IjpbLTgwMzYyOTA0MywtMTY0Nzk5NDEzNywzMj
+IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
