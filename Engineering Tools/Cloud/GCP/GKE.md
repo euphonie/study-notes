@@ -56,6 +56,10 @@ Opensource orchestrator for containers to better manage and scale applications.
 
 - Kubernetes as a managed service in the cloud
 - Support different machine types, numbers of nodes and network settings
+- **Pod**
+	- Abstraction used to deploy containers
+	- Is the smallest deployable unit in Kubernetes
+	- Is usual to have only one container in a pod, but containers with h
 - One can be created through the Google Cloud Console or a command provided in Google Cloud SDK
 
 ```ssh
@@ -64,6 +68,6 @@ Opensource orchestrator for containers to better manage and scale applications.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTI3MDA0NywtMTY0Nzk5NDEzNywzMj
-IzMTE1NywtNDczMjY2Nzc0XX0=
+eyJoaXN0b3J5IjpbOTc2MjU3NjAzLC0xNjQ3OTk0MTM3LDMyMj
+MxMTU3LC00NzMyNjY3NzRdfQ==
 -->
