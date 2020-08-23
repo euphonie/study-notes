@@ -70,7 +70,13 @@ A horizontally scalable RDBMS
 - This should be looked into if relational databases or sharding has been outgrown, there's a need for transactional consistency, global data and strong consistency or to consolidate your database
 	- Use cases: financial applications, and inventory applications
 
+### BigQuery
 
+- Big data analysis and interactive query and capabilities
+- Relational SQL for OLAP
+- Doesn't offer transactions
+- Offers complex queries
+- Provides petabytes of capacity
 
 ## File System
 - Filestore
@@ -147,7 +153,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2OTcxMDI0LDEzODI1MjA5MjQsMTU4Mj
+eyJoaXN0b3J5IjpbLTc1NjgwNjQwLDEzODI1MjA5MjQsMTU4Mj
 AwMzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcx
 NSwxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLT
 E0MzEwNjUzNTldfQ==
