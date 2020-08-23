@@ -41,6 +41,10 @@
 	- PostgreSQL
 	- MySQL
 	- Microsoft SQL Server
+- Integrations
+	- App Engine. using standard drivers, a Cloud SQL can follow an App Engine application
+	- Compute Engine. can be authorized to access Cloud SQL instances using an external IP addresses. Cloud SQL instances can be configured with a preferred zone
+	- External services. Can be used with external applications and clients, external read replicas can be configured.
 
 ### Cloud Spanner
 
@@ -119,8 +123,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDYxMDYwOSwxNTgyMDAzODY3LDExOD
-g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
-MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
-19
+eyJoaXN0b3J5IjpbLTEwNjI5OTU2OTcsMTU4MjAwMzg2NywxMT
+g4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1
+OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNT
+ldfQ==
 -->
