@@ -4,9 +4,11 @@
 - VMs come with persistent disks.
 
 ## NoSQL Databases
-- Bigtable
-- Datastore
-- Firestore
+
+### Bigtable
+
+### Datastore
+### Firestore
 
 ## Relational Databases
 - Cloud SQL
@@ -90,7 +92,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4OD
-ExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4
-ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbLTE3Mjk4NjE4NjEsMTE4ODk4ODI2NSw1Nz
+AwMDg2MjEsLTE4ODExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0
+Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
 -->
