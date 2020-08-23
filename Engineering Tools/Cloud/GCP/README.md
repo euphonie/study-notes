@@ -23,10 +23,10 @@ It lets you respond with information rather than with panic. GCP works with Stac
 			- Receives from BigQuery, Cloud Storage and Cloud Pub/Sub.
 		- Trace. Sample latency of app engine applications and report Per-URL statistics
 		- Error Reporting. tracks and groups the errors in your cloud applications. Notifies new errors. 
-		- Debugging. Connect
+		- Debugging. Connects application production data to the source code. Lets inspect the state of the app at any code location in production. Works best when code is in Cloud Source repositories
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjA0NjAzLDExNzA3NTI1ODMsLTU0ND
-I0NzE1NSwtODUxNTEzNjQ5LDc0NTM5ODY4MF19
+eyJoaXN0b3J5IjpbMTExNjA0MTU5NSwxMTcwNzUyNTgzLC01ND
+QyNDcxNTUsLTg1MTUxMzY0OSw3NDUzOTg2ODBdfQ==
 -->
