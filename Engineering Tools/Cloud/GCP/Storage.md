@@ -24,6 +24,8 @@
 	- Batch Processing. Data can be read from and written through Hadoop's Map Reduce, Dataflow or Spark batch processes. 
 
 ### Datastore
+
+
 ### Firestore
 
 ## Relational Databases
@@ -131,8 +133,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTE2MjEyMCwxNTgyMDAzODY3LDExOD
-g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
-MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
-19
+eyJoaXN0b3J5IjpbLTE4NzQzNzY5MTYsMTU4MjAwMzg2NywxMT
+g4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1
+OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNT
+ldfQ==
 -->
