@@ -58,6 +58,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 	- Accessible from the cloud storage API
 	- The lower accessed type of storage the lower the price is per GB stored per month and the higher the price per GB transferred.
 	- **Multi-regional**. Most frequently accessed. SLA 99.95%. Used for CDNs. Geo-redundant, data is stored in two geographic locations separated at least by 160 kilometres.
+		- Website content, interactive content and data for mobile and gaming applications
 	- **Regional**. Accessed frequently within a region. SLA 99.90%. Used for in-region analytics, transcoding. **Stores in specific GCP region** Cheaper than multi-regional but less redundancy.
 	- **Nearline**. Accessed less than once a month. SLA 99%. Long-tail content, backups
 	- **Coldline**. Accessed less than once a year. SLA 99%. Archiving, disaster recovery
@@ -72,7 +73,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MzQxNzg2MSw1NzAwMDg2MjEsLTE4OD
-ExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4
-ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbLTE5NzAwMjI4MDQsNTcwMDA4NjIxLC0xOD
+gxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYz
+ODg5MSwtMTQzMTA2NTM1OV19
 -->
