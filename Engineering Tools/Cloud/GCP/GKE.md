@@ -122,8 +122,16 @@ spec:
 			  - containerPort: 80
 ```
 
+```bash
+# Applying changes to an updated config file
+> kubectl apply -f nginx-deployment.yaml
+# View replicas and see updated state
+> kubectl get replicasets
+# View pods an
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzOTA3NzA3LC0xNjQ3OTk0MTM3LDMyMj
-MxMTU3LC00NzMyNjY3NzRdfQ==
+eyJoaXN0b3J5IjpbLTE3NzI3NzQ5NywtMTY0Nzk5NDEzNywzMj
+IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
