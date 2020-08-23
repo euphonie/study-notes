@@ -52,7 +52,10 @@ Works for object storage. It relates group of bytes with an unique key for addre
 		- Rackable appliances that are leased from Google to securely ship your data
 		- Securely transfer up to 1 petabyte of data on a single appliance
 - Importing from other GCP services
-	- BigQuery. import tables 
+	- BigQuery. import and export tables
+	- Compute Engine. startup scripts, images, and general object storage
+	- Cloud SQL. import and export tables
+	- App Engine. Object storage (images), logs, and datastore backups
 
 #### Buckets
 - Has a globally unique name
@@ -87,7 +90,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NzI1ODc2LDU3MDAwODYyMSwtMTg4MT
-EyMDcxNSwxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4
-OTEsLTE0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4OD
+ExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4
+ODkxLC0xNDMxMDY1MzU5XX0=
 -->
