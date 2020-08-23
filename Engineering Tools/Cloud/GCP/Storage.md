@@ -43,11 +43,12 @@ Works for object storage. It relates group of bytes with an unique key for addre
 	- Distributing large data objects via Direct Download
 - Ways to upload data into Cloud Storage
 	- Online transfer
-		- Self-managed copies using command-line tools or drag-and-drop
-		- **gsutil**, the cloud stora
-	- Storage Transfer Service
+		- Self-managed copies using command-line tools or drag-and-drop (Chrome browser)
+		- **gsutil**, the cloud storage command from Cloud SDK
+	- Online Storage Transfer Service
 		- Scheduled, managed batch transfers
-	- Transfer Appliance
+		- Storage from another cloud provider, different cloud storage region or from an HTTPS endpoint
+	- Offline Transfer Appliance
 		- Rackable appliances to securely ship your data
 
 #### Buckets
@@ -83,7 +84,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzMxMjIzMjEsNTcwMDA4NjIxLC0xOD
-gxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYz
-ODg5MSwtMTQzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbMzM1MDE1MjU4LDU3MDAwODYyMSwtMTg4MT
+EyMDcxNSwxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4
+OTEsLTE0MzEwNjUzNTldfQ==
 -->
