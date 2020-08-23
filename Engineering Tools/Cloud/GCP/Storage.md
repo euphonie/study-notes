@@ -25,6 +25,12 @@
 
 ### Datastore
 
+Horizontally scalable NoSQL DB
+- Fully managed service
+	- Automatically handles sharding and replication
+- Main use case is to store structured data from App Engine apps. 
+- Designed for application backends
+- Integration point for applications using App Engine and Compute Engine
 
 ### Firestore
 
@@ -133,8 +139,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQzNzY5MTYsMTU4MjAwMzg2NywxMT
-g4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1
-OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNT
-ldfQ==
+eyJoaXN0b3J5IjpbLTQ0NzAwMjEsMTU4MjAwMzg2NywxMTg4OT
+g4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1
+LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ
+==
 -->
