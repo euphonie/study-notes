@@ -159,12 +159,12 @@ Google's modern solution for hybrid and multi-cloud systems and services managem
 	- Monitoring systems and services
 	- Migrating applications from VMs into your clusters
 	- Maintaining consistent policies across all clusters, whether on-premises or in the cloud
-- The client uses GKE On-Prem to replicate an environment more similar to Google Cloud
-- Integra
-
+- The client uses GKE On-Prem to replicate an environment more similar to Google Cloud, to provide a consistent experience in both environments
+	- Integrates with Istio, Knative and Marketplace Solutions
+- Stackdriver is the solution 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjI1NDUzNiw3ODA1ODc0MTQsLTE2Nz
-g5MTk2MTksLTE2NDc5OTQxMzcsMzIyMzExNTcsLTQ3MzI2Njc3
-NF19
+eyJoaXN0b3J5IjpbMjkwNjYwODQ4LDc4MDU4NzQxNCwtMTY3OD
+kxOTYxOSwtMTY0Nzk5NDEzNywzMjIzMTE1NywtNDczMjY2Nzc0
+XX0=
 -->
