@@ -34,7 +34,9 @@
 - A Database server could also be run inside a Compute Engine VM
 - Cloud SQL provides replica services, read, failover, and external replicas
 - Offers backup with on-demand or scheduled criteria
-- Horizontal scaling (read replicas) Vertical scaling (changing machine type
+- Horizontal scaling (read replicas) Vertical scaling (changing machine type)
+- Security
+	- Includes network firewalls, data encrypted while on Google's network, encrypted whle stored in database tables, temporary files, and backups
 - Options
 	- PostgreSQL
 	- MySQL
@@ -117,8 +119,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTUzNjc1LDE1ODIwMDM4NjcsMTE4OD
-k4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MTUsMTQ2NTEzNTkx
-NSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX
-0=
+eyJoaXN0b3J5IjpbLTY4NDYxMDYwOSwxNTgyMDAzODY3LDExOD
+g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
+MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
+19
 -->
