@@ -48,8 +48,9 @@ Create and image and run container
 
 Opensource orchestrator for containers to better manage and scale applications.
 - Has an API that allows authorized people to control its operations through several utilities. Ex. **kubectl** command
+- 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDc5OTQxMzcsMzIyMzExNTcsLTQ3Mz
-I2Njc3NF19
+eyJoaXN0b3J5IjpbLTEwODE0MjYwNzgsLTE2NDc5OTQxMzcsMz
+IyMzExNTcsLTQ3MzI2Njc3NF19
 -->
