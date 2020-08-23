@@ -45,8 +45,14 @@
 	- App Engine. using standard drivers, a Cloud SQL can follow an App Engine application
 	- Compute Engine. can be authorized to access Cloud SQL instances using an external IP addresses. Cloud SQL instances can be configured with a preferred zone
 	- External services. Can be used with external applications and clients, external read replicas can be configured.
+		- SQL Workbench, Toad
 
 ### Cloud Spanner
+
+A horizontally scalable RDBMS
+
+- Offers transactional consistency on a global scale, schemas, automatic syncrhonous replication 
+- Managed instances with high availability
 
 ## File System
 - Filestore
@@ -123,8 +129,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjI5OTU2OTcsMTU4MjAwMzg2NywxMT
-g4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1
-OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNT
-ldfQ==
+eyJoaXN0b3J5IjpbNTUxMDcwNDAxLDE1ODIwMDM4NjcsMTE4OD
+k4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MTUsMTQ2NTEzNTkx
+NSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX
+0=
 -->
