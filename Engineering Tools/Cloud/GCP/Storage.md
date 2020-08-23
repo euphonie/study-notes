@@ -29,9 +29,12 @@
 ## Relational Databases
 
 ### Cloud SQL
-- PostgreSQL
-- MySQL
-- Microsoft SQL Server
+
+- Managed RDBMS
+- Options
+	- PostgreSQL
+	- MySQL
+	- Microsoft SQL Server
 
 ### Cloud Spanner
 
@@ -110,7 +113,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTIzMjU1NSwxNTgyMDAzODY3LDExOD
+eyJoaXN0b3J5IjpbLTI5MzIyNTM1MiwxNTgyMDAzODY3LDExOD
 g5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5
 MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV
 19
