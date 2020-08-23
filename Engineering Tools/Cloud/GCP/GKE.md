@@ -61,6 +61,8 @@ Opensource orchestrator for containers to better manage and scale applications.
 	- Is the smallest deployable unit in Kubernetes
 	- Is usual to have only one container in a pod, but containers with hard dependencies can be packaged inside one
 	- It contains a networking component (virtual ethernet) and a disk storage component (volumes). This are shared if more than one container is in a pod
+	- Has a unique IP address and a set of ports
+	- Containers inside a pod can communicate using the localhost network interface
 - One can be created through the Google Cloud Console or a command provided in Google Cloud SDK
 
 ```ssh
@@ -69,6 +71,6 @@ Opensource orchestrator for containers to better manage and scale applications.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA2MDA2NjksLTE2NDc5OTQxMzcsMz
+eyJoaXN0b3J5IjpbLTExMDU0MjMzMDUsLTE2NDc5OTQxMzcsMz
 IyMzExNTcsLTQ3MzI2Njc3NF19
 -->
