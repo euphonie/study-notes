@@ -66,11 +66,14 @@ Opensource orchestrator for containers to better manage and scale applications.
 - One can be created through the Google Cloud Console or a command provided in Google Cloud SDK
 
 ```ssh
+# Creating clusters
 > gcloud container clusters create k1
+# Running an image from a container registry into a pod
+> kubectl run nginx --image=nginx:1.15.7
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU0MjMzMDUsLTE2NDc5OTQxMzcsMz
-IyMzExNTcsLTQ3MzI2Njc3NF19
+eyJoaXN0b3J5IjpbLTE3MDQzMTU2NiwtMTY0Nzk5NDEzNywzMj
+IzMTE1NywtNDczMjY2Nzc0XX0=
 -->
