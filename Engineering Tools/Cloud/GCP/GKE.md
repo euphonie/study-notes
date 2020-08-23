@@ -48,9 +48,12 @@ Create and image and run container
 
 Opensource orchestrator for containers to better manage and scale applications.
 - Has an API that allows authorized people to control its operations through several utilities. Ex. **kubectl** command
+- Lets deploy containers on a set of nodes called a cluster
+	- A cluster is a set of master components that control the system and a set of nodes that represent the computing instances
+	- In GCP, nodes are VMs running in CE
 - 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODE0MjYwNzgsLTE2NDc5OTQxMzcsMz
+eyJoaXN0b3J5IjpbLTIwMTkzNjc5MzksLTE2NDc5OTQxMzcsMz
 IyMzExNTcsLTQ3MzI2Njc3NF19
 -->
