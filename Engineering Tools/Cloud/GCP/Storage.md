@@ -17,6 +17,11 @@
 - It's managed, increasing machine count doesn't require downtime
 	- Administration tasks are also handled, upgrades and restarts transparently
 - Data encrypted in-flight and at rest
+- IAM permissions can be set to control who has access to Bigtable data
+- **Access Patterns**
+	- Application API. Data can be accessed through a data 
+	- Streaming
+	- Batch Processing
 
 ### Datastore
 ### Firestore
@@ -103,7 +108,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzYyOTE3MywxMTg4OTg4MjY1LDU3MD
-AwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1LC0yMDk5NDQy
-Nzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbOTk5OTU2MTE5LDExODg5ODgyNjUsNTcwMD
+A4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3
+NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
 -->
