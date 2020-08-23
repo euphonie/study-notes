@@ -19,9 +19,9 @@
 - Data encrypted in-flight and at rest
 - IAM permissions can be set to control who has access to Bigtable data
 - **Access Patterns**
-	- Application API. Data can be accessed through a data 
-	- Streaming
-	- Batch Processing
+	- Application API. Data can be accessed through a data service layer, HBase REST server, or a java server with HBase client.
+	- Streaming. Data can be streamed in through Cloud Dataflow Streaming, Spark Streamlining and Storm
+	- Batch Processing. Data can be read from and written through Hadoop, MapReduce, Dataflow or Spark batch processes. 
 
 ### Datastore
 ### Firestore
@@ -108,7 +108,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5OTU2MTE5LDExODg5ODgyNjUsNTcwMD
+eyJoaXN0b3J5IjpbNDgzMDkwMzc5LDExODg5ODgyNjUsNTcwMD
 A4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3
 NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
 -->
