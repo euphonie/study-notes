@@ -63,7 +63,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 		- Data near the CE VMs for better performance in data-intensive computations.
 	- **Nearline**. Accessed less than once a month. SLA 99%. Long-tail content, backups
 		- Continuously add files and analyze them all at the end of the month
-	- **Coldline**. Accessed less than once a year. SLA 99%. Archiving, disaster recovery. 
+	- **Coldline**. Accessed less than once a year. SLA 99%. Archiving, disaster recovery. 90-day minimum storage duration
 - **Access Control**
 	- IAM policies are inherited from Project > Bucket > Object
 	- Access Control Lists offer a finer control. They define who has access to the bucket and objects and what level of access they have.
@@ -75,7 +75,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTc3MDUwNiw1NzAwMDg2MjEsLTE4OD
+eyJoaXN0b3J5IjpbMTc4ODQyMDM1Nyw1NzAwMDg2MjEsLTE4OD
 ExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4
 ODkxLC0xNDMxMDY1MzU5XX0=
 -->
