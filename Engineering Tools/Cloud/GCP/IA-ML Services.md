@@ -73,12 +73,20 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 	- Takes advantage of Tensor Processing Units. Hardware devices designed to accelerate machine learning workloads with TensorFlow.
 		- They are available in GCP through CE VMs. Each TPU provides up to 180 teraflops of performance.
 - Can perform large-scale training on a managed cluster
+- Depending of the type of data the models available are
+	- Structured Data
+		- Classification and regression
+			- Forecasting
+		- Recommendation
+		- Anomaly detection
+	- Unstructured Data
+		- Image and video analytics
+		- Text analytics
 - Easy integration to many ML APIs
 	- Vision
-	- N
+	- Natural Language Processing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY1NTcxMzcsLTIxMTEyMDg3OTddfQ
-==
+eyJoaXN0b3J5IjpbLTY4MDI0ODYxNCwtMjExMTIwODc5N119
 -->
