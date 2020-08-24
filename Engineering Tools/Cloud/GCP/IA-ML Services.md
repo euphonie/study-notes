@@ -58,9 +58,16 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 - Integrated, open source
 - Runs in a Compute Engine VM
 	- The users specifies machine type and region
-- Orchestrates multipl
+- Orchestrates multiple GCP services
+- Pay only for resources used
+- Integrated with BigQuery, Compute Engine, and Cloud Storage
+- Data visualization with Google Charts or map plot line
 
 ## IA
+
+### Machine Learning
+
+Machine learning is one branch of the field of artificial intelligence. It's a way of solving problems without explicitly coding the solution.
 
 ### Vision
 
@@ -68,5 +75,5 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzNDcwNDc4LC0yMTExMjA4Nzk3XX0=
+eyJoaXN0b3J5IjpbLTQ1OTk0NjIwNiwtMjExMTIwODc5N119
 -->
