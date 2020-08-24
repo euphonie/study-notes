@@ -19,6 +19,9 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 ### Pub/Sub
 ### Dataflow
 For realtime data or unpredictable sized array. It's a unified programming model and a managed service that lets the user develop and execute a big range of data processing patterns (ETL and continuous computation).
+- Builds data pipeline for batch and streaming data
+- No need to spin up a cluster or size instances it's fully automatic management- 
+- Ex. BigQuery can be used to extract data, data transformation is issued inside Dataflow and all data is then stored in a CL
 
 ### BigQuery
 
@@ -30,6 +33,5 @@ For realtime data or unpredictable sized array. It's a unified programming model
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYzMzMwNjEsLTIxMTEyMDg3OTddfQ
-==
+eyJoaXN0b3J5IjpbMTA2MDg2NzQwNSwtMjExMTIwODc5N119
 -->
