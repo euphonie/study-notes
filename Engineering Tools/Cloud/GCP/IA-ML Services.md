@@ -33,7 +33,7 @@ A messaging service for events in real time.
 ### Dataflow
 For realtime data or unpredictable sized array. It's a unified programming model and a managed service that lets the user develop and execute a big range of data processing patterns (ETL and continuous computation).
 - Builds data pipeline for batch and streaming data
-- No need to spin up a cluster or size instances it h fully automatic management- 
+- No need to spin up a cluster or size instances it has fully automatic management- 
 - Ex. BigQuery can be used to extract data, data transformation is issued inside Dataflow and all data is then stored in a Cloud Storage acting as a sink.
 	- Multiple map and multiple reduce operations
 - Use cases. General purpose ETL tool, data analysis engine (fraud detection and financial services, IoT analytics and manufacturing, healthcare and logistics and click stream, PoS and segmentation analysis in retail)
@@ -100,6 +100,6 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk3NDQ1NDMsLTUzNzQ2OTExNSwtMj
-ExMTIwODc5N119
+eyJoaXN0b3J5IjpbMTM1MzY4ODUzMSwtNTM3NDY5MTE1LC0yMT
+ExMjA4Nzk3XX0=
 -->
