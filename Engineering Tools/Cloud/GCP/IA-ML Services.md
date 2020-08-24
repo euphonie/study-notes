@@ -19,8 +19,13 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 ### Pub/Sub
 
 A messaging service for events in real time.
+- Foundation for stream analytics 
 - Supports many-to-many asynchronous messaging
-- 
+- Application components make push/pull subscriptions to topics
+- Include support for offline consumers
+- Delivery at low latency
+- Scalability to 
+- Messages might be delivered more than once
 
 ### Dataflow
 For realtime data or unpredictable sized array. It's a unified programming model and a managed service that lets the user develop and execute a big range of data processing patterns (ETL and continuous computation).
@@ -52,5 +57,5 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4Mzk2MjYyNSwtMjExMTIwODc5N119
+eyJoaXN0b3J5IjpbNTE3NjI4OTE1LC0yMTExMjA4Nzk3XX0=
 -->
