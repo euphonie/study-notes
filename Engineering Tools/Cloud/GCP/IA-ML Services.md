@@ -83,10 +83,13 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 		- Image and video analytics
 		- Text analytics
 - Easy integration to many ML APIs
-	- Vision
-	- Natural Language Processing
+	- Cloud Vision API
+		- Allows to understand the content of an image
+		- Label detection
+		- Image sentiment analysis
+	- Natural Language Processing (Cloud Speec)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDI0ODYxNCwtMjExMTIwODc5N119
+eyJoaXN0b3J5IjpbMTUzMzcwOTk1LC0yMTExMjA4Nzk3XX0=
 -->
