@@ -15,8 +15,11 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 - Pay only for hardware resources used during the life of the cluster you create. Based on the hour but billed by the minute.
 - Money can be saved using preemptible Compute Engine instances for batch processing.
 	- Jobs need to be able to be restarted cleanly
+- Spark/Spark SQL or MLib can be used for data mining or machine learning
 ### Pub/Sub
 ### Dataflow
+For realtime data or unpredictable sized array. It's a unified programming model and a managed service that lets the user develop and execute a big range of data processing patterns (ETL and continuous computation).
+
 ### BigQuery
 
 ## IA
@@ -27,6 +30,6 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQwNzcxNzIsLTIxMTEyMDg3OTddfQ
+eyJoaXN0b3J5IjpbLTIwNzYzMzMwNjEsLTIxMTEyMDg3OTddfQ
 ==
 -->
