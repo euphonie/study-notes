@@ -10,7 +10,9 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 - Fast, easy, managed way to run Hadoop and Spark/Hive/Pig on GCP
 - Create clusters in 90s on average
 	- Built on top of Compute Engine's VMs, the user chooses the number and type of machines
+- Monitoring using Stackdriver
 - Scale clusters up and down even when jobs are running
+- Pay only for hardware resources used during the life of the cluster you create. Based on the hour
 ### Pub/Sub
 ### Dataflow
 ### BigQuery
@@ -23,5 +25,5 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjgzODE3MCwtMjExMTIwODc5N119
+eyJoaXN0b3J5IjpbOTUwMjIyNTE5LC0yMTExMjA4Nzk3XX0=
 -->
