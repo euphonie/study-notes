@@ -12,7 +12,9 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 	- Built on top of Compute Engine's VMs, the user chooses the number and type of machines
 - Monitoring using Stackdriver
 - Scale clusters up and down even when jobs are running
-- Pay only for hardware resources used during the life of the cluster you create. Based on the hour
+- Pay only for hardware resources used during the life of the cluster you create. Based on the hour but billed by the minute.
+- Money can be saved using preemptible Compute Engine instances for batch processing.
+	- Jobs need to be able to be restarted cleanly
 ### Pub/Sub
 ### Dataflow
 ### BigQuery
@@ -25,5 +27,6 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwMjIyNTE5LC0yMTExMjA4Nzk3XX0=
+eyJoaXN0b3J5IjpbLTIwNDQwNzcxNzIsLTIxMTEyMDg3OTddfQ
+==
 -->
