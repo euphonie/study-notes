@@ -92,10 +92,13 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 		- Recognizes over 80 languages and variants
 		- Transcribe text of users
 		- Enabled command and control through voice and transcribe audio files
-		- Syntax analysis, Tokens, PoS tagging, relationship between words, entity recognition, parse text and flag mentions, sentiment analysis
+		- Syntax analysis, Tokens, PoS tagging, relationship between words, entity recognition, parse text and flag mentions, sentiment analysis in multiple languages, language detection.
+	- Cloud Video Intelligence API. 
+		- Annotate videos in a variety of formats
+		- Identify key entities and when they occur
+		- Make video content searchable and discoverable
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk3NjY3MjMsLTIxMTEyMDg3OTddfQ
-==
+eyJoaXN0b3J5IjpbLTUzNzQ2OTExNSwtMjExMTIwODc5N119
 -->
