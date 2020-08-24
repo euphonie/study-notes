@@ -3,8 +3,7 @@
 
 ## Summary
 
-> image storageoptions
-> image techdetails
+![Storage Options](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/storageoptions.png)> image techdetails
 
 
 - VMs come with persistent disks.
@@ -157,8 +156,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNT
-gyMDAzODY3LDExODg5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIw
-NzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MS
-wtMTQzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbLTEzMDU4ODM3OTIsLTExMjY4MjQyNjMsMT
+M4MjUyMDkyNCwxNTgyMDAzODY3LDExODg5ODgyNjUsNTcwMDA4
+NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3Nz
+gsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
 -->
