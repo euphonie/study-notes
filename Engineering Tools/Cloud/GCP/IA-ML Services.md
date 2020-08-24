@@ -65,20 +65,20 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 ## IA
 
-### Machine Learning
+### Machine Learning Engine
 
 Machine learning is one branch of the field of artificial intelligence. It's a way of solving problems without explicitly coding the solution.
 
 - Offers TensorFlow in a managed environment
 	- Takes advantage of Tensor Processing Units. Hardware devices designed to accelerate machine learning workloads with TensorFlow.
-		- They are
-
-### Vision
-
-### Natural Language Processing
+		- They are available in GCP through CE VMs. Each TPU provides up to 180 teraflops of performance.
+- Can perform large-scale training on a managed cluster
+- Easy integration to many ML APIs
+	- Vision
+	- N
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTYyNDMwNDAsLTIxMTEyMDg3OTddfQ
+eyJoaXN0b3J5IjpbLTE3MDY1NTcxMzcsLTIxMTEyMDg3OTddfQ
 ==
 -->
