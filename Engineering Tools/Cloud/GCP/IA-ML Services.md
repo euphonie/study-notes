@@ -52,6 +52,14 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 - Data can be shared with other people and queries run by them are charged to their accounts
 - Price drops of storage after 90 days
 
+## Cloud Datalab (Jupyter)
+
+- Interactive tool for large-scale data exploration, transformation, analysis, and visualization
+- Integrated, open source
+- Runs in a Compute Engine VM
+	- The users specifies machine type and region
+- Orchestrates multipl
+
 ## IA
 
 ### Vision
@@ -60,5 +68,5 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4NDkwMzI1LC0yMTExMjA4Nzk3XX0=
+eyJoaXN0b3J5IjpbMjIzNDcwNDc4LC0yMTExMjA4Nzk3XX0=
 -->
