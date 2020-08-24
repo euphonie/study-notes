@@ -87,9 +87,15 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 		- Allows to understand the content of an image
 		- Label detection
 		- Image sentiment analysis
-	- Natural Language Processing (Cloud Speec)
+	- Natural Language Processing (Cloud Speech)
+		- Convert audio to text
+		- Recognizes over 80 languages and variants
+		- Transcribe text of users
+		- Enabled command and control through voice and transcribe audio files
+		- Syntax analysis, Tokens, PoS tagging, relationship between words, entity recognition, parse text and flag mentions, sentiment analysis
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzcwOTk1LC0yMTExMjA4Nzk3XX0=
+eyJoaXN0b3J5IjpbLTEzOTk3NjY3MjMsLTIxMTEyMDg3OTddfQ
+==
 -->
