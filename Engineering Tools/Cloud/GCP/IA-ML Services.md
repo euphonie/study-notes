@@ -17,6 +17,11 @@ Integrated Serverless Platform. Custom solutions with google services to manage 
 	- Jobs need to be able to be restarted cleanly
 - Spark/Spark SQL or MLib can be used for data mining or machine learning
 ### Pub/Sub
+
+A messaging service for events in real time.
+- Supports many-to-many asynchronous messaging
+- 
+
 ### Dataflow
 For realtime data or unpredictable sized array. It's a unified programming model and a managed service that lets the user develop and execute a big range of data processing patterns (ETL and continuous computation).
 - Builds data pipeline for batch and streaming data
@@ -36,7 +41,8 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 - BigQuery has a global scope
 - The user can specify the region where the data is kept, just specifying the location.
 - Storage is paid separately from queries, queries are only paid when running
-- 
+- Data can be shared with other people and queries run by them are charged to their accounts
+- Price drops of storage after 90 days
 
 ## IA
 
@@ -46,5 +52,5 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MzQzMjIxOSwtMjExMTIwODc5N119
+eyJoaXN0b3J5IjpbMTA4Mzk2MjYyNSwtMjExMTIwODc5N119
 -->
