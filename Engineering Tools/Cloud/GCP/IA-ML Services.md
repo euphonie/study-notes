@@ -32,6 +32,11 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 - Use familiar SQL
 - Data can be feed from Cloud Storage, Cloud Data Store or streamed in at up to 100,000 rows per second.
 - Easily read-write via Cloud Dataflow, Hadop and Spark
+- SLA 99.99%
+- BigQuery has a global scope
+- The user can specify the region where the data is kept, just specifying the location.
+- Storage is paid separately from queries, queries are only paid when running
+- 
 
 ## IA
 
@@ -41,5 +46,5 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNDY4Mzc2MiwtMjExMTIwODc5N119
+eyJoaXN0b3J5IjpbMjA4MzQzMjIxOSwtMjExMTIwODc5N119
 -->
