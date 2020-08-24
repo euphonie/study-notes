@@ -28,7 +28,10 @@ For realtime data or unpredictable sized array. It's a unified programming model
 
 ### BigQuery
 Most useful when wanting to do ad-hoc SQL queries or exploration on a massive data set.
-- Fully managed petabyte-scale, low-cost analytics data warehouse
+- Fully managed petabyte-scale, low-cost analytics data warehouse.
+- Use familiar SQL
+- Data can be feed from Cloud Storage, Cloud Data Store or streamed in at up to 100,000 rows per second.
+- Easily read-write via Cloud Dataflow, Hadop and Spark
 
 ## IA
 
@@ -38,5 +41,5 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzY0MjEwOSwtMjExMTIwODc5N119
+eyJoaXN0b3J5IjpbLTIzNDY4Mzc2MiwtMjExMTIwODc5N119
 -->
