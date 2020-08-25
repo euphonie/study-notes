@@ -15,8 +15,9 @@
 - Cache content for improvement on application performance and lower network latency
 	- CDN can also be used to cache pages coming from Compute Engine or static content from Cloud Storage
 - Implement API gateways to expose backend functionality to consumer applications
+	- Cloud Enpoints or Apigee
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMTM0NzQzLC0xNTU1MzU0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTMyNzc4MDc0MywtMTU1NTM1NDc0Nl19
 -->
