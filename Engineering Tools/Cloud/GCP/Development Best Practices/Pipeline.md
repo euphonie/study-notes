@@ -9,10 +9,11 @@
 		- Individual services can be modified, updated and deploy on its own
 	- Keep UI responsiveness by performing backend operations asynchronously and using event processing
 		- Using Cloud Storage to store an image, and having Cloud Functions to process the image and upload thumbnails to other buckets
-	- Design with 
+	- Design with a Cloud Pub/Sub (Message Queue) component in mind
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIzMjUyNDEsLTE1NTUzNTQ3NDZdfQ
+eyJoaXN0b3J5IjpbLTE2Mzc2ODA1MTUsLTE1NTUzNTQ3NDZdfQ
 ==
 -->
