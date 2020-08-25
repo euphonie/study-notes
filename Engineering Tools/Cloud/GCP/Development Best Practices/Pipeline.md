@@ -7,9 +7,12 @@
 	- Don't store configuration settings as part of code, instead configure them as environment variables
 	- Instead of monolithic architectures consider implementing microservices architectures.
 		- Individual services can be modified, updated and deploy on its own
-	- Keep UI rep
+	- Keep UI responsiveness by performing backend operations asynchronously and using event processing
+		- Using Cloud Storage to store an image, and having Cloud Functions to process the image and upload thumbnails to other buckets
+	- Design with 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMjY2NTYzLC0xNTU1MzU0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTE0NjIzMjUyNDEsLTE1NTUzNTQ3NDZdfQ
+==
 -->
