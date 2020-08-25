@@ -1,7 +1,6 @@
 
 # Development Best Practices
 
-## Managing code and environment 
 - Inside Code repository
 	- Don't store dependencies, rather use dependencies managers
 - Don't store configuration settings as part of code, instead configure them as environment variables
@@ -19,5 +18,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzc4MDc0MywtMTU1NTM1NDc0Nl19
+eyJoaXN0b3J5IjpbODc2Mjk3MjM0LC0zMjc3ODA3NDMsLTE1NT
+UzNTQ3NDZdfQ==
 -->
