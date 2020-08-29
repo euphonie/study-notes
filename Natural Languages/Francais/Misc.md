@@ -105,14 +105,15 @@ Example:
 - le travail essential
 - travailler = bosser = taffer
 - le travail
-- le boulot
-- le taf (familier)
+- le boulot - bosser
+- le taf (familier) - taffer
 - Je bosses tous les jours à l'Alliance
 - Demain, je ne suis pas dispo, parce que je taffe
+- le travail diminue la qualité de vie
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTczNTA1NCwxMjQ0NjIzMjUxLC0xMD
+eyJoaXN0b3J5IjpbMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC0xMD
 Q3MDk4NzIzLC0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLTgyNjAz
 NzMxMSwxMDY3Njc1MDIwLC0zMjEyMDE2MjcsLTMyNzk1MTE4LD
 E5MzI2MDI5ODMsMTQxODU3NjA5NCwtMjA5NzA5MjU0OSwxMTQ3
