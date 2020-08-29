@@ -127,14 +127,17 @@ Example:
  - avoir un bon salaire
  - avoir une bonne ambiance / lieu au travail
 
+- CV anonyme = cacher la discrimination / éviter
+- valider / reconnaître / montrer
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjExMjA4Mjc0LC04MTMyODQ1NzIsLTMxMT
-cxNjA0MCwtMjUwMDc5NzIsMTMxMDkwMTY5NSwxMjQ0NjIzMjUx
-LC0xMDQ3MDk4NzIzLC0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLT
-gyNjAzNzMxMSwxMDY3Njc1MDIwLC0zMjEyMDE2MjcsLTMyNzk1
-MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5NCwtMjA5NzA5MjU0OS
-wxMTQ3MjIwMDY0LC0xOTIxOTk1NDI2LDQ2NTMxOTc2NiwxMzMy
-MTQwMjY1XX0=
+eyJoaXN0b3J5IjpbLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMz
+ExNzE2MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMy
+NTEsLTEwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MS
+wtODI2MDM3MzExLDEwNjc2NzUwMjAsLTMyMTIwMTYyNywtMzI3
+OTUxMTgsMTkzMjYwMjk4MywxNDE4NTc2MDk0LC0yMDk3MDkyNT
+Q5LDExNDcyMjAwNjQsLTE5MjE5OTU0MjYsNDY1MzE5NzY2LDEz
+MzIxNDAyNjVdfQ==
 -->
