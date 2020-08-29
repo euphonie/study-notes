@@ -133,25 +133,16 @@ Example:
 
 #### Prépositions
 
-- à
-	- localisation. je suis à Paris
-	- heure. j'ai rendez-vous à 8 heures
-	- usage. une tasse à café
-	- prix. Les fraises sont à 5 euros
-	- comparaison. je suis plus heureux à Guatemala qu'à Paris
-	- COI. parler à ses amis
-- de
-	- localisation. venir de Paris, venir du Guatemala
-	- appartenance. le livre de l'élève
-	- catégorie. la chanson 
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0xNT
-U0MDIyNjg1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUwMDc5
-NzIsMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4NzIzLC
-0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLTgyNjAzNzMxMSwxMDY3
-Njc1MDIwLC0zMjEyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5OD
-MsMTQxODU3NjA5NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0x
-OTIxOTk1NDI2XX0=
+eyJoaXN0b3J5IjpbMjA5Nzk4NzcyMCwxODY4OTc5NDI2LDEwND
+AwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzExNzE2
+MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNTEsLT
+EwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2
+MDM3MzExLDEwNjc2NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMT
+gsMTkzMjYwMjk4MywxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDEx
+NDcyMjAwNjRdfQ==
 -->
