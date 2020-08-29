@@ -143,10 +143,11 @@ Example:
 - de
 	- localisation. venir de Paris, venir du Guatemala
 	- appartenance. le livre de l'élève
+	- catégorie. la chanson 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTEzMTYyMSwxMDQwMDcyMjk5LC0xNT
+eyJoaXN0b3J5IjpbMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0xNT
 U0MDIyNjg1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUwMDc5
 NzIsMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4NzIzLC
 0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLTgyNjAzNzMxMSwxMDY3
