@@ -123,13 +123,17 @@ Example:
 - jouer à la pétanque
 - être zen = être calme
 
+ - aimer faire qqch - j'aime danser, parler, manger
+ - avoir un bon salaire
+ - avoir une bonne ambiance / lieu au travail
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTcxNjA0MCwtMjUwMDc5NzIsMTMxMD
-kwMTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4NzIzLC0xMDMxOTkz
-ODMwLC00NzQ2NjIyNDEsLTgyNjAzNzMxMSwxMDY3Njc1MDIwLC
-0zMjEyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxODU3
-NjA5NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1ND
-I2LDQ2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLTE1
-Mjc0NjI4NjVdfQ==
+eyJoaXN0b3J5IjpbLTgxMzI4NDU3MiwtMzExNzE2MDQwLC0yNT
+AwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNTEsLTEwNDcwOTg3
+MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2MDM3MzExLD
+EwNjc2NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkzMjYw
+Mjk4MywxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDExNDcyMjAwNj
+QsLTE5MjE5OTU0MjYsNDY1MzE5NzY2LDEzMzIxNDAyNjUsLTUw
+MzU3NTU5OF19
 -->
