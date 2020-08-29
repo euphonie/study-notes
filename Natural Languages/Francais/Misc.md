@@ -131,15 +131,22 @@ Example:
 - valider / reconnaître / montrer
 - gommer = effacer 
 
-##
+#### Prépositions
+
+- à
+	- localisation. je suis à Paris
+	- heure. j'ai rendez-vous à 8 heures
+	- usage. une tasse à café
+	- prix. Les fraises sont à 5 euros
+	- comparaison
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODYzNzczNSwxMDQwMDcyMjk5LC0xNT
-U0MDIyNjg1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUwMDc5
-NzIsMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4NzIzLC
-0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLTgyNjAzNzMxMSwxMDY3
-Njc1MDIwLC0zMjEyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5OD
-MsMTQxODU3NjA5NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0x
-OTIxOTk1NDI2XX0=
+eyJoaXN0b3J5IjpbLTE5NDI3OTc5NjcsMTA0MDA3MjI5OSwtMT
+U1NDAyMjY4NSwtODEzMjg0NTcyLC0zMTE3MTYwNDAsLTI1MDA3
+OTcyLDEzMTA5MDE2OTUsMTI0NDYyMzI1MSwtMTA0NzA5ODcyMy
+wtMTAzMTk5MzgzMCwtNDc0NjYyMjQxLC04MjYwMzczMTEsMTA2
+NzY3NTAyMCwtMzIxMjAxNjI3LC0zMjc5NTExOCwxOTMyNjAyOT
+gzLDE0MTg1NzYwOTQsLTIwOTcwOTI1NDksMTE0NzIyMDA2NCwt
+MTkyMTk5NTQyNl19
 -->
