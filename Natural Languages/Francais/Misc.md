@@ -116,15 +116,18 @@ Example:
 
 - être rigolo = sympa, drôle
 - ne pas faire de vieux os = ne pas mourrir rapidement
-- costauds = 
+- costauds = forts 
+- en pagaille = dans la foule
+- perdre la boule = perdre la tête 
+- se friter = se disputer. On s'
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDA1Njc1MDQsLTI1MDA3OTcyLDEzMT
-A5MDE2OTUsMTI0NDYyMzI1MSwtMTA0NzA5ODcyMywtMTAzMTk5
-MzgzMCwtNDc0NjYyMjQxLC04MjYwMzczMTEsMTA2NzY3NTAyMC
-wtMzIxMjAxNjI3LC0zMjc5NTExOCwxOTMyNjAyOTgzLDE0MTg1
-NzYwOTQsLTIwOTcwOTI1NDksMTE0NzIyMDA2NCwtMTkyMTk5NT
-QyNiw0NjUzMTk3NjYsMTMzMjE0MDI2NSwtNTAzNTc1NTk4LC0x
-NTI3NDYyODY1XX0=
+eyJoaXN0b3J5IjpbMTg5MjA1MTQyNSwtMjUwMDc5NzIsMTMxMD
+kwMTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4NzIzLC0xMDMxOTkz
+ODMwLC00NzQ2NjIyNDEsLTgyNjAzNzMxMSwxMDY3Njc1MDIwLC
+0zMjEyMDE2MjcsLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxODU3
+NjA5NCwtMjA5NzA5MjU0OSwxMTQ3MjIwMDY0LC0xOTIxOTk1ND
+I2LDQ2NTMxOTc2NiwxMzMyMTQwMjY1LC01MDM1NzU1OTgsLTE1
+Mjc0NjI4NjVdfQ==
 -->
