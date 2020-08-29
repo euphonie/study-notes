@@ -136,14 +136,16 @@ Example:
 - Chez
 	- origin, lieu
 
+![Les prépositions](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/fr.png)
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3Mjk1MzgzLDIwOTc5ODc3MjAsMTg2OD
-k3OTQyNiwxMDQwMDcyMjk5LC0xNTU0MDIyNjg1LC04MTMyODQ1
-NzIsLTMxMTcxNjA0MCwtMjUwMDc5NzIsMTMxMDkwMTY5NSwxMj
-Q0NjIzMjUxLC0xMDQ3MDk4NzIzLC0xMDMxOTkzODMwLC00NzQ2
-NjIyNDEsLTgyNjAzNzMxMSwxMDY3Njc1MDIwLC0zMjEyMDE2Mj
-csLTMyNzk1MTE4LDE5MzI2MDI5ODMsMTQxODU3NjA5NCwtMjA5
-NzA5MjU0OV19
+eyJoaXN0b3J5IjpbLTc2NjIwNzMxNCwyMDk3OTg3NzIwLDE4Nj
+g5Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMjY4NSwtODEzMjg0
+NTcyLC0zMTE3MTYwNDAsLTI1MDA3OTcyLDEzMTA5MDE2OTUsMT
+I0NDYyMzI1MSwtMTA0NzA5ODcyMywtMTAzMTk5MzgzMCwtNDc0
+NjYyMjQxLC04MjYwMzczMTEsMTA2NzY3NTAyMCwtMzIxMjAxNj
+I3LC0zMjc5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIw
+OTcwOTI1NDldfQ==
 -->
