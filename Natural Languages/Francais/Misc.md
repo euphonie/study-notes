@@ -114,14 +114,17 @@ Example:
 - travailler au noir - travailler illégalement / ce n'est pas déclaré
 - avoir besoin d'argent
 
+- être rigolo = sympa, drôle
+- ne pas faire de vieux os = ne pas mourrir rapidement
+- costauds = 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDA3OTcyLDEzMTA5MDE2OTUsMTI0ND
-YyMzI1MSwtMTA0NzA5ODcyMywtMTAzMTk5MzgzMCwtNDc0NjYy
-MjQxLC04MjYwMzczMTEsMTA2NzY3NTAyMCwtMzIxMjAxNjI3LC
-0zMjc5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIwOTcw
-OTI1NDksMTE0NzIyMDA2NCwtMTkyMTk5NTQyNiw0NjUzMTk3Nj
-YsMTMzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYyODY1XX0=
-
+eyJoaXN0b3J5IjpbLTIxNDA1Njc1MDQsLTI1MDA3OTcyLDEzMT
+A5MDE2OTUsMTI0NDYyMzI1MSwtMTA0NzA5ODcyMywtMTAzMTk5
+MzgzMCwtNDc0NjYyMjQxLC04MjYwMzczMTEsMTA2NzY3NTAyMC
+wtMzIxMjAxNjI3LC0zMjc5NTExOCwxOTMyNjAyOTgzLDE0MTg1
+NzYwOTQsLTIwOTcwOTI1NDksMTE0NzIyMDA2NCwtMTkyMTk5NT
+QyNiw0NjUzMTk3NjYsMTMzMjE0MDI2NSwtNTAzNTc1NTk4LC0x
+NTI3NDYyODY1XX0=
 -->
