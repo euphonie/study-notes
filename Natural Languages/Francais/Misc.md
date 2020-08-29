@@ -111,12 +111,17 @@ Example:
 - Demain, je ne suis pas dispo, parce que je taffe
 - le travail diminue la qualité de vie
 
+- travailler au noir - travailler illégalement / ce n'est pas déclaré
+- avoir besoin d'argent
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC0xMD
-Q3MDk4NzIzLC0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLTgyNjAz
-NzMxMSwxMDY3Njc1MDIwLC0zMjEyMDE2MjcsLTMyNzk1MTE4LD
-E5MzI2MDI5ODMsMTQxODU3NjA5NCwtMjA5NzA5MjU0OSwxMTQ3
-MjIwMDY0LC0xOTIxOTk1NDI2LDQ2NTMxOTc2NiwxMzMyMTQwMj
-Y1LC01MDM1NzU1OTgsLTE1Mjc0NjI4NjVdfQ==
+eyJoaXN0b3J5IjpbLTI1MDA3OTcyLDEzMTA5MDE2OTUsMTI0ND
+YyMzI1MSwtMTA0NzA5ODcyMywtMTAzMTk5MzgzMCwtNDc0NjYy
+MjQxLC04MjYwMzczMTEsMTA2NzY3NTAyMCwtMzIxMjAxNjI3LC
+0zMjc5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIwOTcw
+OTI1NDksMTE0NzIyMDA2NCwtMTkyMTk5NTQyNiw0NjUzMTk3Nj
+YsMTMzMjE0MDI2NSwtNTAzNTc1NTk4LC0xNTI3NDYyODY1XX0=
+
 -->
