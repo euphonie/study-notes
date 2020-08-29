@@ -135,125 +135,14 @@ Example:
 
 
 
-| prépositions    | utilisation                                                                   | exemples                                                                                                                                                                              |
-| --------------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **à**           | Lieu
-heure
 
-usage
-
-composition
-
-Prix
-
-comparaison
-
-COI                       | je suis à Paris
-
-j´ai rendez-vous à 8 heures
-
-Une tasse à café
-
-une pizza à l´oignon
-
-les fraises sont à 5 euros
-
-Je suis plus heureux à Guatemala qu’à Paris
-
-parler à ses amis      |
-| **DE**          | localisation
-
-appartenance
-
-catégorie
-
-matière
-
-contenu
-
-manière
-
-comparaison | venir de Paris, venir du Guatemala
-
-le livre de l´élève
-
-La classe de math
-
-une robe de laine
-
-une tasse de café
-
-pleurer de joie / trembler de peur
-
-plus de, moins de, différent de |
-| **en**          | lieu
-
-Moyen
-
-matière
-
-habillement
-
-Interval d’heure                           | vivre en France, en Suisse, en Belgique
-
-en voiture, en avion, en train (à l’intérieur)
-
-une robe en laine, une table en marbre
-
-Femme en manteau
-
-terminer en deux minutes           |
-| **par**         | Lieu
-
-appartenance
-
-moyen
-
-manière
-
-fréquence                                 | passer par la porte
-
-être arrêté par la police
-
-Aller par vélo
-
-prendre un enfant par la main
-
-Deux fois par jour                                                                     |
-| **       POUR** | destination
-
-but
-
-durée prévue
-
-pourcentage                                   | Je
-
-Appeler pour un rendez-vous
-
-J’aime bien aller pour l’été
-
-Cinq pour cent.                                                                                                        |
-| **SUR**         | Lieu
-
-appartenance
-
-comparaison                                               | écrire sur un cahier / lire sur un écran
-
-voir un film sur la Mafia
-
-huit élèves sur dix ont réussi à l´examen                                                                        |
-| **vers**        | espace
-
-date à venir                                                          | On voit vers l’espace
-
-Je serai prêt vers vendredi
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY0NDY0NTAsMTg2ODk3OTQyNiwxMD
-QwMDcyMjk5LC0xNTU0MDIyNjg1LC04MTMyODQ1NzIsLTMxMTcx
-NjA0MCwtMjUwMDc5NzIsMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC
-0xMDQ3MDk4NzIzLC0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLTgy
-NjAzNzMxMSwxMDY3Njc1MDIwLC0zMjEyMDE2MjcsLTMyNzk1MT
-E4LDE5MzI2MDI5ODMsMTQxODU3NjA5NCwtMjA5NzA5MjU0OSwx
-MTQ3MjIwMDY0XX0=
+eyJoaXN0b3J5IjpbMjA5Nzk4NzcyMCwxODY4OTc5NDI2LDEwND
+AwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzExNzE2
+MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNTEsLT
+EwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2
+MDM3MzExLDEwNjc2NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMT
+gsMTkzMjYwMjk4MywxNDE4NTc2MDk0LC0yMDk3MDkyNTQ5LDEx
+NDcyMjAwNjRdfQ==
 -->
