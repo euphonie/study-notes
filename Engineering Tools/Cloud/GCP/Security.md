@@ -74,15 +74,16 @@
 - Key rotation schedule is applied every 90 days to KEKs
 	- Google stores up to 20 versions of the keys
 	- Re-encryption of data is required at least once every 5 years
-- **Optional ** Users can also choose to managed their own keys
+- **Optional** Users can also choose to managed their own keys
 	- Allows to set keys, rotation periods, keys expiration
 	- Keys are still stored in Google KMS
 	- Keys belong to a key ring and a key resides in a particular location (regional, multi-regional or global)
 	- KMS supports symmetric and asymmetric key types
 	- Keys should be assigned when creating resources and the service accounts should also be granted permissions to use the keys
-- 
+- With customer supplied keys Google does not store the keys, customer is then responsible for all key management and rotation. Data can be lost if the keys are lost as well
+	- And key must be specified each time a resource is started or created
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTY5MDAxOCwtOTY2NDYzMjExLDUxMj
+eyJoaXN0b3J5IjpbLTQ5MzUxOTIyMCwtOTY2NDYzMjExLDUxMj
 MxNzcxLDE1NTk4OTQzMzUsNjUxNTU2Njc3XX0=
 -->
