@@ -36,10 +36,12 @@ Horizontally scalable NoSQL DB
 	- Automatically handles sharding and replication
 - Handles transactions
 - Lets issue SQL-like queries
+- ACID transactions
 - Main use case is to store structured data from App Engine apps. 
 - Designed for application backends
 - Integration point for applications using App Engine and Compute Engine
 - Free tier with a daily quota of storage, reads, writes, deletes and small operations
+- Ideal for semi-structured application data, durable key-value data, hierarchical data, managing mu
 
 ### Firestore
 
@@ -103,6 +105,8 @@ Works for object storage. It relates group of bytes with an unique key for addre
 - Objects stored with high durability and high availability
 - Simple administration
 	- No need to provision capacity ahead of time
+- Object name is the only key
+- Ideal for images, videos, objects and blobs
 - Each object is assigned an unique key in the form of an URL
 - Fully managed and scalable service
 - Uses:
@@ -158,9 +162,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1MjIyNDY0LC0xMTUxMTgyMDU3LC0xMT
-I2ODI0MjYzLDEzODI1MjA5MjQsMTU4MjAwMzg2NywxMTg4OTg4
-MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1LC
-0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbLTEwMjQ1NjEzNDQsLTExNTExODIwNTcsLT
+ExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgyMDAzODY3LDExODg5
+ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MT
+UsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
 
 -->
