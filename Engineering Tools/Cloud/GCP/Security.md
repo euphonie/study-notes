@@ -7,12 +7,15 @@
 	- Require a username and an SSH key
 	- Password authentication is disabled by default
 	- GCP console provides built-in SSH access
-		- Connects through HTTPS and shares SHH
+		- Connects through HTTPS and shares SSH keys to initiate an SSH session
+		- Needs public IP address and a firewall rule for incoming TCP traffic in port 22
+		- GCloud SDK can also be used `gcloud compute ssh web-server --zone us-central1-c`
+
 - Window instances accessed via Remote Desktop Protocol
 	- Require username and password
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY2MTM0Nl19
+eyJoaXN0b3J5IjpbMjE3NDk5MzUzXX0=
 -->
