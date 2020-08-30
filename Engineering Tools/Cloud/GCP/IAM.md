@@ -100,14 +100,19 @@ Centralized and programmatic control over organization's cloud resources. A poli
 	- Descendants inherit the organization's policy
 
 - Constraint
-	- Blueptinr that define
+	- Blueprint that defines what behaviors are controlled
+	- Two main types
+		- List 
+			- Allows or disallows values within a list
+			- Ex. compute.vmExternalIpAccess. This applies to all CE 
+		- Boolean
 
 # Best Practices
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNTA5OTUsMTg1NzM1NTM5OCwtMTAwND
-g0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5MTk5
-MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzNDYzXX
-0=
+eyJoaXN0b3J5IjpbLTcxNDk1NDEyNiwxODU3MzU1Mzk4LC0xMD
+A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
+OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
+NdfQ==
 -->
