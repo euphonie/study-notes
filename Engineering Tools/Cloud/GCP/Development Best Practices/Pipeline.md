@@ -43,8 +43,13 @@
 		- Applications should not waste CPU cycles
 		- They should implement a circuit breaker and handle the failure gracefully
 	- For user-facing errors, consider degrading the experience gracefully instead of displaying an error message
+
+**Data sovereignty and compliance requirements**
+- Regions and industry segments have strict compliance requirements for data protection and consumer privacy
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5NTE5NDA2LDg3NjI5NzIzNCwtMzI3Nz
-gwNzQzLC0xNTU1MzU0NzQ2XX0=
+eyJoaXN0b3J5IjpbMTg2NTg5NDczOSw4NzYyOTcyMzQsLTMyNz
+c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
