@@ -116,14 +116,14 @@ A horizontally scalable RDBMS
 - Provides petabytes of capacity
 - Offers transactional consistency on a global scale, schemas, automatic synchronous replication 
 - Managed instances with high availability
-- **Differs from Cloud SQL** in that Spanner uses real primery keys and has the notion of interleave child re
+- **Differs from Cloud SQL** in that Spanner uses real primery keys and has the notion of interleave child records instead of foreign keys
 - This should be looked into if relational databases or sharding has been outgrown, there's a need for transactional consistency, global data and strong consistency or to consolidate your database
 	- Use cases: financial applications, and inventory applications
 - Ideal for 
 	- Mission-critical applications
 	- High transactions
 	- Scale and consistency requirements
-
+- 
 ### BigQuery
 
 - Big data analysis and interactive query and capabilities
@@ -212,7 +212,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjAwMjAwNiwtMTUxOTI5OTYwOSwtMT
+eyJoaXN0b3J5IjpbMTUyMjUyNTc2NywtMTUxOTI5OTYwOSwtMT
 E1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIw
 MDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MT
 UsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0x
