@@ -131,13 +131,13 @@ A horizontally scalable RDBMS
 CREATE TABLE Singers {
 	SingerId INT64 NOT NULL,
 	...
-}
+} PRIMARY KEY (SingerId);
 CREATE TABLE Albums {
 	SingerId INT64 NOT NULL,
+	AlbumId  INT64 NOT NULL,
 	...
-	
-	INTERLEAVE IN PARENT Singers ON DELETE CASCADE;
-}
+} PRIMARY KEY (SingerId, AlbumId),
+INTERLEAVE IN PARENT Singers ON DELETE CASCADE;
 ```
 
 ### BigQuery
@@ -147,6 +147,8 @@ CREATE TABLE Albums {
 - Doesn't offer transactions
 - Offers complex queries
 - Provides petabytes of capacity
+- Low-cost enterprise data warehouse for analytics
+- Full
 
 ## File System
 
@@ -228,7 +230,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTI0NDUxMiwtMTUxOTI5OTYwOSwtMT
+eyJoaXN0b3J5IjpbLTY2MDI0MDAyMiwtMTUxOTI5OTYwOSwtMT
 E1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIw
 MDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MT
 UsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0x
