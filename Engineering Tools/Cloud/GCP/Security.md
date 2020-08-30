@@ -25,8 +25,10 @@
 - Window instances accessed via Remote Desktop Protocol
 	- Require username and password
 	- Password is set using the dropdown next to the RDP button. GCloud command is `gcloud compute reset <windows_password> <instance_name> <user_name>`
+	- RDP connects to the external address of the instance
+	- Password is automatically generated the first time, a new password needs to be set up
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzY1MTUxNDhdfQ==
+eyJoaXN0b3J5IjpbMTc5NDUyMTE4Ml19
 -->
