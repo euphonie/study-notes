@@ -46,8 +46,11 @@ The only difference is that Compute Engine has the  permission to terminate the 
 - Use Cloud Audit Log to generate logs for API operations in CE
 - Only allow VMs to be created from approved images 
 	- Only ones that contain approved software that meets your policy or security requirements
+	- Use the Trusted Images Policy
+- Harden custom OS images to help reduce the surface of vulnerability for the instance
+	- Formulate a plan to maintain the image with security patches and updates
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjk5NzIxODMsLTIxMjUxMjkxN119
+eyJoaXN0b3J5IjpbMzIxOTQ4NzY2LC0yMTI1MTI5MTddfQ==
 -->
