@@ -28,7 +28,12 @@
 	- RDP connects to the external address of the instance
 	- Password is automatically generated the first time, a new password needs to be set up
 
+**Using Shielded VMs**
+
+- Protects workloads from remote attacks, privilege escalation, and malicious insiders
+	- Protect agains advanced threats
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDUyMTE4Ml19
+eyJoaXN0b3J5IjpbLTE0MDgyMjM1MDZdfQ==
 -->
