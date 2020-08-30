@@ -88,8 +88,13 @@
 	- Scanning code for vulnerabilities
 	- Confirm resources have least privilege permissions
 	- Detecting errors in production and rolling back
+
+**Re-architecturing applications**
+- Strangler pattern (Fac
+	- Replace smaller parts of an application
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTY2MzM4MiwxNjY2ODI3MzYwLDg3Nj
-I5NzIzNCwtMzI3NzgwNzQzLC0xNTU1MzU0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTIwMTQ1NjM3ODcsMTY2NjgyNzM2MCw4Nz
+YyOTcyMzQsLTMyNzc4MDc0MywtMTU1NTM1NDc0Nl19
 -->
