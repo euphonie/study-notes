@@ -49,9 +49,9 @@
 	- setShieldedInstanceIntegrityPolicy. When integrity policy baseline is updated
 	- shutdownEvent. When the VM instance is stopped.
 	- startupEvent. When the VM instance is started (A track is kept for how many times the VM instance has been restarted)
-	- 
+	- updateShieldedInstanceConfig. When one of the shielded VM options is enabled or disabled
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTEzNDYyOCw2NTE1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbMTgxMDQwOTk0Nyw2NTE1NTY2NzddfQ==
 -->
