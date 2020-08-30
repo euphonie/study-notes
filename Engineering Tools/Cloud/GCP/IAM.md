@@ -41,7 +41,10 @@ Service accounts can be used to allow certain levels of server-to-server interac
 - A service account can be assigned to a Compute Engine VMs, to authenticate with it when making calls to the Google API
 	- If no service account is assigned, it needs to be manually configured
 - Every GCP project has a default Service Account
-- Can be created using IAM or Google Ide
+- Can be created using IAM or Google Identity 
+	- Roles need to be assigned
+- User-managed service accounts do not use the access scope
+	- Permissions are controlled through IAM roles
 
 *Note*. A service account is also a resource, and can have IAM policies on its own attached to it.
 
@@ -68,7 +71,7 @@ To be able two have an organization node there can be two ways:
 *Note*: Higher-level policies (resource-level) can't take away access that's granted at a lower level (organization node level).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODM4MTY5NCwxODU3MzU1Mzk4LC0xMD
+eyJoaXN0b3J5IjpbMTg3MzY4NTUwMywxODU3MzU1Mzk4LC0xMD
 A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
 OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
 NdfQ==
