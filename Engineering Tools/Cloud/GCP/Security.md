@@ -57,7 +57,12 @@
 	- Ubuntu 16.04 and 18.04 LTS
 	- Windows Server 2012 R2, 2016, 2019
 
+## Encrypting Disk
+
+- GCP encrypts any data at rest without any action required
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5NzU3NTY3LDY1MTU1NjY3N119
+eyJoaXN0b3J5IjpbLTYwMzkxNDE2MCw2NTE1NTY2NzddfQ==
 -->
