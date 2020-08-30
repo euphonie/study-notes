@@ -43,9 +43,12 @@
 		- Using a virtualized Trusted Platform Model (vTPM)
 			- Virtualized version of a specialized computer chip. It creates a boot baseline known as Integrity Policy Baseline
 - Creates logged events so they can be monitored using Stackdriver
-	- clear
+	- clearTPMEvent. If the vvTPM has been cleared and deletes any secrets 
+	- earlyBootReportEvent. If the early boot sequence integrity check passed
+	- lateBootReportEvent. If the late boot sequence integrity check passed
+	- setShieldedInstanceIntegrityPolicy. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxNTA1NDgsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbMTM0MDYwNjgwMyw2NTE1NTY2NzddfQ==
 -->
