@@ -46,9 +46,12 @@
 	- clearTPMEvent. If the vvTPM has been cleared and deletes any secrets 
 	- earlyBootReportEvent. If the early boot sequence integrity check passed
 	- lateBootReportEvent. If the late boot sequence integrity check passed
-	- setShieldedInstanceIntegrityPolicy. 
+	- setShieldedInstanceIntegrityPolicy. When integrity policy baseline is updated
+	- shutdownEvent. When the VM instance is stopped.
+	- startupEvent. When the VM instance is started (A track is kept for how many times the VM instance has been restarted)
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDYwNjgwMyw2NTE1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbMTExMTEzNDYyOCw2NTE1NTY2NzddfQ==
 -->
