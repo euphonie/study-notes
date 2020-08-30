@@ -20,6 +20,7 @@
 - Ideal for data that has a single lookup key
 - Can also be viewed as a persistent hash table
 - High throughput and low latency. Great for IoT, user analytics and financial data analysis.
+- Updates to individual rows are atomic
 - Accessed using open source HBase API (native database for Apache Hadoop)
 - Native compatibility with big data, Hadoop ecosystems
 - It's managed, increasing machine count doesn't require downtime
@@ -33,7 +34,8 @@
 - Ideal for 
 	- Operational applciations
 	- Analytical applications
-	- Storing large amounts 
+	- Storing large amounts of single-keyed data
+	- MapReduce operations
 
 ### Datastore
 
@@ -191,7 +193,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAwMzU4NjMsLTExNTExODIwNTcsLT
+eyJoaXN0b3J5IjpbLTE1MTkyOTk2MDksLTExNTExODIwNTcsLT
 ExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgyMDAzODY3LDExODg5
 ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MT
 UsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
