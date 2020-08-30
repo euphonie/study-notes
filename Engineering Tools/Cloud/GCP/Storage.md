@@ -89,7 +89,15 @@ A horizontally scalable RDBMS
 - Provides petabytes of capacity
 
 ## File System
-- Filestore
+
+### Firestore
+- Next major version from Cloud Firestore
+- Fully managed, serverless, NoSQL
+- Scalable
+- Native mobile and web client libraries
+- Real-time updates
+- Ideal for
+	- Document-oriented data
 
 ## Object System
 
@@ -166,9 +174,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwODQ4MTI4LC0xMTUxMTgyMDU3LC0xMT
-I2ODI0MjYzLDEzODI1MjA5MjQsMTU4MjAwMzg2NywxMTg4OTg4
-MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1LC
-0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbMTgzMTc2ODI2NiwtMTE1MTE4MjA1NywtMT
+EyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIwMDM4NjcsMTE4ODk4
+ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MTUsMTQ2NTEzNTkxNS
+wtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
 
 -->
