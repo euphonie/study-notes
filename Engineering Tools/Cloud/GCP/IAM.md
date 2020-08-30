@@ -113,10 +113,14 @@ Centralized and programmatic control over organization's cloud resources. A poli
 
 # Snippets
 
-```
+```bash
+# Get list of accounts
 gcloud auth list
+# Get list of projects
 gcloud config list project
+# Create a service account
 gcloud iam service-accounts create my-sa-123 --display-name "my service account"
+# Add a policies and role to a service account
 gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAccount:my-sa-123@$DEVSHELL_PROJECT_ID.iam.gserviceaccount.com --role roles/editor
 ```
 
@@ -124,7 +128,7 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI3MTIwMTUsMTg1NzM1NTM5OCwtMT
+eyJoaXN0b3J5IjpbLTIwOTU4NzQyMjEsMTg1NzM1NTM5OCwtMT
 AwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5
 MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzND
 YzXX0=
