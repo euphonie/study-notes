@@ -23,8 +23,9 @@
 **Implementing health-check endpoints**
 - Monitoring data can be used to automatically alert operations teams as soon as the system begins to fail
 - Teams can diagnose and address the issue promptly
+- Define the level of failure for each component that is being checked, as if when a non-critical component i
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI4MjUxMDQsODc2Mjk3MjM0LC0zMj
-c3ODA3NDMsLTE1NTUzNTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbLTk3NDQ4NDM3MSw4NzYyOTcyMzQsLTMyNz
+c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
