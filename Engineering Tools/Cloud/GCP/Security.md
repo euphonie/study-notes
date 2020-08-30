@@ -64,9 +64,11 @@
 	- Includes data in Cloud Storage, CE persistent disks, CE VMs, disk snapshots and Cloud SQL Databases
 - Process
 	- All data is encrypted with a unique data encryption key or deck
+	- Data is separated into chunks and encrypted with its own key. Key is not shared by two chunks
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTg5NDMzNSw2NTE1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbNTEyMzE3NzEsMTU1OTg5NDMzNSw2NTE1NT
+Y2NzddfQ==
 -->
