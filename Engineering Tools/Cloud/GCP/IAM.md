@@ -46,6 +46,8 @@ Service accounts can be used to allow certain levels of server-to-server interac
 - User-managed service accounts do not use the access scope
 	- Permissions are controlled through IAM roles
 
+**Default service account has Project Edit**
+
 *Note*. A service account is also a resource, and can have IAM policies on its own attached to it.
 
 ## Organization
@@ -69,10 +71,14 @@ To be able two have an organization node there can be two ways:
 - Using Google Cloud Identity for creating an organization node.
 
 *Note*: Higher-level policies (resource-level) can't take away access that's granted at a lower level (organization node level).
+
+
+# Best Practices
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzY4NTUwMywxODU3MzU1Mzk4LC0xMD
-A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
-OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
-NdfQ==
+eyJoaXN0b3J5IjpbLTE1NjY0ODYxMzgsMTg1NzM1NTM5OCwtMT
+AwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5
+MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzND
+YzXX0=
 -->
