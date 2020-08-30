@@ -108,13 +108,14 @@ Centralized and programmatic control over organization's cloud resources. A poli
 		- Boolean
 			- Turn policies on or off
 			- Ex. compute.disableSerialPortAccess
-- A use case is allowing users to only create boot disks with Tru
+- A use case is allowing users to only create boot disks with Trusted Images in the organization.
+
 # Best Practices
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzU1ODg4NSwxODU3MzU1Mzk4LC0xMD
-A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
-OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
-NdfQ==
+eyJoaXN0b3J5IjpbOTM0Mjk0NTYsMTg1NzM1NTM5OCwtMTAwND
+g0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5MTk5
+MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzNDYzXX
+0=
 -->
