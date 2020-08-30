@@ -20,10 +20,11 @@
 - Delegates user authentication to external Identity Providers such s Google, Fb, Twitter or Github. Minimize effort for user administration. 
 - No need to implement, secure, and scale a propietary solution for authenticating users
 
-
-
+**Implementing health-check endpoints**
+- Monitoring data can be used to automatically alert operations teams as soon as the system begins to fail
+- Teams can diagnose and address the issue promptly
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjczMjE1OCw4NzYyOTcyMzQsLTMyNz
-c4MDc0MywtMTU1NTM1NDc0Nl19
+eyJoaXN0b3J5IjpbLTEzNTI4MjUxMDQsODc2Mjk3MjM0LC0zMj
+c3ODA3NDMsLTE1NTUzNTQ3NDZdfQ==
 -->
