@@ -21,6 +21,7 @@
 	- Index multiple property values for indexed entity
 	- Support complex queries
 	- Configurable through the `index.yaml`
+		- Define
 	- Are defined in an index configuration file
 - If property is not used in query exclude it from indexes
 	- Otherwise can incur in increased latency to achieve consistency and storage costs
@@ -30,5 +31,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY5MzU4OF19
+eyJoaXN0b3J5IjpbMTMxMDIzNzY2MCwtMTc4NjkzNTg4XX0=
 -->
