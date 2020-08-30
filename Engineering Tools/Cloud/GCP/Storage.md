@@ -80,7 +80,10 @@ Horizontally scalable NoSQL DB
 
 - Provides Terabytes of capacity
 - Managed RDBMS
-	- 
+	- Replication
+	- Failover
+	- Backups
+- Cloud SQL Proxy allows for secure access to the instances without whitelisting
 - A Database server could also be run inside a Compute Engine VM
 - Cloud SQL provides replica services, read, failover, and external replicas
 - Offers backup with on-demand or scheduled criteria
@@ -96,6 +99,10 @@ Horizontally scalable NoSQL DB
 	- Compute Engine. can be authorized to access Cloud SQL instances using an external IP addresses. Cloud SQL instances can be configured with a preferred zone
 	- External services. Can be used with external applications and clients, external read replicas can be configured.
 		- SQL Workbench, Toad
+- Ideal for 
+	- Web frameworks
+	- Structured data
+	- OLTP workloa
 
 ### Cloud Spanner
 
@@ -194,9 +201,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0OTE1NTk0LC0xNTE5Mjk5NjA5LC0xMT
-UxMTgyMDU3LC0xMTI2ODI0MjYzLDEzODI1MjA5MjQsMTU4MjAw
-Mzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNS
-wxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0
-MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbLTIwNzMwNTQyOTgsLTE1MTkyOTk2MDksLT
+ExNTExODIwNTcsLTExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgy
+MDAzODY3LDExODg5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNz
+E1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwt
+MTQzMTA2NTM1OV19
 -->
