@@ -69,10 +69,13 @@
 - Data chunks are encrypted with DEK and stored with wrapped DEK
 - Keys are stored and used inside Google's Central Key Management Service or KMS
 	- These are backed up and indefinitely recoverable
-- Google KMS retrieves the unwrapped DEK when requested, with which the data chunk can then be de
+- Google KMS retrieves the unwrapped DEK when requested, with which the data chunk can then be decrypted
+- The process is enabled by default and managed by Google
+- Key rotation schedule is applied every 90 days to KEKs
+	- Google stores up to 20 versions of the keys
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzA0OTE0NCw1MTIzMTc3MSwxNTU5OD
-k0MzM1LDY1MTU1NjY3N119
+eyJoaXN0b3J5IjpbNzU2NTMzMTQwLDUxMjMxNzcxLDE1NTk4OT
+QzMzUsNjUxNTU2Njc3XX0=
 -->
