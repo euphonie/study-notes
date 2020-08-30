@@ -7,6 +7,8 @@
 
 ![Storage Options: cont.](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/techdetails.png)
 
+Other considera
+
 - VMs come with persistent disks.
 
 ## NoSQL Databases
@@ -260,9 +262,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTY3OTAxMywtMTUxOTI5OTYwOSwtMT
-E1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIw
-MDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MT
-UsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0x
-NDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbLTEzODMxMjk5MDcsLTQ0OTY3OTAxMywtMT
+UxOTI5OTYwOSwtMTE1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgy
+NTIwOTI0LDE1ODIwMDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2Mj
+EsLTE4ODExMjA3MTUsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwx
+NTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
 -->
