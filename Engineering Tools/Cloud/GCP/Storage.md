@@ -245,6 +245,13 @@ Works for object storage. It relates group of bytes with an unique key for addre
 		- fast and secure way to host static resources for your web app
 		- Ideal for URL rewriting, atomic release management, and Firebase integration of web or mobile app.
 
+## Note on Caching
+
+- Redis Labs Memcached Cloud can be used for caching application data
+- Fully managed third-party service
+- Offers a variety of options for running Memcached
+- 30MB of cache storage provided at no charge
+
 ## Note on MSSQL
 
 - SQL Server images on Compute Engine
@@ -253,9 +260,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNjY3ODM1LC0xNTE5Mjk5NjA5LC0xMT
-UxMTgyMDU3LC0xMTI2ODI0MjYzLDEzODI1MjA5MjQsMTU4MjAw
-Mzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNS
-wxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0
-MzEwNjUzNTldfQ==
+eyJoaXN0b3J5IjpbLTQ0OTY3OTAxMywtMTUxOTI5OTYwOSwtMT
+E1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIw
+MDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MT
+UsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0x
+NDMxMDY1MzU5XX0=
 -->
