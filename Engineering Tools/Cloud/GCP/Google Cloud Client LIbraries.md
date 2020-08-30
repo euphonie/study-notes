@@ -8,6 +8,7 @@
 - Can be installed through npm, pip package managers
 - Provide retry for network requests
 - Authentication is fully managed by the library
+- API Explorer can be used as a sandbox to try Google Cloud APIs
 
 **SDKs**
 - Gcloud
@@ -30,5 +31,5 @@
 	- Integrates with Cloud Storage, App Engine, User Auth, Cloud Functions and Vision and Speech API
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Njc1NzgxNF19
+eyJoaXN0b3J5IjpbMTI3NzE0MjU4NywxNDQ2NzU3ODE0XX0=
 -->
