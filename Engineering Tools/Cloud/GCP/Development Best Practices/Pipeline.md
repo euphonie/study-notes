@@ -78,9 +78,12 @@
 	- Push code triggers a build and testing environment like Jenkins to build and run tests
 	- Build system produces deployment artifacts for all required runtime environments
 	- Deployment systems, like Spinnaker, automatically trigger the deployment of builds to test environments
-	- Automatically execute i
+		- Automatically execute integration, security and performance tests 
+	- Finally deploy a successful build to production
+		- Consider canary testing or blue/green testing to reduce the affected users if an issue is encountered
+	- Setup performance metrics 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDM1MTk5MywxNjY2ODI3MzYwLDg3Nj
-I5NzIzNCwtMzI3NzgwNzQzLC0xNTU1MzU0NzQ2XX0=
+eyJoaXN0b3J5IjpbLTIxMTE0NDE2NDcsMTY2NjgyNzM2MCw4Nz
+YyOTcyMzQsLTMyNzc4MDc0MywtMTU1NTM1NDc0Nl19
 -->
