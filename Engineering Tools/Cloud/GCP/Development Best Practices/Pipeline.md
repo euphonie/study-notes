@@ -16,12 +16,14 @@
 - Implement API gateways to expose backend functionality to consumer applications
 	- Cloud Enpoints or Apigee
 
-## Federated Identity Management
+**Federated Identity Management**
+- Delegates user authentication to external Identity Providers such s Google, Fb, Twitter or Github. Minimize effort for user administration. 
+- No need to implement, secure, and scale a propietary solution for authenticating users
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTMyNTA2Miw4NzYyOTcyMzQsLTMyNz
+eyJoaXN0b3J5IjpbMTg4MjczMjE1OCw4NzYyOTcyMzQsLTMyNz
 c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
