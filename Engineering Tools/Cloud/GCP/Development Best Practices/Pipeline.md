@@ -63,10 +63,12 @@
 	- Connectivity failure
 	- On-permises data center or other cloud-provider failure
 	- GCP zonal or regional failure
+		- Uncommon or rare
 	- Deployment rollback
 	- Data corruption caused by network or application issues
+- During failure check, see the correct people were contacted and the traffic was rerouted using redundant routes
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzEwMTYyNCw4NzYyOTcyMzQsLTMyNz
+eyJoaXN0b3J5IjpbMTY2NjgyNzM2MCw4NzYyOTcyMzQsLTMyNz
 c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
