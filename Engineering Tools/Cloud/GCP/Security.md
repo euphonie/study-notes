@@ -16,8 +16,10 @@
 - Connecting from outside Google Console
 	- Is possible with a username and valid SSH key
 		- Key needs to be provided to the instance using the project's metadata `SSH Keys` tab
+- VMs can be configured to not use project-wide SSH keys `Block project-wide SSH keys`
+- Keys can also be added to instance-specific metadata
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3ODI2OTc5XX0=
+eyJoaXN0b3J5IjpbLTExMjk1MDE4NzRdfQ==
 -->
