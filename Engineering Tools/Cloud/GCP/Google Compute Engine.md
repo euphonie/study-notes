@@ -43,8 +43,11 @@ The only difference is that Compute Engine has the  permission to terminate the 
 - Isolate machines using multiple networks. Implement VPC networking
 	- If projects don't require network communication amongst them, host them in different networks
 - On hybrid-setups, use VPN or Cloud Interconnect to securely connect to GCP
+- Use Cloud Audit Log to generate logs for API operations in CE
+- Only allow VMs to be created from approved images 
+	- Only ones that contain approved software that meets your policy or security requirements
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTQ5NjI3NywtMjEyNTEyOTE3XX0=
+eyJoaXN0b3J5IjpbLTE4Mjk5NzIxODMsLTIxMjUxMjkxN119
 -->
