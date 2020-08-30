@@ -104,14 +104,16 @@ Centralized and programmatic control over organization's cloud resources. A poli
 	- Two main types
 		- List 
 			- Allows or disallows values within a list
-			- Ex. compute.vmExternalIpAccess. This applies to all CE 
+			- Ex. compute.vmExternalIpAccess. This applies to all CE VM instances that have external IP access
 		- Boolean
-
+			- Turn policies on or off
+			- Ex. compute.disableSerialPortAccess
+- A use case is allowing users to only create boot disks with Tru
 # Best Practices
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDk1NDEyNiwxODU3MzU1Mzk4LC0xMD
+eyJoaXN0b3J5IjpbLTU5NzU1ODg4NSwxODU3MzU1Mzk4LC0xMD
 A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
 OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
 NdfQ==
