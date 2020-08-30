@@ -125,7 +125,20 @@ A horizontally scalable RDBMS
 	- Scale and consistency requirements
 - **Recomendations**
 	- Don't use monotonically increasing keys as data is distributed based on row ID. A solution can be hashing the keys.
-	- Use interleaved tables to establish hierarchy instead of foreign keys. Child rows are ph
+	- Use interleaved tables to establish hierarchy instead of foreign keys. Child rows are physically stored in the same place as the parent table
+
+```sql
+CREATE TABLE Singers {
+	SingerId INT64 NOT NULL,
+	...
+}
+CREATE TABLE Albums {
+	SingerId INT64 NOT NULL,
+	...
+	
+	INTERLEAVE IN PARENT Singers ON DELETE CASCADE;
+}
+```
 
 ### BigQuery
 
@@ -215,9 +228,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI2ODY3NjAsLTE1MTkyOTk2MDksLT
-ExNTExODIwNTcsLTExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgy
-MDAzODY3LDExODg5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNz
-E1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwt
-MTQzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbLTEwOTI0NDUxMiwtMTUxOTI5OTYwOSwtMT
+E1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIw
+MDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MT
+UsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0x
+NDMxMDY1MzU5XX0=
 -->
