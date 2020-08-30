@@ -41,9 +41,11 @@
 	- Measured boot checks for modified components during bootup
 		- Hashes components to keep track of the quantity and sequence order (Integrity Monitoring)
 		- Using a virtualized Trusted Platform Model (vTPM)
-			- Virtualized version of a specialized computer chip. It 
+			- Virtualized version of a specialized computer chip. It creates a boot baseline known as Integrity Policy Baseline
+- Creates logged events so they can be monitored using Stackdriver
+	- clear
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ5NTIzMjUsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbLTExMDcxNTA1NDgsNjUxNTU2Njc3XX0=
 -->
