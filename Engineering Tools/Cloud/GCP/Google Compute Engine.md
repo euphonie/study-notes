@@ -49,8 +49,10 @@ The only difference is that Compute Engine has the  permission to terminate the 
 	- Use the Trusted Images Policy
 - Harden custom OS images to help reduce the surface of vulnerability for the instance
 	- Formulate a plan to maintain the image with security patches and updates
+- deployed Compute Engi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxOTQ4NzY2LC0yMTI1MTI5MTddfQ==
+eyJoaXN0b3J5IjpbLTM4ODA5NjA2MywzMjE5NDg3NjYsLTIxMj
+UxMjkxN119
 -->
