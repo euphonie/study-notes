@@ -58,9 +58,12 @@ Service accounts can be used to allow certain levels of server-to-server interac
 - Allow default access
 	- Narrow, allows read-only access to storage and Stackdriver Logging and monitoring.
 	- Security error when trying to access any other Google API
+		- Ex. Access to BigQuery, Datastore, Cloud SQL, Cloud Pub Sub or Cloud Bigtable
 - Allow full access to all Cloud APIs
-	- Access to BigQuery, Datastore, Cloud SQL, Cloud Pub Sub or Cloud Bigtable
+	- Bad practice as it does not follow the principle of least privilege
 - Set access for each API
+	- Only some Google API services 
+
 
 ## Organization
 
@@ -89,8 +92,8 @@ To be able two have an organization node there can be two ways:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NDgxMTYxLDE4NTczNTUzOTgsLTEwMD
-Q4NDk0MDgsMTc1NDU3NDY0NywtMTExNzg4MDUzNywxMjg1OTE5
-OTMzLDEzNTU2NjYyNjksLTQ1NTIxOTg1NywtMTIzMTcyMzQ2M1
-19
+eyJoaXN0b3J5IjpbLTI2NDY1MTEzNSwxODU3MzU1Mzk4LC0xMD
+A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
+OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
+NdfQ==
 -->
