@@ -91,11 +91,16 @@
 openssl rand 32 > mykey.txt
 # Verify key
 more mykey.txt
-#
+
+# Download Google CE public certificate
 curl \ https://cloud-certs.storage.googleapis.com/google-cloud-csek-ingress.pem \ > gce-cert.pem
+# Extract public key from the certificate
 openssl x509 -pubkey -noout -in gce-cert.pem > pubkey.pem
+# RSA-wrap the custom key 
 openssl rsautl -oaep -encrypt -pubin -inkey pubkey.pem -in \ mykey.txt -out rsawrappedkey.txt
+# Encode the RSA-wrapped key in base64
 openssl enc -base64 -in rsawrappedkey.txt | tr -d '\n' | sed -e \ '$a\' > rsawrapencodedkey.txt
+# View the RSA-wrapped key
 cat rsawrapencodedkey.txt
 
 # Format and mount the encrypted volume
@@ -104,7 +109,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjY3MjYxMjIsLTQ5MzUxOTIyMCwtOT
-Y2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQzMzUsNjUxNTU2Njc3
-XX0=
+eyJoaXN0b3J5IjpbNDQyOTk1MzczLC00OTM1MTkyMjAsLTk2Nj
+Q2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1MTU1NjY3N119
+
 -->
