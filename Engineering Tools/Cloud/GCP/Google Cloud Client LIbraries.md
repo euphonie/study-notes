@@ -19,9 +19,11 @@
 - Cloud SDK can be install on-permise and needs to be initialized `gcloud init`
 - Cloud Shell
 	- Browser-based command-line-tool
-	- Access to temporary virtual machines instance. 5GB persistent disk, pre-installed Cloud SDK
-	- Built-inauthorization to G
+	- Access to temporary virtual machines instance. 5GB persistent disk, pre-installed Cloud SDK. F1 Micro debian-based VM.
+	- Terminates after an hour of inactivity
+	- Built-inauthorization to projects and resources
+	- Built-in code editor
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTU2MjQ3OF19
+eyJoaXN0b3J5IjpbLTE1MDU0NTIzNzZdfQ==
 -->
