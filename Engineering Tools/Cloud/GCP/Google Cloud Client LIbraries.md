@@ -6,8 +6,9 @@
 - Handle low-level communication with the server
 	- Including authentication
 - Can be installed through npm, pip package managers
+- Provide retry for network requests
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjgyMzEzMF19
+eyJoaXN0b3J5IjpbLTc0MzQ0Njc5OV19
 -->
