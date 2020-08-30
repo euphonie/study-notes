@@ -82,8 +82,13 @@
 	- Keys should be assigned when creating resources and the service accounts should also be granted permissions to use the keys
 - With customer supplied keys Google does not store the keys, customer is then responsible for all key management and rotation. Data can be lost if the keys are lost as well
 	- And key must be specified each time a resource is started or created
+
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzUxOTIyMCwtOTY2NDYzMjExLDUxMj
-MxNzcxLDE1NTk4OTQzMzUsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbOTMxNzc2MDY4LC00OTM1MTkyMjAsLTk2Nj
+Q2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1MTU1NjY3N119
+
 -->
