@@ -14,6 +14,7 @@
 ### Bigtable
 
 - Fully managed NoSQL, wide-column database service for terabyte applications
+- Sparsely po
 - Can scale up to billion of rows and thousands of columns
 - Ideal for data that has a single lookup key
 - Can also be viewed as a persistent hash table
@@ -55,6 +56,8 @@ Horizontally scalable NoSQL DB
 - New data model
 - Native mobile and web client libraries
 - Real-time updates
+- Security access built-in
+- To access new features, Cloud Firestore in native mode must be chosen
 - Ideal for
 	- Document-oriented data
 	- Large collections of small documents
@@ -183,7 +186,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY2NjkyNjMsLTExNTExODIwNTcsLT
+eyJoaXN0b3J5IjpbLTE1NDEwOTk5NzcsLTExNTExODIwNTcsLT
 ExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgyMDAzODY3LDExODg5
 ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MT
 UsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
