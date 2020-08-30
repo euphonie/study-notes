@@ -52,10 +52,14 @@
 	- Identify failure scenarios
 	- Create disaster recovery plans (people, processes, tools)
 	- Perform tabletop tests
+		- Teams discussed how they would respond in failure scenarios but don't perform any real actions
+		- What to do in unexpected situations
+		- Simulate failures and address priblemsand refine
 - Production env
 	- Perform canary testing and blue/green deployments
+	- Validate your disaster recovery plan
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4Mzg4OTQsODc2Mjk3MjM0LC0zMjc3OD
-A3NDMsLTE1NTUzNTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbMjA0OTcxOTg3Nyw4NzYyOTcyMzQsLTMyNz
+c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
