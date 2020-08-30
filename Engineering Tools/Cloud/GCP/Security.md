@@ -62,10 +62,11 @@
 - GCP encrypts any data at rest without any action required
 	- Keyczar is used
 	- Includes data in Cloud Storage, CE persistent disks, CE VMs, disk snapshots and Cloud SQL Databases
-- All data is encrypted with a unique data encryption key or deck
+- Process
+	- All data is encrypted with a unique data encryption key or deck
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3ODIzMjEzNyw2NTE1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbMTU1OTg5NDMzNSw2NTE1NTY2NzddfQ==
 -->
