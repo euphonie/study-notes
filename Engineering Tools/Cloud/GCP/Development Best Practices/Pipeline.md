@@ -73,9 +73,14 @@
 - Have more releases
 - Improve release delivery time
 - Manage rollbacks
-
+- Process
+	- Code stored in control version systems
+	- Push code triggers a build and testing environment like Jenkins to build and run tests
+	- Build system produces deployment artifacts for all required runtime environments
+	- Deployment systems, like Spinnaker, automatically trigger the deployment of builds to test environments
+	- Automatically execute i
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExOTM1Nzk5LDE2NjY4MjczNjAsODc2Mj
-k3MjM0LC0zMjc3ODA3NDMsLTE1NTUzNTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbMTY2MDM1MTk5MywxNjY2ODI3MzYwLDg3Nj
+I5NzIzNCwtMzI3NzgwNzQzLC0xNTU1MzU0NzQ2XX0=
 -->
