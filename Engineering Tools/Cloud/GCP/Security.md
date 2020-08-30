@@ -65,10 +65,11 @@
 - Process
 	- All data is encrypted with a unique data encryption key or deck
 	- Data is separated into chunks and encrypted with its own key. Key is not shared by two chunks
+	- Data chunks are then distributed across Google's storage infrastructure
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMzE3NzEsMTU1OTg5NDMzNSw2NTE1NT
-Y2NzddfQ==
+eyJoaXN0b3J5IjpbLTE2NTkxNDc1MzIsNTEyMzE3NzEsMTU1OT
+g5NDMzNSw2NTE1NTY2NzddfQ==
 -->
