@@ -23,7 +23,10 @@
 	- Terminates after an hour of inactivity
 	- Built-inauthorization to projects and resources
 	- Built-in code editor
+- Firebase
+	- Mobile and web application dev platform
+	- Integrates with Cloud Storage, App Engine, User Auth, Cloud Functions and Vision and Speech API
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU0NTIzNzZdfQ==
+eyJoaXN0b3J5IjpbMjYzMTg0MTA5XX0=
 -->
