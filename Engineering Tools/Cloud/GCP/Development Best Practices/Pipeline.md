@@ -24,11 +24,13 @@
 - Monitoring data can be used to automatically alert operations teams as soon as the system begins to fail
 - Teams can diagnose and address the issue promptly
 - Define the level of failure for each component that is being checked, as if when a non-critical component is failing the specific health check will return a warning but the overall health check from the service will return a healthy status
-- 
+
 **Logging and Monitoring**
-- StackDriver can log and send 
+- StackDriver can log and send alert if a threshold is met
+- Logs can be treated as event streams
+- Don't keep log files but leverage the event stream for further analysis and storage
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjUwNDQ4LDg3NjI5NzIzNCwtMzI3Nz
-gwNzQzLC0xNTU1MzU0NzQ2XX0=
+eyJoaXN0b3J5IjpbMTk5ODMwMjA2Niw4NzYyOTcyMzQsLTMyNz
+c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
