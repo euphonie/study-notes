@@ -46,7 +46,10 @@ Service accounts can be used to allow certain levels of server-to-server interac
 - User-managed service accounts do not use the access scope
 	- Permissions are controlled through IAM roles
 
-**Default service account has Project Edit**
+**Default service account has Project Editor Role which can be dangerous, as it can delete resources**
+
+- Access scope still has to be created for a default service account
+	- Access scope lives only for the instance lifetime
 
 *Note*. A service account is also a resource, and can have IAM policies on its own attached to it.
 
@@ -77,7 +80,7 @@ To be able two have an organization node there can be two ways:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY0ODYxMzgsMTg1NzM1NTM5OCwtMT
+eyJoaXN0b3J5IjpbLTE5OTkzMzEyMzAsMTg1NzM1NTM5OCwtMT
 AwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5
 MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzND
 YzXX0=
