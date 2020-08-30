@@ -23,9 +23,12 @@
 **Implementing health-check endpoints**
 - Monitoring data can be used to automatically alert operations teams as soon as the system begins to fail
 - Teams can diagnose and address the issue promptly
-- Define the level of failure for each component that is being checked, as if when a non-critical component i
+- Define the level of failure for each component that is being checked, as if when a non-critical component is failing the specific health check will return a warning but the overall health check from the service will return a healthy status
+- 
+**Logging and Monitoring**
+- StackDriver can log and send 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDQ4NDM3MSw4NzYyOTcyMzQsLTMyNz
-c4MDc0MywtMTU1NTM1NDc0Nl19
+eyJoaXN0b3J5IjpbMTc2NjUwNDQ4LDg3NjI5NzIzNCwtMzI3Nz
+gwNzQzLC0xNTU1MzU0NzQ2XX0=
 -->
