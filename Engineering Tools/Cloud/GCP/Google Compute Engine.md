@@ -51,9 +51,14 @@ The only difference is that Compute Engine has the  permission to terminate the 
 	- Formulate a plan to maintain the image with security patches and updates
 - Deployed Compute Engine instances are not updated automatically
 	- The image should be patched and each instance should be replaced with an updated image
-- Each instance that needs to call a Google API should run as a service acco
+- Each instance that needs to call a Google API should run as a service account with the minimum permissions necessary for that instance to do its job
+	- Create a new service account rather than using the default
+	- Run IAM roles to that service account for only the resources needed
+	- Configure the instance to run as that service account
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODc2ODE1NywzMjE5NDg3NjYsLTIxMj
-UxMjkxN119
+eyJoaXN0b3J5IjpbLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMT
+I1MTI5MTddfQ==
 -->
