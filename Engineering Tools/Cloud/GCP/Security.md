@@ -66,10 +66,13 @@
 	- All data is encrypted with a unique data encryption key or deck
 	- Data is separated into chunks and encrypted with its own key. Key is not shared by two chunks
 	- Data chunks are then distributed across Google's storage infrastructure
+	- Data chunks are encrypted with DEK and stored with wrapped DEK
+	- Keys are stored and used inside Google's Central Key Management Service or KMS
+		- These are backed up and indefinitely recoverable
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTkxNDc1MzIsNTEyMzE3NzEsMTU1OT
+eyJoaXN0b3J5IjpbLTIwMTYzNzU3NDUsNTEyMzE3NzEsMTU1OT
 g5NDMzNSw2NTE1NTY2NzddfQ==
 -->
