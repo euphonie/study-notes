@@ -48,6 +48,21 @@ Horizontally scalable NoSQL DB
 - **Not good for** working as relational database or to manage analytic data
 
 ### Firestore
+- Next major version from Cloud Firestore
+	- Backwards compatible
+- Fully managed, serverless, NoSQL
+- Scalable
+- New data model
+- Native mobile and web client libraries
+- Real-time updates
+- Ideal for
+	- Document-oriented data
+	- Large collections of small documents
+	- Native mobile and web clients
+	- Durable key-value data
+	- Managing multiple indexes
+	- Transactions
+
 
 ## Relational Databases
 
@@ -90,14 +105,8 @@ A horizontally scalable RDBMS
 
 ## File System
 
-### Firestore
-- Next major version from Cloud Firestore
-- Fully managed, serverless, NoSQL
-- Scalable
-- Native mobile and web client libraries
-- Real-time updates
-- Ideal for
-	- Document-oriented data
+### Filestore
+
 
 ## Object System
 
@@ -174,9 +183,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTc2ODI2NiwtMTE1MTE4MjA1NywtMT
-EyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIwMDM4NjcsMTE4ODk4
-ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MTUsMTQ2NTEzNTkxNS
-wtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0xNDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbLTE2OTY2NjkyNjMsLTExNTExODIwNTcsLT
+ExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgyMDAzODY3LDExODg5
+ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MT
+UsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
 
 -->
