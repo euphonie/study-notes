@@ -37,10 +37,11 @@
 	- Protect secrets against replay and exfiltration
 	- Secure boot prevents loading of malicious code during bootup
 		- Accomplished using UEFI firmware
+		- Code that is not properly signed or unsigned at all, isn't allowed to run.
 	- Measured boot checks for modified components during bootup
 		- Using a virtualized Trusted Platform Model (vTPM)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY2ODgyMjFdfQ==
+eyJoaXN0b3J5IjpbNjUxNTU2Njc3XX0=
 -->
