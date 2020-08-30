@@ -31,9 +31,12 @@
 **Using Shielded VMs**
 
 - Protects workloads from remote attacks, privilege escalation, and malicious insiders
-	- Protect agains advanced threats
+	- Protect against advanced threats
+	- Ensure workloads are trusted and verifiable
+		- Be sure instances haven't been compromised by boot level or kernel level malware or rootkits
+	- Protect secrets against replay and exfiltration
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgyMjM1MDZdfQ==
+eyJoaXN0b3J5IjpbLTk4MzAzOTgwOV19
 -->
