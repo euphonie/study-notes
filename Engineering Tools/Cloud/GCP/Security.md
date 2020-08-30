@@ -73,9 +73,13 @@
 - The process is enabled by default and managed by Google
 - Key rotation schedule is applied every 90 days to KEKs
 	- Google stores up to 20 versions of the keys
+	- Re-encryption of data is required at least once every 5 years
+- **Optional ** Users can also choose to managed their own keys
+	- Allows to set keys, rotation periods, keys expiration
+	- Keys are still stored in Google KMS
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2NTMzMTQwLDUxMjMxNzcxLDE1NTk4OT
-QzMzUsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbLTQ2MzY5NDYzNiw1MTIzMTc3MSwxNTU5OD
+k0MzM1LDY1MTU1NjY3N119
 -->
