@@ -102,11 +102,16 @@ Horizontally scalable NoSQL DB
 - Ideal for 
 	- Web frameworks
 	- Structured data
-	- OLTP workloa
+	- OLTP workloads
+	- Applications using MySQL/PostgreSQL
 
 ### Cloud Spanner
 
 A horizontally scalable RDBMS
+- Fully managed
+- Missiong-critical relational database
+- Transactional conspiracy
+- Multi-region replication
 - Provides petabytes of capacity
 - Offers transactional consistency on a global scale, schemas, automatic synchronous replication 
 - Managed instances with high availability
@@ -201,9 +206,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMwNTQyOTgsLTE1MTkyOTk2MDksLT
-ExNTExODIwNTcsLTExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgy
-MDAzODY3LDExODg5ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNz
-E1LDE0NjUxMzU5MTUsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwt
-MTQzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbLTU1ODI3NTM1MiwtMTUxOTI5OTYwOSwtMT
+E1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIw
+MDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MT
+UsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0x
+NDMxMDY1MzU5XX0=
 -->
