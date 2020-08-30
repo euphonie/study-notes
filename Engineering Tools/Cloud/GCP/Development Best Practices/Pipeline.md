@@ -66,9 +66,16 @@
 		- Uncommon or rare
 	- Deployment rollback
 	- Data corruption caused by network or application issues
-- During failure check, see the correct people were contacted and the traffic was rerouted using redundant routes 
+- During failure check, see the correct people were contacted and the traffic was rerouted using redundant routes and that data was not corrupted
+
+**Implement CI/CD pipelines**
+- Reduce regression risk
+- Have more releases
+- Improve release delivery time
+- Manage rollbacks
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Nzk1NDY4LDE2NjY4MjczNjAsODc2Mj
+eyJoaXN0b3J5IjpbODExOTM1Nzk5LDE2NjY4MjczNjAsODc2Mj
 k3MjM0LC0zMjc3ODA3NDMsLTE1NTUzNTQ3NDZdfQ==
 -->
