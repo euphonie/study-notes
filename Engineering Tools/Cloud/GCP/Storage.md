@@ -233,15 +233,21 @@ Works for object storage. It relates group of bytes with an unique key for addre
 		- Permission. What actions can be performed
 			- Ex. Read or write
 
+## Note on Firebase
+- Storage options are available for web and mobile dev with GCP. 
+- Cloud storage for Firebase stores user generated data in files in Cloud Storage. 
+- Ideal for:
+	- 
 
 ## Note on MSSQL
 
 - SQL Server images on Compute Engine
 - Come with SQL Server preloaded and licensing from Microsoft included
+- Not managed service
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyODc4OTQ2LC0xNTE5Mjk5NjA5LC0xMT
+eyJoaXN0b3J5IjpbMTI3OTExODgyLC0xNTE5Mjk5NjA5LC0xMT
 UxMTgyMDU3LC0xMTI2ODI0MjYzLDEzODI1MjA5MjQsMTU4MjAw
 Mzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNS
 wxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0
