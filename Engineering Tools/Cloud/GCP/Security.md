@@ -13,9 +13,11 @@
 			- This process automatically locates .ssh keys in ~/.ssh
 - Window instances accessed via Remote Desktop Protocol
 	- Require username and password
-
+- Connecting from outside Google Console
+	- Is possible with a username and valid SSH key
+		- Key needs to be provided to the instance using the project's metadata `SSH Keys` tab
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDQ4ODcxN119
+eyJoaXN0b3J5IjpbNjY3ODI2OTc5XX0=
 -->
