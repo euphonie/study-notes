@@ -39,10 +39,11 @@
 		- Accomplished using UEFI firmware
 		- Code that is not properly signed or unsigned at all, isn't allowed to run.
 	- Measured boot checks for modified components during bootup
-	- 
+		- Hashes components to keep track of the quantity and sequence order (Integrity Monitoring)
 		- Using a virtualized Trusted Platform Model (vTPM)
+			- Virtualized version of a specialized computer chip. It 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjExNDcxOTgsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbLTE2MjQ5NTIzMjUsNjUxNTU2Njc3XX0=
 -->
