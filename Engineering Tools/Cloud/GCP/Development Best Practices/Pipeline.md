@@ -87,9 +87,9 @@
 	- Check third-party software and dependencies security
 	- Scanning code for vulnerabilities
 	- Confirm resources have least privilege permissions
-	- Detecting errors in production
+	- Detecting errors in production and rolling back
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjUzOTQ2NywxNjY2ODI3MzYwLDg3Nj
+eyJoaXN0b3J5IjpbMTc0MTY2MzM4MiwxNjY2ODI3MzYwLDg3Nj
 I5NzIzNCwtMzI3NzgwNzQzLC0xNTU1MzU0NzQ2XX0=
 -->
