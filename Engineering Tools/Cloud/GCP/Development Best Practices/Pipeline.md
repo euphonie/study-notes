@@ -47,9 +47,15 @@
 **Data sovereignty and compliance requirements**
 - Regions and industry segments have strict compliance requirements for data protection and consumer privacy
 
-
+**High availability testing and Disaster Recovery plans**
+- Testing env
+	- Identify failure scenarios
+	- Create disaster recovery plans (people, processes, tools)
+	- Perform tabletop tests
+- Production env
+	- Perform canary testing and blue/green deployments
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTg5NDczOSw4NzYyOTcyMzQsLTMyNz
-c4MDc0MywtMTU1NTM1NDc0Nl19
+eyJoaXN0b3J5IjpbNDM4Mzg4OTQsODc2Mjk3MjM0LC0zMjc3OD
+A3NDMsLTE1NTUzNTQ3NDZdfQ==
 -->
