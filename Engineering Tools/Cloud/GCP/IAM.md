@@ -89,13 +89,15 @@ To be able two have an organization node there can be two ways:
 
 ## Organization Policies
 
-
+Centralized and programmatic control over organization's cloud resources. A policy administrator can configure restrictions across the entire resource hierarchy.
+- Configure restrictions on how your organization's resource can be used
+- Define and establish guard r
 
 # Best Practices
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM3MzA0MTgsMTg1NzM1NTM5OCwtMT
+eyJoaXN0b3J5IjpbLTIwODg5Nzk3MDcsMTg1NzM1NTM5OCwtMT
 AwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5
 MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzND
 YzXX0=
