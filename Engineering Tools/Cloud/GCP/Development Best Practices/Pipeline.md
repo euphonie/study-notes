@@ -1,5 +1,5 @@
 
-# Development Best Practices
+# Best Practices
 
 - Inside Code repository
 	- Don't store dependencies, rather use dependencies managers
@@ -16,8 +16,12 @@
 - Implement API gateways to expose backend functionality to consumer applications
 	- Cloud Enpoints or Apigee
 
+## Federated Identity Management
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2Mjk3MjM0LC0zMjc3ODA3NDMsLTE1NT
-UzNTQ3NDZdfQ==
+eyJoaXN0b3J5IjpbMTkzOTMyNTA2Miw4NzYyOTcyMzQsLTMyNz
+c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
