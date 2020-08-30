@@ -84,11 +84,27 @@
 	- And key must be specified each time a resource is started or created
 
 
+# Snippets
 
+```bash
+# Create a key
+openssl rand 32 > mykey.txt
+# Verify key
+more mykey.txt
+#
+curl \ https://cloud-certs.storage.googleapis.com/google-cloud-csek-ingress.pem \ > gce-cert.pem
+openssl x509 -pubkey -noout -in gce-cert.pem > pubkey.pem
+openssl rsautl -oaep -encrypt -pubin -inkey pubkey.pem -in \ mykey.txt -out rsawrappedkey.txt
+openssl enc -base64 -in rsawrappedkey.txt | tr -d '\n' | sed -e \ '$a\' > rsawrapencodedkey.txt
+cat rsawrapencodedkey.txt
+
+# Format and mount the encrypted volume
+sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo mount /dev/disk/by-id/google-encrypted-disk-1 encrypted/
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxNzc2MDY4LC00OTM1MTkyMjAsLTk2Nj
-Q2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1MTU1NjY3N119
-
+eyJoaXN0b3J5IjpbLTE2NjY3MjYxMjIsLTQ5MzUxOTIyMCwtOT
+Y2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQzMzUsNjUxNTU2Njc3
+XX0=
 -->
