@@ -148,7 +148,13 @@ INTERLEAVE IN PARENT Singers ON DELETE CASCADE;
 - Offers complex queries
 - Provides petabytes of capacity
 - Low-cost enterprise data warehouse for analytics
-- Full
+- Fully managed
+- Fast response times
+- Serverless
+- Ideal for
+	- OLAP workloads
+	- Bigdata exploration and processing
+	- Reporting via BI tools
 
 ## File System
 
@@ -228,11 +234,16 @@ Works for object storage. It relates group of bytes with an unique key for addre
 			- Ex. Read or write
 
 
+## Note on MSSQL
+
+- SQL Server images on Compute Engine
+- Come with SQL Server preloaded and licensing from Microsoft included
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDI0MDAyMiwtMTUxOTI5OTYwOSwtMT
-E1MTE4MjA1NywtMTEyNjgyNDI2MywxMzgyNTIwOTI0LDE1ODIw
-MDM4NjcsMTE4ODk4ODI2NSw1NzAwMDg2MjEsLTE4ODExMjA3MT
-UsMTQ2NTEzNTkxNSwtMjA5OTQ0Mjc3OCwxNTYxNjM4ODkxLC0x
-NDMxMDY1MzU5XX0=
+eyJoaXN0b3J5IjpbOTMyODc4OTQ2LC0xNTE5Mjk5NjA5LC0xMT
+UxMTgyMDU3LC0xMTI2ODI0MjYzLDEzODI1MjA5MjQsMTU4MjAw
+Mzg2NywxMTg4OTg4MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNS
+wxNDY1MTM1OTE1LC0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0
+MzEwNjUzNTldfQ==
 -->
