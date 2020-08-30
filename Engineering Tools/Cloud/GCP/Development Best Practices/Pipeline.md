@@ -54,12 +54,19 @@
 	- Perform tabletop tests
 		- Teams discussed how they would respond in failure scenarios but don't perform any real actions
 		- What to do in unexpected situations
-		- Simulate failures and address priblemsand refine
+		- Simulate failures and address problems and refine the disaster recovery plan
 - Production env
 	- Perform canary testing and blue/green deployments
+		- Tests during a maintenance window or during off-peak hours to minimize the impact
 	- Validate your disaster recovery plan
+- Principal failure scenarios
+	- Connectivity failure
+	- On-permises data center or other cloud-provider failure
+	- GCP zonal or regional failure
+	- Deployment rollback
+	- Data corruption caused by network or application issues
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTcxOTg3Nyw4NzYyOTcyMzQsLTMyNz
+eyJoaXN0b3J5IjpbMTYyNzEwMTYyNCw4NzYyOTcyMzQsLTMyNz
 c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
