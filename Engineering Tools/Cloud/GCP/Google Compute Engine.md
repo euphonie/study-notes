@@ -49,10 +49,11 @@ The only difference is that Compute Engine has the  permission to terminate the 
 	- Use the Trusted Images Policy
 - Harden custom OS images to help reduce the surface of vulnerability for the instance
 	- Formulate a plan to maintain the image with security patches and updates
-- deployed Compute Engi
-
+- Deployed Compute Engine instances are not updated automatically
+	- The image should be patched and each instance should be replaced with an updated image
+- Each instance that needs to call a Google API should run as a service acco
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODA5NjA2MywzMjE5NDg3NjYsLTIxMj
+eyJoaXN0b3J5IjpbLTI2ODc2ODE1NywzMjE5NDg3NjYsLTIxMj
 UxMjkxN119
 -->
