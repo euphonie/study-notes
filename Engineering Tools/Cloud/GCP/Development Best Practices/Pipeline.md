@@ -90,11 +90,13 @@
 	- Detecting errors in production and rolling back
 
 **Re-architecturing applications**
-- Strangler pattern (Fac
-	- Replace smaller parts of an application
+- Strangler pattern
+	- Replace smaller parts of an application with newer application components or services
+	- Strangler facade can receive requests and direct them to the old application or the new services
+	- Minimizes risk
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ1NjM3ODcsMTY2NjgyNzM2MCw4Nz
-YyOTcyMzQsLTMyNzc4MDc0MywtMTU1NTM1NDc0Nl19
+eyJoaXN0b3J5IjpbLTEzODIyODMwMSwxNjY2ODI3MzYwLDg3Nj
+I5NzIzNCwtMzI3NzgwNzQzLC0xNTU1MzU0NzQ2XX0=
 -->
