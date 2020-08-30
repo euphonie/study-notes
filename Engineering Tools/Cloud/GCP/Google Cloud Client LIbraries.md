@@ -25,8 +25,10 @@
 	- Built-in code editor
 - Firebase
 	- Mobile and web application dev platform
+	- Stores directly on Cloud Storage
+	- Uses a standard App Engine environment
 	- Integrates with Cloud Storage, App Engine, User Auth, Cloud Functions and Vision and Speech API
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMTg0MTA5XX0=
+eyJoaXN0b3J5IjpbMTQ0Njc1NzgxNF19
 -->
