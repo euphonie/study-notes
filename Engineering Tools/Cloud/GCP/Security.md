@@ -18,8 +18,13 @@
 		- Key needs to be provided to the instance using the project's metadata `SSH Keys` tab
 - VMs can be configured to not use project-wide SSH keys `Block project-wide SSH keys`
 - Keys can also be added to instance-specific metadata
+- **If no public address**
+	- Bastion host
+		- Create a second VM with public IP in the same network
+		- Connect to Bastion host
+		- SSH into private VM
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk1MDE4NzRdfQ==
+eyJoaXN0b3J5IjpbLTQ2NzM4NjI3N119
 -->
