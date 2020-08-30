@@ -39,6 +39,9 @@ These are identified with an email address, and instead of passwords use cryptog
 Service accounts can be used to allow certain levels of server-to-server interaction within the same project. For example having project A, with components 1 and 2. Service account 1 used by component 1 can edit project_b's configuration, but Service account 2 used by component 2 can't.
 
 - A service account can be assigned to a Compute Engine VMs, to authenticate with it when making calls to the Google API
+	- If no service account is assigned, it needs to be manually configured
+- Every GCP project has a default Service Account
+- Can be created using IAM or Google Ide
 
 *Note*. A service account is also a resource, and can have IAM policies on its own attached to it.
 
@@ -65,7 +68,7 @@ To be able two have an organization node there can be two ways:
 *Note*: Higher-level policies (resource-level) can't take away access that's granted at a lower level (organization node level).
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5Njc2NTI4MCwxODU3MzU1Mzk4LC0xMD
+eyJoaXN0b3J5IjpbLTI4ODM4MTY5NCwxODU3MzU1Mzk4LC0xMD
 A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
 OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
 NdfQ==
