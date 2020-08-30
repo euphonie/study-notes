@@ -97,13 +97,17 @@ Centralized and programmatic control over organization's cloud resources. A poli
 - To define a policy
 	- Choose a constraint (particular type of restriction against GCP service or group of services)
 	- Configure that constraint
+	- Descendants inherit the organization's policy
+
+- Constraint
+	- Blueptinr that define
 
 # Best Practices
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMwODc1NzEsMTg1NzM1NTM5OCwtMT
-AwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5
-MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzND
-YzXX0=
+eyJoaXN0b3J5IjpbODkzNTA5OTUsMTg1NzM1NTM5OCwtMTAwND
+g0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5MTk5
+MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzNDYzXX
+0=
 -->
