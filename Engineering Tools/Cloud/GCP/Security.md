@@ -22,9 +22,10 @@
 	- Bastion host
 		- Create a second VM with public IP in the same network
 		- Connect to Bastion host
+			- Bastion host should have rules limiting hosts that can connect and the private instance should only allow SSH traffic from the Bastion host
 		- SSH into private VM
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NzM4NjI3N119
+eyJoaXN0b3J5IjpbMjAyOTE2MDEwOV19
 -->
