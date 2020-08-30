@@ -29,8 +29,19 @@
 - StackDriver can log and send alert if a threshold is met
 - Logs can be treated as event streams
 - Don't keep log files but leverage the event stream for further analysis and storage
+- It can help in
+	- Debugging
+	- Error Reporting
+	- Tracing
+	- Logs-based metrics
+	- Monitoring
+- Errors can be categorized
+	- Transient 
+		- Retry with exponential backoff 
+		- Fail gracefully if error persists
+	- Long lasting 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5ODMwMjA2Niw4NzYyOTcyMzQsLTMyNz
+eyJoaXN0b3J5IjpbMTU1NDI3NjMyNiw4NzYyOTcyMzQsLTMyNz
 c4MDc0MywtMTU1NTM1NDc0Nl19
 -->
