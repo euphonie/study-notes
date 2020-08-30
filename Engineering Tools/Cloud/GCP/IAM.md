@@ -87,13 +87,16 @@ To be able two have an organization node there can be two ways:
 
 *Note*: Higher-level policies (resource-level) can't take away access that's granted at a lower level (organization node level).
 
+## Organization Policies
+
+
 
 # Best Practices
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDY1MTEzNSwxODU3MzU1Mzk4LC0xMD
-A0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4ODA1MzcsMTI4NTkx
-OTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NTcsLTEyMzE3MjM0Nj
-NdfQ==
+eyJoaXN0b3J5IjpbLTEyODM3MzA0MTgsMTg1NzM1NTM5OCwtMT
+AwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5
+MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzND
+YzXX0=
 -->
