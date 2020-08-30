@@ -35,8 +35,12 @@
 	- Ensure workloads are trusted and verifiable
 		- Be sure instances haven't been compromised by boot level or kernel level malware or rootkits
 	- Protect secrets against replay and exfiltration
+	- Secure boot prevents loading of malicious code during bootup
+		- Accomplished using UEFI firmware
+	- Measured boot checks for modified components during bootup
+		- Using a virtualized Trusted Platform Model (vTPM)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzAzOTgwOV19
+eyJoaXN0b3J5IjpbLTE0MjY2ODgyMjFdfQ==
 -->
