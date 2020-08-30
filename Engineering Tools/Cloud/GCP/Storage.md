@@ -14,7 +14,8 @@
 ### Bigtable
 
 - Fully managed NoSQL, wide-column database service for terabyte applications
-- Sparsely po
+- Sparsely populated table
+- Can store tera to petabytes of data
 - Can scale up to billion of rows and thousands of columns
 - Ideal for data that has a single lookup key
 - Can also be viewed as a persistent hash table
@@ -29,6 +30,10 @@
 	- Application API. Data can be accessed through a data service layer, HBase REST server, or a java server with HBase client.
 	- Streaming. Data can be streamed in through Cloud Dataflow Streaming, Spark Streamlining and Storm
 	- Batch Processing. Data can be read from and written through Hadoop's Map Reduce, Dataflow or Spark batch processes. 
+- Ideal for 
+	- Operational applciations
+	- Analytical applications
+	- Storing large amounts 
 
 ### Datastore
 
@@ -186,7 +191,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDEwOTk5NzcsLTExNTExODIwNTcsLT
+eyJoaXN0b3J5IjpbLTE2MjAwMzU4NjMsLTExNTExODIwNTcsLT
 ExMjY4MjQyNjMsMTM4MjUyMDkyNCwxNTgyMDAzODY3LDExODg5
 ODgyNjUsNTcwMDA4NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MT
 UsLTIwOTk0NDI3NzgsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
