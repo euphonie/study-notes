@@ -77,9 +77,12 @@
 - **Optional ** Users can also choose to managed their own keys
 	- Allows to set keys, rotation periods, keys expiration
 	- Keys are still stored in Google KMS
+	- Keys belong to a key ring and a key resides in a particular location (regional, multi-regional or global)
+	- KMS supports symmetric and asymmetric key types
+	- Keys should be assigned when creating resources and the ser
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzY5NDYzNiw1MTIzMTc3MSwxNTU5OD
-k0MzM1LDY1MTU1NjY3N119
+eyJoaXN0b3J5IjpbLTEyMzU4MDk4MDUsNTEyMzE3NzEsMTU1OT
+g5NDMzNSw2NTE1NTY2NzddfQ==
 -->
