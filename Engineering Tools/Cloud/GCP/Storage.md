@@ -98,6 +98,7 @@ Works for object storage. It relates group of bytes with an unique key for addre
 		- Objects 
 - Is not a filesystem.
 - Encrypts data at rest and in transit (HTTPS)
+- Accessed through HTTP including ranged gets to retrieve portions of the data
 - High performance, internet-scale
 - Objects stored with high durability and high availability
 - Simple administration
@@ -157,8 +158,9 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTExODIwNTcsLTExMjY4MjQyNjMsMT
-M4MjUyMDkyNCwxNTgyMDAzODY3LDExODg5ODgyNjUsNTcwMDA4
-NjIxLC0xODgxMTIwNzE1LDE0NjUxMzU5MTUsLTIwOTk0NDI3Nz
-gsMTU2MTYzODg5MSwtMTQzMTA2NTM1OV19
+eyJoaXN0b3J5IjpbODE1MjIyNDY0LC0xMTUxMTgyMDU3LC0xMT
+I2ODI0MjYzLDEzODI1MjA5MjQsMTU4MjAwMzg2NywxMTg4OTg4
+MjY1LDU3MDAwODYyMSwtMTg4MTEyMDcxNSwxNDY1MTM1OTE1LC
+0yMDk5NDQyNzc4LDE1NjE2Mzg4OTEsLTE0MzEwNjUzNTldfQ==
+
 -->
