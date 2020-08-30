@@ -81,9 +81,15 @@
 		- Automatically execute integration, security and performance tests 
 	- Finally deploy a successful build to production
 		- Consider canary testing or blue/green testing to reduce the affected users if an issue is encountered
-	- Setup performance metrics 
+	- Setup performance metrics and alerts to monitor production
+- SecDevOps
+	- Automate security checks in the pipeline
+	- Check third-party software and dependencies security
+	- Scanning code for vulnerabilities
+	- Confirm resources have least privilege permissions
+	- Detecting errors in production
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE0NDE2NDcsMTY2NjgyNzM2MCw4Nz
-YyOTcyMzQsLTMyNzc4MDc0MywtMTU1NTM1NDc0Nl19
+eyJoaXN0b3J5IjpbMTE1NjUzOTQ2NywxNjY2ODI3MzYwLDg3Nj
+I5NzIzNCwtMzI3NzgwNzQzLC0xNTU1MzU0NzQ2XX0=
 -->
