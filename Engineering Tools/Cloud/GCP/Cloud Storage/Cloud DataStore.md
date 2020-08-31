@@ -32,7 +32,11 @@
 -  Use sharding for higher rate of writes and replication for higher rate of reads
 	- If faster writing is needed manual sharding can be implemented
 		- Sharding limitations: 1 write/sec per entity group = transaction throughput
-		- Split frequently updated entities ac
+		- Split frequently updated entities across multiple kinds
+- Reduce contention by
+	- Building a sharded counter
+		- Pick a shard at random to increment the counter
+		- To know the total count, read all counter shards and sum their individual counts
 
 **Indexes**
 - Built-in
@@ -53,6 +57,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDM5MDMxMSwxMzE2MzgzNzA2LDEzMT
-Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
+eyJoaXN0b3J5IjpbLTg5OTI4MjQxLDEzMTYzODM3MDYsMTMxND
+Q0NjMwNCwtMTc3NTk2OTA5OSwtMTc4NjkzNTg4XX0=
 -->
