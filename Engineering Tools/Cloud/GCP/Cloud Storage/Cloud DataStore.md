@@ -24,7 +24,8 @@
 	- They exceed a resource limit
 	- Datastore encounters an internal error
 	- Datastore operations in a transaction operate on more than 25 entity groups
-- Make transactions idempotent, so when a 
+- Make transactions idempotent, so when a transaction is repeated the end result will be the same and has no additional effects with same parameters
+- Success responses 200 and errors in 400 or 500
 
 **Naming conventions**
 - Use UTF-8 characters for
@@ -85,6 +86,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDExNTY4NSwxMzE2MzgzNzA2LDEzMT
-Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
+eyJoaXN0b3J5IjpbLTE4MTEzNzUzNTQsMTMxNjM4MzcwNiwxMz
+E0NDQ2MzA0LC0xNzc1OTY5MDk5LC0xNzg2OTM1ODhdfQ==
 -->
