@@ -14,7 +14,9 @@
 	- Without a parent is a root entity
 - Does not support join operations, inequality filtering on multiple properties, or filtering on data based on results of a subquery
 - Instead of table the concept is a Kind
+
  
+
 **Indexes**
 - Built-in
 	- Automatically pre-define an index for each property of each entity kind
@@ -34,6 +36,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDQ0NjMwNCwtMTc3NTk2OTA5OSwtMT
-c4NjkzNTg4XX0=
+eyJoaXN0b3J5IjpbODM0NDI0NjA4LDEzMTQ0NDYzMDQsLTE3Nz
+U5NjkwOTksLTE3ODY5MzU4OF19
 -->
