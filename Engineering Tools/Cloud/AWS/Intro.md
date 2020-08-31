@@ -62,9 +62,10 @@
 
 **ElastiCache**
 - Cache for Redis or Memcached
-- Fully managed and scala
+- Fully managed and scalable
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA2NTM4NTgsLTE4MDQ2NTEzMDYsND
-MzNTcxNzUwLC0zNTczMTYxMzAsLTQwMjE4NjE5NV19
+eyJoaXN0b3J5IjpbMTc0MjYzMDk0NSwtMTgwNDY1MTMwNiw0Mz
+M1NzE3NTAsLTM1NzMxNjEzMCwtNDAyMTg2MTk1XX0=
 -->
