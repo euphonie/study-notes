@@ -23,6 +23,11 @@
 	- Key names
 - Avoid slash in kind names and custom key names
 - Avoid sensitive information in a Cloud Project ID 
+- For numeric keys
+	- Don't use negative numbers
+	- Don't use value 0
+	- Get a block of IDs using the allocatedIds() method if you want to assign your own numeric IDs
+	- Avoid monotonically increasing values
 
 **Reads and writes**
 - Max write rate to an entity group is 1/second
@@ -44,7 +49,7 @@
 - Use asynchronous calls
 - Use cursors instead of offsets
 	- Retrieve a query's results in convenient batches
-	- Don't incur the overhead of 
+	- Don't incur the overhead of a query offset
 - Use query types
 > image querytype
 
@@ -69,6 +74,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA1MDQyMiwxMzE2MzgzNzA2LDEzMT
+eyJoaXN0b3J5IjpbMTY1ODUyNDMwNiwxMzE2MzgzNzA2LDEzMT
 Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
 -->
