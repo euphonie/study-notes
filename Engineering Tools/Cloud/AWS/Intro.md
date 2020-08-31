@@ -59,8 +59,12 @@
 **CDN**
 - Amazon CloudFront
 - multiregional CDN
+
+**ElastiCache**
+- Cache for Redis or Memcached
+- Fully managed and scala
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ2NTEzMDYsNDMzNTcxNzUwLC0zNT
-czMTYxMzAsLTQwMjE4NjE5NV19
+eyJoaXN0b3J5IjpbLTEyNjA2NTM4NTgsLTE4MDQ2NTEzMDYsND
+MzNTcxNzUwLC0zNTczMTYxMzAsLTQwMjE4NjE5NV19
 -->
