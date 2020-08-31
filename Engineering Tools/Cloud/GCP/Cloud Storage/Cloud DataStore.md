@@ -37,6 +37,8 @@
 	- Building a sharded counter
 		- Pick a shard at random to increment the counter
 		- To know the total count, read all counter shards and sum their individual counts
+- Replication can be used if need to use a higher read rate of a portion of the key range
+	- N copies of the same entity can be stored, allowing an N times higher rate of reads
 
 **Indexes**
 - Built-in
@@ -57,6 +59,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTI4MjQxLDEzMTYzODM3MDYsMTMxND
-Q0NjMwNCwtMTc3NTk2OTA5OSwtMTc4NjkzNTg4XX0=
+eyJoaXN0b3J5IjpbLTE1MjI3NTM4MzgsMTMxNjM4MzcwNiwxMz
+E0NDQ2MzA0LC0xNzc1OTY5MDk5LC0xNzg2OTM1ODhdfQ==
 -->
