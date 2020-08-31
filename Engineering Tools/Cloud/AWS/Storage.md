@@ -11,8 +11,12 @@
 	- NoSQL
 	- Fully managed service
 	- Low latency, access control, regional or global options
+- DocumentDB
+- Neptune
+- Redshift 
+	- Fast and scalable
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQwOTcxMDVdfQ==
+eyJoaXN0b3J5IjpbLTY1NzQ5MTI4MCwtMTAxNDA5NzEwNV19
 -->
