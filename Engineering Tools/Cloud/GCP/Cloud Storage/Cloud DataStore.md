@@ -20,7 +20,11 @@
 - Max duration: 60s
 - Idle expiration 10s after 30s
 - Can fail when
-	- Too many concurrent modifications are attempted 
+	- Too many concurrent modifications are attempted on the same entity group
+	- They exceed a resource limit
+	- Datastore encounters an internal error
+	- Datastore operations in a transaction operate on more than 25 entity groups
+- Make transactions idempotent, so when a 
 
 **Naming conventions**
 - Use UTF-8 characters for
@@ -81,6 +85,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTMzNzYwMSwxMzE2MzgzNzA2LDEzMT
+eyJoaXN0b3J5IjpbMTA2NDExNTY4NSwxMzE2MzgzNzA2LDEzMT
 Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
 -->
