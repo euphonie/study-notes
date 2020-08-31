@@ -26,7 +26,9 @@
 
 - Max write rate to an entity group is 1/second
 - Avoid high read or write rates to keys that are lexicographically close
-- Gradually ramp up to traffic to new Cloud Datastore kinds of portions of the k 
+- Gradually ramp up to traffic to new Cloud Datastore kinds of portions of the keyspace
+- Avoid deleting large numbers of entities across a small range of keys
+-  Use sharding for higher rate of writes and replication for higher rate of reads
 
 **Indexes**
 - Built-in
@@ -47,6 +49,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE3OTIzNTgsMTMxNDQ0NjMwNCwtMT
-c3NTk2OTA5OSwtMTc4NjkzNTg4XX0=
+eyJoaXN0b3J5IjpbMTMxNjM4MzcwNiwxMzE0NDQ2MzA0LC0xNz
+c1OTY5MDk5LC0xNzg2OTM1ODhdfQ==
 -->
