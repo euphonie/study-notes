@@ -3,7 +3,7 @@
 
 **Instances**
 - EC2 ~ CE
-- Elastic Load Balancing
+- Elastic Load Balancing (ELB)
 
 **Databases**
 - RDBS 
@@ -41,5 +41,5 @@
 - Highly available and scalable
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDYzMDM0OSwtNDAyMTg2MTk1XX0=
+eyJoaXN0b3J5IjpbMTE4Nzk4NDc3NywtNDAyMTg2MTk1XX0=
 -->
