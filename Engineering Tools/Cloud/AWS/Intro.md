@@ -1,6 +1,11 @@
 
-# Storage
+# Intro
 
+**Instances**
+- EC2 ~ CE
+- Elastic Load Balancing
+
+**Databases**
 - RDBS 
 - Aurora
 	- RDBS compatible MySQL/PostgreSQL
@@ -17,14 +22,17 @@
 	- Fast and scalable
 - Bucket S3
 
-**Migra**
+**Migration**
 - AWS Database Migration Service
 	- Migrate to RDS (SQL Server) or Aurora (Oracle)
 - AWS CloudFormation (Infrastructure as Code) ~ Terraform
 	- Using YAML or JSON
 	- CloudFormation Designer
 
+**Monitoring**
+- CloudWatch
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQwOTIxOTFdfQ==
+eyJoaXN0b3J5IjpbLTQwMjE4NjE5NV19
 -->
