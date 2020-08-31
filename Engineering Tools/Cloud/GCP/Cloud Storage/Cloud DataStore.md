@@ -63,9 +63,8 @@
 	- Retrieve a query's results in convenient batches
 	- Don't incur the overhead of a query offset
 - Use query types
-> image querytype
 
-
+![Query types](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/querytype.png)
 
 **Indexes**
 - Built-in
@@ -86,6 +85,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTEzNzUzNTQsMTMxNjM4MzcwNiwxMz
-E0NDQ2MzA0LC0xNzc1OTY5MDk5LC0xNzg2OTM1ODhdfQ==
+eyJoaXN0b3J5IjpbOTA4MDUyNzQ3LC0xODExMzc1MzU0LDEzMT
+YzODM3MDYsMTMxNDQ0NjMwNCwtMTc3NTk2OTA5OSwtMTc4Njkz
+NTg4XX0=
 -->
