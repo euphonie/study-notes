@@ -24,11 +24,15 @@
 - Avoid slash in kind names and custom key names
 - Avoid sensitive information in a Cloud Project ID 
 
+**Reads and writes**
 - Max write rate to an entity group is 1/second
 - Avoid high read or write rates to keys that are lexicographically close
 - Gradually ramp up to traffic to new Cloud Datastore kinds of portions of the keyspace
 - Avoid deleting large numbers of entities across a small range of keys
 -  Use sharding for higher rate of writes and replication for higher rate of reads
+	- If faster writing is needed manual sharding can be implemented
+		- Sharding limitations: 1 write/sec per entity group = transaction throughput
+		- Split frequently updated entities ac
 
 **Indexes**
 - Built-in
@@ -49,6 +53,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjM4MzcwNiwxMzE0NDQ2MzA0LC0xNz
-c1OTY5MDk5LC0xNzg2OTM1ODhdfQ==
+eyJoaXN0b3J5IjpbMTQ2NDM5MDMxMSwxMzE2MzgzNzA2LDEzMT
+Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
 -->
