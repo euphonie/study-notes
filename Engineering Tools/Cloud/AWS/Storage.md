@@ -17,9 +17,10 @@
 	- Fast and scalable
 - AWS Database Migration Service
 	- Migrate to RDS (SQL Server) or Aurora (Oracle)
+- AWS CloudFormation (Infrastructure as Code) ~ Terraform
+	- Using YAML or JSON
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ0OTg1MjYsLTEwMTQwOTcxMDVdfQ
-==
+eyJoaXN0b3J5IjpbMTY2NzcwNjI4OCwtMTAxNDA5NzEwNV19
 -->
