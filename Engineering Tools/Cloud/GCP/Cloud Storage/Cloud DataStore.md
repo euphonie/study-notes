@@ -39,6 +39,9 @@
 		- To know the total count, read all counter shards and sum their individual counts
 - Replication can be used if need to use a higher read rate of a portion of the key range
 	- N copies of the same entity can be stored, allowing an N times higher rate of reads
+- Batch operations are preferred (reads, writes, deletes)
+- Roll back failed transactions 
+- Use asynchronous calls
 
 **Indexes**
 - Built-in
@@ -59,6 +62,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI3NTM4MzgsMTMxNjM4MzcwNiwxMz
-E0NDQ2MzA0LC0xNzc1OTY5MDk5LC0xNzg2OTM1ODhdfQ==
+eyJoaXN0b3J5IjpbLTI0NTk0MTkzOCwxMzE2MzgzNzA2LDEzMT
+Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
 -->
