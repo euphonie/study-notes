@@ -15,6 +15,13 @@
 - Does not support join operations, inequality filtering on multiple properties, or filtering on data based on results of a subquery
 - Instead of table the concept is a Kind
 
+**Transactions**
+- Atomic (all applied or none)
+- Max duration: 60s
+- Idle expiration 10s after 30s
+- Can fail when
+	- Too many concurrent modifications are attempted 
+
 **Naming conventions**
 - Use UTF-8 characters for
 	- Namespace names
@@ -27,7 +34,7 @@
 	- Don't use negative numbers
 	- Don't use value 0
 	- Get a block of IDs using the allocatedIds() method if you want to assign your own numeric IDs
-	- Avoid monotonically increasing values
+	- Avoid monotonically increasing values (can create hotspots)
 
 **Reads and writes**
 - Max write rate to an entity group is 1/second
@@ -74,6 +81,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODUyNDMwNiwxMzE2MzgzNzA2LDEzMT
+eyJoaXN0b3J5IjpbMTYxMTMzNzYwMSwxMzE2MzgzNzA2LDEzMT
 Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
 -->
