@@ -21,6 +21,10 @@
 - Redshift 
 	- Fast and scalable
 - Bucket S3
+- Elastic File System EFS
+	- File system 
+	- Store shared files
+	- Fully managed
 
 **Migration**
 - AWS Database Migration Service
@@ -41,5 +45,5 @@
 - Highly available and scalable
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Nzk4NDc3NywtNDAyMTg2MTk1XX0=
+eyJoaXN0b3J5IjpbLTM1NzMxNjEzMCwtNDAyMTg2MTk1XX0=
 -->
