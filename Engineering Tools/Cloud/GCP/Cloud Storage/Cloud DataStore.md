@@ -15,6 +15,7 @@
 - Does not support join operations, inequality filtering on multiple properties, or filtering on data based on results of a subquery
 - Instead of table the concept is a Kind
 
+**Naming conventions**
 - Use UTF-8 characters for
 	- Namespace names
 	- Kind names
@@ -22,6 +23,10 @@
 	- Key names
 - Avoid slash in kind names and custom key names
 - Avoid sensitive information in a Cloud Project ID 
+
+- Max write rate to an entity group is 1/second
+- Avoid high read or write rates to keys that are lexicographically close
+- Gradually ramp up to traffic to new Cloud Datastore kinds of portions of the k 
 
 **Indexes**
 - Built-in
@@ -42,6 +47,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTg1NjYyLDEzMTQ0NDYzMDQsLTE3Nz
-U5NjkwOTksLTE3ODY5MzU4OF19
+eyJoaXN0b3J5IjpbLTEzNjE3OTIzNTgsMTMxNDQ0NjMwNCwtMT
+c3NTk2OTA5OSwtMTc4NjkzNTg4XX0=
 -->
