@@ -6,7 +6,8 @@
 - Elastic Load Balancing (ELB)
 
 **Serverless**
-- AWS Lambda
+- AWS Lambda ~ Functions
+
 **Databases**
 - RDBS 
 - Aurora
@@ -47,6 +48,6 @@
 - Highly available and scalable
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM5MzYyNDU5LC0zNTczMTYxMzAsLTQwMj
+eyJoaXN0b3J5IjpbNDMzNTcxNzUwLC0zNTczMTYxMzAsLTQwMj
 E4NjE5NV19
 -->
