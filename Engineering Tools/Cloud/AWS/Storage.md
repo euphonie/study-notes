@@ -15,12 +15,14 @@
 - Neptune
 - Redshift 
 	- Fast and scalable
+- Bucket S3
 - AWS Database Migration Service
 	- Migrate to RDS (SQL Server) or Aurora (Oracle)
 - AWS CloudFormation (Infrastructure as Code) ~ Terraform
 	- Using YAML or JSON
+	- Cloud
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzcwNjI4OCwtMTAxNDA5NzEwNV19
+eyJoaXN0b3J5IjpbLTE3OTM0MjgyNSwtMTAxNDA5NzEwNV19
 -->
