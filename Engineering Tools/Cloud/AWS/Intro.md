@@ -14,7 +14,8 @@
 **Pub/Sub**
 - Amazon Simple Notification Service (SNS) ~ Pub/Sub
 - Editor is a publisher
-- 
+- SNS has topics and filters to redirect messages
+- Consumers can be AWS Lambdas, Queue or HTTP/S endpoints
 
 **Databases**
 - RDBS 
@@ -54,8 +55,12 @@
 - Route 53 ~ DNS
 - Healthcheck of resources
 - Highly available and scalable
+
+**CDN**
+- Amazon CloudFront
+- multiregional CDN
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzMxNjc2Nyw0MzM1NzE3NTAsLTM1Nz
-MxNjEzMCwtNDAyMTg2MTk1XX0=
+eyJoaXN0b3J5IjpbLTE4MDQ2NTEzMDYsNDMzNTcxNzUwLC0zNT
+czMTYxMzAsLTQwMjE4NjE5NV19
 -->
