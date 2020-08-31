@@ -15,7 +15,13 @@
 - Does not support join operations, inequality filtering on multiple properties, or filtering on data based on results of a subquery
 - Instead of table the concept is a Kind
 
- 
+- Use UTF-8 characters for
+	- Namespace names
+	- Kind names
+	- Property names
+	- Key names
+- Avoid slash in kind names and custom key names
+- Avoid sensitive information in a Cloud Project ID 
 
 **Indexes**
 - Built-in
@@ -36,6 +42,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NDI0NjA4LDEzMTQ0NDYzMDQsLTE3Nz
+eyJoaXN0b3J5IjpbLTkxNTg1NjYyLDEzMTQ0NDYzMDQsLTE3Nz
 U5NjkwOTksLTE3ODY5MzU4OF19
 -->
