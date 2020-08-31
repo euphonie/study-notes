@@ -11,6 +11,11 @@
 **Serverless**
 - AWS Lambda ~ Functions
 
+**Pub/Sub**
+- Amazon Simple Notification Service (SNS) ~ Pub/Sub
+- Editor is a publisher
+- 
+
 **Databases**
 - RDBS 
 - Aurora
@@ -51,6 +56,6 @@
 - Highly available and scalable
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTI3MDQ3NSw0MzM1NzE3NTAsLTM1Nz
+eyJoaXN0b3J5IjpbMTkxNzMxNjc2Nyw0MzM1NzE3NTAsLTM1Nz
 MxNjEzMCwtNDAyMTg2MTk1XX0=
 -->
