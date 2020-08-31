@@ -15,8 +15,11 @@
 - Neptune
 - Redshift 
 	- Fast and scalable
+- AWS Database Migration Service
+	- Migrate to RDS (SQL Server) or Aurora (Oracle)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzQ5MTI4MCwtMTAxNDA5NzEwNV19
+eyJoaXN0b3J5IjpbLTEyNTQ0OTg1MjYsLTEwMTQwOTcxMDVdfQ
+==
 -->
