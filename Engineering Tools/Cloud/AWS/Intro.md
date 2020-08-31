@@ -32,7 +32,9 @@
 **Monitoring**
 - CloudWatch
 
+**Hybrid setup**
+- Direct Connect ~ Peering, Dedicated Interconnect
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMjE4NjE5NV19
+eyJoaXN0b3J5IjpbLTI0NTAxMzc5OSwtNDAyMTg2MTk1XX0=
 -->
