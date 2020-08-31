@@ -34,7 +34,12 @@
 
 **Hybrid setup**
 - Direct Connect ~ Peering, Dedicated Interconnect
+
+**DNS**
+- Route 53 ~ DNS
+- Healthcheck of resources
+- Highly available and scalable
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTAxMzc5OSwtNDAyMTg2MTk1XX0=
+eyJoaXN0b3J5IjpbLTU3NDYzMDM0OSwtNDAyMTg2MTk1XX0=
 -->
