@@ -42,6 +42,10 @@
 - Batch operations are preferred (reads, writes, deletes)
 - Roll back failed transactions 
 - Use asynchronous calls
+- Use query types
+> image querytype
+
+
 
 **Indexes**
 - Built-in
@@ -62,6 +66,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTk0MTkzOCwxMzE2MzgzNzA2LDEzMT
-Q0NDYzMDQsLTE3NzU5NjkwOTksLTE3ODY5MzU4OF19
+eyJoaXN0b3J5IjpbLTEwMjc2NzQ3MTYsMTMxNjM4MzcwNiwxMz
+E0NDQ2MzA0LC0xNzc1OTY5MDk5LC0xNzg2OTM1ODhdfQ==
 -->
