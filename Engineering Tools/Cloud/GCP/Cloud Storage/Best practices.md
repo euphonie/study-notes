@@ -32,14 +32,16 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 ```json
 {
 	{
-	
+		"origin": ["*"],
+		"responseHeader": ["*"],
+		"method"
 	}
 }
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjM3OTgxNzYsLTE3OTA4MDI0MTQsLT
-kyMjIxMzc1OCwtNDk2Nzg0MiwxNzI3MDg2MTQzLC0xMjQ1NDgx
-MTQ5LC0xNzAzNTY4ODcxXX0=
+eyJoaXN0b3J5IjpbMTIxNzgwMTM3MywtMTc5MDgwMjQxNCwtOT
+IyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYxNDMsLTEyNDU0ODEx
+NDksLTE3MDM1Njg4NzFdfQ==
 -->
