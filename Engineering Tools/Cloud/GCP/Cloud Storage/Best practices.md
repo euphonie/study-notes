@@ -23,7 +23,8 @@
 - Applications should be designed using truncated exponential backoff for network failures for HTTP responses 5xx and 429 codes
 - Enable CORS
 	- Make files within a bucket public
-	- 
+	- Set CORS config in gsutil using a cors-config.json
+		- `gsutil cors set gcs-cors-config.json gs://cords-demo-dar/`
 ```bash
 # Make all files within a bucket public
 gsutil -m acl set -R -a public-read gs://cords-demo-dar
@@ -32,17 +33,17 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 ```json
 {
 	{
-		"origin": ["*"],
+		"origin": ["http://<webserver_ip>"],
 		"responseHeader": ["*"],
 		"method": ["*"],
-		"maxAgeSeconds": 3600
+		"maxAgeSeconds": 1
 	}
 }
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjU4OTA1MiwxMjE3ODAxMzczLC0xNz
-kwODAyNDE0LC05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0
-MywtMTI0NTQ4MTE0OSwtMTcwMzU2ODg3MV19
+eyJoaXN0b3J5IjpbLTU4NzE2OTIsMTIxNzgwMTM3MywtMTc5MD
+gwMjQxNCwtOTIyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYxNDMs
+LTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
 -->
