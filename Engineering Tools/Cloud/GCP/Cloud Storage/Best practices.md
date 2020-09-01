@@ -8,8 +8,18 @@
 	- Coldline. Disaster recovery and data archiving. 
 - Same bucket can have multi-regional+nearline+coldline or regional+nearline+coldline 
 	- Rules can be applied to automatically migrate objects to a different storage class
+- Strongly consistent operations
+	- Read-after-write
+	- Read-after-metadata-update
+	- Read-after-delete
+	- Bucket listing
+	- Object listing
+	- Granting access to resources
+- Eventually consistent operations
+	- 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Njc4NDIsMTcyNzA4NjE0MywtMTI0NT
-Q4MTE0OSwtMTcwMzU2ODg3MV19
+eyJoaXN0b3J5IjpbODk5NjgzOTY4LC00OTY3ODQyLDE3MjcwOD
+YxNDMsLTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
 -->
