@@ -22,11 +22,16 @@
 - Composite objects and parallel uploads
 - Applications should be designed using truncated exponential backoff for network failures for HTTP responses 5xx and 429 codes
 - Enable CORS
+	- Make files within a bucket public
 	- 
+```bash
+# Make all files within a bucket public
+gsutil -m acl set -R -a public-read gs://cords-demo-dar
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA4MDI0MTQsLTkyMjIxMzc1OCwtND
-k2Nzg0MiwxNzI3MDg2MTQzLC0xMjQ1NDgxMTQ5LC0xNzAzNTY4
-ODcxXX0=
+eyJoaXN0b3J5IjpbMTc0NzAwMzY3MSwtMTc5MDgwMjQxNCwtOT
+IyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYxNDMsLTEyNDU0ODEx
+NDksLTE3MDM1Njg4NzFdfQ==
 -->
