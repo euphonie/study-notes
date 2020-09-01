@@ -96,11 +96,14 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 - For XMLHttpRequests, XHR callbacks to get progress updates or if it's stalled
 	- Don't close and re-open the connection. It creates a bad positive feedback loop during times of network congestion
 - Set reasonably long timeouts for upload traffic
+- `gsutil -D` and `gsutil --trace-token` contains sensitive information
+- In production, use a service account for gsutil
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDk0NDkzNiw2NDk3MjE4MiwtNjY2MT
-QzNzMwLC0xMjIyMTA1Mzc3LC02MzMzNjc1OTcsMTIxNzgwMTM3
-MywtMTc5MDgwMjQxNCwtOTIyMjEzNzU4LC00OTY3ODQyLDE3Mj
-cwODYxNDMsLTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
+eyJoaXN0b3J5IjpbMTA0OTY2MjczOSwxMjIwOTQ0OTM2LDY0OT
+cyMTgyLC02NjYxNDM3MzAsLTEyMjIxMDUzNzcsLTYzMzM2NzU5
+NywxMjE3ODAxMzczLC0xNzkwODAyNDE0LC05MjIyMTM3NTgsLT
+Q5Njc4NDIsMTcyNzA4NjE0MywtMTI0NTQ4MTE0OSwtMTcwMzU2
+ODg3MV19
 -->
