@@ -98,11 +98,16 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 - Set reasonably long timeouts for upload traffic
 - `gsutil -D` and `gsutil --trace-token` contains sensitive information
 - In production, use a service account for gsutil
-- Data c
+- Data can be corrupted during upload or download by 
+	- Noisy network links
+	- Memory errors 
+	- Software bugs
+	- Validate using CRC32c Hash
+	- or MD5 Hash
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY5OTU0MjMsMTA0OTY2MjczOSwxMj
+eyJoaXN0b3J5IjpbLTEwMTgwMTE2NDIsMTA0OTY2MjczOSwxMj
 IwOTQ0OTM2LDY0OTcyMTgyLC02NjYxNDM3MzAsLTEyMjIxMDUz
 NzcsLTYzMzM2NzU5NywxMjE3ODAxMzczLC0xNzkwODAyNDE0LC
 05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0MywtMTI0NTQ4
