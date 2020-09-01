@@ -46,7 +46,7 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 - Use globally unique bucket names
 - Don't use personally identifiable information (PII)
 - Use GUIDs if a lot of buckets are needed
-- Don't use IP address noation
+- Don't use IP address notation
 - Don't use google or misspelled names
 - conform to standard DNS naming conventions
 
@@ -107,9 +107,9 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTgwMTE2NDIsMTA0OTY2MjczOSwxMj
-IwOTQ0OTM2LDY0OTcyMTgyLC02NjYxNDM3MzAsLTEyMjIxMDUz
-NzcsLTYzMzM2NzU5NywxMjE3ODAxMzczLC0xNzkwODAyNDE0LC
-05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0MywtMTI0NTQ4
-MTE0OSwtMTcwMzU2ODg3MV19
+eyJoaXN0b3J5IjpbMjA3MTU2NTIxNiwtMTAxODAxMTY0MiwxMD
+Q5NjYyNzM5LDEyMjA5NDQ5MzYsNjQ5NzIxODIsLTY2NjE0Mzcz
+MCwtMTIyMjEwNTM3NywtNjMzMzY3NTk3LDEyMTc4MDEzNzMsLT
+E3OTA4MDI0MTQsLTkyMjIxMzc1OCwtNDk2Nzg0MiwxNzI3MDg2
+MTQzLC0xMjQ1NDgxMTQ5LC0xNzAzNTY4ODcxXX0=
 -->
