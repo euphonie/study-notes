@@ -20,9 +20,11 @@
 	- Accessing publicly readable cached objects
 - CNAME redirects
 - Composite objects and parallel uploads
-- 
+- Applications should be designed using truncated exponential backoff for network failures for HTTP responses 5xx and 429 codes
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxODgyNDk3LC00OTY3ODQyLDE3MjcwOD
-YxNDMsLTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
+eyJoaXN0b3J5IjpbLTkyMjIxMzc1OCwtNDk2Nzg0MiwxNzI3MD
+g2MTQzLC0xMjQ1NDgxMTQ5LC0xNzAzNTY4ODcxXX0=
 -->
