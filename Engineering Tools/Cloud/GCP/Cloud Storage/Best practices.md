@@ -28,20 +28,21 @@
 # Make all files within a bucket public
 gsutil -m acl set -R -a public-read gs://cords-demo-dar
 ```
-**CORS config**
+**CORS example config**
 ```json
 {
 	{
 		"origin": ["*"],
 		"responseHeader": ["*"],
-		"method"
+		"method": ["*"],
+		"maxAgeSeconds": 3600
 	}
 }
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzgwMTM3MywtMTc5MDgwMjQxNCwtOT
-IyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYxNDMsLTEyNDU0ODEx
-NDksLTE3MDM1Njg4NzFdfQ==
+eyJoaXN0b3J5IjpbMTA4NjU4OTA1MiwxMjE3ODAxMzczLC0xNz
+kwODAyNDE0LC05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0
+MywtMTI0NTQ4MTE0OSwtMTcwMzU2ODg3MV19
 -->
