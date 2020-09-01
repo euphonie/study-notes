@@ -16,10 +16,11 @@
 	- Object listing
 	- Granting access to resources
 - Eventually consistent operations
-	- 
+	- Revoking access from objects
+	- Accessing publicly readable cached objects
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NjgzOTY4LC00OTY3ODQyLDE3MjcwOD
-YxNDMsLTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
+eyJoaXN0b3J5IjpbLTM1NTI5MDYxNiwtNDk2Nzg0MiwxNzI3MD
+g2MTQzLC0xMjQ1NDgxMTQ5LC0xNzAzNTY4ODcxXX0=
 -->
