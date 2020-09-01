@@ -42,9 +42,11 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 }
 ```
 
+**strong text**
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU0NjU3ODYsMTIxNzgwMTM3MywtMT
-c5MDgwMjQxNCwtOTIyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYx
-NDMsLTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
+eyJoaXN0b3J5IjpbLTU5MTYxODEyOCwxMjE3ODAxMzczLC0xNz
+kwODAyNDE0LC05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0
+MywtMTI0NTQ4MTE0OSwtMTcwMzU2ODg3MV19
 -->
