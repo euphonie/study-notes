@@ -25,6 +25,7 @@
 	- Make files within a bucket public
 	- Set CORS config in gsutil using a cors-config.json
 		- `gsutil cors set gcs-cors-config.json gs://cords-demo-dar/`
+
 ```bash
 # Make all files within a bucket public
 gsutil -m acl set -R -a public-read gs://cords-demo-dar
@@ -43,7 +44,7 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzE2OTIsMTIxNzgwMTM3MywtMTc5MD
-gwMjQxNCwtOTIyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYxNDMs
-LTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
+eyJoaXN0b3J5IjpbLTEyMjU0NjU3ODYsMTIxNzgwMTM3MywtMT
+c5MDgwMjQxNCwtOTIyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYx
+NDMsLTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
 -->
