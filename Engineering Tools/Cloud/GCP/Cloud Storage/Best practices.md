@@ -93,10 +93,12 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 - Bucket and object ACLs are independent of each other
 - Avoid making buckets
 	- Publicly readable or writable
+- For XMLHttpRequests, XHR callbacks to ge 
+	- Don't close and re-open the connection. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5OTg3OTk5LC02NjYxNDM3MzAsLTEyMj
+eyJoaXN0b3J5IjpbMzU0ODAyNzkyLC02NjYxNDM3MzAsLTEyMj
 IxMDUzNzcsLTYzMzM2NzU5NywxMjE3ODAxMzczLC0xNzkwODAy
 NDE0LC05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0MywtMT
 I0NTQ4MTE0OSwtMTcwMzU2ODg3MV19
