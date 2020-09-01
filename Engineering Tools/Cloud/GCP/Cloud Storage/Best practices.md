@@ -70,10 +70,21 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 	- Infrequently accessed data
 	- Data that tolerates slightly lower availability
 
+**Security**
+- IAM
+	- Access to buckets
+	- Bulk access to a bucket's objects
+- ACL
+	- Read or write access to users for individual buckets or objects
+	- Access when fine-grained control over individual objects is required
+- Signed URLs
+	- Provide time-limited read or write access to an object, through a generated URL
+	- Can be created using gsutil or programmatically
+- 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTAxNDI5MCwtMTIyMjEwNTM3NywtNj
-MzMzY3NTk3LDEyMTc4MDEzNzMsLTE3OTA4MDI0MTQsLTkyMjIx
-Mzc1OCwtNDk2Nzg0MiwxNzI3MDg2MTQzLC0xMjQ1NDgxMTQ5LC
-0xNzAzNTY4ODcxXX0=
+eyJoaXN0b3J5IjpbMTk5NjU4NzA0LC0xMjIyMTA1Mzc3LC02Mz
+MzNjc1OTcsMTIxNzgwMTM3MywtMTc5MDgwMjQxNCwtOTIyMjEz
+NzU4LC00OTY3ODQyLDE3MjcwODYxNDMsLTEyNDU0ODExNDksLT
+E3MDM1Njg4NzFdfQ==
 -->
