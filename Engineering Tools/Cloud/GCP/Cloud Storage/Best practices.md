@@ -18,9 +18,10 @@
 - Eventually consistent operations
 	- Revoking access from objects
 	- Accessing publicly readable cached objects
-
+- CNAME redirects
+- 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTI5MDYxNiwtNDk2Nzg0MiwxNzI3MD
-g2MTQzLC0xMjQ1NDgxMTQ5LC0xNzAzNTY4ODcxXX0=
+eyJoaXN0b3J5IjpbLTEzMzE5MjYyMjcsLTQ5Njc4NDIsMTcyNz
+A4NjE0MywtMTI0NTQ4MTE0OSwtMTcwMzU2ODg3MV19
 -->
