@@ -85,12 +85,12 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 	- Control size, content type, and other upload characteristics
 - Firebase Security Rules
 	- Granular, attribute-based access control to mobile and web apps using the Firebase SDKs for Cloud Storage
-
+- Ala
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NjE0MzczMCwtMTIyMjEwNTM3NywtNj
-MzMzY3NTk3LDEyMTc4MDEzNzMsLTE3OTA4MDI0MTQsLTkyMjIx
-Mzc1OCwtNDk2Nzg0MiwxNzI3MDg2MTQzLC0xMjQ1NDgxMTQ5LC
-0xNzAzNTY4ODcxXX0=
+eyJoaXN0b3J5IjpbMTQyOTQyNTcxOSwtNjY2MTQzNzMwLC0xMj
+IyMTA1Mzc3LC02MzMzNjc1OTcsMTIxNzgwMTM3MywtMTc5MDgw
+MjQxNCwtOTIyMjEzNzU4LC00OTY3ODQyLDE3MjcwODYxNDMsLT
+EyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
 -->
