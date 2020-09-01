@@ -95,11 +95,12 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 	- Publicly readable or writable
 - For XMLHttpRequests, XHR callbacks to get progress updates or if it's stalled
 	- Don't close and re-open the connection. It creates a bad positive feedback loop during times of network congestion
+- Set reasonably long timeouts for upload traffic
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NzIxODIsLTY2NjE0MzczMCwtMTIyMj
-EwNTM3NywtNjMzMzY3NTk3LDEyMTc4MDEzNzMsLTE3OTA4MDI0
-MTQsLTkyMjIxMzc1OCwtNDk2Nzg0MiwxNzI3MDg2MTQzLC0xMj
-Q1NDgxMTQ5LC0xNzAzNTY4ODcxXX0=
+eyJoaXN0b3J5IjpbMTIyMDk0NDkzNiw2NDk3MjE4MiwtNjY2MT
+QzNzMwLC0xMjIyMTA1Mzc3LC02MzMzNjc1OTcsMTIxNzgwMTM3
+MywtMTc5MDgwMjQxNCwtOTIyMjEzNzU4LC00OTY3ODQyLDE3Mj
+cwODYxNDMsLTEyNDU0ODExNDksLTE3MDM1Njg4NzFdfQ==
 -->
