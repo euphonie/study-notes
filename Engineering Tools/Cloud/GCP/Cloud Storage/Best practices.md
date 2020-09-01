@@ -62,11 +62,12 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 **Location**
 - Store data in a region closest to your application's users 
 - Consider region specific compliance requirements
-- For analytical workloads 
+- For analytical workloads store the data in regional buckets to reduce network charges and better performance
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzM2NzU5NywxMjE3ODAxMzczLC0xNz
-kwODAyNDE0LC05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0
-MywtMTI0NTQ4MTE0OSwtMTcwMzU2ODg3MV19
+eyJoaXN0b3J5IjpbLTEyMjIxMDUzNzcsLTYzMzM2NzU5NywxMj
+E3ODAxMzczLC0xNzkwODAyNDE0LC05MjIyMTM3NTgsLTQ5Njc4
+NDIsMTcyNzA4NjE0MywtMTI0NTQ4MTE0OSwtMTcwMzU2ODg3MV
+19
 -->
