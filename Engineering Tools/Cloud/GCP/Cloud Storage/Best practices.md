@@ -59,9 +59,12 @@ gsutil -m acl set -R -a public-read gs://cords-demo-dar
 	- Start with a request rate below or near the threshold
 	- Double the request rate no faster than every 20 minutes
 
+**Location**
+- Store data in a region closest to your application's users 
+- Consider region specific c
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NDI3NzMwOCwxMjE3ODAxMzczLC0xNz
+eyJoaXN0b3J5IjpbMTk4NjI4MDU1MywxMjE3ODAxMzczLC0xNz
 kwODAyNDE0LC05MjIyMTM3NTgsLTQ5Njc4NDIsMTcyNzA4NjE0
 MywtMTI0NTQ4MTE0OSwtMTcwMzU2ODg3MV19
 -->
