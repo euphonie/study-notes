@@ -40,6 +40,8 @@
 	- **Not allowed** moving over or under another stunt, pyramid or ind
 	- **Not allowed** top cannot pass over or under torso/head of another top
 - Levels
+	- Single leg extended allowed
+	- Extended single leg may not connect
 - Twisting
 	-  In transitions, one person must remain in contact with top
 		- 1 twisting rotation for top persons
@@ -51,7 +53,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTk2NzAxMiwxMTA4NzkxMDExLC02NT
+eyJoaXN0b3J5IjpbMTY4ODk0Njk1MiwxMTA4NzkxMDExLC02NT
 E4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3
 MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX
 0=
