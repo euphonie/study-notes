@@ -51,13 +51,17 @@
 - Release Moves
 	- Start waist level or below
 	- Land/end prep level or below
+	- **Not allowed**
+		- Pass through or land inverted
+		- Release from inverted to non-inverted
+		- Pass above extended arm level of the bases 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzM5MDU0LDExMDg3OTEwMTEsLTY1MT
-g4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3MzExLDk4OTk5Nzcx
-NywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0NTk2NzYyMjNdfQ
-==
+eyJoaXN0b3J5IjpbMTg1NDIxNDkzNywxMTA4NzkxMDExLC02NT
+E4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3
+MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX
+0=
 -->
