@@ -13,8 +13,13 @@
 		- **Not allowed** Twisting dive roll. [https://www.youtube.com/watch?v=aEIn6EvS61k](https://www.youtube.com/watch?v=aEIn6EvS61k)
 - Standing
 	- Series front and back handsprings are allowed
-	- Flips and connected jump-flips are not allowed
-	- No twisting while airborne
+	- **Not allowed** Flips and connected jump-flips are not allowed
+	- **Not allowed** No twisting while airborne
+		- Round offs are allowed
+- Running
+	- Flips
+		- back flips only in a tuck position and from a round off or round off back handspring
+			- 
 
 
 3/4 front flip (stunt)
@@ -22,6 +27,7 @@ https://www.youtube.com/watch?v=-AhBIAOC9Jw&t=0m58s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc2MDczMTEsOTg5OTk3NzE3LC0xMj
-UwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM119
+eyJoaXN0b3J5IjpbMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5OD
+k5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2
+MjIzXX0=
 -->
