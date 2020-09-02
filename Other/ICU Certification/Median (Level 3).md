@@ -23,14 +23,18 @@
 		- Aerial cartwheels
 		- 3/4 front flips
 			- [https://www.youtube.com/watch?v=ShA1ArtNXNw](https://www.youtube.com/watch?v=ShA1ArtNXNw)
-		
+		- Front tuck. no tumbling prior
+			- https://www.youtube.com/watch?v=zGo5_rqgCpY&t=0m52s
+		- **Not allowed** tumbling after flip or aerial
+		- **Not allowed** No twisting while airborne 
+			- Except aerial
 
-3/4 front flip (stunt)
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc3MDcyMDYsMjAzMzE5ODMwMiwtMj
-AxNzYwNzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2
-ODk3NzksNDU5Njc2MjIzXX0=
+eyJoaXN0b3J5IjpbLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMD
+E3NjA3MzExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4
+OTc3OSw0NTk2NzYyMjNdfQ==
 -->
