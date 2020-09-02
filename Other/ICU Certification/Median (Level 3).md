@@ -98,13 +98,18 @@
 - Twisting
 	- Twisting to extended 1 twist
 		- Must connect to bracer at prep level or below and a base
+			- Connection is hand/arm - hand/arm
+			- Remain the same and connect through entire transition
+- Inversions
+	- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3OTMzNjI2LDE4NTI0ODE1MDgsLTg0MT
-M0NDg0MiwtMTUwNjU0MjE0MCwxMTA4NzkxMDExLC02NTE4ODYw
-ODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3MTcsLT
-EyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX0=
+eyJoaXN0b3J5IjpbLTEzOTI3NTg4NDQsMTg1MjQ4MTUwOCwtOD
+QxMzQ0ODQyLC0xNTA2NTQyMTQwLDExMDg3OTEwMTEsLTY1MTg4
+NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3MzExLDk4OTk5NzcxNy
+wtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0NTk2NzYyMjNdfQ==
+
 -->
