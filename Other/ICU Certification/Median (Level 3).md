@@ -38,7 +38,9 @@
 	- Extended single leg top may not connect
 - General
 	- In transitions, one person must remain in contact with top
-	- 1 twisting rotation for top persons
+		- 1 twisting rotation for top persons
+		- Full twist must start and end in prep level
+		- 
 	- **Not allowed** moving over or under another stunt, pyramid or ind
 	- **Not allowed** top cannot pass over or under torso/head of another top
 
@@ -46,8 +48,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1NDgwODQyLDExMDg3OTEwMTEsLTY1MT
-g4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3MzExLDk4OTk5Nzcx
-NywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0NTk2NzYyMjNdfQ
-==
+eyJoaXN0b3J5IjpbMTAwNjMzNTc3NSwxMTA4NzkxMDExLC02NT
+E4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3
+MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX
+0=
 -->
