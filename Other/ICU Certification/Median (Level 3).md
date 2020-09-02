@@ -101,15 +101,20 @@
 			- Connection is hand/arm - hand/arm
 			- Remain the same and connect through entire transition
 - Inversions
-	- 
+	- Top can be inverted if
+		- remains in contact with base and bracer at prep level
+		- base may extend arms if it starts and ends at prep level or beow
+		- Connection to bracer should remain until the end
+	- Release moves
+		- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI3NTg4NDQsMTg1MjQ4MTUwOCwtOD
-QxMzQ0ODQyLC0xNTA2NTQyMTQwLDExMDg3OTEwMTEsLTY1MTg4
-NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3MzExLDk4OTk5NzcxNy
-wtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0NTk2NzYyMjNdfQ==
-
+eyJoaXN0b3J5IjpbLTE4NDcxNDQyNDUsLTEzOTI3NTg4NDQsMT
+g1MjQ4MTUwOCwtODQxMzQ0ODQyLC0xNTA2NTQyMTQwLDExMDg3
+OTEwMTEsLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3Mz
+ExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0
+NTk2NzYyMjNdfQ==
 -->
