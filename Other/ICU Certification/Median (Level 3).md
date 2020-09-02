@@ -48,13 +48,16 @@
 		- Full twist must start and end in prep level or below
 		- To and from extended position may not exceed 1/2 rotation
 		- 1 base must remain in contact
+- Release Moves
+	- Start waist level or below
+	- Land/end prep level or below
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODk0Njk1MiwxMTA4NzkxMDExLC02NT
-E4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3
-MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX
-0=
+eyJoaXN0b3J5IjpbLTQzNzM5MDU0LDExMDg3OTEwMTEsLTY1MT
+g4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3MzExLDk4OTk5Nzcx
+NywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0NTk2NzYyMjNdfQ
+==
 -->
