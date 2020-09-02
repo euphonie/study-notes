@@ -112,15 +112,17 @@
 		- Non twist/inversion
 			- connected to 2 bracers at prep level or b
 			- connected to 1 bracer hand/arm
-			- connected to a secon
+			- connected to a second bracer hand/arm or hand/arm-foot/lower leg
+			- Braced on 2 of the 4 sides of the top person
+		- asdf
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMTUxNTEsLTEzOTI3NTg4NDQsMTg1Mj
-Q4MTUwOCwtODQxMzQ0ODQyLC0xNTA2NTQyMTQwLDExMDg3OTEw
-MTEsLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3MzExLD
-k4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0NTk2
-NzYyMjNdfQ==
+eyJoaXN0b3J5IjpbLTMxNDU1NDM2MCwtMTM5Mjc1ODg0NCwxOD
+UyNDgxNTA4LC04NDEzNDQ4NDIsLTE1MDY1NDIxNDAsMTEwODc5
+MTAxMSwtNjUxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2MDczMT
+EsOTg5OTk3NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1
+OTY3NjIyM119
 -->
