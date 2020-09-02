@@ -55,13 +55,14 @@
 		- Pass through or land inverted
 		- Release from inverted to non-inverted
 		- Pass above extended arm level of the bases 
+		- Come in contact with other top persons 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDIxNDkzNywxMTA4NzkxMDExLC02NT
-E4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3
-MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX
-0=
+eyJoaXN0b3J5IjpbLTE1MDY1NDIxNDAsMTEwODc5MTAxMSwtNj
+UxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2MDczMTEsOTg5OTk3
+NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM1
+19
 -->
