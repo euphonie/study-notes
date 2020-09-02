@@ -78,7 +78,7 @@
 		- Up to 1/2 twist to extended level
 		- Forward roll https://www.youtube.com/watch?v=let4NwS_eBM&t=2m08s
 		- Multi-based suspended forward rolls
-			- Up to 1 twist
+			- Up to 1 twist https://www.youtube.com/watch?v=t7bgUhIvQ8Q&t=0m43s
 			- if exceed 1/2 twist must land in cradle
 		- **Not allowed** Multi based suspended backward rolls may not twist https://www.youtube.com/watch?v=04bkDCrZSQM
 
@@ -86,8 +86,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjY2MzQzNTIsLTg0MTM0NDg0MiwtMT
-UwNjU0MjE0MCwxMTA4NzkxMDExLC02NTE4ODYwODksMjAzMzE5
-ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMz
-AsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX0=
+eyJoaXN0b3J5IjpbMTg1MjQ4MTUwOCwtODQxMzQ0ODQyLC0xNT
+A2NTQyMTQwLDExMDg3OTEwMTEsLTY1MTg4NjA4OSwyMDMzMTk4
+MzAyLC0yMDE3NjA3MzExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMC
+wtMTUyNDY4OTc3OSw0NTk2NzYyMjNdfQ==
 -->
