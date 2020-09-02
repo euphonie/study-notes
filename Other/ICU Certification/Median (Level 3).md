@@ -37,18 +37,21 @@
 	- Spotter for each top in single base multiple top persons
 	- Extended single leg top may not connect
 - General
-	- In transitions, one person must remain in contact with top
-		- 1 twisting rotation for top persons
-		- Full twist must start and end in prep level
-		- 
 	- **Not allowed** moving over or under another stunt, pyramid or ind
 	- **Not allowed** top cannot pass over or under torso/head of another top
+- Levels
+- Twisting
+	-  In transitions, one person must remain in contact with top
+		- 1 twisting rotation for top persons
+		- Full twist must start and end in prep level or below
+		- To and from extended position may not exceed 1/2 rotation
+		- 1 base must remain in contact
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjMzNTc3NSwxMTA4NzkxMDExLC02NT
+eyJoaXN0b3J5IjpbLTYwNTk2NzAxMiwxMTA4NzkxMDExLC02NT
 E4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3
 MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX
 0=
