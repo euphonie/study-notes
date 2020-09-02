@@ -20,15 +20,17 @@
 	- Flips
 		- back flips only in a **tuck** position and from a **round off** or **round off back handspring**
 			- https://www.youtube.com/watch?v=zGo5_rqgCpY&t=1m49s
-		- Aerial cartwheels, 3
-
+		- Aerial cartwheels
+		- 3/4 front flips
+			- [https://www.youtube.com/watch?v=ShA1ArtNXNw](https://www.youtube.com/watch?v=ShA1ArtNXNw)
+		
 
 3/4 front flip (stunt)
-https://www.youtube.com/watch?v=-AhBIAOC9Jw&t=0m58s
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjk2MDg0MywyMDMzMTk4MzAyLC0yMD
-E3NjA3MzExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4
-OTc3OSw0NTk2NzYyMjNdfQ==
+eyJoaXN0b3J5IjpbLTEzOTc3MDcyMDYsMjAzMzE5ODMwMiwtMj
+AxNzYwNzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2
+ODk3NzksNDU5Njc2MjIzXX0=
 -->
