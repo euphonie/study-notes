@@ -64,13 +64,16 @@
 	- Allowed single skill per release and 0 twists
 		- Except log/barrel rolls up to 1 twist and must land in cradle/prone
 		- 2 catchers single base, 3 multi base
-	- 
+	- Must return to original bases
+		- Except multiple top persons
+	- Helicopters are not allowed
+	- **Not allowed** not travel
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTcwNTMxNSwtMTUwNjU0MjE0MCwxMT
+eyJoaXN0b3J5IjpbLTgzNzI3MjE5NiwtMTUwNjU0MjE0MCwxMT
 A4NzkxMDExLC02NTE4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYw
 NzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3Nz
 ksNDU5Njc2MjIzXX0=
