@@ -34,13 +34,18 @@
 
 - Spotters
 	- Spotter for each top person above prep level
+	- Spotter for each top in single base multiple top persons
+	- Extended single leg top may not connect
+- General
+	- In transitions, one person must remain in contact with top
 	- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODc5MTAxMSwtNjUxODg2MDg5LDIwMz
-MxOTgzMDIsLTIwMTc2MDczMTEsOTg5OTk3NzE3LC0xMjUwNDg5
-MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM119
+eyJoaXN0b3J5IjpbMTg4MjMyMDE4NywxMTA4NzkxMDExLC02NT
+E4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3
+MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX
+0=
 -->
