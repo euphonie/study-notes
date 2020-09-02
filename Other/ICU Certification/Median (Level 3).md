@@ -94,13 +94,16 @@
 - General
 	- **Not allowed** pass over/under someone/something
 	- **Not allowed** top pass over/under other top
-	- 
+	- Extended single leg may not be brace
+- Twisting
+	- Twisting to extended 1 twist
+		- Must connect to bracer at prep level or below and a base
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgzMDI4OTIwLDE4NTI0ODE1MDgsLTg0MT
+eyJoaXN0b3J5IjpbNDg3OTMzNjI2LDE4NTI0ODE1MDgsLTg0MT
 M0NDg0MiwtMTUwNjU0MjE0MCwxMTA4NzkxMDExLC02NTE4ODYw
 ODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3MTcsLT
 EyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX0=
