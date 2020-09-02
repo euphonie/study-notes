@@ -69,16 +69,21 @@
 	- Helicopters are not allowed
 	- **Not allowed** intentional travel
 - Inversions
-	- No inverted stunts above prep level except multi-based suspended rolls
-	- Multi-based suspended rolls
-		- Must roll to a creadle, load in position, flat body prep level stunt or the performing surface
+	- Levels
+		- No inverted stunts above prep level except multi-based suspended rolls
+		- Multi-based suspended rolls
+			- Must roll to a cradle, load in position, flat body prep level stunt or the performing surface
+	- Twisting
+		- Up to 1 twist to prep level and below
+		- Up to 1/2 twist to extended level
+		- Mul
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTQwODUyNCwtMTUwNjU0MjE0MCwxMT
-A4NzkxMDExLC02NTE4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYw
-NzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3Nz
-ksNDU5Njc2MjIzXX0=
+eyJoaXN0b3J5IjpbODk1MTYxMDgxLC0xNTA2NTQyMTQwLDExMD
+g3OTEwMTEsLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3
+MzExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OS
+w0NTk2NzYyMjNdfQ==
 -->
