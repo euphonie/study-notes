@@ -9,10 +9,11 @@
 - Standing
 	- Series front and back handsprings are allowed
 	- Flips and connected jump-flips are not allowed
+	- No twisting while airborne
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksND
-U5Njc2MjIzXX0=
+eyJoaXN0b3J5IjpbLTIwMjUwMjc5ODIsLTEyNTA0ODkxMzAsLT
+E1MjQ2ODk3NzksNDU5Njc2MjIzXX0=
 -->
