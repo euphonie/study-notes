@@ -28,15 +28,19 @@
 		- **Not allowed** tumbling after flip or aerial
 			- A step or two steps need to be taken to considerate it two passes
 		- **Not allowed** No twisting while airborne 
-			- Except aerial
+			- Except aerial, round offs
 
+## Stunts
 
+- Spotters
+	- Spotter for each top person above prep level
+	- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTA5Njk2NCwtNjUxODg2MDg5LDIwMz
+eyJoaXN0b3J5IjpbMTEwODc5MTAxMSwtNjUxODg2MDg5LDIwMz
 MxOTgzMDIsLTIwMTc2MDczMTEsOTg5OTk3NzE3LC0xMjUwNDg5
 MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM119
 -->
