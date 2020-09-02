@@ -62,12 +62,15 @@
 		- 3 catchers for a multi-based stunt
 		- 2 catches for a single-based stunt
 	- Allowed single skill per release and 0 twists
+		- Except log/barrel rolls up to 1 twist and must land in cradle/prone
+		- 2 catchers single base, 3 multi base
+	- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4ODg4NTYxMSwtMTUwNjU0MjE0MCwxMT
+eyJoaXN0b3J5IjpbMTU0MTcwNTMxNSwtMTUwNjU0MjE0MCwxMT
 A4NzkxMDExLC02NTE4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYw
 NzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3Nz
 ksNDU5Njc2MjIzXX0=
