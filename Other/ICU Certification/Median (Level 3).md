@@ -87,14 +87,21 @@
 			- Maintain contact with original base
 			- Not pass through prep level and then become inverted below prep level
 			- Not come in contact with other downward inversions
-		- Two leg pancakes stunts are not allowed
+		- **Not allowed** Two leg pancakes stunts are not allowed
+
+## Pyramids
+
+- General
+	- **Not allowed** pass over/under someone/something
+	- **Not allowed** top pass over/under other top
+	- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTAyNjkxMSwxODUyNDgxNTA4LC04ND
-EzNDQ4NDIsLTE1MDY1NDIxNDAsMTEwODc5MTAxMSwtNjUxODg2
-MDg5LDIwMzMxOTgzMDIsLTIwMTc2MDczMTEsOTg5OTk3NzE3LC
-0xMjUwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM119
+eyJoaXN0b3J5IjpbODgzMDI4OTIwLDE4NTI0ODE1MDgsLTg0MT
+M0NDg0MiwtMTUwNjU0MjE0MCwxMTA4NzkxMDExLC02NTE4ODYw
+ODksMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5ODk5OTc3MTcsLT
+EyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX0=
 -->
