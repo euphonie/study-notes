@@ -76,14 +76,17 @@
 	- Twisting
 		- Up to 1 twist to prep level and below
 		- Up to 1/2 twist to extended level
-		- Mul
+		- Multi-based suspended forward rolls
+			- Up to 1 twist
+			- if exceed 1/2 twist must land in cradle
+		- Multi based suspended backward rolls may not twist
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1MTYxMDgxLC0xNTA2NTQyMTQwLDExMD
-g3OTEwMTEsLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3
-MzExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OS
-w0NTk2NzYyMjNdfQ==
+eyJoaXN0b3J5IjpbMTg2OTIyMDk5MiwtMTUwNjU0MjE0MCwxMT
+A4NzkxMDExLC02NTE4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYw
+NzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3Nz
+ksNDU5Njc2MjIzXX0=
 -->
