@@ -26,15 +26,17 @@
 		- Front tuck. no tumbling prior
 			- https://www.youtube.com/watch?v=zGo5_rqgCpY&t=0m52s
 		- **Not allowed** tumbling after flip or aerial
+			- A step or two steps need to be taken to considerate it two passes
 		- **Not allowed** No twisting while airborne 
 			- Except aerial
 
 
 
 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMD
-E3NjA3MzExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4
-OTc3OSw0NTk2NzYyMjNdfQ==
+eyJoaXN0b3J5IjpbLTkzOTA5Njk2NCwtNjUxODg2MDg5LDIwMz
+MxOTgzMDIsLTIwMTc2MDczMTEsOTg5OTk3NzE3LC0xMjUwNDg5
+MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM119
 -->
