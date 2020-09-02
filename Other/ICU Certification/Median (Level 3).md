@@ -67,13 +67,17 @@
 	- Must return to original bases
 		- Except multiple top persons
 	- Helicopters are not allowed
-	- **Not allowed** not travel
+	- **Not allowed** intentional travel
+- Inversions
+	- No inverted stunts above prep level except multi-based suspended rolls
+	- Multi-based suspended rolls
+		- Must roll to a creadle, load in position, flat body prep level stunt or the performing surface
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzI3MjE5NiwtMTUwNjU0MjE0MCwxMT
+eyJoaXN0b3J5IjpbMTQ0OTQwODUyNCwtMTUwNjU0MjE0MCwxMT
 A4NzkxMDExLC02NTE4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYw
 NzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3Nz
 ksNDU5Njc2MjIzXX0=
