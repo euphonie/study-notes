@@ -106,15 +106,15 @@
 		- base may extend arms if it starts and ends at prep level or beow
 		- Connection to bracer should remain until the end
 	- Release moves
-		- 
+		- If not indicate dismount to cradle or s
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDcxNDQyNDUsLTEzOTI3NTg4NDQsMT
-g1MjQ4MTUwOCwtODQxMzQ0ODQyLC0xNTA2NTQyMTQwLDExMDg3
-OTEwMTEsLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3Mz
-ExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0
-NTk2NzYyMjNdfQ==
+eyJoaXN0b3J5IjpbMTg1NzEyMTIwMSwtMTM5Mjc1ODg0NCwxOD
+UyNDgxNTA4LC04NDEzNDQ4NDIsLTE1MDY1NDIxNDAsMTEwODc5
+MTAxMSwtNjUxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2MDczMT
+EsOTg5OTk3NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1
+OTY3NjIyM119
 -->
