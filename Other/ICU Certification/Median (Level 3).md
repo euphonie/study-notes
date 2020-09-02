@@ -18,7 +18,7 @@
 		- Round offs are allowed
 - Running
 	- Flips
-		- back flips only in a tuck position and from a round off or round off back handspring
+		- back flips only in a **tuck** position and from a **round off** or **round off back handspring**
 			- 
 
 
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=-AhBIAOC9Jw&t=0m58s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzE5ODMwMiwtMjAxNzYwNzMxMSw5OD
-k5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2
-MjIzXX0=
+eyJoaXN0b3J5IjpbNDcwNDA0MTkwLDIwMzMxOTgzMDIsLTIwMT
+c2MDczMTEsOTg5OTk3NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5
+Nzc5LDQ1OTY3NjIyM119
 -->
