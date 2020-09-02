@@ -42,6 +42,8 @@
 - Levels
 	- Single leg extended allowed
 	- Extended single leg may not connect
+	- Single based split caches are not allowed
+	- Free flipping mounts and transitions are not allowed
 - Twisting
 	-  In transitions, one person must remain in contact with top
 		- 1 twisting rotation for top persons
@@ -54,15 +56,16 @@
 	- **Not allowed**
 		- Pass through or land inverted
 		- Release from inverted to non-inverted
-		- Pass above extended arm level of the bases 
+		- Pass above extended arm level of the bases. Else is considered a toos
 		- Come in contact with other top persons 
+	- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY1NDIxNDAsMTEwODc5MTAxMSwtNj
-UxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2MDczMTEsOTg5OTk3
-NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM1
-19
+eyJoaXN0b3J5IjpbLTE3NTQ5NTkxODQsLTE1MDY1NDIxNDAsMT
+EwODc5MTAxMSwtNjUxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2
+MDczMTEsOTg5OTk3NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nz
+c5LDQ1OTY3NjIyM119
 -->
