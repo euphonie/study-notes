@@ -56,7 +56,7 @@
 	- **Not allowed**
 		- Pass through or land inverted
 		- Release from inverted to non-inverted
-		- Pass above extended arm level of the bases. Else is considered a toos
+		- Pass above extended arm level of the bases. Else is considered a toss/dismount.
 		- Come in contact with other top persons 
 	- 
 
@@ -64,7 +64,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ5NTkxODQsLTE1MDY1NDIxNDAsMT
+eyJoaXN0b3J5IjpbLTE2MTc3MDEzNDQsLTE1MDY1NDIxNDAsMT
 EwODc5MTAxMSwtNjUxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2
 MDczMTEsOTg5OTk3NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nz
 c5LDQ1OTY3NjIyM119
