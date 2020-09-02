@@ -106,15 +106,21 @@
 		- base may extend arms if it starts and ends at prep level or beow
 		- Connection to bracer should remain until the end
 	- Release moves
-		- If not indicate dismount to cradle or s
+		- If not indicate dismount to cradle or surface
+		- Stunt release of dismounts if connected to one bracer at prep level or below
+		- Up to 1 twist if connected to two bracers at prep level or below arm/arm
+		- Non twist/inversion
+			- connected to 2 bracers at prep level or b
+			- connected to 1 bracer hand/arm
+			- connected to a secon
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzEyMTIwMSwtMTM5Mjc1ODg0NCwxOD
-UyNDgxNTA4LC04NDEzNDQ4NDIsLTE1MDY1NDIxNDAsMTEwODc5
-MTAxMSwtNjUxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2MDczMT
-EsOTg5OTk3NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1
-OTY3NjIyM119
+eyJoaXN0b3J5IjpbOTIxMTUxNTEsLTEzOTI3NTg4NDQsMTg1Mj
+Q4MTUwOCwtODQxMzQ0ODQyLC0xNTA2NTQyMTQwLDExMDg3OTEw
+MTEsLTY1MTg4NjA4OSwyMDMzMTk4MzAyLC0yMDE3NjA3MzExLD
+k4OTk5NzcxNywtMTI1MDQ4OTEzMCwtMTUyNDY4OTc3OSw0NTk2
+NzYyMjNdfQ==
 -->
