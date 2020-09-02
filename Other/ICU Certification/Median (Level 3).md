@@ -81,13 +81,20 @@
 			- Up to 1 twist https://www.youtube.com/watch?v=t7bgUhIvQ8Q&t=0m43s
 			- if exceed 1/2 twist must land in cradle
 		- **Not allowed** Multi based suspended backward rolls may not twist https://www.youtube.com/watch?v=04bkDCrZSQM
+	- Downward inversions
+		- Allowed at waist level and must
+			- Have two catchers in contact with waist to should
+			- Maintain contact with original base
+			- Not pass through prep level and then become inverted below prep level
+			- Not come in contact with other downward inversions
+		- Two leg pancakes stunts are not allowed
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjQ4MTUwOCwtODQxMzQ0ODQyLC0xNT
-A2NTQyMTQwLDExMDg3OTEwMTEsLTY1MTg4NjA4OSwyMDMzMTk4
-MzAyLC0yMDE3NjA3MzExLDk4OTk5NzcxNywtMTI1MDQ4OTEzMC
-wtMTUyNDY4OTc3OSw0NTk2NzYyMjNdfQ==
+eyJoaXN0b3J5IjpbMTE2OTAyNjkxMSwxODUyNDgxNTA4LC04ND
+EzNDQ4NDIsLTE1MDY1NDIxNDAsMTEwODc5MTAxMSwtNjUxODg2
+MDg5LDIwMzMxOTgzMDIsLTIwMTc2MDczMTEsOTg5OTk3NzE3LC
+0xMjUwNDg5MTMwLC0xNTI0Njg5Nzc5LDQ1OTY3NjIyM119
 -->
