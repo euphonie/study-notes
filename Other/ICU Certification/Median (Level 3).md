@@ -4,7 +4,8 @@
 
 - General
 	- All tumbling must start and finish on the surface
-		- Must 
+		-If hip-over-head rotation, tumbler must be caught non-inverted on rebound before the hip-over-head transition or stunt
+	- **Not allowed** Tumbling over, under, or through a stunt, ind, prop
 	- Dive rolls are allowed. 
 		- **Not allowed** Swan/arched dive roll. http://www.youtube.com/watch?v=snyOHi7jxAw&t=2m47s
 		- **Not allowed** Twisting dive roll. [https://www.youtube.com/watch?v=aEIn6EvS61k](https://www.youtube.com/watch?v=aEIn6EvS61k)
@@ -19,6 +20,6 @@ https://www.youtube.com/watch?v=-AhBIAOC9Jw&t=0m58s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NzgyNzIxOSw5ODk5OTc3MTcsLTEyNT
+eyJoaXN0b3J5IjpbMTc2OTYzNjM1OCw5ODk5OTc3MTcsLTEyNT
 A0ODkxMzAsLTE1MjQ2ODk3NzksNDU5Njc2MjIzXX0=
 -->
