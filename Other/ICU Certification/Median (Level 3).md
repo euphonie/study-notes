@@ -58,14 +58,17 @@
 		- Release from inverted to non-inverted
 		- Pass above extended arm level of the bases. Else is considered a toss/dismount.
 		- Come in contact with other top persons 
-	- 
+	- For non-upright position landing
+		- 3 catchers for a multi-based stunt
+		- 2 catches for a single-based stunt
+	- Allowed single skill per release and 0 twists
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc3MDEzNDQsLTE1MDY1NDIxNDAsMT
-EwODc5MTAxMSwtNjUxODg2MDg5LDIwMzMxOTgzMDIsLTIwMTc2
-MDczMTEsOTg5OTk3NzE3LC0xMjUwNDg5MTMwLC0xNTI0Njg5Nz
-c5LDQ1OTY3NjIyM119
+eyJoaXN0b3J5IjpbMTY4ODg4NTYxMSwtMTUwNjU0MjE0MCwxMT
+A4NzkxMDExLC02NTE4ODYwODksMjAzMzE5ODMwMiwtMjAxNzYw
+NzMxMSw5ODk5OTc3MTcsLTEyNTA0ODkxMzAsLTE1MjQ2ODk3Nz
+ksNDU5Njc2MjIzXX0=
 -->
