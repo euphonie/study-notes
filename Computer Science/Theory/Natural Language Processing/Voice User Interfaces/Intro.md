@@ -20,9 +20,11 @@ End-to-end usual pipeline:
 		- Helps understand the common order of sequences probable in human language
 		- It may also be needed an **Accent Model**
 - Text to text 
-	- Reasoning Logic. Understand what we want and mean when we speka
-
+	- Reasoning Logic. Understand what we want and mean when we speak.
+	- A naive application can be mapping expected responses to a desired output
+- Text to Speech
+	- **Speech Synthesis or **
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzMDEzMTZdfQ==
+eyJoaXN0b3J5IjpbMjIwMjU5ODM0XX0=
 -->
