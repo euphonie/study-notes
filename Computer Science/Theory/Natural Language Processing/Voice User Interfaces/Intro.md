@@ -27,9 +27,17 @@ End-to-end usual pipeline:
 	- A model trained to provide the most probable pronunciation from words
 
 ## Applications
-- Speech to text
+- Alternative to a visual interface
+- Voice interfaces in cars
+	- Receive navigations
+	- Receive text and emails
+- Web and mobile 
+	- Dictation
+	- Translation (Speech Recognition and Speech Synthesis)
+- Conversational AI technology
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzkzNzQ4NTddfQ==
+eyJoaXN0b3J5IjpbLTM2NTE5NTU1N119
 -->
