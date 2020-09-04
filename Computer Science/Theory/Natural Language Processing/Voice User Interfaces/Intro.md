@@ -15,8 +15,13 @@ End-to-end usual pipeline:
 - Decode series of vectors
 	- Uses probabilistic models that go well with sampled data **(Acoustic model)**
 	- Gives a best guess as to what the words are
+- Adding a **Language Model**
+	- Helps understand the common order of sequences probable in human language
+	- It may also be needed an **Accent Model**
+
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA5MjMyMjFdfQ==
+eyJoaXN0b3J5IjpbMTQyMDIzNDk4MV19
 -->
