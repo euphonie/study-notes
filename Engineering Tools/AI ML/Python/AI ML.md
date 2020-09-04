@@ -46,8 +46,23 @@ plt.figure(figsize=(1.5, 4.5))
 sns.heatmap(np.transpose(np.matrix(dec_hidden_state)), annot=True, cmap=sns.light_palette("purple", as_cmap=True), linewidths=1)
 ```
 
+
+Saving states (Using pickling to save trained models)
+```python
+#saving the tokenized file
+
+import pickle
+pickle.dump( tokenized, open( "tokenized.p", "wb" ) )
+
+#loading the tokenized file
+
+import pickle
+tokenized = pickle.load( open( "tokenized.p", "rb" ) )
+```
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY0NzUyNzksLTEyNDY4OTA5MjAsOT
-I4MjgzMzM0XX0=
+eyJoaXN0b3J5IjpbOTQ5NzM0Nzc4LC0xMzk2NDc1Mjc5LC0xMj
+Q2ODkwOTIwLDkyODI4MzMzNF19
 -->
