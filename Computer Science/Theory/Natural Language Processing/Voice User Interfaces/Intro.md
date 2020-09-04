@@ -34,10 +34,9 @@ End-to-end usual pipeline:
 - Web and mobile 
 	- Dictation
 	- Translation (Speech Recognition and Speech Synthesis)
-- Conversational AI technology
-	- 
+- Conversational AI technology. Siri, Alexax, Cortana, Google Home
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTE5NTU1N119
+eyJoaXN0b3J5IjpbLTY5OTg4NjA2NF19
 -->
