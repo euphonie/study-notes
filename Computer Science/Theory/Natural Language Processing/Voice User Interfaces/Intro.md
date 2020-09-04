@@ -11,10 +11,12 @@ End-to-end usual pipeline:
 - Voice to text (Speech Recognition)
 	- Sound vibrations are converted to an audio signal
 	- The signal is sample in some way and the samples can be converted into vectors of component frequencies **(Spectogram)**
-		- The vectors represent features of sound in a data set (Feature ex
-	- 
+		- The vectors represent features of sound in a data set (Feature extraction)
+- Decode series of vectors
+	- Uses probabilistic models that go well with sampled data **(Acoustic model)**
+	- Gives a best guess as to what the words are
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjkyNTA5Nl19
+eyJoaXN0b3J5IjpbLTEyOTA5MjMyMjFdfQ==
 -->
