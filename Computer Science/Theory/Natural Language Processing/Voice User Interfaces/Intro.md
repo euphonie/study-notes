@@ -23,8 +23,13 @@ End-to-end usual pipeline:
 	- Reasoning Logic. Understand what we want and mean when we speak.
 	- A naive application can be mapping expected responses to a desired output
 - Text to Speech
-	- **Speech Synthesis or **
+	- **Speech Synthesis or Text to Speech (TTS)**
+	- A model trained to provide the most probable pronunciation from words
+
+## Applications
+- Speech to text
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMjU5ODM0XX0=
+eyJoaXN0b3J5IjpbLTEwMzkzNzQ4NTddfQ==
 -->
