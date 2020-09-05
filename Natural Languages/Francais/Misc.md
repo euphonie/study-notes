@@ -141,15 +141,18 @@ Example:
 ## Des accents
 
 - avoid un accent = neutre, fort, pointu, parisien
-
+- expressions idiomatiques / l'argot
+- un bled = un village
+- avoir un préjugé = un jugement
+- identité / culture / avoir un regard négatif
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODY2NjMzNSw0MzUzNzM0NDMsLTc2Nj
-IwNzMxNCwyMDk3OTg3NzIwLDE4Njg5Nzk0MjYsMTA0MDA3MjI5
-OSwtMTU1NDAyMjY4NSwtODEzMjg0NTcyLC0zMTE3MTYwNDAsLT
-I1MDA3OTcyLDEzMTA5MDE2OTUsMTI0NDYyMzI1MSwtMTA0NzA5
-ODcyMywtMTAzMTk5MzgzMCwtNDc0NjYyMjQxLC04MjYwMzczMT
-EsMTA2NzY3NTAyMCwtMzIxMjAxNjI3LC0zMjc5NTExOCwxOTMy
-NjAyOTgzXX0=
+eyJoaXN0b3J5IjpbLTE1MTQ0ODk4ODcsNDM1MzczNDQzLC03Nj
+YyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5NDI2LDEwNDAwNzIy
+OTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzExNzE2MDQwLC
+0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNTEsLTEwNDcw
+OTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2MDM3Mz
+ExLDEwNjc2NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkz
+MjYwMjk4M119
 -->
