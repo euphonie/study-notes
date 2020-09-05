@@ -34,9 +34,12 @@
 
 # Feature Extraction with MFCC
 
+- The frequencies of the spectograms can be categorized in bins that are relevant to human ears and filter out sound that can't be heard. This is using the **Mel Scale and Mel-Frequency Filters**
+- 
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mzg0NjE2MCw0MTUzNTQwMzcsMjAwNz
+eyJoaXN0b3J5IjpbMTMxMDY0MDk5MCw0MTUzNTQwMzcsMjAwNz
 Y1MDQ1MF19
 -->
