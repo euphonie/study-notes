@@ -35,11 +35,11 @@
 # Feature Extraction with MFCC
 
 - The frequencies of the spectograms can be categorized in bins that are relevant to human ears and filter out sound that can't be heard. This is using the **Mel Scale and Mel-Frequency Filters**
-- 
+- A **source/filter model**  is a representation of human sound generation where the source is the source is unique to an individual and the filter is the articulation of words that we use when speaking. **Cepstral Analysis** 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDY0MDk5MCw0MTUzNTQwMzcsMjAwNz
-Y1MDQ1MF19
+eyJoaXN0b3J5IjpbMTQzMDEyOTI2LDQxNTM1NDAzNywyMDA3Nj
+UwNDUwXX0=
 -->
