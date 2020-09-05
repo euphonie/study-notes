@@ -36,13 +36,14 @@
 
 - The frequencies of the spectograms can be categorized in bins that are relevant to human ears and filter out sound that can't be heard. This is using the **Mel Scale and Mel-Frequency Filters**
 - A **source/filter model**  is a representation of human sound generation where the source is the source is unique to an individual and the filter is the articulation of words that we use when speaking. **Cepstral Analysis** relies on this model.
-	- The source is the throat 
+	- The source visualized in human anatomy is the throat and the filter is comprised by the nose, tongue and insides of the mouth and their interrelations while letting the sound out.
 - There are already algorithms that can be used to extract the **Cepstrum**.
 	- It drops the source that is unique to every individual and preserves the shape of the sound made by the filter.
+- Cepstral analysis + Mel Frequency Analysis obtain between 12 and 13 MFCC features
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY0MjE4MzEsNDE1MzU0MDM3LDIwMD
-c2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbMzg2OTY5ODczLDQxNTM1NDAzNywyMDA3Nj
+UwNDUwXX0=
 -->
