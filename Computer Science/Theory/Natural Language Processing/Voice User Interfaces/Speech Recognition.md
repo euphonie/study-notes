@@ -48,11 +48,11 @@
 # Phonetics
 - Study of sound in human speech. A language can be defined by phonemes, which are small segments of distinct sounds. US english generally has between 33-44.
 - In contrast, a grapheme is the smallest distinct unit in written language. A small grapheme set in US english could be 26 letters plus the whitespace.
-- A 
+- ARPABET is a phoneme set for US english created in 1971. It has 39 phonemes, 15 vowel sounds and 24 consonants, each represented as a one or two-letter symbol.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU2MjIxNTMwLC0xNDQ2MTgxNDU1LDE5NT
-gwMzk3MCw0MTUzNTQwMzcsMjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbLTE2MjgxMzYzMTIsLTE0NDYxODE0NTUsMT
+k1ODAzOTcwLDQxNTM1NDAzNywyMDA3NjUwNDUwXX0=
 -->
