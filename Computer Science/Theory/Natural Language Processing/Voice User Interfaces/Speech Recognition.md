@@ -53,14 +53,16 @@
 	- It is based on a lexicon or dictionary of the data set.
 - A design choice could be transforming directly from the acoustic model into words, this can be useful when training with a limited vocabulary.
 
-
-# Corpus 
-- TIMIT (1993) - 630 speakers voicing 10 phoneme-rich sentences
-- 
+# Tools
+- Corpus 
+	- TIMIT (1993) - 630 speakers voicing 10 phoneme-rich sentences
+- Vocabulary sources
+	- LDC Wall Street Journal Corpus - 73 hours of newspaper reading
+	- LibriSpeech Corpus  - 1000 hours of reading from public domain books
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODI0NjgzNSw5MjEyODY1NTEsLTE0ND
-YxODE0NTUsMTk1ODAzOTcwLDQxNTM1NDAzNywyMDA3NjUwNDUw
-XX0=
+eyJoaXN0b3J5IjpbODE4OTM3MDUxLDkyMTI4NjU1MSwtMTQ0Nj
+E4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3LDIwMDc2NTA0NTBd
+fQ==
 -->
