@@ -54,8 +54,13 @@
 - A design choice could be transforming directly from the acoustic model into words, this can be useful when training with a limited vocabulary.
 
 
+# Corpus 
+- TIMIT (1993) - 630 speakers voicing 10 phoneme-rich sentences
+- 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMjg2NTUxLC0xNDQ2MTgxNDU1LDE5NT
-gwMzk3MCw0MTUzNTQwMzcsMjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbMTQ1ODI0NjgzNSw5MjEyODY1NTEsLTE0ND
+YxODE0NTUsMTk1ODAzOTcwLDQxNTM1NDAzNywyMDA3NjUwNDUw
+XX0=
 -->
