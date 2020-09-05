@@ -21,9 +21,10 @@
 
 - Speech can be thought to be created by sinusoidal waves in air. Higher pitches vibrate faster with a higher frequency than lower pitches.
 - Acoustical energy carried in a sound wave can be transduced to electrical energy to be recorded as an audio signal
+	- The amplitude of signal tells how loud or how much acoustical energy is in a specific region.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0OTU1MzYxLDIwMDc2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbNjkwMjUyMjg3LDIwMDc2NTA0NTBdfQ==
 -->
