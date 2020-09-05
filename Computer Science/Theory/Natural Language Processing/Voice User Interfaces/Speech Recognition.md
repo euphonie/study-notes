@@ -28,10 +28,11 @@
 - A **spectogram** can be generated from the audio signal plotted as frequency by time
 	- To create one, first a time slice of the audio signal should be obtained
 	- Then the time slice should be split into frequency components using FFT
-	- This turn
+	- This turns each time frame into a **One Time Frame Vector** of amplitudes at each frequency.
+	- Finally plotting all the vectors ordered by time a chart containing the **Spectogram** can be visualized.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI5Mzc0MzEsMjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbLTEzMTAwMjI2OTQsMjAwNzY1MDQ1MF19
 -->
