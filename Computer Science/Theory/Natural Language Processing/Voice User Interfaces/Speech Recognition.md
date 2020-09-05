@@ -32,8 +32,11 @@
 	- Finally plotting all the vectors ordered by time a chart containing the **Spectogram** can be visualized.
 - To reduce noise, feature extraction can be applied 
 
+# Feature Extraction with MFCC
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1MzU0MDM3LDIwMDc2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbMTQ5Mzg0NjE2MCw0MTUzNTQwMzcsMjAwNz
+Y1MDQ1MF19
 -->
