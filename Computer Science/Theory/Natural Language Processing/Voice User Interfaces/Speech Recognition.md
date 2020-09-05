@@ -39,8 +39,8 @@
 	- The source visualized in human anatomy is the throat and the filter is comprised by the nose, tongue and insides of the mouth and their interrelations while letting the sound out.
 - There are already algorithms that can be used to extract the **Cepstrum**.
 	- It drops the source that is unique to every individual and preserves the shape of the sound made by the filter.
-- Cepstral analysis + Mel Frequency Analysis obtain between 12 and 13 MFCC features related to speech
-	- To this, Delta and Delta-Delta MFCC features can optionally be appended to the feature set. It increases the number of features up to 39 and improves results. 
+- Cepstral analysis + Mel Frequency Analysis obtain between 12 and 13 MFCC features related to speech http://www.speech.cs.cmu.edu/15-492/slides/03_mfcc.pdf
+	- To this, Delta and Delta-Delta MFCC features can optionally be appended to the feature set. It increases the number of features up to 39 and improves results. [http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/](http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/)
 - The benefits are
 	- Reducing dimensionality of data
 	- Reducing noise
@@ -48,6 +48,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODAzOTcwLDQxNTM1NDAzNywyMDA3Nj
-UwNDUwXX0=
+eyJoaXN0b3J5IjpbLTE0NDYxODE0NTUsMTk1ODAzOTcwLDQxNT
+M1NDAzNywyMDA3NjUwNDUwXX0=
 -->
