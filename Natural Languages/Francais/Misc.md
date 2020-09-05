@@ -148,15 +148,16 @@ Example:
 - c'est capitale = c'est très important!
 - méconnues
 - affichages
-- veuiller à ce que... = 
+- veuiller à ce que... 
+- une brocante - chaise, table, lit, bureau, matelas (objets de maison)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNT
-k0OTg5NzA4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3
-MzE0LDIwOTc5ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC
-0xNTU0MDIyNjg1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUw
-MDc5NzIsMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4Nz
-IzLC0xMDMxOTkzODMwLC00NzQ2NjIyNDEsLTgyNjAzNzMxMSwx
-MDY3Njc1MDIwXX0=
+eyJoaXN0b3J5IjpbLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5OT
+M5OTYyMDcsLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1Mzcz
+NDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5NDI2LD
+EwNDAwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzEx
+NzE2MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNT
+EsLTEwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MSwt
+ODI2MDM3MzExXX0=
 -->
