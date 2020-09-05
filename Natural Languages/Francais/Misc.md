@@ -138,14 +138,16 @@ Example:
 
 ![Les prépositions](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/fr.png)
 
+## Des accents
 
+- avoid un accent = neutre, fort, pointu, parisien
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjIwNzMxNCwyMDk3OTg3NzIwLDE4Nj
-g5Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMjY4NSwtODEzMjg0
-NTcyLC0zMTE3MTYwNDAsLTI1MDA3OTcyLDEzMTA5MDE2OTUsMT
-I0NDYyMzI1MSwtMTA0NzA5ODcyMywtMTAzMTk5MzgzMCwtNDc0
-NjYyMjQxLC04MjYwMzczMTEsMTA2NzY3NTAyMCwtMzIxMjAxNj
-I3LC0zMjc5NTExOCwxOTMyNjAyOTgzLDE0MTg1NzYwOTQsLTIw
-OTcwOTI1NDldfQ==
+eyJoaXN0b3J5IjpbNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nz
+k4NzcyMCwxODY4OTc5NDI2LDEwNDAwNzIyOTksLTE1NTQwMjI2
+ODUsLTgxMzI4NDU3MiwtMzExNzE2MDQwLC0yNTAwNzk3MiwxMz
+EwOTAxNjk1LDEyNDQ2MjMyNTEsLTEwNDcwOTg3MjMsLTEwMzE5
+OTM4MzAsLTQ3NDY2MjI0MSwtODI2MDM3MzExLDEwNjc2NzUwMj
+AsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkzMjYwMjk4MywxNDE4
+NTc2MDk0XX0=
 -->
