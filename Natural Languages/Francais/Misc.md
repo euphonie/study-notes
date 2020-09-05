@@ -145,14 +145,15 @@ Example:
 - un bled = un village
 - avoir un préjugé = un jugement
 - identité / culture / avoir un regard négatif
+- c'
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ0ODk4ODcsNDM1MzczNDQzLC03Nj
-YyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5NDI2LDEwNDAwNzIy
-OTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzExNzE2MDQwLC
-0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNTEsLTEwNDcw
-OTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MSwtODI2MDM3Mz
-ExLDEwNjc2NzUwMjAsLTMyMTIwMTYyNywtMzI3OTUxMTgsMTkz
-MjYwMjk4M119
+eyJoaXN0b3J5IjpbLTIwNzkxMTc1NzYsLTE1MTQ0ODk4ODcsND
+M1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5
+NDI2LDEwNDAwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3Mi
+wtMzExNzE2MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2
+MjMyNTEsLTEwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2Mj
+I0MSwtODI2MDM3MzExLDEwNjc2NzUwMjAsLTMyMTIwMTYyNywt
+MzI3OTUxMThdfQ==
 -->
