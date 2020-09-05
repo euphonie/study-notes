@@ -142,14 +142,14 @@ Example:
 
 - avoid un accent = neutre, fort, pointu, parisien
 - expressions idiomatiques / l'argot
-- un bled = un village
+- un bled (un ville petite un étincelle de péjoratif) = un village
 - avoir un préjugé = un jugement
 - identité / culture / avoir un regard négatif
-- c'
+- c'est capitale = c'est très important!
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkxMTc1NzYsLTE1MTQ0ODk4ODcsND
+eyJoaXN0b3J5IjpbLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsND
 M1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5
 NDI2LDEwNDAwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3Mi
 wtMzExNzE2MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2
