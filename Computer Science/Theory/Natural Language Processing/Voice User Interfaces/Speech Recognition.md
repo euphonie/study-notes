@@ -39,11 +39,13 @@
 	- The source visualized in human anatomy is the throat and the filter is comprised by the nose, tongue and insides of the mouth and their interrelations while letting the sound out.
 - There are already algorithms that can be used to extract the **Cepstrum**.
 	- It drops the source that is unique to every individual and preserves the shape of the sound made by the filter.
-- Cepstral analysis + Mel Frequency Analysis obtain between 12 and 13 MFCC features
+- Cepstral analysis + Mel Frequency Analysis obtain between 12 and 13 MFCC features related to speech
+	- To this, Delta and Delta-Delta MFCC features can optionally be appended to the feature set. It increases the number of features up to 39 and improves results. 
+- The be
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2OTY5ODczLDQxNTM1NDAzNywyMDA3Nj
-UwNDUwXX0=
+eyJoaXN0b3J5IjpbLTE0MTU4ODI4Myw0MTUzNTQwMzcsMjAwNz
+Y1MDQ1MF19
 -->
