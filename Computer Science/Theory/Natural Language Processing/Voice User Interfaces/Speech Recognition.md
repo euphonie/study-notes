@@ -45,9 +45,13 @@
 	- Reducing dimensionality of data
 	- Reducing noise
 
+# Phonetics
+Study of sound in human speech. A language can be defined by phonemes, which are small segments of distinct sounds. US english generally has between 33-44.
+In contrast, a grapheme is the smallest disti
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDYxODE0NTUsMTk1ODAzOTcwLDQxNT
-M1NDAzNywyMDA3NjUwNDUwXX0=
+eyJoaXN0b3J5IjpbLTE0NDYxNzE3NzgsLTE0NDYxODE0NTUsMT
+k1ODAzOTcwLDQxNTM1NDAzNywyMDA3NjUwNDUwXX0=
 -->
