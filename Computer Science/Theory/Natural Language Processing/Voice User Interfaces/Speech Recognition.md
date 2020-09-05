@@ -51,11 +51,11 @@
 - ARPABET is a phoneme set for US english created in 1971. It has 39 phonemes, 15 vowel sounds and 24 consonants, each represented as a one or two-letter symbol.
 - If phonemes can be extracted from an audio signal the next step is matching the phonemes to the related words they comprise. This is called **Lexical Decoding**.
 	- It is based on a lexicon or dictionary of the data set.
-- A design choice could be transforming directly from the acoustic model into 
+- A design choice could be transforming directly from the acoustic model into words, this can be useful when training with a limited vocabulary.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjU0NzUxOCwtMTQ0NjE4MTQ1NSwxOT
-U4MDM5NzAsNDE1MzU0MDM3LDIwMDc2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbOTIxMjg2NTUxLC0xNDQ2MTgxNDU1LDE5NT
+gwMzk3MCw0MTUzNTQwMzcsMjAwNzY1MDQ1MF19
 -->
