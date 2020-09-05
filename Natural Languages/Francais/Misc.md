@@ -146,14 +146,15 @@ Example:
 - avoir un préjugé = un jugement
 - identité / culture / avoir un regard négatif
 - c'est capitale = c'est très important!
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsND
-M1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5
-NDI2LDEwNDAwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3Mi
-wtMzExNzE2MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2
-MjMyNTEsLTEwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2Mj
-I0MSwtODI2MDM3MzExLDEwNjc2NzUwMjAsLTMyMTIwMTYyNywt
-MzI3OTUxMThdfQ==
+eyJoaXN0b3J5IjpbOTkzOTk2MjA3LC0xNTk0OTg5NzA4LC0xNT
+E0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LDIwOTc5ODc3
+MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0xNTU0MDIyNjg1LC
+04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUwMDc5NzIsMTMxMDkw
+MTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4NzIzLC0xMDMxOTkzOD
+MwLC00NzQ2NjIyNDEsLTgyNjAzNzMxMSwxMDY3Njc1MDIwLC0z
+MjEyMDE2MjddfQ==
 -->
