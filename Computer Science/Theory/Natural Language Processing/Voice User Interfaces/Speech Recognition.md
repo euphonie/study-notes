@@ -41,11 +41,13 @@
 	- It drops the source that is unique to every individual and preserves the shape of the sound made by the filter.
 - Cepstral analysis + Mel Frequency Analysis obtain between 12 and 13 MFCC features related to speech
 	- To this, Delta and Delta-Delta MFCC features can optionally be appended to the feature set. It increases the number of features up to 39 and improves results. 
-- The be
+- The benefits are
+	- Reducing dimensionality of data
+	- Reducing noise
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU4ODI4Myw0MTUzNTQwMzcsMjAwNz
-Y1MDQ1MF19
+eyJoaXN0b3J5IjpbMTk1ODAzOTcwLDQxNTM1NDAzNywyMDA3Nj
+UwNDUwXX0=
 -->
