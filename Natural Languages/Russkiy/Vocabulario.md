@@ -5,11 +5,11 @@
 - стул - silla
 - вот - here it is
 - вода (o=a) - agua
-- он
-- там
-- дом
-- тут
-- ты
+- он - pronombre masculino tercera persona singular (él)
+- там - allá (there)
+- дом - casa
+- тут - aquí
+- ты - 
 - мы
 - вы
 
@@ -21,5 +21,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczOTg0OTkwXX0=
+eyJoaXN0b3J5IjpbMTExNDc1MjU0Ml19
 -->
