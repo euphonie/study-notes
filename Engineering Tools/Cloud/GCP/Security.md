@@ -143,7 +143,9 @@ bq load --skip_leading_rows=1 storageanalysis.storage gs://example-logs-bucket/e
 	- specify what can be uploaded to a bucket with a form post
 	- allow greater control over size, content type, and any other uploaded characteristics in comparison to signed URLs
 	- Can be used by website owners to allow visitors to upload files to cloud storage
-	- Construc
+	- Constructed using JSON
+	- Using a policy document for an HTML form post
+		- correct a policy document 
 
 ```bash
 # manual creation of signed URLs
@@ -175,8 +177,8 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDU0MjU5OCw0MjQxNjcyNjksLTM5Mz
-QwNjQyNywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUz
-NzMsLTQ5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NT
-k4OTQzMzUsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbLTIwMTcxMzg3NjQsNDI0MTY3MjY5LC0zOT
+M0MDY0MjcsLTEzNDkyOTUwMzEsLTIwMzM1NTgyODEsNDQyOTk1
+MzczLC00OTM1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNT
+U5ODk0MzM1LDY1MTU1NjY3N119
 -->
