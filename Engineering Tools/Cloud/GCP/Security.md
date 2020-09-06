@@ -130,6 +130,16 @@ bq load --skip_leading_rows=1 storageanalysis.usage gs://example-logs-bucket/exa
 bq load --skip_leading_rows=1 storageanalysis.storage gs://example-logs-bucket/example-bucket_usage_2018_01_01_v0/cloud_storage_usage_schema_v0.json
 ```
 
+**Signed URLs and policy documents**
+- For users that don't have google accounts
+- Provide time-limited access for read and write to anyone in possession of the URL.
+
+
+```bash
+# manual creation of signed URLs
+gsutil signurl -d 10m ~/key.json gs://super-sec
+```
+
 # Snippets
 
 ```bash
@@ -155,7 +165,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkyOTUwMzEsLTIwMzM1NTgyODEsND
-QyOTk1MzczLC00OTM1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3
-MSwxNTU5ODk0MzM1LDY1MTU1NjY3N119
+eyJoaXN0b3J5IjpbLTM0OTU0MTI5NywtMTM0OTI5NTAzMSwtMj
+AzMzU1ODI4MSw0NDI5OTUzNzMsLTQ5MzUxOTIyMCwtOTY2NDYz
+MjExLDUxMjMxNzcxLDE1NTk4OTQzMzUsNjUxNTU2Njc3XX0=
 -->
