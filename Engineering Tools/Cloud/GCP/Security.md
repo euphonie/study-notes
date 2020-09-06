@@ -108,6 +108,15 @@
 		- Data includes operations that modify objects or read a project bucket or object
 		- Data access log can be turned on at the bucket level
 
+```bash
+# Enabling data access logs
+# create a new bucket to hold the log files
+gsutil mb gs://example-logs-bucket
+# Set ACL to private
+gsutil acl ch -g clou-storage-analytics@google.com:W
+```
+
+
 # Snippets
 
 ```bash
@@ -133,7 +142,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjIwMzQzNDQsNDQyOTk1MzczLC00OT
+eyJoaXN0b3J5IjpbLTExMjMwMDA2MDMsNDQyOTk1MzczLC00OT
 M1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1
 LDY1MTU1NjY3N119
 -->
