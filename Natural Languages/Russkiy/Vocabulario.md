@@ -18,11 +18,12 @@
 - папа - papá
 - луна - luna
 - она (o=a) - pronombre femenino tercera persona singular (ella)
+- и - y, and, et
 
 ## Nombres
-- иван
-- антон
-- анна
+- иван - ivan
+- антон - anton
+- анна - anna
 
 ## Verbos
 
@@ -32,5 +33,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTg3MTI3OSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbLTU2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
 -->
