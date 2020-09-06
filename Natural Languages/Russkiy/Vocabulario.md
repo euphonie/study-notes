@@ -16,7 +16,13 @@
 - фото (o2=a) - photo
 - мама - mamá
 - папа - papá
+- луна - luna
+- она (o=a) - pronombre femenino tercera persona singular (ella)
 
+## Nombres
+- иван
+- антон
+- анна
 
 ## Verbos
 
@@ -26,5 +32,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbLTk4OTg3MTI3OSwtODMwNzkwMzkwXX0=
 -->
