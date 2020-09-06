@@ -9,9 +9,9 @@
 - там - allá (there)
 - дом - casa
 - тут - aquí
-- ты - 
-- мы
-- вы
+- ты - pronombre segunda persona singular (tú)
+- мы - pronombre primera persona plural (nosotros)
+- вы - tercera persona 
 
 ## Verbos
 
@@ -21,5 +21,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDc1MjU0Ml19
+eyJoaXN0b3J5IjpbLTI5MDEwMDc2NV19
 -->
