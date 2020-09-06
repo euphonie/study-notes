@@ -189,6 +189,10 @@ gsutil signurl -d 10m ~/key.json gs://super-secure-bucket/noir.png
 - Creator is owner but other users can also be owners.
 - **Authorized views**. can give access to only a subset of the data to a group of users.
 	- Views provide row or column level permissions to datasets
+	- Process
+		- Create a copy of the dataset with different permissions from the original
+		- Add a view that selects the subset of data you want to expose from the first dataset
+		- Give the access 
 
 # Snippets
 
@@ -241,9 +245,9 @@ gsutil ls -L gs://$DEVSHELL_PROJECT_ID-kms/file3.txt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ4ODYyODMsMTU0OTk1MjU0MywxNT
-gyODg3ODYyLDIxMjg2MDU3MTYsNDI0MTY3MjY5LC0zOTM0MDY0
-MjcsLTEzNDkyOTUwMzEsLTIwMzM1NTgyODEsNDQyOTk1MzczLC
-00OTM1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0
-MzM1LDY1MTU1NjY3N119
+eyJoaXN0b3J5IjpbMTY0NTI0MTQ4OSwxNTQ5OTUyNTQzLDE1OD
+I4ODc4NjIsMjEyODYwNTcxNiw0MjQxNjcyNjksLTM5MzQwNjQy
+NywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUzNzMsLT
+Q5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQz
+MzUsNjUxNTU2Njc3XX0=
 -->
