@@ -4,16 +4,16 @@
 - стол - mesa
 - стул - silla
 - вот - here it is
-- вода - agua
+- вода (o=a) - agua
 
 
 ## Verbos
 
 - слушайте - escucha
-- повторяйте - 
-- читайте
+- повторяйте (o=a) - repita
+- читайте - lea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzgxNzc0NF19
+eyJoaXN0b3J5IjpbMTU0NTgwMjE2XX0=
 -->
