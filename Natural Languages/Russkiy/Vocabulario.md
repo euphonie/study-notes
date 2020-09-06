@@ -51,6 +51,8 @@
 - очень приятно(o=a) - mucho gusto
 - доброе утра - Buenos días
 - до свидания - hasta la vista, so long, à bientôt
+- пока - adios, hasta luego
+- давай познакомимся - conozcámonos
 
 ### Preguntas
 - кто - who
@@ -74,7 +76,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA4NTMwOTQsLTI4MzQxMzA3LC05MT
+eyJoaXN0b3J5IjpbLTIxMTY5NTgyNjUsLTI4MzQxMzA3LC05MT
 IxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkw
 MzkwXX0=
 -->
