@@ -8,6 +8,7 @@
 - тетрадь - cuaderno
 - карандаш - lápiz
 - окно (o1=a) - ventana
+- доска (o=a) - pizarrón
 - студент - étudiant (fr)
 - студентка - étudiante (fr)
 - карта - mapa
@@ -55,6 +56,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTE1OTA5MCwtOTEyMTg2ODczLC0xMD
-g2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbODEzMzk2NjYyLC05MTIxODY4NzMsLTEwOD
+YyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
 -->
