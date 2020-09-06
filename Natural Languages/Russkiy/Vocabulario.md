@@ -11,9 +11,9 @@
 
 - слушайте - escucha
 - повторяйте - 
-- 
+- читайте
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEwNzM1NTddfQ==
+eyJoaXN0b3J5IjpbLTk1MzgxNzc0NF19
 -->
