@@ -14,9 +14,10 @@
 	- Leverage IAM roles to comply with restrictions
 	- Separate who can create and manage datasets vs who can query and process the data
 	- Principle of least privilege
-	- Set the default table exp
+	- Set the default table exploration for new created tables in a data set. If property is set, any table created in the dataset is deleted after the expiration period.
+	- If property is set after the dataset is created, only new tables are deleted after the expiration period
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzU0ODIyMV19
+eyJoaXN0b3J5IjpbNjAwMzc1NzYwXX0=
 -->
