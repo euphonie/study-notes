@@ -10,9 +10,13 @@
 	- Use signed URLs for users with no google account
 	- Don't allow buckets to be publicly writable
 	- Use lifecycle rules to remove sensitive data no longer needed
-	- 
+- BigQuery
+	- Leverage IAM roles to comply with restrictions
+	- Separate who can create and manage datasets vs who can query and process the data
+	- Principle of least privilege
+	- Set the default table exp
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg1ODY4NzJdfQ==
+eyJoaXN0b3J5IjpbMTkyNzU0ODIyMV19
 -->
