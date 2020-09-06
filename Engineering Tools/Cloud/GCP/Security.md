@@ -87,7 +87,13 @@
 
 - Control members who have access to organizations, folders, project or bucket and what access they have
 - It is not possible to remove a permission at a lower level that was granted at a higher level.
-
+- Predefined Roles
+	- Storage Object Admin
+		- get and list projects, CRUD objects get and set IAM policies
+	- Storage Object Creator
+		- get and list projects and create objects
+	- Storage Object Viewer
+		- get and list projects, get and list objects
 
 # Snippets
 
@@ -114,7 +120,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzAzNTExMiw0NDI5OTUzNzMsLTQ5Mz
+eyJoaXN0b3J5IjpbMTMwNTg4NDY1OCw0NDI5OTUzNzMsLTQ5Mz
 UxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQzMzUs
 NjUxNTU2Njc3XX0=
 -->
