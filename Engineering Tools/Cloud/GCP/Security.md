@@ -134,7 +134,9 @@ bq load --skip_leading_rows=1 storageanalysis.storage gs://example-logs-bucket/e
 - For users that don't have google accounts
 - Provide time-limited access for read and write to anyone in possession of the URL.
 - Signed URLs can be created using gsutil
-	1. 
+	1. Create a service account with desired rights
+	2. Use the rights to generate the signed URL for storage object
+	3. Create a key for the service account and store it in a file such as key.json.
 
 ```bash
 # manual creation of signed URLs
@@ -166,8 +168,8 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzI3MjcxMywtMzkzNDA2NDI3LC0xMz
-Q5Mjk1MDMxLC0yMDMzNTU4MjgxLDQ0Mjk5NTM3MywtNDkzNTE5
-MjIwLC05NjY0NjMyMTEsNTEyMzE3NzEsMTU1OTg5NDMzNSw2NT
-E1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbNDI0MTY3MjY5LC0zOTM0MDY0MjcsLTEzND
+kyOTUwMzEsLTIwMzM1NTgyODEsNDQyOTk1MzczLC00OTM1MTky
+MjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1MT
+U1NjY3N119
 -->
