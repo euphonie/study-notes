@@ -181,7 +181,11 @@ gsutil signurl -d 10m ~/key.json gs://super-secure-bucket/noir.png
 - Roles
 	- Admin. can do everything. create and read data, run jobs, set IAM policies
 	- Data Owner. read/write access to data, can grant access to other users and groups through IAM policies
-	- DAta 
+	- Data Editor. read/write access to data
+	- Data Viewer. read-only access to data
+	- Job User. can create and run jobs, but no access to data
+	- User. can run jobs, create datasets, list tables, save queries. But no default access to data
+- Groups should be always preferred instead of assigning roles to every individual user to reduce overhead
 
 # Snippets
 
@@ -234,7 +238,7 @@ gsutil ls -L gs://$DEVSHELL_PROJECT_ID-kms/file3.txt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzkzMjc2MiwxNTQ5OTUyNTQzLDE1OD
+eyJoaXN0b3J5IjpbMjEyOTc0ODY1MCwxNTQ5OTUyNTQzLDE1OD
 I4ODc4NjIsMjEyODYwNTcxNiw0MjQxNjcyNjksLTM5MzQwNjQy
 NywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUzNzMsLT
 Q5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQz
