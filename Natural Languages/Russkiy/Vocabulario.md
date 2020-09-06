@@ -5,7 +5,8 @@
 - стул - silla
 - книга - libro
 - ручка - lapicero
-- 
+- тетрадь - cuaderno
+- карандаш - lápiz
 - вот - here it is
 - вода (o=a) - agua
 - он - pronombre masculino tercera persona singular (él)
@@ -48,6 +49,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQzODA3NDcsLTEwODYyNjQ4ODIsLT
-U2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNT
+Y4NTI2NDU1LC04MzA3OTAzOTBdfQ==
 -->
