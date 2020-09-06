@@ -137,7 +137,9 @@ bq load --skip_leading_rows=1 storageanalysis.storage gs://example-logs-bucket/e
 	1. Create a service account with desired rights
 	2. Use the rights to generate the signed URL for storage object
 	3. Create a key for the service account and store it in a file such as key.json.
-	4. Use com
+	4. Use command to specify the service account key and object which permissions should be assigned
+		- the -d parameter specifies the duration
+- Pli
 
 ```bash
 # manual creation of signed URLs
@@ -169,8 +171,8 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMDc1OTI5LDQyNDE2NzI2OSwtMzkzND
-A2NDI3LC0xMzQ5Mjk1MDMxLC0yMDMzNTU4MjgxLDQ0Mjk5NTM3
-MywtNDkzNTE5MjIwLC05NjY0NjMyMTEsNTEyMzE3NzEsMTU1OT
-g5NDMzNSw2NTE1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbLTEwNjk0MzA0NzIsNDI0MTY3MjY5LC0zOT
+M0MDY0MjcsLTEzNDkyOTUwMzEsLTIwMzM1NTgyODEsNDQyOTk1
+MzczLC00OTM1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNT
+U5ODk0MzM1LDY1MTU1NjY3N119
 -->
