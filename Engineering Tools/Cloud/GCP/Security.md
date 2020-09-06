@@ -194,11 +194,14 @@ cat rsawrapencodedkey.txt
 # Format and mount the encrypted volume
 sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo mount /dev/disk/by-id/google-encrypted-disk-1 encrypted/
 ```
+**Using custom keys for encryption**
+```bash
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODYwNTcxNiw0MjQxNjcyNjksLTM5Mz
-QwNjQyNywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUz
-NzMsLTQ5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NT
-k4OTQzMzUsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbMjA3NjU1NjE2MywyMTI4NjA1NzE2LDQyND
+E2NzI2OSwtMzkzNDA2NDI3LC0xMzQ5Mjk1MDMxLC0yMDMzNTU4
+MjgxLDQ0Mjk5NTM3MywtNDkzNTE5MjIwLC05NjY0NjMyMTEsNT
+EyMzE3NzEsMTU1OTg5NDMzNSw2NTE1NTY2NzddfQ==
 -->
