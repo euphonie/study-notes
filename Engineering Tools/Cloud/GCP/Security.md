@@ -192,7 +192,7 @@ gsutil signurl -d 10m ~/key.json gs://super-secure-bucket/noir.png
 	- Process
 		- Create a copy of the dataset with different permissions from the original
 		- Add a view that selects the subset of data you want to expose from the first dataset
-		- Give the access 
+		- Give the view the access to the underlying data in the first dataset
 
 # Snippets
 
@@ -245,7 +245,7 @@ gsutil ls -L gs://$DEVSHELL_PROJECT_ID-kms/file3.txt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTI0MTQ4OSwxNTQ5OTUyNTQzLDE1OD
+eyJoaXN0b3J5IjpbLTQ2OTUxMTc4MiwxNTQ5OTUyNTQzLDE1OD
 I4ODc4NjIsMjEyODYwNTcxNiw0MjQxNjcyNjksLTM5MzQwNjQy
 NywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUzNzMsLT
 Q5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQz
