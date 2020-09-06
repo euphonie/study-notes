@@ -4,7 +4,7 @@
 (metró) - metro - метро
 (aptieka) - farmacia - apothéke -  аптека
 (bulkan)  - volcán - булкан
-(radio) - радио
+(radia) - радио
 (televisar) - televisor - телевисар
 
 я (ia) - yo 
@@ -12,6 +12,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MDQwMTIwLC0xODc4MzY5MjQwLDUxMD
-A5NjYzOCwtMTY3Mzc1Mjc3OSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODc0MjQ4NjgyLDM4NzA0MDEyMCwtMTg3OD
+M2OTI0MCw1MTAwOTY2MzgsLTE2NzM3NTI3NzksNzMwOTk4MTE2
+XX0=
 -->
