@@ -49,6 +49,7 @@
 - как вас зовут? - cómo se llama usted?
 - меня зовут - me llamo...
 - очень приятно(o=a) - mucho gusto
+- доброе утра - Buenos días
 
 ### Preguntas
 - кто - who
@@ -72,7 +73,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI4OTgxNjM0LC0yODM0MTMwNywtOTEyMT
-g2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5
-MF19
+eyJoaXN0b3J5IjpbLTkxOTQ5MDM1OCwtMjgzNDEzMDcsLTkxMj
+E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
+OTBdfQ==
 -->
