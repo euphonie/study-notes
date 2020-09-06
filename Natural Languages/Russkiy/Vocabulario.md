@@ -40,7 +40,10 @@
 - и - y, and, et, und
 - йли - o, or, ou, oder
 - привет - hola, salut (informal)
-- здравствуйте/здравствуйте  -  
+- здравствуйте  -  hola (usted - formal)
+- здравствуй - hola(tu - formal corta)
+- как дела - cómo estás/cómo está?
+- 
 
 ### Preguntas
 - кто - who
@@ -64,7 +67,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjczNTE4OSwtMjgzNDEzMDcsLTkxMj
+eyJoaXN0b3J5IjpbLTQ2NTM5MDg2NCwtMjgzNDEzMDcsLTkxMj
 E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
 OTBdfQ==
 -->
