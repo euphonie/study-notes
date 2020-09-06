@@ -175,7 +175,13 @@ gsutil signurl -d 10m ~/key.json gs://super-secure-bucket/noir.png
 # Security in BigQuery
 
 - BigQuery uses IAM for resources and permissions
-- Tables, rows and columns are child resources of datasets and inherit their permiss
+- Tables, rows and columns are child resources of datasets and inherit their permissions
+	- However you can't assign permissions at table, row or column level
+	- All tables in a dataset share the same permissions
+- Roles
+	- Admin. can do everything. create and read data, run jobs, set IAM policies
+	- Data Owner. read/write access to data, can grant access to other users and groups through IAM policies
+	- DAta 
 
 # Snippets
 
@@ -228,7 +234,7 @@ gsutil ls -L gs://$DEVSHELL_PROJECT_ID-kms/file3.txt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjgxMDIxNSwxNTQ5OTUyNTQzLDE1OD
+eyJoaXN0b3J5IjpbLTIyMzkzMjc2MiwxNTQ5OTUyNTQzLDE1OD
 I4ODc4NjIsMjEyODYwNTcxNiw0MjQxNjcyNjksLTM5MzQwNjQy
 NywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUzNzMsLT
 Q5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQz
