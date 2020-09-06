@@ -202,18 +202,29 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 > KEYRING_NAME=lab-keyring
 > CRYPTOKEY_1_NAME=labkey-1
 > CRYPTOKEY_2_NAME=labkey-2
-# 
+# Create keyring
 gcloud kms keyrings create $KEYRING_NAME --location us
+# Create keys
 gcloud kms keys create $CRYPTOKEY_1_NAME --location us \ --keyring $KEYRING_NAME --purpose encryption
 gcloud kms keys create $CRYPTOKEY_2_NAME --location us \ --keyring $KEYRING_NAME --purpose encryption
-
+# Obtain default encryption key information from a bucket
 gsutil kms encryption gs://$DEVSHELL_PROJECT_ID-kms
+# Assign Cloud KMS keys to a service account
+# comand format is: gsutil kms authorize -p [PROJECT_STORING_OBJECTS] -k [KEY_RESOURCE]
+gsutil kms authorize -p $DEVSHELL_PROJECT_ID -k \ projects/$DEVSHELL_PROJECT_ID/locations/us/keyRings\ /$KEYRING_NAME/cryptoKeys/$CRYPTOKEY_1_NAME gsutil kms authorize -p $DEVSHELL_PROJECT_ID -k \ projects/$DEVSHELL_PROJECT_ID/locations/us/keyRings\ /$KEYRING_NAME/cryptoKeys/$CRYPTOKEY_2_NAME
+# set default key for a bucket 
+gsutil kms encryption -k \ projects/$DEVSHELL_PROJECT_ID/locations/us/keyRings\ /$KEYRING_NAME/cryptoKeys/$CRYPTOKEY_1_NAME \ gs://$DEVSHELL_PROJECT_ID-kms
+
+# encrypt individual objects
+gsutil -o \ "GSUtil:encryption_key=projects/$DEVSHELL_PROJECT_ID/locations/us/keyRings\ /$KEYRING_NAME/cryptoKeys/$CRYPTOKEY_2_NAME" \ cp file3.txt gs://$DEVSHELL_PROJECT_ID-kms
+
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjg4Nzg2MiwyMTI4NjA1NzE2LDQyND
-E2NzI2OSwtMzkzNDA2NDI3LC0xMzQ5Mjk1MDMxLC0yMDMzNTU4
-MjgxLDQ0Mjk5NTM3MywtNDkzNTE5MjIwLC05NjY0NjMyMTEsNT
-EyMzE3NzEsMTU1OTg5NDMzNSw2NTE1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbLTE1MzE1NzgyMTIsMTU4Mjg4Nzg2MiwyMT
+I4NjA1NzE2LDQyNDE2NzI2OSwtMzkzNDA2NDI3LC0xMzQ5Mjk1
+MDMxLC0yMDMzNTU4MjgxLDQ0Mjk5NTM3MywtNDkzNTE5MjIwLC
+05NjY0NjMyMTEsNTEyMzE3NzEsMTU1OTg5NDMzNSw2NTE1NTY2
+NzddfQ==
 -->
