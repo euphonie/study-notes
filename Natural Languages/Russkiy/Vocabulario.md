@@ -7,13 +7,10 @@
 - ручка - lapicero
 - тетрадь - cuaderno
 - карандаш - lápiz
-- шкаф ' 
+- шкаф - alacena
 - окно (o1=a) - ventana
 - доска (o=a) - pizarrón
-- студент - étudiant (fr)
-- студентка - étudiante (fr)
 - карта - mapa
-- преподаватель (o=a) - profesor
 - аспирант - 
 - вот - here it is
 - вода (o=a) - agua
@@ -31,11 +28,18 @@
 - луна - luna
 - она (o=a) - pronombre femenino tercera persona singular (ella)
 
+### Profesiones
+- студент - étudiant (fr)
+- студентка - étudiante (fr)
+- врач - médica
+- преподаватель (o=a) - profesor
+
 
 ## Frases
 - хорошо - bien, good, well
 - и - y, and, et, und
 - йли - o, or, ou, oder
+- 
 
 ### Preguntas
 - кто - who
@@ -59,7 +63,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTgyNzk2NSwtMjgzNDEzMDcsLTkxMj
-E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTE3NTE0NzY2MDUsLTI4MzQxMzA3LC05MT
+IxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkw
+MzkwXX0=
 -->
