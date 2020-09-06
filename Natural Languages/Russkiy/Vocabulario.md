@@ -29,10 +29,12 @@
 - папа - papá
 - луна - luna
 - она (o=a) - pronombre femenino tercera persona singular (ella)
-- и - y, and, et
+
 
 ## Frases
 - хорошо - bien, good, well
+- и - y, and, et, und
+- йли - o, or, ou, oder
 
 ### Preguntas
 - кто - who
@@ -56,6 +58,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMzk2NjYyLC05MTIxODY4NzMsLTEwOD
+eyJoaXN0b3J5IjpbLTI4MzQxMzA3LC05MTIxODY4NzMsLTEwOD
 YyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
 -->
