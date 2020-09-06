@@ -95,7 +95,12 @@
 	- Storage Object Viewer
 		- get and list projects, get and list objects
 - IAM permissions on buckets grant permission to a broad control over projects and buckets but not fine grain control over individual objects.
-- ACLs can be used to grant access to objects in buckets. These are applied to individual buckets and indi
+- ACLs can be used to grant access to objects in buckets. These are applied to individual buckets and individual objects.
+	- Only required when needing fine grained control of buckets or objects
+- IAM and ACLs can be both implemented
+- To make a bucket public grant `allUsers` the Storage Object Viewer
+- To make a
+
 
 # Snippets
 
@@ -122,7 +127,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0OTM3MTMxLDQ0Mjk5NTM3MywtNDkzNT
+eyJoaXN0b3J5IjpbOTY1MDQxMTA3LDQ0Mjk5NTM3MywtNDkzNT
 E5MjIwLC05NjY0NjMyMTEsNTEyMzE3NzEsMTU1OTg5NDMzNSw2
 NTE1NTY2NzddfQ==
 -->
