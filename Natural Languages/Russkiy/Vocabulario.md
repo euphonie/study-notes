@@ -45,6 +45,8 @@
 - как дела - cómo estás/cómo está?
 - спасибо - gracias
 - A вы - y usted?
+- тоже - también
+- очень приятно (
 
 ### Preguntas
 - кто - who
@@ -68,7 +70,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMTAzMzEyNiwtMjgzNDEzMDcsLTkxMj
-E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTE5ODkyNzkwNTIsLTI4MzQxMzA3LC05MT
+IxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkw
+MzkwXX0=
 -->
