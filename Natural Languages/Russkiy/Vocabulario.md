@@ -10,9 +10,11 @@
 - шкаф - alacena
 - окно (o1=a) - ventana
 - доска (o=a) - pizarrón
-- 
+- журнал - revista
+- газета - periódico
 - карта - mapa
-- аспирант - 
+- аспирант - estudiante graduado
+- 
 - вот - here it is
 - вода (o=a) - agua
 - он - pronombre masculino tercera persona singular (él)
@@ -77,7 +79,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTA1ODcxNywtMjgzNDEzMDcsLTkxMj
+eyJoaXN0b3J5IjpbMjA4NjkxMjExNCwtMjgzNDEzMDcsLTkxMj
 E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
 OTBdfQ==
 -->
