@@ -217,14 +217,15 @@ gsutil kms encryption -k \ projects/$DEVSHELL_PROJECT_ID/locations/us/keyRings\ 
 
 # encrypt individual objects
 gsutil -o \ "GSUtil:encryption_key=projects/$DEVSHELL_PROJECT_ID/locations/us/keyRings\ /$KEYRING_NAME/cryptoKeys/$CRYPTOKEY_2_NAME" \ cp file3.txt gs://$DEVSHELL_PROJECT_ID-kms
-
+# Identify the key used to encrypt an object
+gsutil ls -L gs://$DEVSHELL_PROJECT_ID-kms/file3.txt
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE1NzgyMTIsMTU4Mjg4Nzg2MiwyMT
-I4NjA1NzE2LDQyNDE2NzI2OSwtMzkzNDA2NDI3LC0xMzQ5Mjk1
-MDMxLC0yMDMzNTU4MjgxLDQ0Mjk5NTM3MywtNDkzNTE5MjIwLC
-05NjY0NjMyMTEsNTEyMzE3NzEsMTU1OTg5NDMzNSw2NTE1NTY2
-NzddfQ==
+eyJoaXN0b3J5IjpbMTU0OTk1MjU0MywxNTgyODg3ODYyLDIxMj
+g2MDU3MTYsNDI0MTY3MjY5LC0zOTM0MDY0MjcsLTEzNDkyOTUw
+MzEsLTIwMzM1NTgyODEsNDQyOTk1MzczLC00OTM1MTkyMjAsLT
+k2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1MTU1NjY3
+N119
 -->
