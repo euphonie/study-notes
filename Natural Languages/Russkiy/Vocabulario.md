@@ -7,6 +7,7 @@
 - ручка - lapicero
 - тетрадь - cuaderno
 - карандаш - lápiz
+- шкаф ' 
 - окно (o1=a) - ventana
 - доска (o=a) - pizarrón
 - студент - étudiant (fr)
@@ -58,6 +59,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzQxMzA3LC05MTIxODY4NzMsLTEwOD
-YyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbMTM0MTgyNzk2NSwtMjgzNDEzMDcsLTkxMj
+E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
+OTBdfQ==
 -->
