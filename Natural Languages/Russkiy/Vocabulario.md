@@ -5,7 +5,13 @@
 - стул - silla
 - вот - here it is
 - вода (o=a) - agua
-
+- он
+- там
+- дом
+- тут
+- ты
+- мы
+- вы
 
 ## Verbos
 
@@ -15,5 +21,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTgwMjE2XX0=
+eyJoaXN0b3J5IjpbMzczOTg0OTkwXX0=
 -->
