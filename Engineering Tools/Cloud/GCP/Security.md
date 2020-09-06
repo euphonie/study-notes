@@ -110,10 +110,12 @@
 
 ```bash
 # Enabling data access logs
-# create a new bucket to hold the log files
+# Create a new bucket to hold the log files
 gsutil mb gs://example-logs-bucket
-# Set ACL to private
-gsutil acl ch -g clou-storage-analytics@google.com:W
+# Allow write-access to the bucket for Cloud Storage Analytics
+gsutil acl ch -g clou-storage-analytics@google.com:W gs://example-logs-bucket
+# Set ACL of the logging bucket into project private
+gsutil defacl set project-private gs://example.
 ```
 
 
@@ -142,7 +144,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjMwMDA2MDMsNDQyOTk1MzczLC00OT
-M1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1
-LDY1MTU1NjY3N119
+eyJoaXN0b3J5IjpbOTQ0MTM2NDYsNDQyOTk1MzczLC00OTM1MT
+kyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1
+MTU1NjY3N119
 -->
