@@ -42,11 +42,13 @@
 - привет - hola, salut (informal)
 - здравствуйте  -  hola (usted - formal)
 - здравствуй - hola(tu - formal corta)
-- как дела - cómo estás/cómo está?
+- как дела? - cómo estás/cómo está?
 - спасибо - gracias
-- A вы - y usted?
+- A вы? - y usted?
 - тоже - también
-- очень приятно (
+- как вас зовут? - cómo se llama usted?
+- 
+- очень приятно(o=a) - 
 
 ### Preguntas
 - кто - who
@@ -70,7 +72,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODkyNzkwNTIsLTI4MzQxMzA3LC05MT
+eyJoaXN0b3J5IjpbLTIxMTM0OTMzNDUsLTI4MzQxMzA3LC05MT
 IxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkw
 MzkwXX0=
 -->
