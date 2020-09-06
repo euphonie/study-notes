@@ -50,6 +50,7 @@
 - меня зовут - me llamo...
 - очень приятно(o=a) - mucho gusto
 - доброе утра - Buenos días
+- до свидания - hasta la vista, so long, à bientôt
 
 ### Preguntas
 - кто - who
@@ -73,7 +74,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTQ5MDM1OCwtMjgzNDEzMDcsLTkxMj
-E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
-OTBdfQ==
+eyJoaXN0b3J5IjpbLTE4NzA4NTMwOTQsLTI4MzQxMzA3LC05MT
+IxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkw
+MzkwXX0=
 -->
