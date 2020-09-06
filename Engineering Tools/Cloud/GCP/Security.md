@@ -172,6 +172,11 @@ gsutil signurl -d 10m ~/key.json gs://super-secure-bucket/noir.png
 </form>
 ```
 
+# Security in BigQuery
+
+- BigQuery uses IAM for resources and permissions
+- Tables, rows and columns are child resources of datasets and inherit their permiss
+
 # Snippets
 
 ```bash
@@ -223,9 +228,9 @@ gsutil ls -L gs://$DEVSHELL_PROJECT_ID-kms/file3.txt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTk1MjU0MywxNTgyODg3ODYyLDIxMj
-g2MDU3MTYsNDI0MTY3MjY5LC0zOTM0MDY0MjcsLTEzNDkyOTUw
-MzEsLTIwMzM1NTgyODEsNDQyOTk1MzczLC00OTM1MTkyMjAsLT
-k2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1MTU1NjY3
-N119
+eyJoaXN0b3J5IjpbLTg1NjgxMDIxNSwxNTQ5OTUyNTQzLDE1OD
+I4ODc4NjIsMjEyODYwNTcxNiw0MjQxNjcyNjksLTM5MzQwNjQy
+NywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUzNzMsLT
+Q5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQz
+MzUsNjUxNTU2Njc3XX0=
 -->
