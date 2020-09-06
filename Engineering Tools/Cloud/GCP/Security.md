@@ -83,6 +83,10 @@
 - With customer supplied keys Google does not store the keys, customer is then responsible for all key management and rotation. Data can be lost if the keys are lost as well
 	- And key must be specified each time a resource is started or created
 
+# Security in Google Cloud Storage
+
+
+
 
 # Snippets
 
@@ -109,7 +113,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyOTk1MzczLC00OTM1MTkyMjAsLTk2Nj
-Q2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1MTU1NjY3N119
-
+eyJoaXN0b3J5IjpbNDM2MTQ3ODgsNDQyOTk1MzczLC00OTM1MT
+kyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1
+MTU1NjY3N119
 -->
