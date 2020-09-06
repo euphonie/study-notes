@@ -40,7 +40,7 @@
 - и - y, and, et, und
 - йли - o, or, ou, oder
 - привет - hola, salut (informal)
-- 
+- здравствуйте/здравствуйте  -  
 
 ### Preguntas
 - кто - who
@@ -64,7 +64,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTU5NTkzLC0yODM0MTMwNywtOTEyMT
-g2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5
-MF19
+eyJoaXN0b3J5IjpbMTMyNjczNTE4OSwtMjgzNDEzMDcsLTkxMj
+E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
+OTBdfQ==
 -->
