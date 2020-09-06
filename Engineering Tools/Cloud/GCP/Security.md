@@ -103,7 +103,10 @@
 
 ### Auditing Storage buckets
 - Activity is logged automatically
-- 
+- Includes operations that modify the config or metadata of a bucket or object
+	- Data or access logs must be configured
+		- Data includes operations that modify objects or read a project bucket or object
+		- Data access log can be turned on at the bucket level
 
 # Snippets
 
@@ -130,7 +133,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NTk4NDUsNDQyOTk1MzczLC00OTM1MT
-kyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1
-MTU1NjY3N119
+eyJoaXN0b3J5IjpbLTIwMjIwMzQzNDQsNDQyOTk1MzczLC00OT
+M1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1
+LDY1MTU1NjY3N119
 -->
