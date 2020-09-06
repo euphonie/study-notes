@@ -145,7 +145,7 @@ bq load --skip_leading_rows=1 storageanalysis.storage gs://example-logs-bucket/e
 	- Can be used by website owners to allow visitors to upload files to cloud storage
 	- Constructed using JSON
 	- Using a policy document for an HTML form post
-		- correct a policy document 
+		- correct a policy document with UTF-8 encoding
 
 ```bash
 # manual creation of signed URLs
@@ -177,8 +177,8 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTcxMzg3NjQsNDI0MTY3MjY5LC0zOT
-M0MDY0MjcsLTEzNDkyOTUwMzEsLTIwMzM1NTgyODEsNDQyOTk1
-MzczLC00OTM1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNT
-U5ODk0MzM1LDY1MTU1NjY3N119
+eyJoaXN0b3J5IjpbLTY4NzI4NzA2OSw0MjQxNjcyNjksLTM5Mz
+QwNjQyNywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUz
+NzMsLTQ5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NT
+k4OTQzMzUsNjUxNTU2Njc3XX0=
 -->
