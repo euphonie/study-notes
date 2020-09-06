@@ -98,9 +98,12 @@
 - ACLs can be used to grant access to objects in buckets. These are applied to individual buckets and individual objects.
 	- Only required when needing fine grained control of buckets or objects
 - IAM and ACLs can be both implemented
-- To make a bucket public grant `allUsers` the Storage Object Viewer
-- To make a
+- **Use with caution** To make a bucket public grant `allUsers` the Storage Object Viewer
+- **Use with caution** To make an object public, grant `allUsers` Reader access.
 
+### Auditing Storage buckets
+- Activity is logged automatically
+- 
 
 # Snippets
 
@@ -127,7 +130,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1MDQxMTA3LDQ0Mjk5NTM3MywtNDkzNT
-E5MjIwLC05NjY0NjMyMTEsNTEyMzE3NzEsMTU1OTg5NDMzNSw2
-NTE1NTY2NzddfQ==
+eyJoaXN0b3J5IjpbMzg2NTk4NDUsNDQyOTk1MzczLC00OTM1MT
+kyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1
+MTU1NjY3N119
 -->
