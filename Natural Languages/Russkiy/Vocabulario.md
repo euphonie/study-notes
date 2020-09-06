@@ -20,7 +20,8 @@
 - она (o=a) - pronombre femenino tercera persona singular (ella)
 - и - y, and, et
 
-
+# Frases
+- хорошо - bien, good, well
 
 ## Nombres
 - иван - ivan
@@ -35,6 +36,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1OTYxNTczLC01Njg1MjY0NTUsLTgzMD
-c5MDM5MF19
+eyJoaXN0b3J5IjpbLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtOD
+MwNzkwMzkwXX0=
 -->
