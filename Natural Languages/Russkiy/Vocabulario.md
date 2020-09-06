@@ -39,6 +39,7 @@
 - хорошо - bien, good, well
 - и - y, and, et, und
 - йли - o, or, ou, oder
+- привет - hola, salut (informal)
 - 
 
 ### Preguntas
@@ -63,7 +64,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE0NzY2MDUsLTI4MzQxMzA3LC05MT
-IxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkw
-MzkwXX0=
+eyJoaXN0b3J5IjpbLTIxOTU5NTkzLC0yODM0MTMwNywtOTEyMT
+g2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5
+MF19
 -->
