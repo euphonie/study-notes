@@ -11,7 +11,8 @@
 - студент - étudiant (fr)
 - студентка - étudiante (fr)
 - карта - mapa
-- преподаватель - profesor
+- преподаватель (o=a) - profesor
+- аспирант - 
 - вот - here it is
 - вода (o=a) - agua
 - он - pronombre masculino tercera persona singular (él)
@@ -54,6 +55,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjAxNTQ4MSwtOTEyMTg2ODczLC0xMD
+eyJoaXN0b3J5IjpbLTc4NTE1OTA5MCwtOTEyMTg2ODczLC0xMD
 g2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
 -->
