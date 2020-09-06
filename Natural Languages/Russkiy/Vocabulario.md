@@ -7,9 +7,11 @@
 - ручка - lapicero
 - тетрадь - cuaderno
 - карандаш - lápiz
-- окно - ventana
-- студент - student (fr)
-- студентка - studentin (fr)
+- окно (o1=a) - ventana
+- студент - étudiant (fr)
+- студентка - étudiante (fr)
+- карта - mapa
+- преподаватель - profesor
 - вот - here it is
 - вода (o=a) - agua
 - он - pronombre masculino tercera persona singular (él)
@@ -52,6 +54,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg0NTIzMzgsLTkxMjE4Njg3MywtMT
-A4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbLTIyNjAxNTQ4MSwtOTEyMTg2ODczLC0xMD
+g2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
 -->
