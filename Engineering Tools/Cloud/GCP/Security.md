@@ -85,7 +85,8 @@
 
 # Security in Google Cloud Storage
 
-
+- Control members who have access to organizations, folders, project or bucket and what access they have
+- It is not possible to remove a permission at a lower level that was granted at a higher level.
 
 
 # Snippets
@@ -113,7 +114,7 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2MTQ3ODgsNDQyOTk1MzczLC00OTM1MT
-kyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0MzM1LDY1
-MTU1NjY3N119
+eyJoaXN0b3J5IjpbLTU5MzAzNTExMiw0NDI5OTUzNzMsLTQ5Mz
+UxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQzMzUs
+NjUxNTU2Njc3XX0=
 -->
