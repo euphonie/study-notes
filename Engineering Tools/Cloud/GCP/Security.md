@@ -186,6 +186,9 @@ gsutil signurl -d 10m ~/key.json gs://super-secure-bucket/noir.png
 	- Job User. can create and run jobs, but no access to data
 	- User. can run jobs, create datasets, list tables, save queries. But no default access to data
 - Groups should be always preferred instead of assigning roles to every individual user to reduce overhead
+- Creator is owner but other users can also be owners.
+- **Authorized views**. can give access to only a subset of the data to a group of users.
+	- Views provide row or column level permissions to datasets
 
 # Snippets
 
@@ -238,9 +241,9 @@ gsutil ls -L gs://$DEVSHELL_PROJECT_ID-kms/file3.txt
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTc0ODY1MCwxNTQ5OTUyNTQzLDE1OD
-I4ODc4NjIsMjEyODYwNTcxNiw0MjQxNjcyNjksLTM5MzQwNjQy
-NywtMTM0OTI5NTAzMSwtMjAzMzU1ODI4MSw0NDI5OTUzNzMsLT
-Q5MzUxOTIyMCwtOTY2NDYzMjExLDUxMjMxNzcxLDE1NTk4OTQz
-MzUsNjUxNTU2Njc3XX0=
+eyJoaXN0b3J5IjpbLTEwMDQ4ODYyODMsMTU0OTk1MjU0MywxNT
+gyODg3ODYyLDIxMjg2MDU3MTYsNDI0MTY3MjY5LC0zOTM0MDY0
+MjcsLTEzNDkyOTUwMzEsLTIwMzM1NTgyODEsNDQyOTk1MzczLC
+00OTM1MTkyMjAsLTk2NjQ2MzIxMSw1MTIzMTc3MSwxNTU5ODk0
+MzM1LDY1MTU1NjY3N119
 -->
