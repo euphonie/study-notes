@@ -14,7 +14,7 @@
 - газета - periódico
 - карта - mapa
 - аспирант - estudiante graduado
-- 
+- дверь - puerta
 - вот - here it is
 - вода (o=a) - agua
 - он - pronombre masculino tercera persona singular (él)
@@ -79,7 +79,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjkxMjExNCwtMjgzNDEzMDcsLTkxMj
+eyJoaXN0b3J5IjpbLTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMj
 E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
 OTBdfQ==
 -->
