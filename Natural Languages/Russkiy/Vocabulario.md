@@ -10,6 +10,7 @@
 - шкаф - alacena
 - окно (o1=a) - ventana
 - доска (o=a) - pizarrón
+- 
 - карта - mapa
 - аспирант - 
 - вот - here it is
@@ -76,7 +77,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzI5NzU5MiwtMjgzNDEzMDcsLTkxMj
+eyJoaXN0b3J5IjpbMTE4MTA1ODcxNywtMjgzNDEzMDcsLTkxMj
 E4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAz
 OTBdfQ==
 -->
