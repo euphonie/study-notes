@@ -22,10 +22,14 @@
 
 ## Frases
 - хорошо - bien, good, well
+
 ### Preguntas
-- кто - 
-- что
-- где
+- кто - what
+- что - who
+- где - where
+- кто это - qué es esto?
+- что это - quién es este?
+
 
 
 ## Nombres
@@ -41,6 +45,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTg2ODgzMCwtMTA4NjI2NDg4MiwtNT
+eyJoaXN0b3J5IjpbLTc5NDc2NDI0MywtMTA4NjI2NDg4MiwtNT
 Y4NTI2NDU1LC04MzA3OTAzOTBdfQ==
 -->
