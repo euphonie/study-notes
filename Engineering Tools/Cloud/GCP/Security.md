@@ -196,11 +196,23 @@ sudo mkfs.ext4 /dev/disk/by-id/google-encrypted-disk-1 mkdir encrypted sudo moun
 ```
 **Using custom keys for encryption**
 ```bash
+# Enable cloudkms
+> gcloud services enable cloudkms.googleapis.com
+# Setup the name of key objects
+> KEYRING_NAME=lab-keyring
+> CRYPTOKEY_1_NAME=labkey-1
+> CRYPTOKEY_2_NAME=labkey-2
+# 
+gcloud kms keyrings create $KEYRING_NAME --location us
+gcloud kms keys create $CRYPTOKEY_1_NAME --location us \ --keyring $KEYRING_NAME --purpose encryption
+gcloud kms keys create $CRYPTOKEY_2_NAME --location us \ --keyring $KEYRING_NAME --purpose encryption
+
+gsutil kms encryption gs://$DEVSHELL_PROJECT_ID-kms
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjU1NjE2MywyMTI4NjA1NzE2LDQyND
+eyJoaXN0b3J5IjpbMTU4Mjg4Nzg2MiwyMTI4NjA1NzE2LDQyND
 E2NzI2OSwtMzkzNDA2NDI3LC0xMzQ5Mjk1MDMxLC0yMDMzNTU4
 MjgxLDQ0Mjk5NTM3MywtNDkzNTE5MjIwLC05NjY0NjMyMTEsNT
 EyMzE3NzEsMTU1OTg5NDMzNSw2NTE1NTY2NzddfQ==
