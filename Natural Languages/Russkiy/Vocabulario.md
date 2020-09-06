@@ -11,7 +11,12 @@
 - тут - aquí
 - ты - pronombre segunda persona singular (tú)
 - мы - pronombre primera persona plural (nosotros)
-- вы - tercera persona 
+- вы - pronombre segunda persona plural (usted/ustedes)
+- это (o=a) 'this is, esto es
+- фото
+- мама
+- папа
+- Алла
 
 ## Verbos
 
@@ -21,5 +26,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDEwMDc2NV19
+eyJoaXN0b3J5IjpbMTEzOTcyNjQxOF19
 -->
