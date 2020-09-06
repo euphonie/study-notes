@@ -20,6 +20,8 @@
 - она (o=a) - pronombre femenino tercera persona singular (ella)
 - и - y, and, et
 
+
+
 ## Nombres
 - иван - ivan
 - антон - anton
@@ -33,5 +35,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbODA1OTYxNTczLC01Njg1MjY0NTUsLTgzMD
+c5MDM5MF19
 -->
