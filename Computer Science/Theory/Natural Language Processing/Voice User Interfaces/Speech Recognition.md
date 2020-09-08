@@ -95,8 +95,10 @@ P("I", "love", "language","models") = P("I")P("love"|"I")P("language"|"I love")P
 $$
 - These probabilities can then be scored along with the probabilities from the Acoustic Model to remove language ambiguities 
 
-# Trade-offs using DNN
+# Modifications using DNNs
 - Feature extraction using spectograms and MFCC is analogue to Convolutional Neural Networks and their ability to find relevant patterns in data
+- RNN can track time series data as its done with HMMs in the Acoustic model pipeline
+- For the sequeci
 
 # Tools
 - Corpus 
@@ -107,7 +109,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTUyOTcxMiwtMjg0MTM4MDM4LDgxOD
-kzNzA1MSw5MjEyODY1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcw
-LDQxNTM1NDAzNywyMDA3NjUwNDUwXX0=
+eyJoaXN0b3J5IjpbODMzNDM5NTA2LC0yODQxMzgwMzgsODE4OT
+M3MDUxLDkyMTI4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAs
+NDE1MzU0MDM3LDIwMDc2NTA0NTBdfQ==
 -->
