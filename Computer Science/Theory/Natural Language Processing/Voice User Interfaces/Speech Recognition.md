@@ -54,7 +54,9 @@
 - A design choice could be transforming directly from the acoustic model into words, this can be useful when training with a limited vocabulary.
 
 **Acoustic models and time **
-- DTW calculates the similarity between two signals 
+- DTW calculates the similarity between two signals, even if their time lengths differ. This can be used in speech recognition, for instance, to align the sequence data of a new word to its most similar counterpart in a dictionary of samples.
+	- Also HMMs can help with this task
+	- With Deep Neural Networks the sequencing problem reappears, is better use a hybrid HN
 
 # Tools
 - Corpus 
@@ -65,7 +67,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM4ODYzNTYsODE4OTM3MDUxLDkyMT
-I4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3
-LDIwMDc2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbMzMyMDk4OTg4LDgxODkzNzA1MSw5MjEyOD
+Y1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcwLDQxNTM1NDAzNywy
+MDA3NjUwNDUwXX0=
 -->
