@@ -100,6 +100,7 @@ $$
 - RNN can track time series data as its done with HMMs in the Acoustic model pipeline
 - For the sequencing provided by HMMs a **Connectionist Temporal Classification Layer** (CTC) can be used
 - N-grams can still be used as DNNs are not able yet to surpass linguistic issues
+	- Alternately, a Neural Language Model can be trained and used to correct ambiguities on words
 - The replacements would be 
 	- Feature extraction -> CNN
 	- Acoustic Model -> RNN + CTC
@@ -113,7 +114,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEzODUxMDAsLTI4NDEzODAzOCw4MT
-g5MzcwNTEsOTIxMjg2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3
-MCw0MTUzNTQwMzcsMjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbLTY0OTM0OTc2MywtMjg0MTM4MDM4LDgxOD
+kzNzA1MSw5MjEyODY1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcw
+LDQxNTM1NDAzNywyMDA3NjUwNDUwXX0=
 -->
