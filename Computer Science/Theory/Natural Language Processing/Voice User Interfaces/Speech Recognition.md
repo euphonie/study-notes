@@ -77,10 +77,14 @@
 - The job of a language model is to inject the language knowledge into the words to text step in speech recognition
 - Provides a layer between words and text to solve ambiguity in spelling and context
 - The likelihood of a word in a given order can be thought as a probability distribution over many different words. The likelihood that the particular word sequence could have been produced by the audio signal. 
-- A statistical language model provides a probability distribution over sequences of wo
 $$
 P(signal|w_1,w_2)
 $$
+- A statistical language model provides a probability distribution over sequences of words
+$$
+P(w_1,w_2)
+$$
+- Merging the acoustic model and the language model would be the most likely sequence 
 
 # Tools
 - Corpus 
@@ -91,7 +95,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzk1MzAxNyw4MTg5MzcwNTEsOTIxMj
-g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
-MjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbLTIxMjg0OTU0MzksODE4OTM3MDUxLDkyMT
+I4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3
+LDIwMDc2NTA0NTBdfQ==
 -->
