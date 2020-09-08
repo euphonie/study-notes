@@ -95,6 +95,9 @@ P("I", "love", "language","models") = P("I")P("love"|"I")P("language"|"I love")P
 $$
 - These probabilities can then be scored along with the probabilities from the Acoustic Model to remove language ambiguities 
 
+# Trade-offs using DNN
+- Feature extraction using spectograms and MFCC is analogue to Convolutional Neural Networks and their ability to find relevant patterns in data
+
 # Tools
 - Corpus 
 	- TIMIT (1993) - 630 speakers voicing 10 phoneme-rich sentences
@@ -104,7 +107,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDEzODAzOCw4MTg5MzcwNTEsOTIxMj
-g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
-MjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbLTc4NTUyOTcxMiwtMjg0MTM4MDM4LDgxOD
+kzNzA1MSw5MjEyODY1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcw
+LDQxNTM1NDAzNywyMDA3NjUwNDUwXX0=
 -->
