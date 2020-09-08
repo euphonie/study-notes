@@ -60,7 +60,9 @@
 
 # HMMs in Speech Recognition
 
-- HMMs can be trained with label time series sequences to create indivi
+- HMMs can be trained with label time series sequences to create individual HMM models for each particular sound unit (phonemes, syllables, words, or even group of words)
+- Training is easier with isolated units
+	- With a set of words, an HMM model is created for each one, and finally a scorin
 
 
 # Tools
@@ -72,7 +74,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTE4NzAwMiw4MTg5MzcwNTEsOTIxMj
-g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
-MjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbNTM2MzkxMjExLDgxODkzNzA1MSw5MjEyOD
+Y1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcwLDQxNTM1NDAzNywy
+MDA3NjUwNDUwXX0=
 -->
