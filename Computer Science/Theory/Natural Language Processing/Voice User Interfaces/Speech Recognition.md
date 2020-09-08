@@ -89,7 +89,10 @@ $$
 word_1, word_2, ... = argmax_{w_1,w_2} \{  P(signal|w_1,w_2)P(w_1,w_2) \}
 $$
 - Applying a simplification in practice reduces the likelihood of correctness of the current word dependent upon only the previous three to four words.
-- Using the chain rule and N-grams the sequence probability can be 
+- Using the chain rule and N-grams the sequence probability can be approximated
+$$
+P("I", "love", "language","models") = P("I")P("love"|"I")P("language"|"I love")P("models"|"I love language")
+$$
 - 
 
 # Tools
@@ -101,7 +104,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0ODQwNjc5LDgxODkzNzA1MSw5MjEyOD
-Y1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcwLDQxNTM1NDAzNywy
-MDA3NjUwNDUwXX0=
+eyJoaXN0b3J5IjpbLTYxNDMzNjI2OCw4MTg5MzcwNTEsOTIxMj
+g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
+MjAwNzY1MDQ1MF19
 -->
