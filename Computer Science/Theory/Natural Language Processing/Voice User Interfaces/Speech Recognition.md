@@ -64,6 +64,11 @@
 - Training is easier with isolated units
 	- With a set of words, an HMM model is created for each one, and finally the score of every model is evaluated to identify which words its in the audio segment
 - Training continuous words or phrases (**utterances**)
+	- When same utterances are part of many sentences, pairs of utterances can be trained into an individual HMM model. Ex. my brick walkway and a brick wall could have HMMs for the pairs
+		- my-brick
+		- a-brick
+		- brick-walkway
+		- brick-wall
 	- 
 
 # Tools
@@ -75,7 +80,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzQwMzg1Myw4MTg5MzcwNTEsOTIxMj
-g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
-MjAwNzY1MDQ1MF19
+eyJoaXN0b3J5IjpbLTIwNzkxMDEzMTcsODE4OTM3MDUxLDkyMT
+I4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3
+LDIwMDc2NTA0NTBdfQ==
 -->
