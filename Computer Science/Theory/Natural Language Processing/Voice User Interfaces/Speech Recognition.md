@@ -74,7 +74,9 @@
 	- Once trained new utterances can be identify through chains of probable paths
 
 # Language Models
-- The job of a language model is to inject the language knowledge into the words to text step in speech re
+- The job of a language model is to inject the language knowledge into the words to text step in speech recognition
+- Provides a layer between words and text to solve ambiguity in spelling and context
+- The likelihood of a w
 
 # Tools
 - Corpus 
@@ -85,7 +87,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTgyODE1MjAsODE4OTM3MDUxLDkyMT
-I4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3
-LDIwMDc2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbMTE3ODU0Njk5LDgxODkzNzA1MSw5MjEyOD
+Y1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcwLDQxNTM1NDAzNywy
+MDA3NjUwNDUwXX0=
 -->
