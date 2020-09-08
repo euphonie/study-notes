@@ -69,7 +69,9 @@
 		- a-brick
 		- brick-walkway
 		- brick-wall
-	- 
+	- This increases dimensionality as a HMM model exists for every word and every pair 
+	- Applying this technique to phonemes the dimensionality stays manageable. With a set of 40 phonemes 1600 HMMs are needed
+	- Once trained ne
 
 # Tools
 - Corpus 
@@ -80,7 +82,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkxMDEzMTcsODE4OTM3MDUxLDkyMT
-I4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3
-LDIwMDc2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbMTE4NjUyMjc5OSw4MTg5MzcwNTEsOTIxMj
+g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
+MjAwNzY1MDQ1MF19
 -->
