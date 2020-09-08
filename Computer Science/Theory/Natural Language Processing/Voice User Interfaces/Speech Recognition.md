@@ -84,7 +84,11 @@ $$
 $$
 P(w_1,w_2)
 $$
-- Merging the acoustic model and the language model would be the most likely sequence 
+- Merging the acoustic model and the language model the most likely sequence would be a combination over all the possibilities with the greatest likelihood score
+$$
+word_1, word_2, ... = argmax_{w_1,w_2} \{  P(signal|w_1,w_2)P(w_1,w_2) \}
+$$
+- 
 
 # Tools
 - Corpus 
@@ -95,7 +99,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg0OTU0MzksODE4OTM3MDUxLDkyMT
+eyJoaXN0b3J5IjpbLTE4MTE4NzQ2MDcsODE4OTM3MDUxLDkyMT
 I4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3
 LDIwMDc2NTA0NTBdfQ==
 -->
