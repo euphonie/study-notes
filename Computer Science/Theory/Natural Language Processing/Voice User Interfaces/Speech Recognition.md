@@ -56,7 +56,12 @@
 **Acoustic models and time **
 - DTW calculates the similarity between two signals, even if their time lengths differ. This can be used in speech recognition, for instance, to align the sequence data of a new word to its most similar counterpart in a dictionary of samples.
 	- Also HMMs can help with this task
-	- With Deep Neural Networks the sequencing problem reappears, is better use a hybrid HN
+	- With Deep Neural Networks the sequencing problem reappears, is better use a hybrid HMM/DNN system or with **Connectionist Temporal Classification (CTC)**
+
+# HMMs in Speech Recognition
+
+- HMMs can be trained with label time series sequences to create indivi
+
 
 # Tools
 - Corpus 
@@ -67,7 +72,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMDk4OTg4LDgxODkzNzA1MSw5MjEyOD
-Y1NTEsLTE0NDYxODE0NTUsMTk1ODAzOTcwLDQxNTM1NDAzNywy
-MDA3NjUwNDUwXX0=
+eyJoaXN0b3J5IjpbLTEwOTE4NzAwMiw4MTg5MzcwNTEsOTIxMj
+g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
+MjAwNzY1MDQ1MF19
 -->
