@@ -98,7 +98,10 @@ $$
 # Modifications using DNNs
 - Feature extraction using spectograms and MFCC is analogue to Convolutional Neural Networks and their ability to find relevant patterns in data
 - RNN can track time series data as its done with HMMs in the Acoustic model pipeline
-- For the sequeci
+- For the sequencing provided by HMMs a **Connectionist Temporal Classification Layer** (CTC) can be used
+- The replacements would be 
+	- Feature extraction -> CNN
+	- Acoustic Model -> RNN + CTC
 
 # Tools
 - Corpus 
@@ -109,7 +112,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNDM5NTA2LC0yODQxMzgwMzgsODE4OT
-M3MDUxLDkyMTI4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAs
-NDE1MzU0MDM3LDIwMDc2NTA0NTBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjQwNTY2NzksLTI4NDEzODAzOCw4MT
+g5MzcwNTEsOTIxMjg2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3
+MCw0MTUzNTQwMzcsMjAwNzY1MDQ1MF19
 -->
