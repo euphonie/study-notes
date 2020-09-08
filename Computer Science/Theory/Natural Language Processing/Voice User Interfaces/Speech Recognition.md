@@ -93,7 +93,7 @@ $$
 $$
 P("I", "love", "language","models") = P("I")P("love"|"I")P("language"|"I love")P("models"|"I love language")
 $$
-- 
+- These probabilities can then be scored along with the probabilities from the Acoustic Model to remove language ambiguities 
 
 # Tools
 - Corpus 
@@ -104,7 +104,7 @@ $$
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNDMzNjI2OCw4MTg5MzcwNTEsOTIxMj
+eyJoaXN0b3J5IjpbLTI4NDEzODAzOCw4MTg5MzcwNTEsOTIxMj
 g2NTUxLC0xNDQ2MTgxNDU1LDE5NTgwMzk3MCw0MTUzNTQwMzcs
 MjAwNzY1MDQ1MF19
 -->
