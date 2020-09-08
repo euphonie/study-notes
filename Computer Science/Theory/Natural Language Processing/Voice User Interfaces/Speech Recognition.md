@@ -53,6 +53,9 @@
 	- It is based on a lexicon or dictionary of the data set.
 - A design choice could be transforming directly from the acoustic model into words, this can be useful when training with a limited vocabulary.
 
+**Acoustic models and time **
+- DTW calculates the similarity between two signals 
+
 # Tools
 - Corpus 
 	- TIMIT (1993) - 630 speakers voicing 10 phoneme-rich sentences
@@ -62,7 +65,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4OTM3MDUxLDkyMTI4NjU1MSwtMTQ0Nj
-E4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3LDIwMDc2NTA0NTBd
-fQ==
+eyJoaXN0b3J5IjpbLTE4NDM4ODYzNTYsODE4OTM3MDUxLDkyMT
+I4NjU1MSwtMTQ0NjE4MTQ1NSwxOTU4MDM5NzAsNDE1MzU0MDM3
+LDIwMDc2NTA0NTBdfQ==
 -->
