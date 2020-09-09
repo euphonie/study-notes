@@ -29,6 +29,11 @@
 - школьник - school boy (primario)
 - университет - universidad
 - мальчик - boy (patojo)
+- сад - jardín
+
+### Números
+- сто - cién
+- два - dos
 
 ### En Casa
 - брат - hermano
@@ -91,7 +96,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yOD
-M0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0
-NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbLTEyMjQ3NDY2MjIsMTk1NDM5MjY2NiwtMz
+Y4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0
+ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
 -->
