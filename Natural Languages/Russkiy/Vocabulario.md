@@ -14,6 +14,8 @@
 - газета - periódico
 - карта - mapa
 - письмо - carta
+- славарь - diccionario
+- упражнение - ejercicio (tarea)
 - дверь - puerta
 - вот - here it is
 - вода (o=a) - agua
@@ -30,6 +32,10 @@
 - папа - papá
 - луна - luna
 - она (o=a) - pronombre femenino tercera persona singular (ella)
+
+### En Casa
+- брат
+
 
 ### Profesiones
 - студент - étudiant (fr)
@@ -79,7 +85,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc4OTQ2ODgsLTM2ODE2MTY5MywtMj
-gzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2
-NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbMTI4OTQwMTI1NSwtMzY4MTYxNjkzLC0yOD
+M0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0
+NTUsLTgzMDc5MDM5MF19
 -->
