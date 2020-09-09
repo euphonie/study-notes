@@ -93,6 +93,9 @@
 - давай познакомимся (o1=a) - conozcámonos
 - скажи, пожалуйста - dígame, por favor
 - А теперь вы - Y ahora usted
+- извините, извини - perdone , disculpa
+- Можно (o2=a) - se puede?
+- 
 
 ### Preguntas
 - кто - who
@@ -125,8 +128,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDk1NDQsNTgxODQ2OTE1LC0xMjA2Mz
-A5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywt
-OTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMD
-c5MDM5MF19
+eyJoaXN0b3J5IjpbNDg5MTIyMjExLDEzNDA5NTQ0LDU4MTg0Nj
+kxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5Mywt
+MjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NT
+I2NDU1LC04MzA3OTAzOTBdfQ==
 -->
