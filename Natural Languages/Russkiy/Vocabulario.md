@@ -94,7 +94,7 @@
 - пока - adios, hasta luego
 - давай познакомимся (o1=a) - conozcámonos
 - скажи, пожалуйста - dígame, por favor
-'скажи, пожалуйста - dígame, por favor
+	- скажите, пожалуйста - dígame, por favor
 - А теперь вы - Y ahora usted
 - извините, извини - perdone , disculpa
 - Можно (o2=a) - se puede?
@@ -132,7 +132,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTgzOTY3OSwxMzQwOTU0NCw1ODE4ND
+eyJoaXN0b3J5IjpbLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4ND
 Y5MTUsLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMs
 LTI4MzQxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2OD
 UyNjQ1NSwtODMwNzkwMzkwXX0=
