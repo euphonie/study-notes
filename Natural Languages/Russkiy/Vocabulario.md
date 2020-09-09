@@ -96,7 +96,7 @@
 - она (o=a) - pronombre femenino tercera persona singular (ella)
 - мы - pronombre primera persona plural (nosotros)
 - вы - pronombre segunda persona plural (usted/ustedes)
-- они - pronombre tercera personal plural (ello/as)
+- они (o=a) - pronombre tercera persona plural (ellos/as)
 
 
 ## Nombres
@@ -112,8 +112,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDkyNDY2MCwtMTIwNjMwOTgzLDE5NT
-QzOTI2NjYsLTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3
-MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ
-==
+eyJoaXN0b3J5IjpbNTgxODQ2OTE1LC0xMjA2MzA5ODMsMTk1ND
+M5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODcz
+LC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
 -->
