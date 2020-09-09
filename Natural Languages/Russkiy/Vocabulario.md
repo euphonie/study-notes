@@ -33,6 +33,13 @@
 - рот - boca
 - комната - cuarto
 - сумка - bolsa
+- галстук - córbata
+- гол - gol
+- фара - headlamp (car)
+- сахар - azúcar
+- зонт - sombrilla
+- арбуз - sandía
+
 
 ### Números
 - сто - cién
@@ -99,7 +106,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNj
-gxNjE2OTMsLTI4MzQxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4
-ODIsLTU2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbLTc4NTEyNzg0NywtMTIwNjMwOTgzLDE5NT
+QzOTI2NjYsLTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3
+MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ
+==
 -->
