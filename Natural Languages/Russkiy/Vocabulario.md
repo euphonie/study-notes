@@ -57,7 +57,7 @@
 - семь  - siete
 - восемь - ocho
 - девять - nueve
-- 
+- десять - diez
 
 ### En Casa
 - брат - hermano
@@ -91,6 +91,7 @@
 - до свидания - hasta la vista, so long, à bientôt
 - пока - adios, hasta luego
 - давай познакомимся (o1=a) - conozcámonos
+- 
 
 ### Preguntas
 - кто - who
@@ -123,8 +124,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjUyNzEwMSw1ODE4NDY5MTUsLTEyMD
-YzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3
-LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtOD
-MwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbMjY3MzM4NDkwLDU4MTg0NjkxNSwtMTIwNj
+MwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5MywtMjgzNDEzMDcs
+LTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04Mz
+A3OTAzOTBdfQ==
 -->
