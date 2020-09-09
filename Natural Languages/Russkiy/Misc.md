@@ -17,11 +17,11 @@
 - Género Neute (neutro)
 	- palabras que terminan en O, E
 
-
+**Nota** palabras que terminan con ь pueden ser masculinas o femeninas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyODM5MDU0MywzODcwNDAxMjAsLTE4Nz
+eyJoaXN0b3J5IjpbLTkxNTgwNzg0NCwzODcwNDAxMjAsLTE4Nz
 gzNjkyNDAsNTEwMDk2NjM4LC0xNjczNzUyNzc5LDczMDk5ODEx
 Nl19
 -->
