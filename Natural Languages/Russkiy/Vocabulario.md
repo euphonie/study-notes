@@ -19,23 +19,17 @@
 - дверь - puerta
 - вот - here it is
 - вода (o=a) - agua
-- он - pronombre masculino tercera persona singular (él)
 - там - allá (there)
-- дом - casa
 - тут - aquí
-- ты - pronombre segunda persona singular (tú)
-- мы - pronombre primera persona plural (nosotros)
-- вы - pronombre segunda persona plural (usted/ustedes)
 - это (o=a) - this is, esto es
 - фото (o2=a) - photo
-- мама - mamá
-- папа - papá
 - луна - luna
-- она (o=a) - pronombre femenino tercera persona singular (ella)
 
 ### En Casa
-- брат
-
+- брат - hermano
+- мама - mamá
+- папа - papá
+- дом - casa
 
 ### Profesiones
 - студент - étudiant (fr)
@@ -70,6 +64,12 @@
 - кто это - quién es este?
 - что это - qué es esto?
 
+## Pronombres
+- он - pronombre masculino tercera persona singular (él)
+- ты - pronombre segunda persona singular (tú)
+- она (o=a) - pronombre femenino tercera persona singular (ella)
+- мы - pronombre primera persona plural (nosotros)
+- вы - pronombre segunda persona plural (usted/ustedes)
 
 
 ## Nombres
@@ -85,7 +85,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTQwMTI1NSwtMzY4MTYxNjkzLC0yOD
-M0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0
-NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbLTIwODA4NzQyMDksLTM2ODE2MTY5MywtMj
+gzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2
+NDU1LC04MzA3OTAzOTBdfQ==
 -->
