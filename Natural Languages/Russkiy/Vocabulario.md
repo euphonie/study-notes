@@ -24,12 +24,14 @@
 - это (o=a) - this is, esto es
 - фото (o2=a) - photo
 - луна - luna
+- словo(o2=a) - palabra
 
 ### En Casa
 - брат - hermano
 - мама - mamá
 - папа - papá
 - дом - casa
+- сестра - hermana
 
 ### Profesiones
 - студент - étudiant (fr)
@@ -85,7 +87,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA4NzQyMDksLTM2ODE2MTY5MywtMj
-gzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2
-NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbODU1MzUzNjMwLC0zNjgxNjE2OTMsLTI4Mz
+QxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1
+NSwtODMwNzkwMzkwXX0=
 -->
