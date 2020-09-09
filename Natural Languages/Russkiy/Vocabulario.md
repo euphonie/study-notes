@@ -30,6 +30,9 @@
 - университет - universidad
 - мальчик - boy (patojo)
 - сад - jardín
+- рот - boca
+- комната - cuarto
+- сумка - bolsa
 
 ### Números
 - сто - cién
@@ -96,7 +99,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjQ3NDY2MjIsMTk1NDM5MjY2NiwtMz
-Y4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0
-ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNj
+gxNjE2OTMsLTI4MzQxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4
+ODIsLTU2ODUyNjQ1NSwtODMwNzkwMzkwXX0=
 -->
