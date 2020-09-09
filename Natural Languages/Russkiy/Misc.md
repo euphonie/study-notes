@@ -7,12 +7,16 @@
 (radia) - радио
 (televisar) - televisor - телевисар
 
-я (ia) - yo 
-я студент (ia studient) - yo soy estudiante
+# Géneros en ruso
+
+- Género он
+	 - Cuando la palabra termina en consonante es género masculino
+	- palabras que terminan en 
+ - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MjQ4NjgyLDM4NzA0MDEyMCwtMTg3OD
-M2OTI0MCw1MTAwOTY2MzgsLTE2NzM3NTI3NzksNzMwOTk4MTE2
-XX0=
+eyJoaXN0b3J5IjpbMTY0Mzc4NTM3NiwzODcwNDAxMjAsLTE4Nz
+gzNjkyNDAsNTEwMDk2NjM4LC0xNjczNzUyNzc5LDczMDk5ODEx
+Nl19
 -->
