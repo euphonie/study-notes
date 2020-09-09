@@ -90,11 +90,13 @@
 - что это - qué es esto?
 
 ## Pronombres
-- он - pronombre masculino tercera persona singular (él)
+- я - pronombre primera persona singular (yo)
 - ты - pronombre segunda persona singular (tú)
+- он - pronombre masculino tercera persona singular (él)
 - она (o=a) - pronombre femenino tercera persona singular (ella)
 - мы - pronombre primera persona plural (nosotros)
 - вы - pronombre segunda persona plural (usted/ustedes)
+- они - pronombre tercera personal plural (ello/as)
 
 
 ## Nombres
@@ -110,7 +112,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTIwOTc5MCwtMTIwNjMwOTgzLDE5NT
+eyJoaXN0b3J5IjpbMTU5MDkyNDY2MCwtMTIwNjMwOTgzLDE5NT
 QzOTI2NjYsLTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3
 MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ
 ==
