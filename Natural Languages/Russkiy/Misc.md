@@ -12,7 +12,7 @@
 - Género он (masculino)
 	- palabras que terminan en consonante
 	- palabras que terminan en й
-- Género она ) (femenino)
+- Género она (o=a) (femenino)
 	- palabras que terminan en А, я
 - Género оно (o1=a) (neutro)
 	- palabras que terminan en O, E
@@ -21,7 +21,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MDcyMjIzMCwtOTE1ODA3ODQ0LDM4Nz
-A0MDEyMCwtMTg3ODM2OTI0MCw1MTAwOTY2MzgsLTE2NzM3NTI3
-NzksNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTA1MDY1MjkxLC05MTU4MDc4NDQsMzg3MD
+QwMTIwLC0xODc4MzY5MjQwLDUxMDA5NjYzOCwtMTY3Mzc1Mjc3
+OSw3MzA5OTgxMTZdfQ==
 -->
