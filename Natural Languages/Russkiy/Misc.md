@@ -15,11 +15,13 @@
 - Género она (femenino)
 	- palabras que terminan en А, я
 - Género Neute (neutro)
-	- palabras que terminan en O,
+	- palabras que terminan en O, E
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIzNjI5NiwzODcwNDAxMjAsLTE4Nz
+eyJoaXN0b3J5IjpbMjEyODM5MDU0MywzODcwNDAxMjAsLTE4Nz
 gzNjkyNDAsNTEwMDk2NjM4LC0xNjczNzUyNzc5LDczMDk5ODEx
 Nl19
 -->
