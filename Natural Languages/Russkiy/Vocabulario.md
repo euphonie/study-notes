@@ -53,6 +53,10 @@
 - три - tres
 - четыре - cuatro
 - пять - cinco
+- шесть - seis
+- семь  - siete
+- восемь - ocho
+- девять - nueve
 - 
 
 ### En Casa
@@ -119,8 +123,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTczNzEzMTcsNTgxODQ2OTE1LC0xMj
-A2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMw
-NywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLT
-gzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbMTIyNjUyNzEwMSw1ODE4NDY5MTUsLTEyMD
+YzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3
+LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtOD
+MwNzkwMzkwXX0=
 -->
