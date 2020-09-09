@@ -21,6 +21,7 @@
 - вода (o=a) - agua
 - там - allá (there)
 - тут - aquí
+- здесь - acá
 - это (o=a) - this is, esto es
 - фото (o2=a) - photo
 - луна - luna
@@ -88,6 +89,7 @@
 - где - where
 - кто это - quién es este?
 - что это - qué es esto?
+- где парк - dónde está el parque?
 
 ## Pronombres
 - я - pronombre primera persona singular (yo)
@@ -112,7 +114,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxODQ2OTE1LC0xMjA2MzA5ODMsMTk1ND
-M5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODcz
-LC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbMTMyNzU5NTc2Myw1ODE4NDY5MTUsLTEyMD
+YzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3
+LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtOD
+MwNzkwMzkwXX0=
 -->
