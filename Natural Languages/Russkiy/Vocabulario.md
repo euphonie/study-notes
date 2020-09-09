@@ -92,7 +92,7 @@
 - пока - adios, hasta luego
 - давай познакомимся (o1=a) - conozcámonos
 - скажи, пожалуйста - dígame, por favor
-- 
+- А теперь вы - Y ahora usted
 
 ### Preguntas
 - кто - who
@@ -125,8 +125,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NjAzMjEwNCw1ODE4NDY5MTUsLTEyMD
-YzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3
-LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtOD
-MwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbMTM0MDk1NDQsNTgxODQ2OTE1LC0xMjA2Mz
+A5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywt
+OTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMD
+c5MDM5MF19
 -->
