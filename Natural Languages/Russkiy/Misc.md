@@ -12,16 +12,16 @@
 - Género он (masculino)
 	- palabras que terminan en consonante
 	- palabras que terminan en й
-- Género она (femenino)
+- Género она ) (femenino)
 	- palabras que terminan en А, я
-- Género Neute (neutro)
+- Género оно (o1=a) (neutro)
 	- palabras que terminan en O, E
 
 **Nota** palabras que terminan con ь pueden ser masculinas o femeninas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTgwNzg0NCwzODcwNDAxMjAsLTE4Nz
-gzNjkyNDAsNTEwMDk2NjM4LC0xNjczNzUyNzc5LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbMjA5MDcyMjIzMCwtOTE1ODA3ODQ0LDM4Nz
+A0MDEyMCwtMTg3ODM2OTI0MCw1MTAwOTY2MzgsLTE2NzM3NTI3
+NzksNzMwOTk4MTE2XX0=
 -->
