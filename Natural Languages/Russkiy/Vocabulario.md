@@ -95,7 +95,7 @@
 - А теперь вы - Y ahora usted
 - извините, извини - perdone , disculpa
 - Можно (o2=a) - se puede?
-- 
+- пожалуйста - de nada
 
 ### Preguntas
 - кто - who
@@ -128,8 +128,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MTIyMjExLDEzNDA5NTQ0LDU4MTg0Nj
-kxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5Mywt
-MjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NT
-I2NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbMTc3MzEzNjE1MCwxMzQwOTU0NCw1ODE4ND
+Y5MTUsLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMs
+LTI4MzQxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2OD
+UyNjQ1NSwtODMwNzkwMzkwXX0=
 -->
