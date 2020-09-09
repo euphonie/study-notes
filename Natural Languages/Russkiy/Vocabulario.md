@@ -26,8 +26,9 @@
 - луна - luna
 - словo(o2=a) - palabra
 - школа - escuela
-- школьник - school boy
+- школьник - school boy (primario)
 - университет - universidad
+- мальчик - boy (patojo)
 
 ### En Casa
 - брат - hermano
@@ -90,7 +91,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMxNzY0NjAsLTM2ODE2MTY5MywtMj
-gzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2
-NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yOD
+M0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0
+NTUsLTgzMDc5MDM5MF19
 -->
