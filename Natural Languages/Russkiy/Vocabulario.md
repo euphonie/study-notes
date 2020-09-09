@@ -85,6 +85,7 @@
 - A вы? - y usted?
 - тоже - también
 - как вас зовут? - cómo se llama usted?
+- как тебя зовут?  - cómo te llamas?
 - меня зовут - me llamo...
 - очень приятно(o=a) - mucho gusto
 - доброе утра - Buenos días
@@ -96,6 +97,7 @@
 - извините, извини - perdone , disculpa
 - Можно (o2=a) - se puede?
 - пожалуйста - de nada
+- познакомьтесь - conozca, le presento
 
 ### Preguntas
 - кто - who
@@ -128,8 +130,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzEzNjE1MCwxMzQwOTU0NCw1ODE4ND
-Y5MTUsLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMs
-LTI4MzQxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2OD
-UyNjQ1NSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbLTE4OTA4MTE3MDksMTM0MDk1NDQsNTgxOD
+Q2OTE1LC0xMjA2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkz
+LC0yODM0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Nj
+g1MjY0NTUsLTgzMDc5MDM5MF19
 -->
