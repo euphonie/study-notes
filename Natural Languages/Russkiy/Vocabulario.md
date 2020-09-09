@@ -48,7 +48,11 @@
 
 ### Números
 - сто - cién
+- один - uno
 - два - dos
+- три - tres
+- четыре - cuatro
+- пять - cinco
 
 ### En Casa
 - брат - hermano
@@ -114,7 +118,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzU5NTc2Myw1ODE4NDY5MTUsLTEyMD
+eyJoaXN0b3J5IjpbMjExOTQ0NzYyNCw1ODE4NDY5MTUsLTEyMD
 YzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3
 LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtOD
 MwNzkwMzkwXX0=
