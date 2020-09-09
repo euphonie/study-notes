@@ -39,7 +39,9 @@
 - сахар - azúcar
 - зонт - sombrilla
 - арбуз - sandía
-
+- кошка - gata
+- улица - calle
+- очки (o=a) - lentes
 
 ### Números
 - сто - cién
@@ -106,8 +108,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTEyNzg0NywtMTIwNjMwOTgzLDE5NT
-QzOTI2NjYsLTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3
-MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ
-==
+eyJoaXN0b3J5IjpbODE5NzYyMTUzLC0xMjA2MzA5ODMsMTk1ND
+M5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODcz
+LC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
 -->
