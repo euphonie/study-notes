@@ -42,6 +42,8 @@
 - кошка - gata
 - улица - calle
 - очки (o=a) - lentes
+- часы - reloj
+- ключ - llave
 
 ### Números
 - сто - cién
@@ -108,7 +110,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5NzYyMTUzLC0xMjA2MzA5ODMsMTk1ND
-M5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODcz
-LC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbMTE4OTIwOTc5MCwtMTIwNjMwOTgzLDE5NT
+QzOTI2NjYsLTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3
+MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ
+==
 -->
