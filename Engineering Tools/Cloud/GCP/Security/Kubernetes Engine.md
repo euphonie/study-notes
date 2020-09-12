@@ -45,8 +45,14 @@
 		- monitoring.viewer
 		- monitoring.metricwriter
 		- logging.logwriter
+- Harden against discovery exploits
+	- Configure authorized networks to restrict access to only a set of IP ranges
+	- Setup a private cluster to restrict access to only certain VPCs
+	- Correct the subjects of the default system discovery and system basic user cluster role bindings
+	- Allow access by only certain known users and groups
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA3NDY3MTMsMjQxNDAyMTBdfQ==
+eyJoaXN0b3J5IjpbLTI3OTc5ODMxNCwyNDE0MDIxMF19
 -->
