@@ -7,10 +7,11 @@
 	- Service accounts are created and managed by Kubernetes, but only work within pods. 
 	- Managed by Kubernetes API and bound to specific namespaces
 - Requests without an account are anonymous
-- Kubernetes Service Accounts are part of the clut
+- Kubernetes Service Accounts are part of the cluster in which they are defined and are used only in the cluster.
+	- In contrast, Google Service Accounts are part of a GC project and can be granted permissions to clusters and other Cloud resources
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzI5Njk2M119
+eyJoaXN0b3J5IjpbLTEzODM0ODc3MDRdfQ==
 -->
