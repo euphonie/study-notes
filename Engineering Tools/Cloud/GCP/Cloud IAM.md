@@ -122,7 +122,10 @@ def implicit():
 	print(buckets)
 ```
 - Credentials are used to identify your application for quota and billing
-- 
+- Applications check for credentials in the following order:
+	- Google application credentials environment variable
+	- Default service accounts, that CE, GKE or Cloud Functions provides
+	- Error is thrown
 
 ## Organization
 
@@ -189,8 +192,11 @@ gcloud iam service-accounts create my-sa-123 --display-name "my service account"
 gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAccount:my-sa-123@$DEVSHELL_PROJECT_ID.iam.gserviceaccount.com --role roles/editor
 ```
 
+# Best practices
+- Follow the principles of least privilege
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjEwNjg5NywtMTE0MjE5ODE4Nl19
+eyJoaXN0b3J5IjpbODY2MDkxNDE5LC0xMTQyMTk4MTg2XX0=
 -->
