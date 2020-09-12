@@ -13,8 +13,10 @@
 - Will probably change state in the application so it may be used with caution
 	- Run scans in test environment
 	- Using test accounts
+	- Use backup data to restore a test after scan
 - Process
 	- Navigates every link it finds
+		- Certain URL patterns can be blocked
 	- Activates every control and input
 	- Logs in with specified credentials
 	- User-agent and maximum Request per rate (Queries per second, QPS) can be configured
@@ -36,5 +38,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDI5NDUzN119
+eyJoaXN0b3J5IjpbMTk2MjE4NTExNF19
 -->
