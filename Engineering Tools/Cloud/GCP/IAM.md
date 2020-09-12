@@ -61,6 +61,7 @@ Collection of permissions. Grant roles to users, service accounts or groups.
 		- Manage billing
 		- Add and remove administrators
 - **Predefined**. Can be applied on **Compute Engine** resources in a project, folder or organization. Provides more finer-grained rules on access and control over resources.
+	- More than one role can be applied to a user
 - **Custom**. The most detailed setup for rules on resources. It can work along the concept of assigning the **least-privilege** needed actions to all users in an organization.
 	- These can only be used at the project or organization levels, this means they can't be used at folder.
 
@@ -160,7 +161,7 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDcwNDUwMywtMjA5NTg3NDIyMSwxOD
+eyJoaXN0b3J5IjpbLTE3NDQxNzczMSwtMjA5NTg3NDIyMSwxOD
 U3MzU1Mzk4LC0xMDA0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4
 ODA1MzcsMTI4NTkxOTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NT
 csLTEyMzE3MjM0NjNdfQ==
