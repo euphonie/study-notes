@@ -122,6 +122,7 @@ def implicit():
 	print(buckets)
 ```
 - Credentials are used to identify your application for quota and billing
+- 
 
 ## Organization
 
@@ -191,5 +192,5 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIxOTgxODZdfQ==
+eyJoaXN0b3J5IjpbMTE1NjEwNjg5NywtMTE0MjE5ODE4Nl19
 -->
