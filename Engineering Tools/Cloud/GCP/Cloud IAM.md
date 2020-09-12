@@ -193,10 +193,15 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 ```
 
 # Best practices
-- Follow the principles of least privilege
-- 
+- Follow the principles of least privilege. Grant at the smaller scope needed.
+- Rotate service account keys
+- Manage user-managed service account keys
+- Don't check in service account keys to source code
+- Use Cloud Audit Logging and export logs to Cloud Storage
+- Set organization-level IAM policies
+- Grant roles to a Google group when possible
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MDkxNDE5LC0xMTQyMTk4MTg2XX0=
+eyJoaXN0b3J5IjpbNzQxNDIyNDQsLTExNDIxOTgxODZdfQ==
 -->
