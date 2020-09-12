@@ -19,9 +19,10 @@
 - Monitor cluster configurations
 	- Security health analytics can be enabled to alert for any anomalies
 - Restrict access to planes and nodes
+	- By default the GKE cluster has internet routable IP addresses that can be accessed from any IP address
 - Consider using Group Authentication
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwNzY0NTczXX0=
+eyJoaXN0b3J5IjpbMTIxODQ3MTkwNF19
 -->
