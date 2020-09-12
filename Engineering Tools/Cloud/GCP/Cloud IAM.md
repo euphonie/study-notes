@@ -112,10 +112,17 @@ export GOOGLE_APPLICATION_CREDENTIALS=<path_to_service_account_file>
 set GOOGLE_APPLICATION_CREDENTIALS=<path_to_service_account_file>
 ```
 - Authenticate in your code with the default credentials
-```go
+```python
 def implicit():
-	from
+	from google.cloud import storage
+	# There's no need to specify credentials as the constructor
+	# will look for the environment variable
+	storage_client = storage.Client()
+	buckets = list(storage_client.list_buckes())
+	print(buckets)
 ```
+- Credentials are used to i
+
 ## Organization
 
 Google cloud is organized through the concept of projects, it can optionally be organized into folders. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
@@ -184,5 +191,5 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA4Nzk1MDZdfQ==
+eyJoaXN0b3J5IjpbLTY1NDQ0Nzc4NV19
 -->
