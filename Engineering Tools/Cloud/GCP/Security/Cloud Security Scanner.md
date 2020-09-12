@@ -34,9 +34,10 @@
 - **Security misconfiguration**. Is commonly a result of default configurations, incomplete or ad-hoc configurations, open cloud storage, misconfigured HTTP headers and also verbose error messages with sensitive information.
 	- All tools and environments should be patched and updated.
 - **Using components with known vulnerabilites**
+- **Phishing attacks**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjE4NTExNF19
+eyJoaXN0b3J5IjpbLTE4NjkyMjk0NTgsMTk2MjE4NTExNF19
 -->
