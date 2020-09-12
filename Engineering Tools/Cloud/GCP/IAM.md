@@ -14,7 +14,11 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 			- Belongs to an application
 		-  an entire G-Suite domain 
 			- A virtual group of all the members in an organization
+			- Can't be used to establish identity
+			- Enable convenient permission management, like groups
 		- or a Cloud Identity domain.
+			- Virtual group of all members in an organization
+			- Doesn't provide access to G Suite applications and features
 - **Can do what**
 	- Defined by an IAM role (a collection of permissions)
 - **On which resource**
@@ -138,8 +142,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTA3NzQ5LC0yMDk1ODc0MjIxLDE4NT
-czNTUzOTgsLTEwMDQ4NDk0MDgsMTc1NDU3NDY0NywtMTExNzg4
-MDUzNywxMjg1OTE5OTMzLDEzNTU2NjYyNjksLTQ1NTIxOTg1Ny
-wtMTIzMTcyMzQ2M119
+eyJoaXN0b3J5IjpbOTI3Mjc5MTMsLTIwOTU4NzQyMjEsMTg1Nz
+M1NTM5OCwtMTAwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgw
+NTM3LDEyODU5MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC
+0xMjMxNzIzNDYzXX0=
 -->
