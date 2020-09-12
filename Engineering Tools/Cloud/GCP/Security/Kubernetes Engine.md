@@ -12,8 +12,15 @@
 - Google Service Accounts should not be used in Kubernetes, only when their extra capabilities are really needed and use Cloud IAM to manage permissions
 - RBAC can be used for finer access to resources
 
+**Hardening Clusters**
+- Upgrade GKE infrastructure in a timely fashion
+	- Masters are patched and updated automatically
+	- Node auto-upgrade, can
+- Monitor cluster configurations
+- Restrict access to planes and nodes
+- Consider using Group Authentication
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTgxMzc4Ml19
+eyJoaXN0b3J5IjpbNzIyMDg5MzUxXX0=
 -->
