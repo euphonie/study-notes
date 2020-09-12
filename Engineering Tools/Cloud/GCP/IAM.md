@@ -121,18 +121,19 @@ To be able two have an organization node there can be two ways:
 
 *Note*: Higher-level policies (resource-level) can't take away access that's granted at a lower level (organization node level).
 
+## Cloud IAM policy
+
+
 ## Organization Policies
 
 Centralized and programmatic control over organization's cloud resources. A policy administrator can configure restrictions across the entire resource hierarchy.
 - Configure restrictions on how your organization's resource can be used
 - Define and establish guard rails for dev teams to stay within compliance boundaries
 - Assist product owners and teams to move quickly without breaking compliance
-
 - To define a policy
 	- Choose a constraint (particular type of restriction against GCP service or group of services)
 	- Configure that constraint
 	- Descendants inherit the organization's policy
-
 - Constraint
 	- Blueprint that defines what behaviors are controlled
 	- Two main types
@@ -161,8 +162,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQxNzczMSwtMjA5NTg3NDIyMSwxOD
-U3MzU1Mzk4LC0xMDA0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4
-ODA1MzcsMTI4NTkxOTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NT
-csLTEyMzE3MjM0NjNdfQ==
+eyJoaXN0b3J5IjpbMzAyNzIxMjk3LC0yMDk1ODc0MjIxLDE4NT
+czNTUzOTgsLTEwMDQ4NDk0MDgsMTc1NDU3NDY0NywtMTExNzg4
+MDUzNywxMjg1OTE5OTMzLDEzNTU2NjYyNjksLTQ1NTIxOTg1Ny
+wtMTIzMTcyMzQ2M119
 -->
