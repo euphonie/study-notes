@@ -41,8 +41,12 @@
 - Enabled Workload Identity to remove th eneed to use node service accounts or to export service account keys into secrets.
 	- Enabled enforcement of the principle of least privilege, and lets manage namespace service account credentials, lowering the risk of exposure, and reduces the burden of manually rotating those credentials
 - Create and use a service account with a minimal privilege to run you GKE cluster instead of the default compute engine service account
+	- GKE requires at minimum the roles
+		- monitoring.viewer
+		- monitoring.metricwriter
+		- logging.logwriter
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTEwMjI4MTIsMjQxNDAyMTBdfQ==
+eyJoaXN0b3J5IjpbLTE3MTA3NDY3MTMsMjQxNDAyMTBdfQ==
 -->
