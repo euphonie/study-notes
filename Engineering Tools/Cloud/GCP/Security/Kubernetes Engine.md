@@ -60,11 +60,15 @@
 - Enable Binary Authorization
 
 **Monitoring and Logging**
-- Kubernetes engine monitoring is enabled by defult and 
+- Kubernetes engine monitoring is enabled by defult and provides a monitoring dashboard tailored for k8s.
+	- Control if it collects application logs
+	- And disable cloud monitoring or logging completely
+- In the dashboard
+	- Key performance metrics. CPU utilization, memory utilization and the number of open incidents
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxNDIyNjgzLDE3OTY4ODAyNjksMjQxND
-AyMTBdfQ==
+eyJoaXN0b3J5IjpbMTc3NjUwODg5NiwxNzk2ODgwMjY5LDI0MT
+QwMjEwXX0=
 -->
