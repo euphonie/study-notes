@@ -22,11 +22,12 @@
 	- By default the GKE cluster has internet routable IP addresses that can be accessed from any IP address
 	- A private cluster can also be selected from creation
 	- Options
-		- Public endpoint access disabled. Prevents all internet access for masters and nodes. Works with networks using Cloud Interconnect and Cloud VPN.
-		- Public endpoint access enabled. 
+		- **Public endpoint access disabled**. Prevents all internet access for masters and nodes. Works with networks using Cloud Interconnect and Cloud VPN.
+		- **Public endpoint access enabled, master authorized networks enabled**. Gives the control plane a public IP address. Installs a custom firewall rule base.
+		- **Public endpoint access enabled, master authorized networks disabled**
 - Consider using Group Authentication
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MDE4MjM4XX0=
+eyJoaXN0b3J5IjpbNjc0ODczNjA5XX0=
 -->
