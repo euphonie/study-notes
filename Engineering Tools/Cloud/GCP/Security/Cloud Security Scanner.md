@@ -8,6 +8,11 @@
 	- Clear text passwords
 	- Use of insecure Javascript libraries
 - Scans can be setup, schedule (manual or automatic)
+- Duration depends on size and complexity
+- Generates a load against the application
+- Will probably change state in the application so it may be used with caution
+	- Run scans in test environment
+	- Using test accounts
 - Process
 	- Navigates every link it finds
 	- Activates every control and input
@@ -31,5 +36,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNzAwMjldfQ==
+eyJoaXN0b3J5IjpbMTY2MDI5NDUzN119
 -->
