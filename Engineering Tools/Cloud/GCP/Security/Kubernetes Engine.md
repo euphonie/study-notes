@@ -24,10 +24,11 @@
 	- Options
 		- **Public endpoint access disabled**. Prevents all internet access for masters and nodes. Works with networks using Cloud Interconnect and Cloud VPN.
 		- **Public endpoint access enabled, master authorized networks enabled**. Gives the control plane a public IP address. Installs a custom firewall rule base.
-		- **Public endpoint access enabled, master authorized networks disabled**
+		- **Public endpoint access enabled, master authorized networks disabled**. Default setting, allows all public internet users to make connections to the control plane.
+			- To disable direct internet access to nodes, specify the G Cloud tool option, enable private nodes and cluster creation.
 - Consider using Group Authentication
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0ODczNjA5XX0=
+eyJoaXN0b3J5IjpbLTE2OTMwNTAxMDBdfQ==
 -->
