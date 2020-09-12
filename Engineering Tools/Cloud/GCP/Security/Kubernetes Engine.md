@@ -36,9 +36,10 @@
 	- Or use Kubernetes network policies to provide basic access control functionality
 - Secret management for authenticated secrets.
 	- These are generally stored in the etc.d directory
-	- A third-party secret manager should be configured, such as 
+	- A third-party secret manager should be configured, such as HashiCorp Valut, which can be integrated with GKE clusters and should be set up before.
+	- Another option, is to use Kubernetes secrets natively, making sure to encrypt the application layer with a key that you manage
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzEyODcxNSwyNDE0MDIxMF19
+eyJoaXN0b3J5IjpbMTc0NDAyNzIxNSwyNDE0MDIxMF19
 -->
