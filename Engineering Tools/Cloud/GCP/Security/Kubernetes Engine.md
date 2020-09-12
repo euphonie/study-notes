@@ -68,11 +68,12 @@
 	- Hierarchies. 
 		- Infrastructure organizes resources by cluster, then node, then pod and then by container.
 		- Workload organizes resources by cluster, then namespace, then workload, then pod and lastly by container.
-		- Services by cluster, namespace, service,
+		- Services by cluster, namespace, service, pod and last by container.
+- GKE can be monitored through Kubernetes engine monitoring or legacy Stackdriver
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDcyMzk5OSwxNzk2ODgwMjY5LDI0MT
-QwMjEwXX0=
+eyJoaXN0b3J5IjpbNzY4NzQ5MzQ2LDE3OTY4ODAyNjksMjQxND
+AyMTBdfQ==
 -->
