@@ -26,7 +26,8 @@
 	- Replaces the need of using VPN tunnels or apply authentication and authorization for an specific application.
 - Process
 	- Request is forwarded to the Cloud IAP Proxy, which requires the user to login
-	- 
+	- Once logged in, the proxy will determine if the user is allowed to access that application, if they are, they are then forwarded to the requested application page
+- Lets manage access to App Engine, Compute Engine and GKE clusters.
 
 ## Application Vulnerabilities
 
@@ -47,5 +48,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODg0NTYzNCwxOTYyMTg1MTE0XX0=
+eyJoaXN0b3J5IjpbMTYwNzg3MzI2NiwxOTYyMTg1MTE0XX0=
 -->
