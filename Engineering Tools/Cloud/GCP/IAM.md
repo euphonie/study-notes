@@ -124,12 +124,11 @@ gcloud iam service-accounts create my-sa-123 --display-name "my service account"
 gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAccount:my-sa-123@$DEVSHELL_PROJECT_ID.iam.gserviceaccount.com --role roles/editor
 ```
 
-# Best Practices
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU4NzQyMjEsMTg1NzM1NTM5OCwtMT
-AwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3ODgwNTM3LDEyODU5
-MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5ODU3LC0xMjMxNzIzND
-YzXX0=
+eyJoaXN0b3J5IjpbLTMxNjgxNzYwMiwtMjA5NTg3NDIyMSwxOD
+U3MzU1Mzk4LC0xMDA0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4
+ODA1MzcsMTI4NTkxOTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NT
+csLTEyMzE3MjM0NjNdfQ==
 -->
