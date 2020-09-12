@@ -7,6 +7,12 @@
 	- Mixed content
 	- Clear text passwords
 	- Use of insecure Javascript libraries
+- Scans can be setup, schedule (manual or automatic)
+- Process
+	- Navigates every link it finds
+	- Activates every control and input
+	- Logs in with specified credentials
+	- User-agent and maximum Request per rate (Queries per second, QPS) can be configured
 
 ## Application Vulnerabilities
 
@@ -25,5 +31,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE5MTczMjJdfQ==
+eyJoaXN0b3J5IjpbNzIxNzAwMjldfQ==
 -->
