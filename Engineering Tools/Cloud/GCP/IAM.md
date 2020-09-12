@@ -39,7 +39,10 @@ compute.disktypes.list
 
 ## Roles 
 
+Collection of permissions. Grant roles to users, service accounts or groups.
+
 - **Primitive**. Affect all resources in a project but might be too coarse when handling sensitive data. 
+- Can be applied at project level using 
 	- **Owner**
 		- Invite members
 		- Remove members
@@ -156,8 +159,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4OTQ4NDc4NywtMjA5NTg3NDIyMSwxOD
-U3MzU1Mzk4LC0xMDA0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4
-ODA1MzcsMTI4NTkxOTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NT
-csLTEyMzE3MjM0NjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTQ2NzU1MDksLTIwOTU4NzQyMjEsMT
+g1NzM1NTM5OCwtMTAwNDg0OTQwOCwxNzU0NTc0NjQ3LC0xMTE3
+ODgwNTM3LDEyODU5MTk5MzMsMTM1NTY2NjI2OSwtNDU1MjE5OD
+U3LC0xMjMxNzIzNDYzXX0=
 -->
