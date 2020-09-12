@@ -39,9 +39,10 @@
 	- A third-party secret manager should be configured, such as HashiCorp Valut, which can be integrated with GKE clusters and should be set up before.
 	- Another option, is to use Kubernetes secrets natively, making sure to encrypt the application layer with a key that you manage
 - Enabled Workload Identity to remove th eneed to use node service accounts or to export service account keys into secrets.
-	- Enabled enforcement of the principle of least privilege, and lets manage namep
+	- Enabled enforcement of the principle of least privilege, and lets manage namespace service account credentials, lowering the risk of exposure, and reduces the burden of manually rotating those credentials
+- Create and use a service account with a minimal privilege to run you GKE cluster instead of the default compute engine service account
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjI3NjUzOCwyNDE0MDIxMF19
+eyJoaXN0b3J5IjpbLTEyNTEwMjI4MTIsMjQxNDAyMTBdfQ==
 -->
