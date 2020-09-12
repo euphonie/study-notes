@@ -35,9 +35,10 @@
 	- All tools and environments should be patched and updated.
 - **Using components with known vulnerabilites**
 - **Phishing attacks**
+- **OAuth phishing**. Is executed by tricking users to granting persistent access to their user accounts.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjkyMjk0NTgsMTk2MjE4NTExNF19
+eyJoaXN0b3J5IjpbMTgzMDU0MjYxNSwxOTYyMTg1MTE0XX0=
 -->
