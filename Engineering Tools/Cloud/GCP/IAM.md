@@ -9,9 +9,11 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 		-  a Google Group
 			- Named collection of google accounts and service accounts
 			- has a unique email address
+			- Don't have login credentials. Can't be used to establish identity to make a request to access a resource.
 		-  a Service Account
 			- Belongs to an application
 		-  an entire G-Suite domain 
+			- A virtual group of all the members in an organization
 		- or a Cloud Identity domain.
 - **Can do what**
 	- Defined by an IAM role (a collection of permissions)
@@ -136,8 +138,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDI2NzgyMiwtMjA5NTg3NDIyMSwxOD
-U3MzU1Mzk4LC0xMDA0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4
-ODA1MzcsMTI4NTkxOTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NT
-csLTEyMzE3MjM0NjNdfQ==
+eyJoaXN0b3J5IjpbMTA5NTA3NzQ5LC0yMDk1ODc0MjIxLDE4NT
+czNTUzOTgsLTEwMDQ4NDk0MDgsMTc1NDU3NDY0NywtMTExNzg4
+MDUzNywxMjg1OTE5OTMzLDEzNTU2NjYyNjksLTQ1NTIxOTg1Ny
+wtMTIzMTcyMzQ2M119
 -->
