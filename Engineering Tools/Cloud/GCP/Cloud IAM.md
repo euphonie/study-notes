@@ -197,11 +197,11 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 - Rotate service account keys
 - Manage user-managed service account keys
 - Don't check in service account keys to source code
-- Use Cloud Audit Logging and export logs to Cloud Storage
+- Use Cloud Audit Logging and export logs to Cloud Storage to monitor changes to policies
 - Set organization-level IAM policies
 - Grant roles to a Google group when possible
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNDIyNDQsLTExNDIxOTgxODZdfQ==
+eyJoaXN0b3J5IjpbMTg2OTY1Nzc2NSwtMTE0MjE5ODE4Nl19
 -->
