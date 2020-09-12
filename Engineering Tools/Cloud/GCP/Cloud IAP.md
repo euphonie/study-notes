@@ -18,14 +18,16 @@
 - Supporting users sign in from using third-party credentials in the Client App.
 - Process
 	- Get authentication credentials from the user
+		- These can be a username and password, or an OAuth token from a federated identity provider
 	- Pass the credentials to the Firebase Authentication SDK
 	- Firebase backend services verify credentials and return a response to the client
 	- After successful sign-in the user can
 		- Access the user's basic profile
-		- Control the user's access to data stored in 
+		- Control the user's access to data stored in other Firebase products
+		- Use the provided authentication token to verify the identity of users in your own backend services
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA3ODI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTEzODc2MDMzMzVdfQ==
 -->
