@@ -80,7 +80,8 @@ Service accounts can be used to allow certain levels of server-to-server interac
 - User-managed service accounts do not use the access scope
 	- Permissions are controlled through IAM roles
 - Are associated with a key pair
-- Can have up to 10 keys associated with them to facilitate key 
+- Can have up to 10 keys associated with them to facilitate key rotation (done daily by Google)
+	- External keys can be created and used outside GCP
 
 **Default service account has Project Editor Role which can be dangerous, as it can delete resources**
 
@@ -172,5 +173,5 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwODc2NjIxXX0=
+eyJoaXN0b3J5IjpbMTU5MDUyMTgzXX0=
 -->
