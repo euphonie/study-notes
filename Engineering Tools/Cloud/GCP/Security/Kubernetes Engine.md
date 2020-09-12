@@ -15,12 +15,13 @@
 **Hardening Clusters**
 - Upgrade GKE infrastructure in a timely fashion
 	- Masters are patched and updated automatically
-	- Node auto-upgrade, can
+	- Node auto-upgrade, can be disabled but recommended to manually update monthly or another set schedule
 - Monitor cluster configurations
+	- Security health analytics can be enabled to alert for any anomalies
 - Restrict access to planes and nodes
 - Consider using Group Authentication
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyMDg5MzUxXX0=
+eyJoaXN0b3J5IjpbNTUwNzY0NTczXX0=
 -->
