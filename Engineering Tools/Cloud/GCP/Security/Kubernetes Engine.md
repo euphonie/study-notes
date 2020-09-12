@@ -29,8 +29,9 @@
 - Consider using Group Authentication
 	- Security best practice
 	- Google groups for GKE must be enabled when creating the clusters
+	- Shie
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNDAyMTBdfQ==
+eyJoaXN0b3J5IjpbMTM3MTY1NDYyOCwyNDE0MDIxMF19
 -->
