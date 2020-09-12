@@ -101,6 +101,11 @@ Service accounts can be used to allow certain levels of server-to-server interac
 - Set access for each API
 	- Only some Google API services 
 
+#### Create a service account
+- Create the service account via the console
+- Generate and download your credentials file
+- Set an environment variable to provide credentials to your application
+- Auth
 
 ## Organization
 
@@ -167,11 +172,8 @@ gcloud iam service-accounts create my-sa-123 --display-name "my service account"
 gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAccount:my-sa-123@$DEVSHELL_PROJECT_ID.iam.gserviceaccount.com --role roles/editor
 ```
 
-# Best Practices
-
-
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDUyMTgzXX0=
+eyJoaXN0b3J5IjpbMTM1MTA3MDk4MV19
 -->
