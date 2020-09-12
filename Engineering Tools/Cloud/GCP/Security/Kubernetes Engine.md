@@ -29,9 +29,11 @@
 - Consider using Group Authentication
 	- Security best practice
 	- Google groups for GKE must be enabled when creating the clusters
-	- Shie
+- Shielded GKE nodes provide verifiable node identity and integrity
+	- Upon cluster creation or uptake, specify the GCloud option, enabled shielded nodes. 
+- Restricting 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTY1NDYyOCwyNDE0MDIxMF19
+eyJoaXN0b3J5IjpbLTM3OTI5NzA5MCwyNDE0MDIxMF19
 -->
