@@ -123,6 +123,11 @@ To be able two have an organization node there can be two ways:
 
 ## Cloud IAM policy
 
+Represented by the policy object. A policy consists of a list of bindings. A binding binds a list of members to a role.
+- Methods
+	- setIAMPolicy(). set policies.
+	- getIAMPolicy(). get a policy that was previously set.
+	- testIAMPermissions(). test whether the caller has the specified permissions for a resource.
 
 ## Organization Policies
 
@@ -162,8 +167,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAyNzIxMjk3LC0yMDk1ODc0MjIxLDE4NT
-czNTUzOTgsLTEwMDQ4NDk0MDgsMTc1NDU3NDY0NywtMTExNzg4
-MDUzNywxMjg1OTE5OTMzLDEzNTU2NjYyNjksLTQ1NTIxOTg1Ny
-wtMTIzMTcyMzQ2M119
+eyJoaXN0b3J5IjpbMTg0OTkzMjYwMywtMjA5NTg3NDIyMSwxOD
+U3MzU1Mzk4LC0xMDA0ODQ5NDA4LDE3NTQ1NzQ2NDcsLTExMTc4
+ODA1MzcsMTI4NTkxOTkzMywxMzU1NjY2MjY5LC00NTUyMTk4NT
+csLTEyMzE3MjM0NjNdfQ==
 -->
