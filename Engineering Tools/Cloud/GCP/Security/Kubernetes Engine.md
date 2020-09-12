@@ -20,9 +20,13 @@
 	- Security health analytics can be enabled to alert for any anomalies
 - Restrict access to planes and nodes
 	- By default the GKE cluster has internet routable IP addresses that can be accessed from any IP address
+	- A private cluster can also be selected from creation
+	- Options
+		- Public endpoint access disabled. Prevents all internet access for masters and nodes. Works with networks using Cloud Interconnect and Cloud VPN.
+		- Public endpoint access enabled. 
 - Consider using Group Authentication
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODQ3MTkwNF19
+eyJoaXN0b3J5IjpbOTc1MDE4MjM4XX0=
 -->
