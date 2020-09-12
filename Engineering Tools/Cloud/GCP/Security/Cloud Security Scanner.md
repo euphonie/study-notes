@@ -21,6 +21,9 @@
 	- Logs in with specified credentials
 	- User-agent and maximum Request per rate (Queries per second, QPS) can be configured
 
+**Cloud IAP**
+- Central authentication and authorization layer for all applications over HTTPS. 
+
 ## Application Vulnerabilities
 
 - **Injection**. Happens when some form of malicious content can be injected into an application from an app attacker and then the application accepts and interprets the content.
@@ -40,5 +43,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDU0MjYxNSwxOTYyMTg1MTE0XX0=
+eyJoaXN0b3J5IjpbLTEzMjY0OTk2ODksMTk2MjE4NTExNF19
 -->
