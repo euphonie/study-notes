@@ -23,6 +23,10 @@
 
 **Cloud IAP**
 - Central authentication and authorization layer for all applications over HTTPS. 
+	- Replaces the need of using VPN tunnels or apply authentication and authorization for an specific application.
+- Process
+	- Request is forwarded to the Cloud IAP Proxy, which requires the user to login
+	- 
 
 ## Application Vulnerabilities
 
@@ -43,5 +47,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY0OTk2ODksMTk2MjE4NTExNF19
+eyJoaXN0b3J5IjpbMTEyODg0NTYzNCwxOTYyMTg1MTE0XX0=
 -->
