@@ -121,7 +121,7 @@ def implicit():
 	buckets = list(storage_client.list_buckes())
 	print(buckets)
 ```
-- Credentials are used to i
+- Credentials are used to identify your application for quota and billing
 
 ## Organization
 
@@ -191,5 +191,5 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDQ0Nzc4NV19
+eyJoaXN0b3J5IjpbLTExNDIxOTgxODZdfQ==
 -->
