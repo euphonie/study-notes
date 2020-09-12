@@ -65,10 +65,11 @@
 	- And disable cloud monitoring or logging completely
 - In the dashboard
 	- Key performance metrics. CPU utilization, memory utilization and the number of open incidents
+	- Hierarchies. R
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjUwODg5NiwxNzk2ODgwMjY5LDI0MT
+eyJoaXN0b3J5IjpbMTQ4MzkxNTE1OCwxNzk2ODgwMjY5LDI0MT
 QwMjEwXX0=
 -->
