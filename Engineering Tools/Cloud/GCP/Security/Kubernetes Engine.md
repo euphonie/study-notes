@@ -65,11 +65,14 @@
 	- And disable cloud monitoring or logging completely
 - In the dashboard
 	- Key performance metrics. CPU utilization, memory utilization and the number of open incidents
-	- Hierarchies. R
+	- Hierarchies. 
+		- Infrastructure organizes resources by cluster, then node, then pod and then by container.
+		- Workload organizes resources by cluster, then namespace, then workload, then pod and lastly by container.
+		- Services by cluster, namespace, service,
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MzkxNTE1OCwxNzk2ODgwMjY5LDI0MT
+eyJoaXN0b3J5IjpbMTE1NDcyMzk5OSwxNzk2ODgwMjY5LDI0MT
 QwMjEwXX0=
 -->
