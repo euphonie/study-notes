@@ -56,9 +56,11 @@
 - Limit pod container process privileges
 	- GKE allow t oset security-related options via the security context on both pods and containers. Ex. change the run as user and group.
 - Use workload Identity
+	- 
 - Enable Binary Authorization
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njg4MDI2OSwyNDE0MDIxMF19
+eyJoaXN0b3J5IjpbLTQ2MzIyNTY1NCwxNzk2ODgwMjY5LDI0MT
+QwMjEwXX0=
 -->
