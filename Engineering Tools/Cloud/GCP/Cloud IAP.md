@@ -15,10 +15,17 @@
 	- Use signed headers or the App Engine standard environments Users API
 
 ## Firebase Authentication (Google's Federated Authentication)
-- Supporting users sign in from third-party apps using the
+- Supporting users sign in from using third-party credentials in the Client App.
+- Process
+	- Get authentication credentials from the user
+	- Pass the credentials to the Firebase Authentication SDK
+	- Firebase backend services verify credentials and return a response to the client
+	- After successful sign-in the user can
+		- Access the user's basic profile
+		- Control the user's access to data stored in 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU0NjU3OTldfQ==
+eyJoaXN0b3J5IjpbLTE0MDA3ODI1MzVdfQ==
 -->
