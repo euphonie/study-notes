@@ -9,9 +9,11 @@
 - Requests without an account are anonymous
 - Kubernetes Service Accounts are part of the cluster in which they are defined and are used only in the cluster.
 	- In contrast, Google Service Accounts are part of a GC project and can be granted permissions to clusters and other Cloud resources
+- Google Service Accounts should not be used in Kubernetes, only when their extra capabilities are really needed and use Cloud IAM to manage permissions
+- RBAC can be used for finer access to resources
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM0ODc3MDRdfQ==
+eyJoaXN0b3J5IjpbMTYwOTgxMzc4Ml19
 -->
