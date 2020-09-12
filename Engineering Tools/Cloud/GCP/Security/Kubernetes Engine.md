@@ -31,9 +31,10 @@
 	- Google groups for GKE must be enabled when creating the clusters
 - Shielded GKE nodes provide verifiable node identity and integrity
 	- Upon cluster creation or uptake, specify the GCloud option, enabled shielded nodes. 
-- Restricting 
+- Restricting network access between nodes in the same network reduces lateral mobility for attackers and provides protection against accidental or deliberate denial-of-service
+	- To restrict access use Istio, which offers load balancing, service authorization, throttling, quota and metrics
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTI5NzA5MCwyNDE0MDIxMF19
+eyJoaXN0b3J5IjpbMTQ3NzQ3NDkyLDI0MTQwMjEwXX0=
 -->
