@@ -7,9 +7,10 @@
 > image iap
 - Establishes a central authorization layer for applications accessed by HTTPS
 - Lets the user adopt an application level access control model instead of relying on network level firewalls
-
+- Resources can be only be accessed trough the proxy by users in groups with the correct cloud IAM role.
+	- Cloua
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExOTg4NDc4XX0=
+eyJoaXN0b3J5IjpbLTE5MTYzMTY1XX0=
 -->
