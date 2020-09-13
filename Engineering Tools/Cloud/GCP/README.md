@@ -33,9 +33,75 @@ It lets you respond with information rather than with panic. GCP works with Stac
 		- Error Reporting. tracks and groups the errors in your cloud applications. Notifies new errors. 
 		- Debugging. Connects application production data to the source code. Lets inspect the state of the app at any code location in production. Works best when code is in Cloud Source repositories
 
+**Preparing environment in Google Cloud**
+```bash
+# Copyright 2017 Google Inc.
+
+#
+
+# Licensed under the Apache License, Version 2.0 (the "License");
+
+# you may not use this file except in compliance with the License.
+
+# You may obtain a copy of the License at
+
+#
+
+# http://www.apache.org/licenses/LICENSE-2.0
+
+#
+
+# Unless required by applicable law or agreed to in writing, software
+
+# distributed under the License is distributed on an "AS IS" BASIS,
+
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+# See the License for the specific language governing permissions and
+
+# limitations under the License.
+
+echo  "Creating App Engine app"
+
+gcloud app create --region "us-central"
+
+  
+
+echo  "Making bucket: gs://$DEVSHELL_PROJECT_ID-media"
+
+gsutil mb gs://$DEVSHELL_PROJECT_ID-media
+
+  
+
+echo  "Exporting GCLOUD_PROJECT and GCLOUD_BUCKET"
+
+export GCLOUD_PROJECT=$DEVSHELL_PROJECT_ID
+
+export GCLOUD_BUCKET=$DEVSHELL_PROJECT_ID-media
+
+  
+
+echo  "Installing dependencies"
+
+npm install -g npm@6.11.3
+
+npm update
+
+  
+
+echo  "Creating Datastore entities"
+
+node setup/add_entities.js
+
+  
+
+echo  "Project ID: $DEVSHELL_PROJECT_ID"
+```
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTAyODc3MSwxMTE2MDQxNTk1LDExNz
-A3NTI1ODMsLTU0NDI0NzE1NSwtODUxNTEzNjQ5LDc0NTM5ODY4
-MF19
+eyJoaXN0b3J5IjpbNDc1MDQyOTQ1LDEyNjEwMjg3NzEsMTExNj
+A0MTU5NSwxMTcwNzUyNTgzLC01NDQyNDcxNTUsLTg1MTUxMzY0
+OSw3NDUzOTg2ODBdfQ==
 -->
