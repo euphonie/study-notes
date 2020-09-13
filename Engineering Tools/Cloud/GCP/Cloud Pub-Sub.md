@@ -10,9 +10,10 @@ A fully managed messaging architecture that enables you to build loosely coupled
 	- clickstream data ingestion and processing 
 	- device or sensor data processing for health care and manufacturing
 	- Integrating various data sources in financial applications
+-  Can process large amounts of data and deliver it to Dataflow or BigQuery for analysis
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM1NzQxNDJdfQ==
+eyJoaXN0b3J5IjpbMTc3Mzc2ODc1NV19
 -->
