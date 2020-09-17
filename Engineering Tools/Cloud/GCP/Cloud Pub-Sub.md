@@ -43,9 +43,12 @@ A fully managed messaging architecture that enables you to build loosely coupled
 - Subscribers can be Cloud Functions, or deployed on CE, GKE or App Engine
 - Elastic scaling can be enabled from StackDriver metrics
 - Message Ordering is not guaranteed
+	- To overcome this
+		- Subscriber can be aware of the order of the messages with an unique ID
+		- Using Cloud Datastore the order can be tracked to see which message needs to be processed next
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTg3ODAyNSwtMTc4ODI3MDA0MCwtMT
-gyNjg3NjE0MCwxNDUwMDE3ODcyLDE3NzM3Njg3NTVdfQ==
+eyJoaXN0b3J5IjpbOTQ4NDIyODAxLC0xNzg4MjcwMDQwLC0xOD
+I2ODc2MTQwLDE0NTAwMTc4NzIsMTc3Mzc2ODc1NV19
 -->
