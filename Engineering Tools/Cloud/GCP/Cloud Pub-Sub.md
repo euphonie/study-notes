@@ -12,8 +12,11 @@ A fully managed messaging architecture that enables you to build loosely coupled
 	- Integrating various data sources in financial applications
 -  Can process large amounts of data and deliver it to Dataflow or BigQuery for analysis
 
+- applications that publish messages are called **Publishers**
+-  The repositories of messages are called **Topics**
+- The application that receives messages is called **Subsc**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3Mzc2ODc1NV19
+eyJoaXN0b3J5IjpbMTgzNTIyNDIxMywxNzczNzY4NzU1XX0=
 -->
