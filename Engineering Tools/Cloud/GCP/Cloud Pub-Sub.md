@@ -26,8 +26,9 @@ A fully managed messaging architecture that enables you to build loosely coupled
 		- To acknowledge the subscriber invokes the acknowledgeId method with the ID received
 - **Poll subscription**
 	- Subscriber controls rate of delivery
+	- Acknowledgement de
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTk3MzI0OCwxNzczNzY4NzU1XX0=
+eyJoaXN0b3J5IjpbMTExNzIyOTgyMCwxNzczNzY4NzU1XX0=
 -->
