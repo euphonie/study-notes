@@ -31,10 +31,14 @@ A fully managed messaging architecture that enables you to build loosely coupled
 	- Ideal when there's a need to process a very large volume of messages with high throughput.
 - **Push subscription**
 	- Services don't need to implement Google Cloud Client Libraries to retrieve and process methods
-	- Each message is sent as an HTTP request to the subscriber at a pre-con
+	- Each message is sent as an HTTP request to the subscriber at a pre-configured HTTP endpoint
+		- Endpoint can be a load balancer or App Engine standard application
+	- Acknowledgement of the message is done by returning an HTTP success status code
+		- An error indicates the message should be sent again
+	- The rate of push requests is adjusted 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU2MTUzNTYsMTQ1MDAxNzg3MiwxNz
+eyJoaXN0b3J5IjpbLTE4NDg2MTMyMDksMTQ1MDAxNzg3MiwxNz
 czNzY4NzU1XX0=
 -->
