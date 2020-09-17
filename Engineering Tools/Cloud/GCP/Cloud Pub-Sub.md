@@ -40,10 +40,11 @@ A fully managed messaging architecture that enables you to build loosely coupled
 		- If message is not acknowledge before the deadline, the message is resent
 	- Ideal when the GC libraries can't be configured or multiple topics must be processed by the same web hook.
 	- Also ideal if HTTP endpoint processes messages from several QMSs
+- Subscribers can be Cloud Functions
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ4NjkxMDMsMTQ1MDAxNzg3MiwxNz
+eyJoaXN0b3J5IjpbLTE4MjY4NzYxNDAsMTQ1MDAxNzg3MiwxNz
 czNzY4NzU1XX0=
 -->
