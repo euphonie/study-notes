@@ -14,9 +14,10 @@ A fully managed messaging architecture that enables you to build loosely coupled
 
 - applications that publish messages are called **Publishers**
 -  The repositories of messages are called **Topics**
-- The application that receives messages is called **Subsc**
+- The application that receives messages is called **Subscriber**
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTIyNDIxMywxNzczNzY4NzU1XX0=
+eyJoaXN0b3J5IjpbMTU5MTU0MDAyMiwxNzczNzY4NzU1XX0=
 -->
