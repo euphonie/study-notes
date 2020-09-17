@@ -27,9 +27,12 @@ A fully managed messaging architecture that enables you to build loosely coupled
 	- Subscriber controls rate of delivery
 	- Acknowledgement deadline can be modified to allow more process time
 	- Can handle multiple subscribers
-	- Enables mass delivery and acknowledgements
+	- Enables mass delivery and acknowledgements as well as massively parallel consumption
+	- Ideal when there's a need to process a very large volume of messages with high throughput.
+- **Push subscription**
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM5MTA0MzQsMTc3Mzc2ODc1NV19
+eyJoaXN0b3J5IjpbMTQ1MDAxNzg3MiwxNzczNzY4NzU1XX0=
 -->
