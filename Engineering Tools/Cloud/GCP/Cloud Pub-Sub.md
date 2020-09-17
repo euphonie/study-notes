@@ -30,9 +30,11 @@ A fully managed messaging architecture that enables you to build loosely coupled
 	- Enables mass delivery and acknowledgements as well as massively parallel consumption
 	- Ideal when there's a need to process a very large volume of messages with high throughput.
 - **Push subscription**
-	- 
+	- Services don't need to implement Google Cloud Client Libraries to retrieve and process methods
+	- Each message is sent as an HTTP request to the subscriber at a pre-con
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MDAxNzg3MiwxNzczNzY4NzU1XX0=
+eyJoaXN0b3J5IjpbLTIwNTU2MTUzNTYsMTQ1MDAxNzg3MiwxNz
+czNzY4NzU1XX0=
 -->
