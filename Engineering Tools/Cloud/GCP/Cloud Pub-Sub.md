@@ -20,13 +20,14 @@ A fully managed messaging architecture that enables you to build loosely coupled
 		- After this, Cloud Pub/Sub removes the message
 - If a subscriber doesn't acknowledges a message before the acknowledge deadline the message is resent
 - Every message is delivered **at least once** to every subscription
-- **Pull subscription**
+- **Pull subscription** (Default subscription model)
 	- Subscriber calls the pull method to request messages
 		- Each message has an acknowledgement ID
-		- To acknowledge the subscriber 
-
+		- To acknowledge the subscriber invokes the acknowledgeId method with the ID received
+- **Poll subscription**
+	- Subscriber controls rate of delivery
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDI0NTAyMiwxNzczNzY4NzU1XX0=
+eyJoaXN0b3J5IjpbMTQ5OTk3MzI0OCwxNzczNzY4NzU1XX0=
 -->
