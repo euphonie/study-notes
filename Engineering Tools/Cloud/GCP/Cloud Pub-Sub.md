@@ -24,11 +24,12 @@ A fully managed messaging architecture that enables you to build loosely coupled
 	- Subscriber calls the pull method to request messages
 		- Each message has an acknowledgement ID
 		- To acknowledge the subscriber invokes the acknowledgeId method with the ID received
-- **Poll subscription**
 	- Subscriber controls rate of delivery
-	- Acknowledgement de
+	- Acknowledgement deadline can be modified to allow more process time
+	- Can handle multiple subscribers
+	- Enables mass delivery and acknowledgements
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzIyOTgyMCwxNzczNzY4NzU1XX0=
+eyJoaXN0b3J5IjpbLTE0NjM5MTA0MzQsMTc3Mzc2ODc1NV19
 -->
