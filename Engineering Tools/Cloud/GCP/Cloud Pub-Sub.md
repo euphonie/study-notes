@@ -16,9 +16,11 @@ A fully managed messaging architecture that enables you to build loosely coupled
 - The application that receives messages is called **Subscriber** and subscribes to a topic. 
 	- The subscription uses a **Push** or **Pull** method.
 	- Messages are only received after the subscription was created, no previous messages
-- 
+	- Subscriber sends acknowledgement when message received and processed.
+		- After this, Cloud Pub/Sub removes the message
+- If a subscriber doesn't acknowledges a message before the acknowledge deadline the message is resent
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTMxNzg5LDE3NzM3Njg3NTVdfQ==
+eyJoaXN0b3J5IjpbLTE4MjYwNzI5MDcsMTc3Mzc2ODc1NV19
 -->
