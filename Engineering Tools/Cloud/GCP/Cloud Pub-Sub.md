@@ -42,10 +42,10 @@ A fully managed messaging architecture that enables you to build loosely coupled
 	- Also ideal if HTTP endpoint processes messages from several QMSs
 - Subscribers can be Cloud Functions, or deployed on CE, GKE or App Engine
 - Elastic scaling can be enabled from StackDriver metrics
-- Message Orde
+- Message Ordering is not guaranteed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTE1NTMwMiwtMTc4ODI3MDA0MCwtMT
+eyJoaXN0b3J5IjpbLTM5MTg3ODAyNSwtMTc4ODI3MDA0MCwtMT
 gyNjg3NjE0MCwxNDUwMDE3ODcyLDE3NzM3Njg3NTVdfQ==
 -->
