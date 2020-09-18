@@ -47,8 +47,19 @@ A fully managed messaging architecture that enables you to build loosely coupled
 		- Subscriber can be aware of the order of the messages with an unique ID
 		- Using Cloud Datastore the order can be tracked to see which message needs to be processed next
 
+# Snippets
+
+```bash
+gcloud pubsub subscriptions create cloud-shell-subscription --topic feedback
+
+gcloud pubsub topics publish feedback --message "Hello World"
+
+gcloud pubsub subscriptions pull cloud-shell-subscription --auto-ack
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NDIyODAxLC0xNzg4MjcwMDQwLC0xOD
-I2ODc2MTQwLDE0NTAwMTc4NzIsMTc3Mzc2ODc1NV19
+eyJoaXN0b3J5IjpbLTE4MDg0MTgxMCw5NDg0MjI4MDEsLTE3OD
+gyNzAwNDAsLTE4MjY4NzYxNDAsMTQ1MDAxNzg3MiwxNzczNzY4
+NzU1XX0=
 -->
