@@ -172,14 +172,13 @@ Example:
 - tousser
 
 **Coup**
-- Agir sur un coup de tête, prendre un décision sans méditation
-- Avoir un coup de pompe
+- Agir sur un coup de tête, prendre un décision sans méditation brusquement sans réfléchir
 - Prendre un coup de vieux
-- D'un seul coup, soudainement, subitement sans seconde essai
+- D'un seul coup, soudainement, subitement et dans une seul fois
 - Tenir le coup
-- Tenter le coup, essayer qqc mêm
-- un coup de barre, ressentir un gros fatigue
-- un coup de soleil, peau rouge et brulée par le soleil
+- Tenter le coup, essayer qqc même s'il paraît difficile
+- un coup de barre, ressentir soudainement un gros fatigu, avoir un coup de pompe
+- un coup de soleil, peau rouge et brulée par le soleil ,après rester longtemps sous le soleil
 - Faire les 400 coups
 - Avoir un coup de bol
 - Passer en coup de vent, rapidement très vite, adverbe
@@ -190,11 +189,11 @@ Example:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNzUzNDY5LC00ODcxNTkwNTUsMjA3Nz
-I4MzU1NiwxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYy
-NSwtMTk5ODAyODA4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLT
-E1MTQ0ODk4ODcsNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4
-NzcyMCwxODY4OTc5NDI2LDEwNDAwNzIyOTksLTE1NTQwMjI2OD
-UsLTgxMzI4NDU3MiwtMzExNzE2MDQwLC0yNTAwNzk3MiwxMzEw
-OTAxNjk1XX0=
+eyJoaXN0b3J5IjpbMjA5Mzc3ODkyNSwtNDg3MTU5MDU1LDIwNz
+cyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03OTE3NTE2
+MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0OTg5NzA4LC
+0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LDIwOTc5
+ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0xNTU0MDIyNj
+g1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUwMDc5NzIsMTMx
+MDkwMTY5NV19
 -->
