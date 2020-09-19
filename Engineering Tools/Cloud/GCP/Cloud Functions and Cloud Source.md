@@ -19,10 +19,16 @@ Code in any language for a given runtime environment that GCP provides and then 
 - The event that calls a cloud function is called **trigger**
 - Cloud functions can be triggered from GCP emitted events or external services invoking an specific functions
 	- They can in turn, trigger other APIs or GCP resources
-- Functions 
+- Functions can be triggered asynchronously and are called **Background Functions**
+	- Synchronous functions are called **HTTP Functions**
+		- Timeout default is 60 seconds
+
+## Function structure
+
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjE3OTUxNywtMjAxMjIwOTUzLDE3OD
-I4MjQyOTFdfQ==
+eyJoaXN0b3J5IjpbMjk4ODg1OTQ4LC0yMDEyMjA5NTMsMTc4Mj
+gyNDI5MV19
 -->
