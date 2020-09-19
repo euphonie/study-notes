@@ -89,7 +89,11 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 		- Label detection
 		- Image sentiment analysis
 		- Optional character recognition (OCR)
-		- Landmark detec
+		- Landmark detection
+		- Logo detection
+		- Explicit content detection
+		- Face detection
+			- Returns information about emotions and headwear
 	- **Cloud Speech API**
 		- Convert audio to text
 		- Recognizes over 110 languages and variants
@@ -113,6 +117,6 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTY0MTkxMCwtNTM3NDY5MTE1LC0yMT
+eyJoaXN0b3J5IjpbLTkwMjgyMTU5NiwtNTM3NDY5MTE1LC0yMT
 ExMjA4Nzk3XX0=
 -->
