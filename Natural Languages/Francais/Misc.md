@@ -159,14 +159,17 @@ Example:
 - Il y avait des questionnements sur ...
 - faire le point = éclaircir une situation
 - prendre des médicaments = prendre des médocs (familier)
+- une cartouche de cigarette = un briquer
+- T'as de fou = Est-ce que tu as un briquet
+- une taf = 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NzE1OTA1NSwyMDc3MjgzNTU2LDEyNj
-MxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC0xOTk4MDI4
-MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwtMTUxNDQ4OTg4Ny
-w0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3OTg3NzIwLDE4Njg5
-Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMjY4NSwtODEzMjg0NT
-cyLC0zMTE3MTYwNDAsLTI1MDA3OTcyLDEzMTA5MDE2OTUsMTI0
-NDYyMzI1MV19
+eyJoaXN0b3J5IjpbLTEyODY1MjM2MjQsLTQ4NzE1OTA1NSwyMD
+c3MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUx
+NjI1LC0xOTk4MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOC
+wtMTUxNDQ4OTg4Nyw0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3
+OTg3NzIwLDE4Njg5Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMj
+Y4NSwtODEzMjg0NTcyLC0zMTE3MTYwNDAsLTI1MDA3OTcyLDEz
+MTA5MDE2OTVdfQ==
 -->
