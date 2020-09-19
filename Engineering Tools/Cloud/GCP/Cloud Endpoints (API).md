@@ -14,6 +14,7 @@ Helps create and maintain APIs, through an easy to deploy proxy in front of the 
 			- Used with REST APIs
 		- gRPC API specification
 			- Generate client libraries
+		- Support transcoding of HTTP JSON calls into gRPC
 	- Authentication and Authorization
 		- Service-to-service authentication
 		- User authentication 
@@ -29,5 +30,5 @@ Helps create and maintain APIs, through an easy to deploy proxy in front of the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5Nzc5MTgsLTE4NjgwOTI1NjBdfQ==
+eyJoaXN0b3J5IjpbMjEyNjU4NzMyOCwtMTg2ODA5MjU2MF19
 -->
