@@ -176,16 +176,20 @@ Example:
 - Avoir un coup de pompe
 - Prendre un coup de vieux
 - Tenir le coup
+- Tenter le coup, essayer
+- un coup de barre, ressentir un gros fatigue
+- un coup de soleil, peau rouge
 - Faire les 400 coups
 - Avoir un coup de bol
-- Passer en coup de vent
-- Passer un coup de fil
+- Passer en coup de vent, rapidement très vite 
+- Passer un coup de fil, recevoir ou appel qqn par téléphone
 - un coup de main , demander o donner - dar una mano
 - Jeter un coup d'oeil, regarder rapidement qqc
+- Boire un coup, boire avec des prôches
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjQ1MzM4NSwtNDg3MTU5MDU1LDIwNz
+eyJoaXN0b3J5IjpbMjA1NjI1Nzg1OCwtNDg3MTU5MDU1LDIwNz
 cyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03OTE3NTE2
 MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0OTg5NzA4LC
 0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LDIwOTc5
