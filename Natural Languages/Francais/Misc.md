@@ -151,13 +151,18 @@ Example:
 - veuiller à ce que... 
 - une brocante - chaise, table, lit, bureau, matelas (objets de maison)
 
+### Le cigarette éléctronique
+- Elle montre les bienfaits de lui
+- fumer = cloper
+- toubib = mé
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5OT
-M5OTYyMDcsLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1Mzcz
-NDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5NDI2LD
-EwNDAwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzEx
-NzE2MDQwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNT
-EsLTEwNDcwOTg3MjMsLTEwMzE5OTM4MzAsLTQ3NDY2MjI0MSwt
-ODI2MDM3MzExXX0=
+eyJoaXN0b3J5IjpbMTM1NzY2ODU1NiwtNzkxNzUxNjI1LC0xOT
+k4MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwtMTUxNDQ4
+OTg4Nyw0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3OTg3NzIwLD
+E4Njg5Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMjY4NSwtODEz
+Mjg0NTcyLC0zMTE3MTYwNDAsLTI1MDA3OTcyLDEzMTA5MDE2OT
+UsMTI0NDYyMzI1MSwtMTA0NzA5ODcyMywtMTAzMTk5MzgzMCwt
+NDc0NjYyMjQxXX0=
 -->
