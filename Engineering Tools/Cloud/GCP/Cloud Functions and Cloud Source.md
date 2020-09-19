@@ -10,6 +10,7 @@ Serverless environment where logic can be executed on demand and in response to 
 
 Code in any language for a given runtime environment that GCP provides and then can be configured when it needs to be fired.
 - Works with event-driven functions
+- First 2M requests are free
 - Payment fees stick to whenever the function runs in 100 millisecond intervals.
 	- Priced according to how long function runs, the number of times it's invoked and the resources that you provision for the function
 - Can trigger on events in
@@ -43,10 +44,12 @@ Code in any language for a given runtime environment that GCP provides and then 
 	- In stackdriver logging
 	- In stackdriver error reporting for any errors
 - View dashboard in cloud functions
-	- Number
+	- Number of invocations
+	- Execution times
+	- Memory usage
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTM4NjY3OCwtMjAxMjIwOTUzLDE3OD
-I4MjQyOTFdfQ==
+eyJoaXN0b3J5IjpbNTQ5MjE5MDg0LC0yMDEyMjA5NTMsMTc4Mj
+gyNDI5MV19
 -->
