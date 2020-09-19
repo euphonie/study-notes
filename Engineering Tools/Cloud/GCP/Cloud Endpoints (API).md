@@ -46,11 +46,14 @@ securityDefinitions: ...
 	- Registers with the service management API and shared with the Extensible Service Proxy
 	- Service management API uses host to create a new Cloud Endpoint service with format `[YOUR-API].endpoints.[YOUR-PROJECT-ID].cloud.goog`
 	- Uses DNS compatible names to uniquely identify services
+	- Project ID can be used to name the API as it's unique
+	- Extensible Service Proxy is a nginx proxy and injects authentication, monitoring and logging
+	- Exten
 	- This gives a Service Configuration ID and Service Name
 - Deploy API backend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTEwNzg3MCwyMDUwMDc5MzU3LC0xOD
-Y4MDkyNTYwXX0=
+eyJoaXN0b3J5IjpbNjMxNjM1MjUwLDIwNTAwNzkzNTcsLTE4Nj
+gwOTI1NjBdfQ==
 -->
