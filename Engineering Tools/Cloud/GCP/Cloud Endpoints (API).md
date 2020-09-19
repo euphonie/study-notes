@@ -26,23 +26,28 @@ Helps create and maintain APIs, through an easy to deploy proxy in front of the 
 	- Logging and Monitoring
 		- Stackdriver Logging
 		- Stackdriver Trace
-- Pipeline
-	- Develop API backend
-	- Develop API configuration
-		- YAML file
+
+**Pipeline**
+- Develop API backend
+- Develop API configuration
+	- YAML file using Open API specification
 ```yaml
 swagger: "2.0"
 info:
 	description: "My new API"
 	title: "Cloud Endpoints Example"
 	version: "1.0.0"
-host: "quiz-api.endpoints.
+host: "quiz-api.endpoints.YOUR-PROJECT-ID.cloud.goog"
+basePath: ...
+paths: ...
+securityDefinitions: ...
 ```
-	- Deploy API configuration
-		- This gives a Service Configuration ID and Service Name
-	- Deploy API backend
+- Deploy API configuration
+	- This gives a Service Configuration ID and Service Name
+- Deploy API backend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MjE5NjgxLC0xODY4MDkyNTYwXX0=
+eyJoaXN0b3J5IjpbLTExOTYwMTAxMTMsLTE4NjgwOTI1NjBdfQ
+==
 -->
