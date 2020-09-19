@@ -174,7 +174,7 @@ Example:
 **Coup**
 - Agir sur un coup de tête, prendre un décision sans méditation brusquement sans réfléchir
 - Prendre un coup de vieux
-- D'un seul coup, soudainement, subitement et dans une seul fois
+- D'un seul coup, soudainement, subitement et dans une seule fois
 - Tenir le coup
 - Tenter le coup, essayer qqc même s'il paraît difficile
 - un coup de barre, ressentir soudainement un gros fatigue, avoir un coup de pompe
@@ -189,11 +189,11 @@ Example:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtND
-g3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4
-NTA4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC
-0xNTk0OTg5NzA4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2
-MjA3MzE0LDIwOTc5ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMj
-k5LC0xNTU0MDIyNjg1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwt
-MjUwMDc5NzJdfQ==
+eyJoaXN0b3J5IjpbMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMD
+kzNzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2
+MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4My
+w5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1
+MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5ND
+I2LDEwNDAwNzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3Miwt
+MzExNzE2MDQwXX0=
 -->
