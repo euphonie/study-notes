@@ -56,11 +56,14 @@ securityDefinitions: ...
 - Good practices
 	- For every change use the version on the API specification for tracking, this is for backwards compatible changes
 	- For breaking changes deploy multiple versions of an API using different YAML files named after the version. For example: `apiconfig_v1.yaml` and `apiconfig_v2.yaml`
-- Environments
-	- 
+- **Environments**
+	- Development: `[API].jane-dev-project.cloud.goog`
+	- Staging: `[API].staging-project.cloud.goog`
+	- Production Alpha: `[API].prod-alpha-project.cloud.goog`
+	- Production: `[API].prod-project.cloud.goog`
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNTg1OTg4NiwyMDUwMDc5MzU3LC0xOD
-Y4MDkyNTYwXX0=
+eyJoaXN0b3J5IjpbMTAzNjE1ODM5LDIwNTAwNzkzNTcsLTE4Nj
+gwOTI1NjBdfQ==
 -->
