@@ -90,19 +90,23 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 		- Image sentiment analysis
 	- Natural Language Processing (**Cloud Speech API**)
 		- Convert audio to text
-		- Recognizes over 80 languages and variants
+		- Recognizes over 110 languages and variants
 		- Transcribe text of users
 		- Enabled command and control through voice and transcribe audio files
 		- Syntax analysis, Tokens, PoS tagging, relationship between words, entity recognition, parse text and flag mentions, sentiment analysis in multiple languages, language detection.
-	- Cloud Video Intelligence API. 
+	- **Cloud Video Intelligence API**. 
+		- Search every moment of a video file
 		- Annotate videos in a variety of formats
-		- Identify key entities and when they occur
+		- Identify key entities and when they occur at the shot, frame or video level
 		- Make video content searchable and discoverable
+	- **Cloud Translation API**
+		- Translate an arbitrary string into any supported language
+		- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzU3Nzk4MiwtNTM3NDY5MTE1LC0yMT
-ExMjA4Nzk3XX0=
+eyJoaXN0b3J5IjpbLTE1MDQ5MzkwNzksLTUzNzQ2OTExNSwtMj
+ExMTIwODc5N119
 -->
