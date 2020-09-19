@@ -154,18 +154,18 @@ Example:
 ### Le cigarette éléctronique
 - Elle montre les bienfaits de lui
 - fumer = cloper
-- toubib = médecin
+- le toubib (familier) = le médecin 
 - subir = souffrir
 - Il y avait des questionnements sur ...
 - faire le point = éclaircir une situation
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03OT
-E3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0OTg5
-NzA4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LD
-IwOTc5ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0xNTU0
-MDIyNjg1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUwMDc5Nz
-IsMTMxMDkwMTY5NSwxMjQ0NjIzMjUxLC0xMDQ3MDk4NzIzLC0x
-MDMxOTkzODMwXX0=
+eyJoaXN0b3J5IjpbMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nz
+k3OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5OTM5OTYy
+MDcsLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1MzczNDQzLC
+03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5NDI2LDEwNDAw
+NzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzExNzE2MD
+QwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNTEsLTEw
+NDcwOTg3MjNdfQ==
 -->
