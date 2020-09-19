@@ -158,11 +158,11 @@ Example:
 - subir = souffrir
 - Il y avait des questionnements sur ...
 - faire le point = éclaircir une situation
-- prendre des 
+- prendre des médicaments = prendre des médocs (familier)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDE4NTg1MywyMDc3MjgzNTU2LDEyNj
+eyJoaXN0b3J5IjpbLTQ4NzE1OTA1NSwyMDc3MjgzNTU2LDEyNj
 MxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC0xOTk4MDI4
 MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwtMTUxNDQ4OTg4Ny
 w0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3OTg3NzIwLDE4Njg5
