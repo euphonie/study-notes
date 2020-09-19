@@ -69,7 +69,7 @@ Most useful when wanting to do ad-hoc SQL queries or exploration on a massive da
 
 Machine learning is one branch of the field of artificial intelligence. It's a way of solving problems without explicitly coding the solution.
 
-- Offers TensorFlow in a managed environment
+- Offers **TensorFlow** in a managed environment
 	- Takes advantage of Tensor Processing Units. Hardware devices designed to accelerate machine learning workloads with TensorFlow.
 		- They are available in GCP through CE VMs. Each TPU provides up to 180 teraflops of performance.
 - Can perform large-scale training on a managed cluster
@@ -88,6 +88,8 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 		- Allows to understand the content of an image
 		- Label detection
 		- Image sentiment analysis
+		- Optional character recognition (OCR)
+		- Landmark detec
 	- **Cloud Speech API**
 		- Convert audio to text
 		- Recognizes over 110 languages and variants
@@ -105,12 +107,12 @@ Machine learning is one branch of the field of artificial intelligence. It's a w
 	- **Cloud Natural Language API**
 		- Extract information about entities such as people, places, and events mentioned in documents, news articles or blog posts.
 		- Perform sentiment analysis
-		- Identify intentio
+		- Identify intention from conversations
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4OTk4NDQ3NiwtNTM3NDY5MTE1LC0yMT
+eyJoaXN0b3J5IjpbMTUwOTY0MTkxMCwtNTM3NDY5MTE1LC0yMT
 ExMjA4Nzk3XX0=
 -->
