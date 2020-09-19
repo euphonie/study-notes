@@ -4,12 +4,12 @@
 - Controls access to your cloud applications running on GCP
 - Verifies a user's identity
 - Determines whether that user should be allowed to access the application
-> image iap
+![Use of IAP](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/iap.png)
 - Establishes a central authorization layer for applications accessed by HTTPS
 - Lets the user adopt an application level access control model instead of relying on network level firewalls
 - Resources can be only be accessed trough the proxy by users in groups with the correct cloud IAM role.
 	- Cloud IAP performs authentication and authorization checks when a user tries to access a secured resource
-
+![Diagram Cloud IAP usage](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/iapworks.png)
 - Precautions
 	- Configure firewall and load balancer to protect against traffic that doesn't come from the serving infrastructure
 	- Use signed headers or the App Engine standard environments Users API
@@ -29,5 +29,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MTYyMjcyOCwtMTM4NzYwMzMzNV19
+eyJoaXN0b3J5IjpbNjg4MjY0Nzk4LC0xMzg3NjAzMzM1XX0=
 -->
