@@ -171,13 +171,23 @@ Example:
 - respirer la fumée
 - tousser
 
+**Coup**
+- Agir sur un coup de tête
+- Avoir un coup de pompe
+- Prendre un coup de vieux
+- Tenir le coup
+- Faire les 400 coups
+- Avoir un coup de bol
+- Passer en coup de vent
+- Passer un coup de fil
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTUzNTM0MjgsLTQ4NzE1OTA1NSwyMD
-c3MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUx
-NjI1LC0xOTk4MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOC
-wtMTUxNDQ4OTg4Nyw0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3
-OTg3NzIwLDE4Njg5Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMj
-Y4NSwtODEzMjg0NTcyLC0zMTE3MTYwNDAsLTI1MDA3OTcyLDEz
-MTA5MDE2OTVdfQ==
+eyJoaXN0b3J5IjpbMTkyODk0NzY3LC00ODcxNTkwNTUsMjA3Nz
+I4MzU1NiwxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYy
+NSwtMTk5ODAyODA4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLT
+E1MTQ0ODk4ODcsNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4
+NzcyMCwxODY4OTc5NDI2LDEwNDAwNzIyOTksLTE1NTQwMjI2OD
+UsLTgxMzI4NDU3MiwtMzExNzE2MDQwLC0yNTAwNzk3MiwxMzEw
+OTAxNjk1XX0=
 -->
