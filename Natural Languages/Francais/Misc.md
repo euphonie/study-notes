@@ -187,15 +187,15 @@ Example:
 - Jeter un coup d'oeil, regarder rapidement qqc ou qqn
 - Boire un coup, boire avec ses prôches
 
-
+![Expressions en utilisant coup](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/expressionsacoup.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MzI1NjMyOSwxMTczNzMxMDk5LC0xOD
-Q4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3Mjgz
-NTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC
-0xOTk4MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwtMTUx
-NDQ4OTg4Nyw0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3OTg3Nz
-IwLDE4Njg5Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMjY4NSwt
-ODEzMjg0NTcyXX0=
+eyJoaXN0b3J5IjpbLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNz
+M3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5
+MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC
+03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0
+OTg5NzA4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3Mz
+E0LDIwOTc5ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0x
+NTU0MDIyNjg1XX0=
 -->
