@@ -34,10 +34,13 @@ Code in any language for a given runtime environment that GCP provides and then 
 		- Background functions
 			- Takes an event 
 			- and a callback
-	- 
+	- Local /tmp disk mount is provided for temporary file processing
+		- Clean up temp files as they might consume the allocated memory
+- Deploy code
+	- From local machi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2NDkwMjgxLC0yMDEyMjA5NTMsMTc4Mj
-gyNDI5MV19
+eyJoaXN0b3J5IjpbLTEzNzIxMzE3MDcsLTIwMTIyMDk1MywxNz
+gyODI0MjkxXX0=
 -->
