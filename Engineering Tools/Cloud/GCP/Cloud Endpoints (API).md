@@ -51,10 +51,11 @@ securityDefinitions: ...
 	- The extensible service proxy validates the configuration with the Service Control API at runtime and determines if it can go through to the API backend
 	- Service Control API logs information about incoming requests
 	- This gives a Service Configuration ID and Service Name
+	- Permissions can be granted to users or groups by IAM roles to specific endpoints
 - Deploy API backend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk2MjA4MDcsMjA1MDA3OTM1NywtMT
-g2ODA5MjU2MF19
+eyJoaXN0b3J5IjpbLTY0OTI2ODcyLDIwNTAwNzkzNTcsLTE4Nj
+gwOTI1NjBdfQ==
 -->
