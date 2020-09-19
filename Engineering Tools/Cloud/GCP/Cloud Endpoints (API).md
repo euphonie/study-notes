@@ -54,12 +54,13 @@ securityDefinitions: ...
 	- Permissions can be granted to users or groups by IAM roles to specific endpoints
 - Deploy API backend
 - Good practices
-	- For every change use the version on the API specification for tracking
-	- Multiple versions of an API can be deployed using different YAML files named after the version. For example: `apiconfig_v1.ya`
-
+	- For every change use the version on the API specification for tracking, this is for backwards compatible changes
+	- For breaking changes deploy multiple versions of an API using different YAML files named after the version. For example: `apiconfig_v1.yaml` and `apiconfig_v2.yaml`
+- Environments
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNDQ5NDY3NSwyMDUwMDc5MzU3LC0xOD
+eyJoaXN0b3J5IjpbLTMwNTg1OTg4NiwyMDUwMDc5MzU3LC0xOD
 Y4MDkyNTYwXX0=
 -->
