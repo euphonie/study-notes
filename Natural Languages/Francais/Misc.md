@@ -157,11 +157,11 @@ Example:
 - toubib = médecin
 - subir = souffrir
 - Il y avait des questionnements sur ...
-- fair
+- faire le point = éclaircir une situation
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTczMTQ5OSwtOTc5Nzk4NTA4LC03OT
+eyJoaXN0b3J5IjpbMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03OT
 E3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0OTg5
 NzA4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LD
 IwOTc5ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0xNTU0
