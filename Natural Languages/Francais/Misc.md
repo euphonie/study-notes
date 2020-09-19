@@ -158,14 +158,15 @@ Example:
 - subir = souffrir
 - Il y avait des questionnements sur ...
 - faire le point = éclaircir une situation
+- prendre des 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nz
-k3OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5OTM5OTYy
-MDcsLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1MzczNDQzLC
-03NjYyMDczMTQsMjA5Nzk4NzcyMCwxODY4OTc5NDI2LDEwNDAw
-NzIyOTksLTE1NTQwMjI2ODUsLTgxMzI4NDU3MiwtMzExNzE2MD
-QwLC0yNTAwNzk3MiwxMzEwOTAxNjk1LDEyNDQ2MjMyNTEsLTEw
-NDcwOTg3MjNdfQ==
+eyJoaXN0b3J5IjpbMTcwMDE4NTg1MywyMDc3MjgzNTU2LDEyNj
+MxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC0xOTk4MDI4
+MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwtMTUxNDQ4OTg4Ny
+w0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3OTg3NzIwLDE4Njg5
+Nzk0MjYsMTA0MDA3MjI5OSwtMTU1NDAyMjY4NSwtODEzMjg0NT
+cyLC0zMTE3MTYwNDAsLTI1MDA3OTcyLDEzMTA5MDE2OTUsMTI0
+NDYyMzI1MV19
 -->
