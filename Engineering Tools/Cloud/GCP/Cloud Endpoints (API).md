@@ -44,11 +44,11 @@ securityDefinitions: ...
 ```
 - Deploy API configuration
 	- Registers with the service management API and shared with the Extensible Service Proxy
-	- Service management API uses host to create a new Cloud Endpoint service with format ``
+	- Service management API uses host to create a new Cloud Endpoint service with format `[YOUR-API].endpoints.[YOUR-PROJECT-ID].cloud.goog`
 	- This gives a Service Configuration ID and Service Name
 - Deploy API backend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjA1MDg5NywtMTg2ODA5MjU2MF19
+eyJoaXN0b3J5IjpbMjA1MDA3OTM1NywtMTg2ODA5MjU2MF19
 -->
