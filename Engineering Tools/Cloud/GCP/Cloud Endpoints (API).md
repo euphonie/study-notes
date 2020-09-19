@@ -18,7 +18,7 @@ Helps create and maintain APIs, through an easy to deploy proxy in front of the 
 	- Authentication and Authorization
 		- Service-to-service authentication
 		- User authentication 
-		- w/Firebase, OAuth, and Google authentication
+		- w/Firebase, auth0, and Google authentication
 	- Management and scalability
 		- Extensible Service Proxy API
 		- Service Management API
@@ -48,12 +48,13 @@ securityDefinitions: ...
 	- Uses DNS compatible names to uniquely identify services
 	- Project ID can be used to name the API as it's unique
 	- Extensible Service Proxy is a nginx proxy and injects authentication, monitoring and logging
-	- Exten
+	- The extensible service proxy validates the configuration with the Service Control API at runtime and determines if it can go through to the API backend
+	- Service Control API logs information about incoming requests
 	- This gives a Service Configuration ID and Service Name
 - Deploy API backend
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNjM1MjUwLDIwNTAwNzkzNTcsLTE4Nj
-gwOTI1NjBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTk2MjA4MDcsMjA1MDA3OTM1NywtMT
+g2ODA5MjU2MF19
 -->
