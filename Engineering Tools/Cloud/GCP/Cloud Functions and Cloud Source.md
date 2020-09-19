@@ -23,12 +23,21 @@ Code in any language for a given runtime environment that GCP provides and then 
 	- Synchronous functions are called **HTTP Functions**
 		- Timeout default is 60 seconds
 
-## Function structure
-
-- 
+## Creating functions
+- Write function
+	- Select language
+	- Define dependencies in a file
+	- Select type of function
+		- HTTP functions
+			- Request
+			- Response
+		- Background functions
+			- Takes an event 
+			- and a callback
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4ODg1OTQ4LC0yMDEyMjA5NTMsMTc4Mj
+eyJoaXN0b3J5IjpbOTM2NDkwMjgxLC0yMDEyMjA5NTMsMTc4Mj
 gyNDI5MV19
 -->
