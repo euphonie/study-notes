@@ -177,20 +177,20 @@ Example:
 - Prendre un coup de vieux
 - D'un seul coup, soudainement, subitement sans seconde essai
 - Tenir le coup
-- Tenter le coup, essayer, adverbe
+- Tenter le coup, essayer qqc mêm
 - un coup de barre, ressentir un gros fatigue
 - un coup de soleil, peau rouge et brulée par le soleil
 - Faire les 400 coups
 - Avoir un coup de bol
-- Passer en coup de vent, rapidement très vite 
-- Passer un coup de fil, recevoir ou appel qqn par téléphone
-- un coup de main , demander o donner - dar una mano
-- Jeter un coup d'oeil, regarder rapidement qqc
-- Boire un coup, boire avec des prôches
+- Passer en coup de vent, rapidement très vite, adverbe
+- Passer un coup de fil, recevoir ou appel qqn par téléphone, un coup de téléphone
+- un coup de main , demander o donner de l'aide - dar una mano
+- Jeter un coup d'oeil, regarder rapidement qqc ou qqn
+- Boire un coup, boire avec ses prôches
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxNzE0NTEzLC00ODcxNTkwNTUsMjA3Nz
+eyJoaXN0b3J5IjpbMzExNzUzNDY5LC00ODcxNTkwNTUsMjA3Nz
 I4MzU1NiwxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYy
 NSwtMTk5ODAyODA4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLT
 E1MTQ0ODk4ODcsNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4
