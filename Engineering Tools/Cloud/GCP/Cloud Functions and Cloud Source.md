@@ -37,10 +37,16 @@ Code in any language for a given runtime environment that GCP provides and then 
 	- Local /tmp disk mount is provided for temporary file processing
 		- Clean up temp files as they might consume the allocated memory
 - Deploy code
-	- From local machi
+	- From local machine using gcloud goes to a staging bucket for deploy
+	- Using gcloud from a repository (cloud source) mirrored github or bitbucket
+- View output
+	- In stackdriver logging
+	- In stackdriver error reporting for any errors
+- View dashboard in cloud functions
+	- Number
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIxMzE3MDcsLTIwMTIyMDk1MywxNz
-gyODI0MjkxXX0=
+eyJoaXN0b3J5IjpbMTY0OTM4NjY3OCwtMjAxMjIwOTUzLDE3OD
+I4MjQyOTFdfQ==
 -->
