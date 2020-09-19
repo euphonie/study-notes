@@ -6,6 +6,8 @@ Repositories that provide a git version control to support the team's developmen
 
 # Cloud Functions
 
+Serverless environment where logic can be executed on demand and in response to different events.
+
 Code in any language for a given runtime environment that GCP provides and then can be configured when it needs to be fired.
 - Works with event-driven functions
 - Payment fees stick to whenever the function runs in 100 millisecond intervals.
@@ -17,5 +19,5 @@ Code in any language for a given runtime environment that GCP provides and then 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjgyNDI5MV19
+eyJoaXN0b3J5IjpbLTQ2OTIyNTEwNywxNzgyODI0MjkxXX0=
 -->
