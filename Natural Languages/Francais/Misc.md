@@ -167,13 +167,13 @@ Example:
 - tirer une bouffée de cigarette
 - jeter le mégot par terre = la colilla
 - un cendrier
-- faire des ronds = hacer cículos con el humo
+- faire des ronds = souffler la fumée
 - respirer la fumée
 - tousser
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU0MzMxNDYsLTQ4NzE1OTA1NSwyMD
+eyJoaXN0b3J5IjpbLTIwMTUzNTM0MjgsLTQ4NzE1OTA1NSwyMD
 c3MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUx
 NjI1LC0xOTk4MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOC
 wtMTUxNDQ4OTg4Nyw0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3
