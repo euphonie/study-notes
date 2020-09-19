@@ -180,14 +180,16 @@ Example:
 - Avoir un coup de bol
 - Passer en coup de vent
 - Passer un coup de fil
+- un coup de main , demander o donner - dar una mano
+- Jeter un coup d'oeil, regarder rapidement qqc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODk0NzY3LC00ODcxNTkwNTUsMjA3Nz
-I4MzU1NiwxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYy
-NSwtMTk5ODAyODA4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLT
-E1MTQ0ODk4ODcsNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4
-NzcyMCwxODY4OTc5NDI2LDEwNDAwNzIyOTksLTE1NTQwMjI2OD
-UsLTgxMzI4NDU3MiwtMzExNzE2MDQwLC0yNTAwNzk3MiwxMzEw
-OTAxNjk1XX0=
+eyJoaXN0b3J5IjpbMTgxNjQ1MzM4NSwtNDg3MTU5MDU1LDIwNz
+cyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03OTE3NTE2
+MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0OTg5NzA4LC
+0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LDIwOTc5
+ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0xNTU0MDIyNj
+g1LC04MTMyODQ1NzIsLTMxMTcxNjA0MCwtMjUwMDc5NzIsMTMx
+MDkwMTY5NV19
 -->
