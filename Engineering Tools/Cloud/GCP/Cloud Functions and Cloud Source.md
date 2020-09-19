@@ -16,8 +16,10 @@ Code in any language for a given runtime environment that GCP provides and then 
 	- Cloud Pub/Sub
 	- or HTTP calls
 - The event that calls a cloud function is called **trigger**
+- Cloud functions can be triggered from GCP emitted events or external services invoking an specific functions
+	- They can in turn, trigger other APIs or GCP resources
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTIyNTEwNywxNzgyODI0MjkxXX0=
+eyJoaXN0b3J5IjpbNTM5OTk3OTMwLDE3ODI4MjQyOTFdfQ==
 -->
