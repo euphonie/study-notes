@@ -161,11 +161,12 @@ Example:
 - prendre des médicaments = prendre des médocs (familier)
 - une cartouche de cigarette = un briquer
 - T'as de fou = Est-ce que tu as un briquet
-- une taf = en train de fumer et quelqu'un demande un taf
+- une taf = en train de fumer et quelqu'un demande une taf != le taf, travail 
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIyNjUxMDA1LC00ODcxNTkwNTUsMjA3Nz
+eyJoaXN0b3J5IjpbNzc3MDUzNjU0LC00ODcxNTkwNTUsMjA3Nz
 I4MzU1NiwxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYy
 NSwtMTk5ODAyODA4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLT
 E1MTQ0ODk4ODcsNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4
