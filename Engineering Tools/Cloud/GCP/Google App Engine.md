@@ -48,7 +48,6 @@ App Engine manages the hardware and networking infrastructure required to run co
 			- App with protocol != {HTTP/S}
 			- Persistent disks are needed
 			- Spiky or very low traffic, there are always two instances running
-		- Flexible APIs can be used
 - Automatically scales app in response to the traffic
 - Provides
 	- No-SQL databases
@@ -61,5 +60,5 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU0NTQ4NTAsMTM2NTA2OTc5XX0=
+eyJoaXN0b3J5IjpbLTE5NzQ3MTM4NDcsMTM2NTA2OTc5XX0=
 -->
