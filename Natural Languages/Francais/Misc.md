@@ -224,14 +224,16 @@ Example:
 - j'en ai ras-le-bol - je ne supporte plus, j'en ai marre, j'en ai assez, j'en ai plein les bottes
 - faire le buzz - faire tendance, avoid du succèes
 - s'étoffer - s'élargir, prendre de la carrure
+- Entre = utiliser entre deux possibilités
+- Parmi = utiliser entre plusieurs possibilités
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzc3OTY5NjAsMTgyOTIxMzYxMywtMj
-AxMTM2NjUzLC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYy
-ODUwMSw1NDYyMDE0OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MC
-wtMzkzMjU2MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5
-Mzc3ODkyNSwtNDg3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNj
-M4MCwtOTc5Nzk4NTA4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMs
-OTkzOTk2MjA3XX0=
+eyJoaXN0b3J5IjpbMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4Mj
+kyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIy
+MjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC
+04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC0xODQ4
+MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3MjgzNT
+U2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC0x
+OTk4MDI4MDgzXX0=
 -->
