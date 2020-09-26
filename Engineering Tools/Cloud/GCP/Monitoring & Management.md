@@ -15,12 +15,14 @@ Reliable release process involves release and testing phases of software deliver
 - If test are successful code can be promoted to a release branch
 
 **CD Pipeline**
+- It involves no manual stages
 - The deployment system deploys the application images to the staging environment
 - Runs integration tests, performance tests and more
 - If tests are successful the image is tagged as a release candidate
 - Approval of release candidate can trigger deployment to canary or blue-green production environments
 - Monitor the performance of production using services like StackDriver
 - If deployment works successfully entire traffic can be switched to the new release
+- If there are any errors a rollback to the last stable release can be performed
 
 ##  Cloud Build
 
@@ -32,6 +34,6 @@ Reliable release process involves release and testing phases of software deliver
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDY3NTkyOCwtMTQ2Njk1MTQxNSwtMT
-Y0MDQyNTE4Nl19
+eyJoaXN0b3J5IjpbLTE1NjMyNTA3ODksLTE0NjY5NTE0MTUsLT
+E2NDA0MjUxODZdfQ==
 -->
