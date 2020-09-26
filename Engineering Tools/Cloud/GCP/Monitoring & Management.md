@@ -32,6 +32,11 @@ Reliable release process involves release and testing phases of software deliver
 - Requires a build configuration file that specifies the steps of the pipeline
 - Each step is a docker container executing the script indicated
 	- Step name identifies the container image
+	- Image attribute identifies the base image for the container
+- Can be specified in YAML or JSON notation
+- Source code is mounted to the /workspace directory
+	- The artifacts are persisted in the directory
+- 
 
 ## Container Registry
 - Registry for images uploaded to Google Cloud
@@ -41,6 +46,6 @@ Reliable release process involves release and testing phases of software deliver
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4OTMxMzQ0LC0xNTYzMjUwNzg5LC0xND
+eyJoaXN0b3J5IjpbLTI3MTE0OTgxLC0xNTYzMjUwNzg5LC0xND
 Y2OTUxNDE1LC0xNjQwNDI1MTg2XX0=
 -->
