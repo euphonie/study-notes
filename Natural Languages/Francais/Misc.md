@@ -217,15 +217,16 @@ Example:
 - le véganisme
 - les animaux / protection
 - une prise de conscience
-- la gourmandisse - la gula
+- la gourmandise - la gula, manger quand qqn n'a pas faim
+- être gourmand/e - personne qui mange beacuoup
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMj
-YyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3
-NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC
-0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3
-MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNj
-I1LC0xOTk4MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwt
-MTUxNDQ4OTg4N119
+eyJoaXN0b3J5IjpbMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOT
+c1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0
+OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LD
+ExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3
+MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NT
+A4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0x
+NTk0OTg5NzA4XX0=
 -->
