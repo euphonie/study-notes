@@ -52,10 +52,12 @@ Reliable release process involves release and testing phases of software deliver
 	- Templates can be developed using Jinja or Python syntax
 - Benefits
 	- Reuse templates and configure resources differently for different environments 
+	- Specify dependencies on resources
+	- Specify startup scripts run when the VM launches
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjI2MTM5MywtMTU2MzI1MDc4OSwtMT
+eyJoaXN0b3J5IjpbMTg2OTE4OTk3MywtMTU2MzI1MDc4OSwtMT
 Q2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
