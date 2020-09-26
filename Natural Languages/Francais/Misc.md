@@ -195,15 +195,16 @@ Example:
 - voler = un oiseau (avec des ailes) 
 - voler = un objet ( une personne voleur)
 - la chasse = chasser ( un chasseur ) 
-- Mots 
+- Les mots terminés en -age sont masculin 
+	- sauf la cage, la plage, la rage, la rage, la nage, la page, l'image...
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTQxNzYzNSwtMTQ1NzUyNzc3MCwtOD
-EzMjcxNTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0
-MDcyOCwyMDkzNzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4MzU1Ni
-wxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYyNSwtMTk5
-ODAyODA4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLTE1MTQ0OD
-k4ODcsNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwx
-ODY4OTc5NDI2XX0=
+eyJoaXN0b3J5IjpbNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC04MT
+MyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC0xODQ4MjQw
+NzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3MjgzNTU2LD
+EyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC0xOTk4
+MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwtMTUxNDQ4OT
+g4Nyw0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3OTg3NzIwLDE4
+Njg5Nzk0MjZdfQ==
 -->
