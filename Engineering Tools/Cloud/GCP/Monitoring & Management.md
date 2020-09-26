@@ -36,6 +36,7 @@ Reliable release process involves release and testing phases of software deliver
 - Can be specified in YAML or JSON notation
 - Source code is mounted to the /workspace directory
 	- The artifacts are persisted in the directory
+- Publishes build status notifications to Cloud Pub/Sub
 - 
 
 ## Container Registry
@@ -43,9 +44,11 @@ Reliable release process involves release and testing phases of software deliver
 
 
 ## Deployment Manager
+- Enables deployment of VM instances on container images that are created by the build pipeline
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTE0OTgxLC0xNTYzMjUwNzg5LC0xND
+eyJoaXN0b3J5IjpbNzk0MDMyNTcwLC0xNTYzMjUwNzg5LC0xND
 Y2OTUxNDE1LC0xNjQwNDI1MTg2XX0=
 -->
