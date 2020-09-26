@@ -51,11 +51,11 @@ Reliable release process involves release and testing phases of software deliver
 	- Consists of a top-level configuration file, YAML templates and additional files
 	- Templates can be developed using Jinja or Python syntax
 - Benefits
-	- Reuse templates and configure resources differently for di 
+	- Reuse templates and configure resources differently for different environments 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzYzMDY3NSwtMTU2MzI1MDc4OSwtMT
+eyJoaXN0b3J5IjpbLTM0MjI2MTM5MywtMTU2MzI1MDc4OSwtMT
 Q2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
