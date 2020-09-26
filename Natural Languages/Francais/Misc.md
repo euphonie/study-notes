@@ -233,13 +233,20 @@ Example:
 **exprimer la cause**
 
 - parce que, je n'ai pas fait mon devoir, parce que j'ai eu un problème
-- je ne soirtirai pas car il pleut.    car n'est pas peut être la première clause.
-- Puisque j'ai mangé un gâteau, j'ai mal à la tête.
-	- Puisque vous comprenez, nous allons faire l'exercise
+- Car.
+	- Appartient plutôt à la langue écrite
+	- je ne soirtirai pas car il pleut.    car n'est pas peut être la première clause.
+- P
+	- Puisque j'ai mangé un gâteau, j'ai mal à la tête.
+	- Puisque vous comprenez, nous allons faire l'exercice
+- Comme
+	- En tête de phrase 
+	- Permet de mettre la cause avant la conséquence
+	- Comme il pleut, je ne peux pas sortir
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMDMwMTU3LDIwNDY3NzM1MSwtMTg3Nz
+eyJoaXN0b3J5IjpbNzkzMzI0NzI1LDIwNDY3NzM1MSwtMTg3Nz
 c5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkx
 NDMsLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0NjIwMTQ5MCwtMT
 Q1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYzMjksMTE3Mzcz
