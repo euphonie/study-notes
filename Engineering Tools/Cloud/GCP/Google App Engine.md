@@ -39,7 +39,12 @@ App Engine manages the hardware and networking infrastructure required to run co
 			- Deploys the application in three different zones
 			- Launches autoscale CE instances 
 			- Sets up Monitoring, Logging, Error Reporting, Health check and SSL
-		- Applies automaticall
+		- Applies automatic updates to the containers
+		- Enables to perform canary testing or A/B testing by splitting traffic
+		- Can work with Jenkins/Spinnaker
+		- Consider other solution if 
+			- App with protocol != {HTTP/S}
+			- 
 - Automatically scales app in response to the traffic
 - Provides
 	- No-SQL databases
@@ -52,5 +57,5 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMjA3NTc2LDEzNjUwNjk3OV19
+eyJoaXN0b3J5IjpbLTE2NzA1MDgzOTYsMTM2NTA2OTc5XX0=
 -->
