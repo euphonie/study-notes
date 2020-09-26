@@ -87,7 +87,7 @@ Opensource orchestrator for containers to better manage and scale applications.
 
 A **deployment** represents a group of replicas of the same pod. It keeps the pods running even if a node on which some of them run fails. It can be used to contain a component of an application or an entire application
 
-A **service**, created when exposing a deployment of pods to the internet, groups a set of pods together and provides a stable endpoint for them. Ex. A public IP address managed by a network load balancer.
+A **service**, is created when exposing a deployment of pods to the internet, groups a set of pods together and provides a stable endpoint for them. Ex. A public IP address managed by a network load balancer.
 
 This is a recommended solution for exposing deployments between applications as it usually creates and destroys pods, having each pod an unique IP address that doesn't remain stable over time. An stable endpoint is then provided by a service.
 
@@ -168,5 +168,5 @@ Google's modern solution for hybrid and multi-cloud systems and services managem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDM4MzI1OF19
+eyJoaXN0b3J5IjpbMTM0ODY1OTk0LC05OTQzODMyNThdfQ==
 -->
