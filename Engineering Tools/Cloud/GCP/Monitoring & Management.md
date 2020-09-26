@@ -45,10 +45,14 @@ Reliable release process involves release and testing phases of software deliver
 
 ## Deployment Manager
 - Enables deployment of VM instances on container images that are created by the build pipeline
+- Can also launch other GCP resources required by the application
+- A deployment configuration file defines the Cloud resources to provision
+	- Includes types and properties of the resources
+	- Consists of a top-level
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MDMyNTcwLC0xNTYzMjUwNzg5LC0xND
+eyJoaXN0b3J5IjpbODM1NDkxMDE2LC0xNTYzMjUwNzg5LC0xND
 Y2OTUxNDE1LC0xNjQwNDI1MTg2XX0=
 -->
