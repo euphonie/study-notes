@@ -212,11 +212,15 @@ Example:
 
 ### végétarisme
 
-- c
+- canivore - manger du viande
+- locavore - manger des produits locaux
+- le véganisme
+- les animaux / protection
+- une prise de conscience
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE4NjA0OTEsLTI2MjEyMjI1MywxNT
+eyJoaXN0b3J5IjpbLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNT
 IwNjI4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcx
 NTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOC
 wyMDkzNzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYz
