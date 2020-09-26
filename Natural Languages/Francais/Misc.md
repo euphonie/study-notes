@@ -195,15 +195,15 @@ Example:
 - voler = un oiseau (avec des ailes) 
 - voler = un objet ( une personne voleur)
 - la chasse = chasser ( un chasseur ) 
-- 
+- Mots 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMz
-kzMjU2MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3
-ODkyNSwtNDg3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MC
-wtOTc5Nzk4NTA4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkz
-OTk2MjA3LC0xNTk0OTg5NzA4LC0xNTE0NDg5ODg3LDQzNTM3Mz
-Q0MywtNzY2MjA3MzE0LDIwOTc5ODc3MjAsMTg2ODk3OTQyNiwx
-MDQwMDcyMjk5XX0=
+eyJoaXN0b3J5IjpbMTU3MTQxNzYzNSwtMTQ1NzUyNzc3MCwtOD
+EzMjcxNTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0
+MDcyOCwyMDkzNzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4MzU1Ni
+wxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYyNSwtMTk5
+ODAyODA4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLTE1MTQ0OD
+k4ODcsNDM1MzczNDQzLC03NjYyMDczMTQsMjA5Nzk4NzcyMCwx
+ODY4OTc5NDI2XX0=
 -->
