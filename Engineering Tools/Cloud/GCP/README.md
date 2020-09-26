@@ -183,12 +183,13 @@ echo  "Project ID: $DEVSHELL_PROJECT_ID"
 ```bash
 # Building docker images with cloud build 
 gcloud builds submit -t gcr.io/$DEVSHELL_PROJECT_ID/quiz-frontend ./frontend/
+# Create deployments 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjQyMTQ0OSwtMTgxMTAwNjI3OCwyMD
-EwNDU4LDQ3NTA0Mjk0NSwxMjYxMDI4NzcxLDExMTYwNDE1OTUs
-MTE3MDc1MjU4MywtNTQ0MjQ3MTU1LC04NTE1MTM2NDksNzQ1Mz
-k4NjgwXX0=
+eyJoaXN0b3J5IjpbNDQ3NjY3MTc4LDE5NzI0MjE0NDksLTE4MT
+EwMDYyNzgsMjAxMDQ1OCw0NzUwNDI5NDUsMTI2MTAyODc3MSwx
+MTE2MDQxNTk1LDExNzA3NTI1ODMsLTU0NDI0NzE1NSwtODUxNT
+EzNjQ5LDc0NTM5ODY4MF19
 -->
