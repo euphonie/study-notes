@@ -198,14 +198,20 @@ Example:
 - Les mots terminés en -age sont masculin 
 	- sauf la cage, la plage, la rage, la rage, la nage, la page, l'image...
 - l'ironie, le critique
+- souffrir  = j'ai souffert
+- Expressions
+	- fort comme un boeuf - être fort
+	- têtu comme une mule - 
+	- malin comme un singe
+	- frisé comme un mouton
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDYyODUwMSw1NDYyMDE0OTAsLTE0NT
-c1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNzM3MzEw
-OTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5MDU1LD
-IwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03OTE3
-NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0OTg5Nz
-A4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LDIw
-OTc5ODc3MjBdfQ==
+eyJoaXN0b3J5IjpbMTQ2NTMxMjMyNSwxNTIwNjI4NTAxLDU0Nj
+IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
+MjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4OTI1LC
+00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nzk3
+OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5OTM5OTYyMD
+csLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1MzczNDQzLC03
+NjYyMDczMTRdfQ==
 -->
