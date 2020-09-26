@@ -25,6 +25,8 @@ Code in any language for a given runtime environment that GCP provides and then 
 - Functions can be triggered asynchronously and are called **Background Functions**
 	- Synchronous functions are called **HTTP Functions**
 		- Timeout default is 60 seconds
+- When using node.js code the function must be exported in a module
+- Only package.json file is needed to install dependencies
 
 ## Creating functions
 - Write function
@@ -73,6 +75,6 @@ Code in any language for a given runtime environment that GCP provides and then 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTc3Njg2OCwtMTEwNTg3OTA3Niw1ND
-kyMTkwODQsLTIwMTIyMDk1MywxNzgyODI0MjkxXX0=
+eyJoaXN0b3J5IjpbNTYyMTc2NDI0LC0xMTA1ODc5MDc2LDU0OT
+IxOTA4NCwtMjAxMjIwOTUzLDE3ODI4MjQyOTFdfQ==
 -->
