@@ -178,10 +178,12 @@ gcloud spanner databases create quiz-database --instance quiz-instance --ddl "CR
 echo  "Project ID: $DEVSHELL_PROJECT_ID"
 ```
 
+**Docker files: example using Cloud Build**
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDQ1OCw0NzUwNDI5NDUsMTI2MTAyOD
-c3MSwxMTE2MDQxNTk1LDExNzA3NTI1ODMsLTU0NDI0NzE1NSwt
-ODUxNTEzNjQ5LDc0NTM5ODY4MF19
+eyJoaXN0b3J5IjpbLTE4MTEwMDYyNzgsMjAxMDQ1OCw0NzUwND
+I5NDUsMTI2MTAyODc3MSwxMTE2MDQxNTk1LDExNzA3NTI1ODMs
+LTU0NDI0NzE1NSwtODUxNTEzNjQ5LDc0NTM5ODY4MF19
 -->
