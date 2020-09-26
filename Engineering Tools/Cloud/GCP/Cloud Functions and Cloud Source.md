@@ -61,9 +61,14 @@ Code in any language for a given runtime environment that GCP provides and then 
 - Supports simple configuration and optimizes the work account over time
 - Auto scales based on CPU utilization, throughput and amount of remaining work
 - Adds workers when CPU utilization and backlog increases and removes them when the metrics decrease
+- Ideal for streaming and batch data pipelines
+- Good for
+	- clickstream POS
+	- segmentation analysis in retail industry
+	- Fraud detection in financial
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUzNTgyNyw1NDkyMTkwODQsLTIwMT
+eyJoaXN0b3J5IjpbLTk3MjgyMzkxOSw1NDkyMTkwODQsLTIwMT
 IyMDk1MywxNzgyODI0MjkxXX0=
 -->
