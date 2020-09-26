@@ -204,13 +204,16 @@ Example:
 	- têtu comme une mule - rien entendre, être têtu/e
 	- malin comme un singe - maligne, rusé, sournois
 	- frisé comme un mouton - cheveux bouclés
-	- détaler comme un lapin
-	- une faim de loup
-	- avoir une langue de vipère - avoir de 
+	- détaler comme un lapin - fuir, échapper
+	- une faim de loup - avoir beaucoup de faim
+	- avoir une langue de vipère - avoir de paroles méchantes
+	- donner de la confiture aux cochons
+	- être fier comme un coq
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzkxMTIyNCwxNTIwNjI4NTAxLDU0Nj
+eyJoaXN0b3J5IjpbLTg5NzczOTc0NiwxNTIwNjI4NTAxLDU0Nj
 IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
 MjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4OTI1LC
 00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nzk3
