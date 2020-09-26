@@ -34,6 +34,12 @@ App Engine manages the hardware and networking infrastructure required to run co
 		- support for 3rd party binaries
 		- network access
 		- Pay for resource allocation per hour, no automatic shutdown
+		- Behind the scenes App engine provisions
+			- Load balancer
+			- Deploys the application in three different zones
+			- Launches autoscale CE instances 
+			- Sets up Monitoring, Logging, Error Reporting, Health check and SSL
+		- Applies automaticall
 - Automatically scales app in response to the traffic
 - Provides
 	- No-SQL databases
@@ -46,5 +52,5 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjY1OTc3NywxMzY1MDY5NzldfQ==
+eyJoaXN0b3J5IjpbNjIyMjA3NTc2LDEzNjUwNjk3OV19
 -->
