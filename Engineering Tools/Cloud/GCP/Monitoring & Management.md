@@ -48,11 +48,14 @@ Reliable release process involves release and testing phases of software deliver
 - Can also launch other GCP resources required by the application
 - A deployment configuration file defines the Cloud resources to provision
 	- Includes types and properties of the resources
-	- Consists of a top-level
+	- Consists of a top-level configuration file, YAML templates and additional files
+	- Templates can be developed using Jinja or Python syntax
+- Benefits
+	- Reuse templates and configure resources differently for di 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NDkxMDE2LC0xNTYzMjUwNzg5LC0xND
-Y2OTUxNDE1LC0xNjQwNDI1MTg2XX0=
+eyJoaXN0b3J5IjpbLTk3MzYzMDY3NSwtMTU2MzI1MDc4OSwtMT
+Q2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
