@@ -226,14 +226,21 @@ Example:
 - s'étoffer - s'élargir, prendre de la carrure
 - Entre = utiliser entre deux possibilités
 - Parmi = utiliser entre plusieurs possibilités
+- comme
+	- comparison, elle est comme toi
+	- cause, comme vous comprenez, on continue 
+
+**exprimer la cause**
+
+- parce que, je n
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4Mj
-kyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIy
-MjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC
-04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC0xODQ4
-MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3MjgzNT
-U2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC0x
-OTk4MDI4MDgzXX0=
+eyJoaXN0b3J5IjpbMTc4MzQzMDMwNSwyMDQ2NzczNTEsLTE4Nz
+c3OTY5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NTg5
+MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0OTAsLT
+E0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNzM3
+MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5MD
+U1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03
+OTE3NTE2MjVdfQ==
 -->
