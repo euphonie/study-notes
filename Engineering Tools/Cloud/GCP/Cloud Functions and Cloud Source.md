@@ -65,10 +65,12 @@ Code in any language for a given runtime environment that GCP provides and then 
 - Good for
 	- clickstream POS
 	- segmentation analysis in retail industry
-	- Fraud detection in financial
+	- Fraud detection in financial services
+	- Personalized user experience in gaming industry
+	- IOT analytics in manufacturing, healthcare and logistics industries
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjgyMzkxOSw1NDkyMTkwODQsLTIwMT
-IyMDk1MywxNzgyODI0MjkxXX0=
+eyJoaXN0b3J5IjpbLTExMDU4NzkwNzYsNTQ5MjE5MDg0LC0yMD
+EyMjA5NTMsMTc4MjgyNDI5MV19
 -->
