@@ -25,7 +25,8 @@ Reliable release process involves release and testing phases of software deliver
 - If there are any errors a rollback to the last stable release can be performed
 
 ##  Cloud Build
-
+- Fully managed service
+- Set up build pipelines to create a Docker container image and push the image to a Google Cloud se
 
 ## Container Registry
 
@@ -34,6 +35,6 @@ Reliable release process involves release and testing phases of software deliver
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMyNTA3ODksLTE0NjY5NTE0MTUsLT
-E2NDA0MjUxODZdfQ==
+eyJoaXN0b3J5IjpbMTc1NTc3MjUzNiwtMTU2MzI1MDc4OSwtMT
+Q2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
