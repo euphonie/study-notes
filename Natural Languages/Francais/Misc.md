@@ -207,13 +207,13 @@ Example:
 	- détaler comme un lapin - fuir, échapper
 	- une faim de loup - avoir beaucoup de faim
 	- avoir une langue de vipère - avoir de paroles méchantes
-	- donner de la confiture aux cochons
+	- donner de la confiture aux cochons - il ne sert pas à rien
 	- être fier comme un coq
 	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzczOTc0NiwxNTIwNjI4NTAxLDU0Nj
+eyJoaXN0b3J5IjpbLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0Nj
 IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
 MjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4OTI1LC
 00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nzk3
