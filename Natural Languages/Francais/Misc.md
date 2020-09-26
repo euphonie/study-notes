@@ -189,13 +189,21 @@ Example:
 
 ![Expressions en utilisant coup](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/expressionsacoup.png)
 
+
+## Le monde animal
+
+- voler = un oiseau (avec des ailes) 
+- voler = un objet ( une personne voleur)
+- la chasse = chasser ( un chasseur ) 
+- 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNz
-M3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5
-MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC
-03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0
-OTg5NzA4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3Mz
-E0LDIwOTc5ODc3MjAsMTg2ODk3OTQyNiwxMDQwMDcyMjk5LC0x
-NTU0MDIyNjg1XX0=
+eyJoaXN0b3J5IjpbLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMz
+kzMjU2MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3
+ODkyNSwtNDg3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MC
+wtOTc5Nzk4NTA4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkz
+OTk2MjA3LC0xNTk0OTg5NzA4LC0xNTE0NDg5ODg3LDQzNTM3Mz
+Q0MywtNzY2MjA3MzE0LDIwOTc5ODc3MjAsMTg2ODk3OTQyNiwx
+MDQwMDcyMjk5XX0=
 -->
