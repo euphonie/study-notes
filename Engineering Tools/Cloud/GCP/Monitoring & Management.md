@@ -26,15 +26,17 @@ Reliable release process involves release and testing phases of software deliver
 
 ##  Cloud Build
 - Fully managed service
-- Set up build pipelines to create a Docker container image and push the image to a Google Cloud se
+- Set up build pipelines to create a Docker container image and push the image to a Google Cloud resource
+- Pipeline is automatically triggered by changes to the repository
 
 ## Container Registry
+- Registry for images uploaded to Google Cloud
 
 
 ## Deployment Manager
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTc3MjUzNiwtMTU2MzI1MDc4OSwtMT
+eyJoaXN0b3J5IjpbMTM5MTUyOTYzOSwtMTU2MzI1MDc4OSwtMT
 Q2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
