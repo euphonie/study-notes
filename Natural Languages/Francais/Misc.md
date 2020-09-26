@@ -244,6 +244,7 @@ Example:
 	- Puisque vous comprenez, nous allons faire l'exercice
 - Comme
 	- En tête de phrase 
+	- Introduit une cause connue ou évidente
 	- Permet de mettre la cause avant la conséquence
 	- Comme il pleut, je ne peux pas sortir
 - En raison de
@@ -258,11 +259,11 @@ Example:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nz
-k2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0
-MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xND
-U3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMx
-MDk5LC0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NS
-wyMDc3MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkx
-NzUxNjI1XX0=
+eyJoaXN0b3J5IjpbMTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2Nz
+czNTEsLTE4Nzc3OTY5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUz
+LC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1ND
+YyMDE0OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2
+MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNS
+wtNDg3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5
+Nzk4NTA4XX0=
 -->
