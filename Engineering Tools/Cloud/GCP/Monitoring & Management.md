@@ -1,6 +1,6 @@
 # Monitoring & Management
 
-Reliable release process involves release . Environments to run 
+Reliable release process involves release and testing phases of software delivery. Main components for CI/CD pipelines.
 
 ##  Cloud Build
 
@@ -12,6 +12,6 @@ Reliable release process involves release . Environments to run
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcyNTQ4NjgsLTE0NjY5NTE0MTUsLT
+eyJoaXN0b3J5IjpbLTE4MDI5NTcwMDgsLTE0NjY5NTE0MTUsLT
 E2NDA0MjUxODZdfQ==
 -->
