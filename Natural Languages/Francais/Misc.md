@@ -223,10 +223,11 @@ Example:
 - ras-le-bol - ne pas supporter plus
 - j'en ai ras-le-bol - je ne supporte plus, j'en ai marre, j'en ai assez, j'en ai plein les bottes
 - faire le buzz - faire tendance, avoid du succèes
+- s'étoffer - s'élargir, prendre de la carrure
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTA2ODkzNjcsMTgyOTIxMzYxMywtMj
+eyJoaXN0b3J5IjpbLTE4Nzc3OTY5NjAsMTgyOTIxMzYxMywtMj
 AxMTM2NjUzLC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYy
 ODUwMSw1NDYyMDE0OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MC
 wtMzkzMjU2MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5
