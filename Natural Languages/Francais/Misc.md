@@ -221,15 +221,15 @@ Example:
 - être gourmand/e - personne qui mange beacuoup
 - déferlé - se répandre comme une vague
 - ras-le-bol - ne pas supporter plus
-- 
+- j'en ai ras-le-bol - je ne supporte plus, j'en ai marre, j'en ai assez, j'en ai plein les bottes
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjY2MDc0NCwxODI5MjEzNjEzLC0yMD
-ExMzY2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4
-NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC
-0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkz
-Nzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2Mz
-gwLC05Nzk3OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5
-OTM5OTYyMDddfQ==
+eyJoaXN0b3J5IjpbLTE1MzUzNjM1NTMsMTgyOTIxMzYxMywtMj
+AxMTM2NjUzLC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYy
+ODUwMSw1NDYyMDE0OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MC
+wtMzkzMjU2MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5
+Mzc3ODkyNSwtNDg3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNj
+M4MCwtOTc5Nzk4NTA4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMs
+OTkzOTk2MjA3XX0=
 -->
