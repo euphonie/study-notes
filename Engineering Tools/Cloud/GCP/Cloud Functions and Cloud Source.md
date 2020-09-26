@@ -57,10 +57,13 @@ Code in any language for a given runtime environment that GCP provides and then 
 	- and data warehousing using BigQuery
 	- with machine learning APIs and more
 - A pipeline comprises the entire data processing tasks including reading input data, transforming the data and writing output data
-- Uses CE, Stackdriver Logging, Clous Storage, BigQuery, Cloud Pub/Sub and Cloud Fi
+- Uses CE, Stackdriver Logging, Clous Storage, BigQuery, Cloud Pub/Sub and Cloud Firestore APIs to execute the pipelines
+- Supports simple configuration and optimizes the work account over time
+- Auto scales based on CPU utilization, throughput and amount of remaining work
+- Adds workers when CPU utilization and backlog increases and removes them when the metrics decrease
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTIyODkxODksNTQ5MjE5MDg0LC0yMD
-EyMjA5NTMsMTc4MjgyNDI5MV19
+eyJoaXN0b3J5IjpbLTE1MzUzNTgyNyw1NDkyMTkwODQsLTIwMT
+IyMDk1MywxNzgyODI0MjkxXX0=
 -->
