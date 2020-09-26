@@ -232,15 +232,16 @@ Example:
 
 **exprimer la cause**
 
-- parce que, je n
+- parce que, je n'ai pas fait mon devoir, parce que j'ai eu un problème
+- je ne soirtirai pas car il pleut.    
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzQzMDMwNSwyMDQ2NzczNTEsLTE4Nz
-c3OTY5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NTg5
-MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0OTAsLT
-E0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNzM3
-MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5MD
-U1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03
-OTE3NTE2MjVdfQ==
+eyJoaXN0b3J5IjpbNzc0OTU2ODY0LDIwNDY3NzM1MSwtMTg3Nz
+c5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkx
+NDMsLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0NjIwMTQ5MCwtMT
+Q1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYzMjksMTE3Mzcz
+MTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4OTI1LC00ODcxNTkwNT
+UsMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5
+MTc1MTYyNV19
 -->
