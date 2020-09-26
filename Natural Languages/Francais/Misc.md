@@ -197,14 +197,15 @@ Example:
 - la chasse = chasser ( un chasseur ) 
 - Les mots terminés en -age sont masculin 
 	- sauf la cage, la plage, la rage, la rage, la nage, la page, l'image...
+- l'ironie, le critique
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC04MT
-MyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC0xODQ4MjQw
-NzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3MjgzNTU2LD
-EyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkxNzUxNjI1LC0xOTk4
-MDI4MDgzLDk5Mzk5NjIwNywtMTU5NDk4OTcwOCwtMTUxNDQ4OT
-g4Nyw0MzUzNzM0NDMsLTc2NjIwNzMxNCwyMDk3OTg3NzIwLDE4
-Njg5Nzk0MjZdfQ==
+eyJoaXN0b3J5IjpbMTUyMDYyODUwMSw1NDYyMDE0OTAsLTE0NT
+c1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNzM3MzEw
+OTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5MDU1LD
+IwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NTA4LC03OTE3
+NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0xNTk0OTg5Nz
+A4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0MywtNzY2MjA3MzE0LDIw
+OTc5ODc3MjBdfQ==
 -->
