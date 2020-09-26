@@ -246,20 +246,23 @@ Example:
 	- En tête de phrase 
 	- Permet de mettre la cause avant la conséquence
 	- Comme il pleut, je ne peux pas sortir
-- Grace à
-	- Cause positive
 - En raison de
 	- Expression suivie d'un nom
 	- En raison de l'accident sur la carretera, je ne peux pas arriver à l'AF à l'heure
-	- 
+- Grace à
+	- Cause positive
+	- Grace à mon frère je peux faire mon exercice
+- À cause de
+	- Cause négative
+	- À cause de la pluie je ne peux pas sortir ma maison
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA4NjkxNDAsMjA0Njc3MzUxLC0xOD
-c3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4
-OTE0MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC
-0xNDU3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTcz
-NzMxMDk5LC0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OT
-A1NSwyMDc3MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwt
-NzkxNzUxNjI1XX0=
+eyJoaXN0b3J5IjpbNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nz
+k2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0
+MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xND
+U3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMx
+MDk5LC0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NS
+wyMDc3MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwtNzkx
+NzUxNjI1XX0=
 -->
