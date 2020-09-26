@@ -201,17 +201,17 @@ Example:
 - souffrir  = j'ai souffert
 - Expressions
 	- fort comme un boeuf - être fort
-	- têtu comme une mule - 
-	- malin comme un singe
-	- frisé comme un mouton
+	- têtu comme une mule - rien entendre, être têtu/e
+	- malin comme un singe - être creatif/ve
+	- frisé comme un mouton - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTMxMjMyNSwxNTIwNjI4NTAxLDU0Nj
-IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
-MjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4OTI1LC
-00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nzk3
-OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5OTM5OTYyMD
-csLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1MzczNDQzLC03
-NjYyMDczMTRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDA1Mzg3MDUsMTUyMDYyODUwMSw1ND
+YyMDE0OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2
+MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNS
+wtNDg3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5
+Nzk4NTA4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2Mj
+A3LC0xNTk0OTg5NzA4LC0xNTE0NDg5ODg3LDQzNTM3MzQ0Mywt
+NzY2MjA3MzE0XX0=
 -->
