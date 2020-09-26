@@ -180,13 +180,15 @@ echo  "Project ID: $DEVSHELL_PROJECT_ID"
 
 **Docker files: example using Cloud Build**
 
-```b
+```bash
+# Building docker images with cloud build 
+gcloud builds submit -t gcr.io/$DEVSHELL_PROJECT_ID/quiz-frontend ./frontend/
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0NzY5MTYsLTE4MTEwMDYyNzgsMjAxMD
-Q1OCw0NzUwNDI5NDUsMTI2MTAyODc3MSwxMTE2MDQxNTk1LDEx
-NzA3NTI1ODMsLTU0NDI0NzE1NSwtODUxNTEzNjQ5LDc0NTM5OD
-Y4MF19
+eyJoaXN0b3J5IjpbMTk3MjQyMTQ0OSwtMTgxMTAwNjI3OCwyMD
+EwNDU4LDQ3NTA0Mjk0NSwxMjYxMDI4NzcxLDExMTYwNDE1OTUs
+MTE3MDc1MjU4MywtNTQ0MjQ3MTU1LC04NTE1MTM2NDksNzQ1Mz
+k4NjgwXX0=
 -->
