@@ -2,7 +2,7 @@
 
 Reliable release process involves release and testing phases of software delivery. Main components for CI/CD pipelines.
 
-## CI pipeline
+**CI Pipeline**
 - Pull from master
 - Commit to feature branch
 - Push to repository
@@ -14,6 +14,12 @@ Reliable release process involves release and testing phases of software deliver
 - Run test suites 
 - If test are successful code can be promoted to a release branch
 
+**CD Pipeline**
+- The deployment system deploys the application images to the staging environment
+- Runs integration tests, performance tests and more
+- If tests are successful the image is tagged as a release candidate
+- Approval of relase candid
+
 ##  Cloud Build
 
 
@@ -24,6 +30,6 @@ Reliable release process involves release and testing phases of software deliver
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzU3MDc0OCwtMTQ2Njk1MTQxNSwtMT
-Y0MDQyNTE4Nl19
+eyJoaXN0b3J5IjpbODA4OTI4MDM3LC0xNDY2OTUxNDE1LC0xNj
+QwNDI1MTg2XX0=
 -->
