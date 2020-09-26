@@ -232,25 +232,34 @@ Example:
 
 **exprimer la cause**
 
-- parce que, je n'ai pas fait mon devoir, parce que j'ai eu un problème
+- Parce que
+	- En réponse à pourquoi
+	- parce que, je n'ai pas fait mon devoir, parce que j'ai eu un problème
 - Car.
 	- Appartient plutôt à la langue écrite
 	- je ne soirtirai pas car il pleut.    car n'est pas peut être la première clause.
-- P
+- Puisque
+	- Introduit une cause connue ou évidente
 	- Puisque j'ai mangé un gâteau, j'ai mal à la tête.
 	- Puisque vous comprenez, nous allons faire l'exercice
 - Comme
 	- En tête de phrase 
 	- Permet de mettre la cause avant la conséquence
 	- Comme il pleut, je ne peux pas sortir
+- Grace à
+	- Cause positive
+- En raison de
+	- Expression suivie d'un nom
+	- En raison de l'accident sur la carretera, je ne peux pas arriver à l'AF à l'heure
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMzI0NzI1LDIwNDY3NzM1MSwtMTg3Nz
-c5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkx
-NDMsLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0NjIwMTQ5MCwtMT
-Q1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYzMjksMTE3Mzcz
-MTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4OTI1LC00ODcxNTkwNT
-UsMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nzk3OTg1MDgsLTc5
-MTc1MTYyNV19
+eyJoaXN0b3J5IjpbLTEyOTA4NjkxNDAsMjA0Njc3MzUxLC0xOD
+c3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4
+OTE0MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC
+0xNDU3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTcz
+NzMxMDk5LC0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OT
+A1NSwyMDc3MjgzNTU2LDEyNjMxMDYzODAsLTk3OTc5ODUwOCwt
+NzkxNzUxNjI1XX0=
 -->
