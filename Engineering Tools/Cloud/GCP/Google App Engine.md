@@ -19,6 +19,8 @@ App Engine manages the hardware and networking infrastructure required to run co
 			- All requests time out at 60s
 			- Limits on third-party software
 			- startups in milliseconds
+		- Good for spiky or variably traffic
+		- Standard APIs only work in GAE Standard environments
 	- **Flexible**
 		- If any restrictions from the standard model don't work
 		- Default settings for infrastructure components
@@ -44,7 +46,9 @@ App Engine manages the hardware and networking infrastructure required to run co
 		- Can work with Jenkins/Spinnaker
 		- Consider other solution if 
 			- App with protocol != {HTTP/S}
-			- 
+			- Persistent disks are needed
+			- Spiky or very low traffic, there are always two instances running
+		- Flexible APIs can be used
 - Automatically scales app in response to the traffic
 - Provides
 	- No-SQL databases
@@ -57,5 +61,5 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA1MDgzOTYsMTM2NTA2OTc5XX0=
+eyJoaXN0b3J5IjpbLTEyMDU0NTQ4NTAsMTM2NTA2OTc5XX0=
 -->
