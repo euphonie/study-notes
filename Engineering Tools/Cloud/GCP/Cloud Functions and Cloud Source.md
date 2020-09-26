@@ -27,6 +27,8 @@ Code in any language for a given runtime environment that GCP provides and then 
 		- Timeout default is 60 seconds
 - When using node.js code the function must be exported in a module
 - Only package.json file is needed to install dependencies
+- Lightweight microservices
+- Can be setup as webhooks
 
 ## Creating functions
 - Write function
@@ -75,6 +77,6 @@ Code in any language for a given runtime environment that GCP provides and then 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMTc2NDI0LC0xMTA1ODc5MDc2LDU0OT
-IxOTA4NCwtMjAxMjIwOTUzLDE3ODI4MjQyOTFdfQ==
+eyJoaXN0b3J5IjpbLTI2OTc0MDA5MCwtMTEwNTg3OTA3Niw1ND
+kyMTkwODQsLTIwMTIyMDk1MywxNzgyODI0MjkxXX0=
 -->
