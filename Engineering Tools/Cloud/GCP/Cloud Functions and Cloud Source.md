@@ -54,10 +54,13 @@ Code in any language for a given runtime environment that GCP provides and then 
 - Supports fast and simplified pipeline development by using expressive Java and Python APIs in the Apache Beam SDK
 - Integrates with GCP services 
 	- for streaming events ingestion using Cloud Pub/Sub 
-	- and data w
+	- and data warehousing using BigQuery
+	- with machine learning APIs and more
+- A pipeline comprises the entire data processing tasks including reading input data, transforming the data and writing output data
+- Uses CE, Stackdriver Logging, Clous Storage, BigQuery, Cloud Pub/Sub and Cloud Fi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTUwNjQ3Niw1NDkyMTkwODQsLTIwMT
-IyMDk1MywxNzgyODI0MjkxXX0=
+eyJoaXN0b3J5IjpbLTE0MTIyODkxODksNTQ5MjE5MDg0LC0yMD
+EyMjA5NTMsMTc4MjgyNDI5MV19
 -->
