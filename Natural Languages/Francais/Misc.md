@@ -219,14 +219,17 @@ Example:
 - une prise de conscience
 - la gourmandise - la gula, manger quand qqn n'a pas faim
 - être gourmand/e - personne qui mange beacuoup
+- déferlé - se répandre comme une vague
+- ras-le-bol - ne pas supporter plus
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOT
-c1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0
-OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LD
-ExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3
-MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5Nzk4NT
-A4LC03OTE3NTE2MjUsLTE5OTgwMjgwODMsOTkzOTk2MjA3LC0x
-NTk0OTg5NzA4XX0=
+eyJoaXN0b3J5IjpbMTA1MjY2MDc0NCwxODI5MjEzNjEzLC0yMD
+ExMzY2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4
+NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC
+0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkz
+Nzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2Mz
+gwLC05Nzk3OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5
+OTM5OTYyMDddfQ==
 -->
