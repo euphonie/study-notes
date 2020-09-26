@@ -209,15 +209,18 @@ Example:
 	- avoir une langue de vipère - avoir de paroles méchantes
 	- donner de la confiture aux cochons - il ne sert pas à rien
 	- être fier comme un coq
-	- 
+
+### végétarisme
+
+- c
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0Nj
-IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
-MjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4OTI1LC
-00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYzMTA2MzgwLC05Nzk3
-OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyODA4Myw5OTM5OTYyMD
-csLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcsNDM1MzczNDQzLC03
-NjYyMDczMTRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTE4NjA0OTEsLTI2MjEyMjI1MywxNT
+IwNjI4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcx
+NTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOC
+wyMDkzNzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4MzU1NiwxMjYz
+MTA2MzgwLC05Nzk3OTg1MDgsLTc5MTc1MTYyNSwtMTk5ODAyOD
+A4Myw5OTM5OTYyMDcsLTE1OTQ5ODk3MDgsLTE1MTQ0ODk4ODcs
+NDM1MzczNDQzXX0=
 -->
