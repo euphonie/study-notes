@@ -21,8 +21,9 @@ App Engine manages the hardware and networking infrastructure required to run co
 			- startups in milliseconds
 	- **Flexible**
 		- If any restrictions from the standard model don't work
-		- Deaful
+		- Default settings for infrastructure components
 		- Application runs inside a Docker container on Compute Engine's VMs
+			- container can run on GKE
 		- User chooses the geographical region to run
 		- VMs managed by Google
 		- Can access Google services
@@ -45,5 +46,5 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY5OTY1NTksMTM2NTA2OTc5XX0=
+eyJoaXN0b3J5IjpbLTUzMjY1OTc3NywxMzY1MDY5NzldfQ==
 -->
