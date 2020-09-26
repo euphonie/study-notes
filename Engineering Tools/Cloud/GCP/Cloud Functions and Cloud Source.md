@@ -8,6 +8,8 @@ Repositories that provide a git version control to support the team's developmen
 
 Serverless environment where logic can be executed on demand and in response to different events.
 
+- Highly scalable
+- Microservices that require a small piece of code
 Code in any language for a given runtime environment that GCP provides and then can be configured when it needs to be fired.
 - Works with event-driven functions
 - First 2M requests are free
@@ -71,6 +73,6 @@ Code in any language for a given runtime environment that GCP provides and then 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU4NzkwNzYsNTQ5MjE5MDg0LC0yMD
-EyMjA5NTMsMTc4MjgyNDI5MV19
+eyJoaXN0b3J5IjpbMTExMTc3Njg2OCwtMTEwNTg3OTA3Niw1ND
+kyMTkwODQsLTIwMTIyMDk1MywxNzgyODI0MjkxXX0=
 -->
