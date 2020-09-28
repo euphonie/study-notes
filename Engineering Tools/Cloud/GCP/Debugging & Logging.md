@@ -42,7 +42,18 @@
 - Identify trends and prevent issues
 - Reduce monitoring overhead
 
+```bash
+# Install debug agent
+npm install --save @google-cloud/debug-agent
+```
+
+```javascript
+// import debug-agent
+allowExpressions Boolean property set to true. require('@google-cloud/debug-agent').start({ allowExpressions:  true  });
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDk4MDI4OCwtMzkzMjM4NTk1XX0=
+eyJoaXN0b3J5IjpbLTE1MDIyNzQzNjYsMTg5NDk4MDI4OCwtMz
+kzMjM4NTk1XX0=
 -->
