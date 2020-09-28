@@ -32,7 +32,8 @@
 				- Identifies inefficiently writing code or poorly performing code
 				- Analyzes memory intensive functions
 				- Works in multiple cloud providers or hybrid setup
-				- Needs to i
+				- Needs to install a profiling agent
+				- Creates a profile by collecting 10 seconds of data every 1 minute
 				- Uses statistical techniques and low impact instrumentation to provide performance without affecting the app
 				- Helps identify potential performance issues
 - Increases reliability
@@ -41,5 +42,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTAzODQ0MywtMzkzMjM4NTk1XX0=
+eyJoaXN0b3J5IjpbLTMzMjEzNjQ3NSwtMzkzMjM4NTk1XX0=
 -->
