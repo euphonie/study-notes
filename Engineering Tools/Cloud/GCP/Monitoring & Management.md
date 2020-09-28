@@ -57,26 +57,40 @@ Reliable release process involves release and testing phases of software deliver
 
 # Performance checkpoints
 
-- Check performance watchpoints related to incoming requests
-- Web authoring
-	- Web page design and implementation
-	- Pagespeed insights
-		- Lack of caching headers
-		- Lack of compression
-		- Too many HTTP browser requests
-		- Slow DNS response 
-		- Lack of minification
-	- Chrome dev tools
-- Cold-boot performance
-	- Operations during initial boot of VM
-- Self-inflicted load
-	- Service-to-service or browser-to-service calls
-	- Polling cron jobs, 
-	- batch r
+- In Development
+	- Check performance watchpoints related to incoming requests
+		- Web authoring
+			- Web page design and implementation
+			- Pagespeed insights
+				- Lack of caching headers
+				- Lack of compression
+				- Too many HTTP browser requests
+				- Slow DNS response 
+				- Lack of minification
+			- Chrome dev tools
+		- Cold-boot performance
+			- Operations during initial boot of VM
+		- Self-inflicted load
+			- Service-to-service or browser-to-service calls
+			- Polling cron jobs, 
+			- batch requests
+			- multiple ajax requests
+			- Chrome devtools
+			- sever side load analysis
+			- Stackdriver Trace
+	- Review application code and logs
+		- Application errors
+			- HTTP errors and other exceptions
+		- Runtime code Gen
+			- Aspect-oriented programming
+		- Static resources
+			- Static web pages, images
+		- Caching
+			- Database
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Nzc3NTAzMSwtMTM5NjMxODAxOSwxOD
-Y5MTg5OTczLC0xNTYzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQw
-NDI1MTg2XX0=
+eyJoaXN0b3J5IjpbLTE1MDMxMzM5MDAsLTEzOTYzMTgwMTksMT
+g2OTE4OTk3MywtMTU2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0
+MDQyNTE4Nl19
 -->
