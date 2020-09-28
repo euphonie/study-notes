@@ -85,9 +85,11 @@ Code in any language for a given runtime environment that GCP provides and then 
 - Containers offer flexibility and portability of workloads
 - Work in any language using any tools
 - Automatic scaling
+- Only pay for time consumed
+- Application must be stateless and respond through HTTP
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjY3OTcwLC0xMTA1ODc5MDc2LDU0OT
+eyJoaXN0b3J5IjpbMzMwNTcyNTQxLC0xMTA1ODc5MDc2LDU0OT
 IxOTA4NCwtMjAxMjIwOTUzLDE3ODI4MjQyOTFdfQ==
 -->
