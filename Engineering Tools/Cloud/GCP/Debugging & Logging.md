@@ -51,7 +51,7 @@ gcloud debug source gen-repo-info-file --output-directory .
 # Install error reporting
 npm install --save @google-cloud/error-reporting
 ```
-
+**Enable debug expressions inside js file**
 ```javascript
 // import debug-agent
 allowExpressions Boolean property set to true. require('@google-cloud/debug-agent').start({ allowExpressions:  true  });
@@ -59,6 +59,6 @@ allowExpressions Boolean property set to true. require('@google-cloud/debug-agen
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTY4MTY3Myw2MzU4MTcxMjMsMTg5ND
-k4MDI4OCwtMzkzMjM4NTk1XX0=
+eyJoaXN0b3J5IjpbLTIwNTUzNjE4NjcsMTE0OTY4MTY3Myw2Mz
+U4MTcxMjMsMTg5NDk4MDI4OCwtMzkzMjM4NTk1XX0=
 -->
