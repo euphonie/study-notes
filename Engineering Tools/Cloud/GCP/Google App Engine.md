@@ -57,8 +57,19 @@ App Engine manages the hardware and networking infrastructure required to run co
 	- Logging
 	- Authentication
 
+# Scripts
+
+```bash
+# Deploy app to flexible environment using a .yaml file
+gcloud app deploy ./frontend/app.yaml
+```
+**app.yaml**
+```yaml
+runtime: nodejs
+environment: flex
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzQ3MTM4NDcsMTM2NTA2OTc5XX0=
+eyJoaXN0b3J5IjpbLTEwODU3NjMyNjQsMTM2NTA2OTc5XX0=
 -->
