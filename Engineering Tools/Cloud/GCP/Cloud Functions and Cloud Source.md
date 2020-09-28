@@ -82,9 +82,12 @@ Code in any language for a given runtime environment that GCP provides and then 
 - Serverless
 - Built on Knative
 - Lets you run containers either fully managed or in own GKE cluster
+- Containers offer flexibility and portability of workloads
+- Work in any language using any tools
+- Automatic scaling
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxMzg4MzUyLC0xMTA1ODc5MDc2LDU0OT
+eyJoaXN0b3J5IjpbMTI4NjY3OTcwLC0xMTA1ODc5MDc2LDU0OT
 IxOTA4NCwtMjAxMjIwOTUzLDE3ODI4MjQyOTFdfQ==
 -->
