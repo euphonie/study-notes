@@ -8,6 +8,8 @@ Let's you create and run VMs inside Google's infrastructure.
 	- Google Cloud Platform console
 	- GCloud command line tool
 - Can run linux or windows images, by Google, custom versions or imported from physical servers
+- Most control
+- P
 
 By choosing a machine type it assigns. Custom machine types can also be created
 - Number of Virtual CPUs (Max: 96)
@@ -59,6 +61,6 @@ The only difference is that Compute Engine has the  permission to terminate the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMT
-I1MTI5MTddfQ==
+eyJoaXN0b3J5IjpbLTM3NDg2OTkwOSwtMTcyMzg3NTg0NSwzMj
+E5NDg3NjYsLTIxMjUxMjkxN119
 -->
