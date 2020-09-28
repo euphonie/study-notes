@@ -27,6 +27,8 @@
 				- Works on multiple VMs doesn't matter the provider
 				- Zipkin collector available
 			- Debugger
+				- Collects debug snapshots
+				- Inject logging information without interfering the application
 			- Profiler 
 				- Monitor CPU and heap
 				- Identifies inefficiently writing code or poorly performing code
@@ -42,5 +44,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjEzNjQ3NSwtMzkzMjM4NTk1XX0=
+eyJoaXN0b3J5IjpbMTg5NDk4MDI4OCwtMzkzMjM4NTk1XX0=
 -->
