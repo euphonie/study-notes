@@ -75,8 +75,16 @@ Code in any language for a given runtime environment that GCP provides and then 
 	- Personalized user experience in gaming industry
 	- IOT analytics in manufacturing, healthcare and logistics industries
 
+# Cloud Run
+
+- Managed compute platform 
+- Enables to run stateless containers that are invokable via web requests or Cloud Pub/Sub events
+- Serverless
+- Built on Knative
+- Lets you run containers either fully managed or in own GKE cluster
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTc0MDA5MCwtMTEwNTg3OTA3Niw1ND
-kyMTkwODQsLTIwMTIyMDk1MywxNzgyODI0MjkxXX0=
+eyJoaXN0b3J5IjpbNDMxMzg4MzUyLC0xMTA1ODc5MDc2LDU0OT
+IxOTA4NCwtMjAxMjIwOTUzLDE3ODI4MjQyOTFdfQ==
 -->
