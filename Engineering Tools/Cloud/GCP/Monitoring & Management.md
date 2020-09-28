@@ -64,6 +64,8 @@ Reliable release process involves release and testing phases of software deliver
 		- Lack of caching headers
 		- Lack of compression
 		- Too many HTTP browser requests
+		- Slow DNS response 
+		- Lack of minification
 - Cold-boot performance
 	- Operations during initial boot of VM
 - Self-inflicted load
@@ -71,6 +73,6 @@ Reliable release process involves release and testing phases of software deliver
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzI1MDMwNiwxODY5MTg5OTczLC0xNT
-YzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQwNDI1MTg2XX0=
+eyJoaXN0b3J5IjpbLTEzOTYzMTgwMTksMTg2OTE4OTk3MywtMT
+U2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
