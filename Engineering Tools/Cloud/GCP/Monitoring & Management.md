@@ -85,12 +85,17 @@ Reliable release process involves release and testing phases of software deliver
 			- Aspect-oriented programming
 		- Static resources
 			- Static web pages, images
+			- Use a CDN with Cloud Cloud Storage
 		- Caching
-			- Database
+			- Database retrieval and computation
+		- One-at-a-time Retrieval
+			- Multiple serial requests
+		- Error-Handling
+			- Exponential backoff
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMxMzM5MDAsLTEzOTYzMTgwMTksMT
-g2OTE4OTk3MywtMTU2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0
-MDQyNTE4Nl19
+eyJoaXN0b3J5IjpbMzQzOTkzNDA0LC0xMzk2MzE4MDE5LDE4Nj
+kxODk5NzMsLTE1NjMyNTA3ODksLTE0NjY5NTE0MTUsLTE2NDA0
+MjUxODZdfQ==
 -->
