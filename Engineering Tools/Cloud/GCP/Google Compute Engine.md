@@ -9,7 +9,11 @@ Let's you create and run VMs inside Google's infrastructure.
 	- GCloud command line tool
 - Can run linux or windows images, by Google, custom versions or imported from physical servers
 - Most control
-- P
+- Predefined Custom Machine Types
+- Use community images or own
+- Patch software
+- Auto scaling can be configured based on traffic volume in specific regions
+- Run third-party software, attach GPU and TPU
 
 By choosing a machine type it assigns. Custom machine types can also be created
 - Number of Virtual CPUs (Max: 96)
@@ -27,7 +31,7 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 
 ## Preemptible VMs
 
-The only difference is that Compute Engine has the  permission to terminate the VM if it's resources are needed elsewhere.
+The only difference is that Compute Engine has the permission to terminate the VM if it's resources are needed elsewhere.
 - Per-second billing, sustained use discounts
 - High throughput to storage w/o extra cost
 - Custom machine types: only pay for needed hardware
@@ -61,6 +65,6 @@ The only difference is that Compute Engine has the  permission to terminate the 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDg2OTkwOSwtMTcyMzg3NTg0NSwzMj
+eyJoaXN0b3J5IjpbLTgwMDQ3OTEwNywtMTcyMzg3NTg0NSwzMj
 E5NDg3NjYsLTIxMjUxMjkxN119
 -->
