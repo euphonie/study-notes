@@ -55,9 +55,22 @@ Reliable release process involves release and testing phases of software deliver
 	- Specify dependencies on resources
 	- Specify startup scripts run when the VM launches
 
+# Performance checkpoints
+
+- Check performance watchpoints related to incoming requests
+- Web authoring
+	- Web page design and implementation
+	- Pagespeed insights
+		- Lack of caching headers
+		- Lack of compression
+		- Too many HTTP browser requests
+- Cold-boot performance
+	- Operations during initial boot of VM
+- Self-inflicted load
+	- Service-to-service or browser-to-service calls
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTE4OTk3MywtMTU2MzI1MDc4OSwtMT
-Q2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
+eyJoaXN0b3J5IjpbMTEyMzI1MDMwNiwxODY5MTg5OTczLC0xNT
+YzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQwNDI1MTg2XX0=
 -->
