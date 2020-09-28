@@ -47,6 +47,7 @@
 npm install --save @google-cloud/debug-agent
 # Produce a source context file (Creates source-context.json to display the correct source code in GCP Debug window)
 gcloud debug source gen-repo-info-file --output-directory .
+
 ```
 
 ```javascript
@@ -56,6 +57,6 @@ allowExpressions Boolean property set to true. require('@google-cloud/debug-agen
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1ODE3MTIzLDE4OTQ5ODAyODgsLTM5Mz
-IzODU5NV19
+eyJoaXN0b3J5IjpbNjExNDM3NTg1LDYzNTgxNzEyMywxODk0OT
+gwMjg4LC0zOTMyMzg1OTVdfQ==
 -->
