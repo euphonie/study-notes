@@ -66,13 +66,17 @@ Reliable release process involves release and testing phases of software deliver
 		- Too many HTTP browser requests
 		- Slow DNS response 
 		- Lack of minification
+	- Chrome dev tools
 - Cold-boot performance
 	- Operations during initial boot of VM
 - Self-inflicted load
 	- Service-to-service or browser-to-service calls
+	- Polling cron jobs, 
+	- batch r
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTYzMTgwMTksMTg2OTE4OTk3MywtMT
-U2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
+eyJoaXN0b3J5IjpbLTU1Nzc3NTAzMSwtMTM5NjMxODAxOSwxOD
+Y5MTg5OTczLC0xNTYzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQw
+NDI1MTg2XX0=
 -->
