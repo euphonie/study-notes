@@ -17,11 +17,15 @@
 			- Trace
 				- Analyzes traces and provides reports of application degradations
 				- Inspect latency for single request or aggregated
+					- Overall latency
+					- Latency through time
+					- Application Latency dependencies
 				- Find bottleneck 
 				- Find root cause
 				- Automatically identifies recent changes
 				- Versions of reports to be compare through time
 				- Works on multiple VMs doesn't matter the provider
+				- Zipkin collector available
 			- Debugger
 			- Profiler 
 				- Uses statistical techniques and low impact instrumentation to provide performance without affecting the app
@@ -32,5 +36,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzU4OTExMSwtMzkzMjM4NTk1XX0=
+eyJoaXN0b3J5IjpbLTEzMjY5OTkzMDAsLTM5MzIzODU5NV19
 -->
