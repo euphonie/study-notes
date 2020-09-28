@@ -28,6 +28,8 @@
 				- Zipkin collector available
 			- Debugger
 			- Profiler 
+				- Monitor CPU and heap
+				- Identifies inefficiently writing code or poorly performing code
 				- Uses statistical techniques and low impact instrumentation to provide performance without affecting the app
 				- Helps identify potential performance issues
 - Increases reliability
@@ -36,5 +38,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY5OTkzMDAsLTM5MzIzODU5NV19
+eyJoaXN0b3J5IjpbMjEyNDQ4NDMxMSwtMzkzMjM4NTk1XX0=
 -->
