@@ -88,14 +88,25 @@ Reliable release process involves release and testing phases of software deliver
 			- Use a CDN with Cloud Cloud Storage
 		- Caching
 			- Database retrieval and computation
+			- Cache HTML-generated fragments
 		- One-at-a-time Retrieval
 			- Multiple serial requests
 		- Error-Handling
 			- Exponential backoff
+			- Implement circuit-breaker after certain amount of errors
+			- Don't retry 5xx errors
+- In Production
+	- Performance watchpoints
+		- External User load
+			- Most frequent and slowest requests
+		- Periodic load
+			- Traffic over an extended period of time
+		- Malicious Load
+			- Source of traffic is
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzOTkzNDA0LC0xMzk2MzE4MDE5LDE4Nj
-kxODk5NzMsLTE1NjMyNTA3ODksLTE0NjY5NTE0MTUsLTE2NDA0
-MjUxODZdfQ==
+eyJoaXN0b3J5IjpbMTAyOTA4ODk4MywtMTM5NjMxODAxOSwxOD
+Y5MTg5OTczLC0xNTYzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQw
+NDI1MTg2XX0=
 -->
