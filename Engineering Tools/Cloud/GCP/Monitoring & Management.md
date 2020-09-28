@@ -107,15 +107,17 @@ Reliable release process involves release and testing phases of software deliver
 			- Confirm agents asking for the web
 	- Review deployment settings
 		- Scaling
-			- Autoscaling policies for traffic vo
+			- Autoscaling policies for traffic volumes
+			- Set target utilization levels
 		- Region
 			- Source of traffic
+			- Determinate bulk of traffic
 		- Cron jobs
-			- Schedule
+			- Schedule accurately
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjE0MzE4MSwtMTM5NjMxODAxOSwxOD
-Y5MTg5OTczLC0xNTYzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQw
-NDI1MTg2XX0=
+eyJoaXN0b3J5IjpbODI2NDIxNTQyLC0xMzk2MzE4MDE5LDE4Nj
+kxODk5NzMsLTE1NjMyNTA3ODksLTE0NjY5NTE0MTUsLTE2NDA0
+MjUxODZdfQ==
 -->
