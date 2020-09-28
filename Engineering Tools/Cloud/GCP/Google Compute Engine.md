@@ -13,7 +13,8 @@ Let's you create and run VMs inside Google's infrastructure.
 - Use community images or own
 - Patch software
 - Auto scaling can be configured based on traffic volume in specific regions
-- Run third-party software, attach GPU and TPU
+- Run third-party software, attach GPU and TensorFlow Processing Unit (TPU)
+- Lift-and-shift migration for migrating VMs completely
 
 By choosing a machine type it assigns. Custom machine types can also be created
 - Number of Virtual CPUs (Max: 96)
@@ -65,6 +66,6 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDQ3OTEwNywtMTcyMzg3NTg0NSwzMj
+eyJoaXN0b3J5IjpbLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMj
 E5NDg3NjYsLTIxMjUxMjkxN119
 -->
