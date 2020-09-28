@@ -101,12 +101,21 @@ Reliable release process involves release and testing phases of software deliver
 			- Most frequent and slowest requests
 		- Periodic load
 			- Traffic over an extended period of time
+			- Confirm business reason for the load
 		- Malicious Load
-			- Source of traffic is
+			- Source of traffic is expected and legitimate
+			- Confirm agents asking for the web
+	- Review deployment settings
+		- Scaling
+			- Autoscaling policies for traffic vo
+		- Region
+			- Source of traffic
+		- Cron jobs
+			- Schedule
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTA4ODk4MywtMTM5NjMxODAxOSwxOD
+eyJoaXN0b3J5IjpbMTA0NjE0MzE4MSwtMTM5NjMxODAxOSwxOD
 Y5MTg5OTczLC0xNTYzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQw
 NDI1MTg2XX0=
 -->
