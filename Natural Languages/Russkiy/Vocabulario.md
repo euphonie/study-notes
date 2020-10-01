@@ -109,6 +109,10 @@
 - что это - qué es esto?
 - где парк - dónde está el parque?
 
+
+##
+
+
 ## Pronombres
 - я - pronombre primera persona singular (yo)
 - ты - pronombre segunda persona singular (tú)
@@ -136,9 +140,9 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTI5ODE0MSw2MTIzMzc5NDgsLTQ1Nj
-k5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYzMDk4Mywx
-OTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3LC05MTIxOD
-Y4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkwMzkw
-XX0=
+eyJoaXN0b3J5IjpbMTY1Njk0ODMsLTU3NTI5ODE0MSw2MTIzMz
+c5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEy
+MDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMz
+A3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwt
+ODMwNzkwMzkwXX0=
 -->
