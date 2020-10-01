@@ -116,6 +116,7 @@
 - всегда - siempre
 - рано - temprano
 - сегодня - hoy, today
+- вчера - ayer
 
 ## Pronombres
 - я - pronombre primera persona singular (yo)
@@ -151,10 +152,10 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODcxMDIzNywxNjMzNDIyNzU2LC04Nz
-Y5MDQ4NDIsLTIwNTcwNjI0NSwtMTMxODMyMjY4MCwtNTc1Mjk4
-MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0LDU4MT
-g0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5
-MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNT
-Y4NTI2NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3Nj
+kwNDg0MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgx
+NDEsNjEyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxOD
+Q2OTE1LC0xMjA2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkz
+LC0yODM0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Nj
+g1MjY0NTUsLTgzMDc5MDM5MF19
 -->
