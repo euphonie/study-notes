@@ -145,12 +145,13 @@
 - знать, saber infinitivo
 - знает, saber 3era persona sing
 - повторять, repeat infinitivo
+- гуляет, take a walk 3 era persona sing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTcwNjI0NSwtMTMxODMyMjY4MCwtNT
-c1Mjk4MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0
-LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2OD
-E2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4
-MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbLTg3NjkwNDg0MiwtMjA1NzA2MjQ1LC0xMz
+E4MzIyNjgwLC01NzUyOTgxNDEsNjEyMzM3OTQ4LC00NTY5OTEy
+NTgsMTM0MDk1NDQsNTgxODQ2OTE1LC0xMjA2MzA5ODMsMTk1ND
+M5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODcz
+LC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
 -->
