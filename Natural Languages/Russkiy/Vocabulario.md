@@ -127,13 +127,15 @@
 ## Verbos
 
 - слушайте - escucha
-- повторяйте (o=a) - repita
-- читайте - lea
+- повторяйте (o=a) - repita, 3
+- читайте - lea, 3era persona
+- отдыхает - descansar 3era persona
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4ND
-Y5MTUsLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMs
-LTI4MzQxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2OD
-UyNjQ1NSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbLTEzODU3ODkxNywtNDU2OTkxMjU4LDEzND
+A5NTQ0LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYs
+LTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4Nj
+I2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ==
 -->
