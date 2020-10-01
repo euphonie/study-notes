@@ -147,13 +147,14 @@
 - повторять, repeat infinitivo
 - гуляет, take a walk 3 era persona sing
 - отвечает, responder 3era persona sing
+- писать, escribir infinitivo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzQyMjc1NiwtODc2OTA0ODQyLC0yMD
-U3MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5
-NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMD
-YzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3
-LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtOD
-MwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbMTI5ODcxMDIzNywxNjMzNDIyNzU2LC04Nz
+Y5MDQ4NDIsLTIwNTcwNjI0NSwtMTMxODMyMjY4MCwtNTc1Mjk4
+MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0LDU4MT
+g0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5
+MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNT
+Y4NTI2NDU1LC04MzA3OTAzOTBdfQ==
 -->
