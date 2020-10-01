@@ -130,12 +130,13 @@
 - повторяйте (o=a) - repita, 3era persona sing
 - читайте - lea, 3era persona sing
 - отдыхает - descansar 3era persona sing
-- 
+- изучает
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MD
-k1NDQsNTgxODQ2OTE1LC0xMjA2MzA5ODMsMTk1NDM5MjY2Niwt
-MzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODczLC0xMDg2Mj
-Y0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbLTExMDM1NDE3MTAsNjEyMzM3OTQ4LC00NT
+Y5OTEyNTgsMTM0MDk1NDQsNTgxODQ2OTE1LC0xMjA2MzA5ODMs
+MTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMT
+g2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5
+MF19
 -->
