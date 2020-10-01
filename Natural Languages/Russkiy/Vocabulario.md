@@ -132,12 +132,13 @@
 - отдыхает - descansar 3era persona sing
 - изучает, estudiar 3era persona sing
 - учим, teach 1era persona plural
+- обедает, cenar 3era persona sing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NzQ5ODY0LDYxMjMzNzk0OCwtNDU2OT
-kxMjU4LDEzNDA5NTQ0LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5
-NTQzOTI2NjYsLTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Nj
-g3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBd
-fQ==
+eyJoaXN0b3J5IjpbLTU3NTI5ODE0MSw2MTIzMzc5NDgsLTQ1Nj
+k5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYzMDk4Mywx
+OTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMzA3LC05MTIxOD
+Y4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwtODMwNzkwMzkw
+XX0=
 -->
