@@ -142,12 +142,13 @@
 - завтракать, desayunar infinitivo
 - знать, saber infinitivo
 - знает, saber 3era persona sing
+- повторять, repeat infinitivo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTM5NzM4LC01NzUyOTgxNDEsNjEyMz
-M3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxODQ2OTE1LC0x
-MjA2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yODM0MT
-MwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0NTUs
-LTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbLTEzOTUxODU4OTMsLTU3NTI5ODE0MSw2MT
+IzMzc5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUs
+LTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4Mz
+QxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1
+NSwtODMwNzkwMzkwXX0=
 -->
