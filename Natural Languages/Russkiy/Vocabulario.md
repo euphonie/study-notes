@@ -110,7 +110,8 @@
 - где парк - dónde está el parque?
 
 
-##
+## Adverbios
+- всегда - siempre
 
 
 ## Pronombres
@@ -137,12 +138,13 @@
 - изучает, estudiar 3era persona sing
 - учим, teach 1era persona plural
 - обедает, cenar 3era persona sing
+- завтракать, infinitivo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Njk0ODMsLTU3NTI5ODE0MSw2MTIzMz
-c5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEy
-MDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4MzQxMz
-A3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1NSwt
-ODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbMTQzOTU4OTM5NSwtNTc1Mjk4MTQxLDYxMj
+MzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0LDU4MTg0NjkxNSwt
+MTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5MywtMjgzND
+EzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1
+LC04MzA3OTAzOTBdfQ==
 -->
