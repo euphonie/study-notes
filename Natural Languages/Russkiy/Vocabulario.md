@@ -112,7 +112,7 @@
 
 ## Adverbios
 - всегда - siempre
-
+- рано - temprano
 
 ## Pronombres
 - я - pronombre primera persona singular (yo)
@@ -142,7 +142,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTU4OTM5NSwtNTc1Mjk4MTQxLDYxMj
+eyJoaXN0b3J5IjpbLTUwMzIwMTY5OCwtNTc1Mjk4MTQxLDYxMj
 MzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0LDU4MTg0NjkxNSwt
 MTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5MywtMjgzND
 EzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4MiwtNTY4NTI2NDU1
