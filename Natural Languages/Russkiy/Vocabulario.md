@@ -149,13 +149,14 @@
 - гуляет, take a walk 3 era persona sing
 - отвечает, responder 3era persona sing
 - писать, escribir infinitivo
+- спрашивает, pregutna, 3era persona sing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3Nj
-kwNDg0MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgx
-NDEsNjEyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxOD
-Q2OTE1LC0xMjA2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkz
-LC0yODM0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Nj
-g1MjY0NTUsLTgzMDc5MDM5MF19
+eyJoaXN0b3J5IjpbNTEwNTY0ODM0LDQ0NzIxMjg0OCwxNjMzND
+IyNzU2LC04NzY5MDQ4NDIsLTIwNTcwNjI0NSwtMTMxODMyMjY4
+MCwtNTc1Mjk4MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LDEzND
+A5NTQ0LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYs
+LTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4Nj
+I2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ==
 -->
