@@ -45,6 +45,8 @@
 - очки (o=a) - lentes
 - часы - reloj
 - ключ - llave
+- предложение - sentence
+- глаголы, verbos
 
 ### Números
 - сто - cién
@@ -100,7 +102,6 @@
 - Можно (o2=a) - se puede?
 - пожалуйста - de nada
 - познакомьтесь - conozca, le presento
-- глаголы, verbos
 
 ### Preguntas
 - кто - who
@@ -147,9 +148,9 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgzMjI2ODAsLTU3NTI5ODE0MSw2MT
-IzMzc5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUs
-LTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4Mz
-QxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1
-NSwtODMwNzkwMzkwXX0=
+eyJoaXN0b3J5IjpbLTIwNTcwNjI0NSwtMTMxODMyMjY4MCwtNT
+c1Mjk4MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0
+LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2OD
+E2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4
+MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ==
 -->
