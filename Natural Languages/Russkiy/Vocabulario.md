@@ -126,16 +126,16 @@
 
 ## Verbos
 
-- слушайте - escucha
-- повторяйте (o=a) - repita, 3
-- читайте - lea, 3era persona
-- отдыхает - descansar 3era persona
+- слушайте - escucha, 3era persona sing
+- повторяйте (o=a) - repita, 3era persona sing
+- читайте - lea, 3era persona sing
+- отдыхает - descansar 3era persona sing
 - 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODU3ODkxNywtNDU2OTkxMjU4LDEzND
-A5NTQ0LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYs
-LTM2ODE2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4Nj
-I2NDg4MiwtNTY4NTI2NDU1LC04MzA3OTAzOTBdfQ==
+eyJoaXN0b3J5IjpbNjEyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MD
+k1NDQsNTgxODQ2OTE1LC0xMjA2MzA5ODMsMTk1NDM5MjY2Niwt
+MzY4MTYxNjkzLC0yODM0MTMwNywtOTEyMTg2ODczLC0xMDg2Mj
+Y0ODgyLC01Njg1MjY0NTUsLTgzMDc5MDM5MF19
 -->
