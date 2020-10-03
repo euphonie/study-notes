@@ -257,13 +257,23 @@ Example:
 	- Cause négative
 	- À cause de la pluie je ne peux pas sortir ma maison
 
+
+## La mode
+
+- Tirer son chapeau
+- Se mettre sur son 31
+- être à côté de ses pompes
+- être cul et chemise
+- aller comme un gant
+- mettre des gants
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2Nz
-czNTEsLTE4Nzc3OTY5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUz
-LC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1ND
-YyMDE0OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2
-MzI5LDExNzM3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNS
-wtNDg3MTU5MDU1LDIwNzcyODM1NTYsMTI2MzEwNjM4MCwtOTc5
-Nzk4NTA4XX0=
+eyJoaXN0b3J5IjpbNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3ND
+cxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMs
+LTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIyMjUzLDE1Mj
+A2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC04MTMyNzE1
+NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC0xODQ4MjQwNzI4LD
+IwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3MjgzNTU2LDEyNjMx
+MDYzODBdfQ==
 -->
