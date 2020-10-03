@@ -264,16 +264,16 @@ Example:
 - Se mettre sur son 31. mettre sur les plus beaux vêtements
 - être à côté de ses pompes. être rêveur, qqn qui n'est pas concentré
 - être cul et chemise. personne qui est liée à des complices
-- aller comme un gant
-- mettre des gants
+- aller comme un gant. Quelque chose qui va parfaitement 
+- mettre des gants. d'être délicat, parler avec délicatesse
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzEyMzU5MzUsNDM2NDA4OTI3LDEyOD
-Y3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYw
-LDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMj
-YyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3
-NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC
-0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3
-MjgzNTU2XX0=
+eyJoaXN0b3J5IjpbMTQwMjI2MDEyLDQzNjQwODkyNywxMjg2Nz
+gwNjA4LDczNzQ3MTYwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwx
+ODI5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkxNDMsLTI2Mj
+EyMjI1MywxNTIwNjI4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3
+MCwtODEzMjcxNTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMT
+g0ODI0MDcyOCwyMDkzNzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4
+MzU1Nl19
 -->
