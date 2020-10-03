@@ -260,20 +260,20 @@ Example:
 
 ## La mode
 
-- Tirer son chapeau
-- Se mettre sur son 31
-- être à côté de ses pompes
-- être cul et chemise
+- Tirer son chapeau. le respect, admiration.
+- Se mettre sur son 31. mettre sur les plus beaux vêtements
+- être à côté de ses pompes. être rêveur, qqn qui n'est pas concentré
+- être cul et chemise. personne qui est liée à des complices
 - aller comme un gant
 - mettre des gants
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3ND
-cxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMs
-LTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIyMjUzLDE1Mj
-A2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC04MTMyNzE1
-NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC0xODQ4MjQwNzI4LD
-IwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3MjgzNTU2LDEyNjMx
-MDYzODBdfQ==
+eyJoaXN0b3J5IjpbLTEwNzEyMzU5MzUsNDM2NDA4OTI3LDEyOD
+Y3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYw
+LDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMj
+YyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3
+NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMxMDk5LC
+0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1OTA1NSwyMDc3
+MjgzNTU2XX0=
 -->
