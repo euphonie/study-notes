@@ -268,15 +268,16 @@ Example:
 - mettre des gants. d'être délicat, parler avec délicatesse
 - Avoir le moral dans les chaussettes. être déprimé
 - Retourner sa veste. changer d'opinion ou camp dans une situation
-- Se serrer la ceinture. faire des économies sur tou
+- Se serrer la ceinture. faire des économies sur tout
+- Tailler un costard à quelqu'un. Dire du mal de quelqu'un.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTk3MzIzMSwxNDAyMjYwMTIsNDM2ND
-A4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0x
-ODc3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NT
-U4OTE0MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkw
-LC0xNDU3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMT
-czNzMxMDk5LC0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1
-OTA1NV19
+eyJoaXN0b3J5IjpbNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MD
+g5MjcsMTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2NzczNTEsLTE4
+Nzc3OTY5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NT
+g5MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0OTAs
+LTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNz
+M3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5
+MDU1XX0=
 -->
