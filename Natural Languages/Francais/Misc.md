@@ -262,18 +262,21 @@ Example:
 
 - Tirer son chapeau. le respect, admiration.
 - Se mettre sur son 31. mettre sur les plus beaux vêtements
-- être à côté de ses pompes. être rêveur, qqn qui n'est pas concentré
+- être à côté de ses pompes. être perturbé, qqn qui n'est pas concentré
 - être cul et chemise. personne qui est liée à des complices
 - aller comme un gant. Quelque chose qui va parfaitement 
 - mettre des gants. d'être délicat, parler avec délicatesse
+- Avoir le moral dans les chaussettes. être déprimé
+- Retourner sa veste. changer d'opinion ou camp dans une situation
+- Se serrer la ceinture. faire des économies sur tou
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjI2MDEyLDQzNjQwODkyNywxMjg2Nz
-gwNjA4LDczNzQ3MTYwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwx
-ODI5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkxNDMsLTI2Mj
-EyMjI1MywxNTIwNjI4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3
-MCwtODEzMjcxNTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMT
-g0ODI0MDcyOCwyMDkzNzc4OTI1LC00ODcxNTkwNTUsMjA3NzI4
-MzU1Nl19
+eyJoaXN0b3J5IjpbLTg2MTk3MzIzMSwxNDAyMjYwMTIsNDM2ND
+A4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0x
+ODc3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NT
+U4OTE0MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkw
+LC0xNDU3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMT
+czNzMxMDk5LC0xODQ4MjQwNzI4LDIwOTM3Nzg5MjUsLTQ4NzE1
+OTA1NV19
 -->
