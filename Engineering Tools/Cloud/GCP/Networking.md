@@ -20,6 +20,14 @@ Is arranged around VPC networks. Topics like:
 	- Through Routing Tables. Used to forward traffic between instances in the same network, even across subnets and between GCP zones, **with no need of external IP addresses**.
 - SharingVPN content
 
+**Objects** 
+- Projects
+- Networks
+	- Default, auto mode, custom mode
+- Subnetworks. Allow to segregate environment
+- Regions  and Zones. protection and high availability
+- IP Addresses, provide internal and external use along wit h
+
 The size of a subnet in a custom network can be increased by expanding the range of IP addresses allocated to it. And it doesn't affect already configured VMs.
 
 VMs can be allocated on different regions but still belong to the same subnet inside a VPC, and share continuous IP segments. 
@@ -89,8 +97,8 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDA5OTYyNiwtMTM1NzQ5MTU1OSwtMT
-U2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEwMCwxNzQ5MTk1
-OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgzNzksMT
-I4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbLTE5MjYxNTE3MjIsLTM3NDA5OTYyNiwtMT
+M1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1
+NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLD
+E2NTQxNjgzNzksMTI4MDI0ODgzOV19
 -->
