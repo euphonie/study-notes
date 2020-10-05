@@ -40,6 +40,12 @@ Is arranged around VPC networks. Topics like:
 		- expandable up to /16
 		- fit within 10.128.0.0/9 cider block
 	- Custom mode
+		- no default subnets created
+		- Full control of IP ranges and subnets
+		- regional IP allocation
+		- Expandable to any RFC 1918 size
+		- ranges cannot overlap between subnets of the same network
+		- an auto mode network can be migrated to cu
 - Subnetworks. Allow to segregate environment
 - Regions  and Zones. protection and high availability
 - IP Addresses, provide internal and external use along with granular IP address range selection
@@ -113,7 +119,7 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY3ODYyMDUsLTM3NDA5OTYyNiwtMT
+eyJoaXN0b3J5IjpbLTEwOTY1NjE4NzIsLTM3NDA5OTYyNiwtMT
 M1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1
 NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLD
 E2NTQxNjgzNzksMTI4MDI0ODgzOV19
