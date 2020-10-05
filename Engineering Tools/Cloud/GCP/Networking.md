@@ -26,10 +26,14 @@ Is arranged around VPC networks. Topics like:
 	- Default quota of a project is 5 networks
 	- Can be shared or peered with other projects
 - Networks
-- Don't have IP addresses
-	- Global
-	- 
-	- Default, auto mode, custom mode
+	- Don't have IP addresses
+	- Global 
+	- Default
+		-  defined in every project
+		- one subnet per region with non-overlapping sider blocks
+		- default firewall rules to allow ingress traffic from ICMP, RDP and SSH from anywhere, as ingress traffic from within the default network for all protocols and ports
+	- Auto mode
+	- Custom mode
 - Subnetworks. Allow to segregate environment
 - Regions  and Zones. protection and high availability
 - IP Addresses, provide internal and external use along with granular IP address range selection
@@ -103,7 +107,7 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTIwNjk3NCwtMzc0MDk5NjI2LC0xMz
+eyJoaXN0b3J5IjpbLTU4NTU0NTY1MCwtMzc0MDk5NjI2LC0xMz
 U3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2
 MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMT
 Y1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
