@@ -45,7 +45,7 @@ Is arranged around VPC networks. Topics like:
 		- regional IP allocation
 		- Expandable to any RFC 1918 size
 		- ranges cannot overlap between subnets of the same network
-		- an auto mode network can be migrated to cu
+		- an auto mode network can be migrated to custom made for finer control
 - Subnetworks. Allow to segregate environment
 - Regions  and Zones. protection and high availability
 - IP Addresses, provide internal and external use along with granular IP address range selection
@@ -119,8 +119,8 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY1NjE4NzIsLTM3NDA5OTYyNiwtMT
-M1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1
-NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLD
-E2NTQxNjgzNzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMz
+U3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2
+MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMT
+Y1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
 -->
