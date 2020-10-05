@@ -33,6 +33,12 @@ Is arranged around VPC networks. Topics like:
 		- one subnet per region with non-overlapping sider blocks
 		- default firewall rules to allow ingress traffic from ICMP, RDP and SSH from anywhere, as ingress traffic from within the default network for all protocols and ports
 	- Auto mode
+		- default network
+		- one subnet per region
+		- regional IP allocation
+		- Fixed /20 subnetwork per region
+		- expandable up to /16
+		- fit within 10.128.0.0/9 cider block
 	- Custom mode
 - Subnetworks. Allow to segregate environment
 - Regions  and Zones. protection and high availability
@@ -107,8 +113,8 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NTU0NTY1MCwtMzc0MDk5NjI2LC0xMz
-U3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2
-MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMT
-Y1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTE2MzY3ODYyMDUsLTM3NDA5OTYyNiwtMT
+M1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1
+NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLD
+E2NTQxNjgzNzksMTI4MDI0ODgzOV19
 -->
