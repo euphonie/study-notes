@@ -50,12 +50,6 @@ Is arranged around VPC networks. Topics like:
 - Regions  and Zones. protection and high availability
 - IP Addresses, provide internal and external use along with granular IP address range selection
 
-**expand a subnet**
-
-```bash
-
-```
-
 The size of a subnet in a custom network can be increased by expanding the range of IP addresses allocated to it. And it doesn't affect already configured VMs.
 
 VMs can be allocated on different regions but still belong to the same subnet inside a VPC, and share continuous IP segments. 
@@ -125,8 +119,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5OTI2MzcyLC00Njk1MTEwMDYsLTM3ND
-A5OTYyNiwtMTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIy
-NjMsMTE1Mjc1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMj
-U1MDkyOTIxLDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OT
+UxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2
+MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLT
+Q3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4
+ODM5XX0=
 -->
