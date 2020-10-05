@@ -22,11 +22,17 @@ Is arranged around VPC networks. Topics like:
 
 **Objects** 
 - Projects
+	- Key organizer of infrastructure objects
+	- Default quota of a project is 5 networks
+	- Can be shared or peered with other projects
 - Networks
+- Don't have IP addresses
+	- Global
+	- 
 	- Default, auto mode, custom mode
 - Subnetworks. Allow to segregate environment
 - Regions  and Zones. protection and high availability
-- IP Addresses, provide internal and external use along wit h
+- IP Addresses, provide internal and external use along with granular IP address range selection
 
 The size of a subnet in a custom network can be increased by expanding the range of IP addresses allocated to it. And it doesn't affect already configured VMs.
 
@@ -97,8 +103,8 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjYxNTE3MjIsLTM3NDA5OTYyNiwtMT
-M1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1
-NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLD
-E2NTQxNjgzNzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbMTUzOTIwNjk3NCwtMzc0MDk5NjI2LC0xMz
+U3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2
+MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMT
+Y1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
 -->
