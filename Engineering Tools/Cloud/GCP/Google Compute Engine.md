@@ -47,8 +47,13 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 - Windows, RDP using tcp:3389
 - VM Lifecycle
 	- Provisioning
+		- Virtual CPUs, Memory
+		- Root disk, persistent disk
+		- Additional disks
 	- Staging
-		- 
+		- Ip addresses internal external
+		- System image from Cloud storage
+		- Boot
 	- Running
 		- Startup script
 		- Access SSH/RDP
@@ -94,7 +99,7 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTg1OTc0MDUsLTQ1MjkyNTg2MSwxMT
+eyJoaXN0b3J5IjpbLTExNTE2MjQ2NDIsLTQ1MjkyNTg2MSwxMT
 M0MTMxNjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3
 NjYsLTIxMjUxMjkxN119
 -->
