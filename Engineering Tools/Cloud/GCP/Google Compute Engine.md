@@ -10,6 +10,8 @@ Let's you create and run VMs inside Google's infrastructure.
 - Can run linux or windows images, by Google, custom versions or imported from physical servers
 - Most control
 - Predefined Custom Machine Types
+	- Max 128 Persistent disks
+	- High-memory memory intensive tasks
 - Use community images or own
 - Patch software
 - Auto scaling can be configured based on traffic volume in specific regions
@@ -98,11 +100,16 @@ The only difference is that Compute Engine has the permission to terminate the V
 	- Configure the instance to run as that service account
 
 
-# 
+# Snippets 
+
+```bash
+# Create VM using gcloud
+gcloud compute instances create [instance-name]
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTY2ODEwNzgsLTE0NDc2OTk0MSwtND
+eyJoaXN0b3J5IjpbLTIwODA2NzY4MDAsLTE0NDc2OTk0MSwtND
 UyOTI1ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1
 ODQ1LDMyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
 -->
