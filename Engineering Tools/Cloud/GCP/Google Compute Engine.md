@@ -32,10 +32,15 @@ By choosing a machine type it assigns. Custom machine types can also be created
 Snapshots can be applied to running VMs. These can be kept as backups or use them when migrating to another region.
 
 **Choosing VM specs**
-
-- Network throughput scales 2 Gbps per vCPU 
-- Theoretical max of 32 Gbps with 16 vCPU or 100 Gbps with T4 or V100 GPUs
-- A vCPU is equal to 1 hardware hyper-thread
+- Computation
+	- Network throughput scales 2 Gbps per vCPU 
+	- Theoretical max of 32 Gbps with 16 vCPU or 100 Gbps with T4 or V100 GPUs
+	- A vCPU is equal to 1 hardware hyper-thread
+- Disk
+	- Performance vs cost.
+	- SSDs higher number of IOPS per dollar
+		- Local SSDs have higher IOPS but are 
+	- Standard disks higher amount of capacity per dollar
 
 ## Preemptible VMs
 
@@ -73,7 +78,7 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjQwNjQ1NiwxMTM0MTMxNjIsLTQ1Nz
-IwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLTIxMjUxMjkx
-N119
+eyJoaXN0b3J5IjpbLTE5OTg4MjU1MTcsMTEzNDEzMTYyLC00NT
+cyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5
+MTddfQ==
 -->
