@@ -61,6 +61,7 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Stopping
 		- Shutdown script
 	- Terminated
+		- Not charged for VM but for attached disks and reserved IPs
 		- Delete, restart, availability policty
 
 ## Preemptible VMs
@@ -99,7 +100,7 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE2MjQ2NDIsLTQ1MjkyNTg2MSwxMT
-M0MTMxNjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3
-NjYsLTIxMjUxMjkxN119
+eyJoaXN0b3J5IjpbLTE0NDc2OTk0MSwtNDUyOTI1ODYxLDExMz
+QxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LDMyMTk0ODc2
+NiwtMjEyNTEyOTE3XX0=
 -->
