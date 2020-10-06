@@ -42,7 +42,9 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 		- Local SSDs have higher IOPS but are volatile, working only for the assigned instance session. Should be used as a swap disk
 	- Standard disks higher amount of capacity per dollar
 
-
+**VMs access**
+- Linux, SSH using tcp:22
+- Windows, RDP using tcp:3389
 
 ## Preemptible VMs
 
@@ -80,7 +82,7 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY4ODI2NSwtNDUyOTI1ODYxLDExMz
-QxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LDMyMTk0ODc2
-NiwtMjEyNTEyOTE3XX0=
+eyJoaXN0b3J5IjpbNzk1MTUyMjEzLC00NTI5MjU4NjEsMTEzND
+EzMTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2
+LC0yMTI1MTI5MTddfQ==
 -->
