@@ -19,7 +19,9 @@ Let's you create and run VMs inside Google's infrastructure.
 		- Genomic analysis
 		- SQL Analysis Services
 	- Compute-optimized machine types
-	- Sa
+	- Shared-core machine types
+		- Small non-resource intensive computations
+		- f1-micro, g1-small
 - Use community images or own
 - Patch software
 - Auto scaling can be configured based on traffic volume in specific regions
@@ -117,7 +119,7 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE1NzIxMDUsLTE0NDc2OTk0MSwtND
+eyJoaXN0b3J5IjpbLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtND
 UyOTI1ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1
 ODQ1LDMyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
 -->
