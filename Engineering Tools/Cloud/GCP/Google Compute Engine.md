@@ -45,6 +45,18 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 **VMs access**
 - Linux, SSH using tcp:22
 - Windows, RDP using tcp:3389
+- VM Lifecycle
+	- Provisioning
+	- Staging
+		- 
+	- Running
+		- Startup script
+		- Access SSH/RDP
+	- Export system image, set/get metadata, snapshot persistent disk, move VM to different zone
+	- Stopping
+		- Shutdown script
+	- Terminated
+		- Delete, restart, availability policty
 
 ## Preemptible VMs
 
@@ -82,7 +94,7 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MTUyMjEzLC00NTI5MjU4NjEsMTEzND
-EzMTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2
-LC0yMTI1MTI5MTddfQ==
+eyJoaXN0b3J5IjpbLTE5OTg1OTc0MDUsLTQ1MjkyNTg2MSwxMT
+M0MTMxNjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3
+NjYsLTIxMjUxMjkxN119
 -->
