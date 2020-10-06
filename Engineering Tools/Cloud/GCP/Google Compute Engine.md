@@ -42,6 +42,8 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 		- Local SSDs have higher IOPS but are volatile, working only for the assigned instance session. Should be used as a swap disk
 	- Standard disks higher amount of capacity per dollar
 
+
+
 ## Preemptible VMs
 
 The only difference is that Compute Engine has the permission to terminate the VM if it's resources are needed elsewhere.
@@ -78,7 +80,7 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjkyNTg2MSwxMTM0MTMxNjIsLTQ1Nz
-IwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLTIxMjUxMjkx
-N119
+eyJoaXN0b3J5IjpbLTEwMzY4ODI2NSwtNDUyOTI1ODYxLDExMz
+QxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LDMyMTk0ODc2
+NiwtMjEyNTEyOTE3XX0=
 -->
