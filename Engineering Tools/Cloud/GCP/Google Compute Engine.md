@@ -103,11 +103,12 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Consider cron jobs for periodic incremental backup
 - Snapshots can be restored to a new persistent disk
 	- Can be in another region or zone
-	- Snapshot doesn't back up VM metadata, tags, etc
+	- Snapshot doesn't back up VM metadata, tags, etc.
 - Can be used to
 	- move between regions
 	- move to a different zone
 	- transfer from HDD to SSD to improve performance
+	- Resize persistent disk to improve storage capacity. Disks can grow but not shrink.
 
 ## Preemptible VMs
 
@@ -168,8 +169,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTExNDY5NjgsLTM0NDYxNDQ3OSwtMT
-QzMjM4MTYyOCwtMTQ0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEz
-MTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC
-0yMTI1MTI5MTddfQ==
+eyJoaXN0b3J5IjpbMTA4MjQ1OTk4OSwtMzQ0NjE0NDc5LC0xND
+MyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMx
+NjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLT
+IxMjUxMjkxN119
 -->
