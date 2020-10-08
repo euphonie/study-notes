@@ -92,7 +92,11 @@ The only difference is that Compute Engine has the permission to terminate the V
 ## Sole-tenant nodes
 - Physical CE server that is dedicated to hosting VM instances only for your specific project
 - Workloads that require physical isolation from other workloads or VM in order to meet compliance requirements
-- Like having a payment processing workload that needs to be isolated from other process
+- Like having a payment processing workload that needs to be isolated from other processes
+- All instances belong to the same project
+- The user can use own license
+
+## Shielded VMs
 
 ## Auto scaling
 
@@ -129,7 +133,7 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTk0OTk3MywtMTQzMjM4MTYyOCwtMT
+eyJoaXN0b3J5IjpbLTYzMjgyNDg5OCwtMTQzMjM4MTYyOCwtMT
 Q0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NTcyMDE5
 NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5MTddfQ
 ==
