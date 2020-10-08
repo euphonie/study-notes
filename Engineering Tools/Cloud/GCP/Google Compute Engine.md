@@ -96,10 +96,18 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Update references to VM
 	- Delete the snapshots original disks and original VM
 
-**Use of snapshots**
-- move between regions
-- move to a different zone
-- transfer from HDD to SSD to improve performance
+## Snapshots
+- Not available for local SSD
+- Creates an incremental backup to Cloud Storage
+	- Not visible in buckets
+	- Consider cron jobs for periodic incremental backup
+- Snapshots can be restored to a new persistent disk
+	- Can be in another region or zone
+	- Snapshot doesn't back up VM metadata, tags, etc
+- Can be used to
+	- move between regions
+	- move to a different zone
+	- transfer from HDD to SSD to improve performance
 
 ## Preemptible VMs
 
@@ -160,8 +168,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjE3MzY3MywtMzQ0NjE0NDc5LC0xND
-MyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMx
-NjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLT
-IxMjUxMjkxN119
+eyJoaXN0b3J5IjpbLTEwNTExNDY5NjgsLTM0NDYxNDQ3OSwtMT
+QzMjM4MTYyOCwtMTQ0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEz
+MTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC
+0yMTI1MTI5MTddfQ==
 -->
