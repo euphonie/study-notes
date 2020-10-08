@@ -98,7 +98,7 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Very volatile, erase on stop/restart
 	- Persistent disks can be used to back up RAM disk data
 	- Best option
-		- Highest performance, 
+		- Highest performance, but volatile
 
 **VMs access**
 - Linux, SSH using tcp:22
@@ -208,8 +208,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MTQ3MTk1MCwxMDgyNDU5OTg5LC0zND
-Q2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtNDUyOTI1
-ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LD
-MyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
+eyJoaXN0b3J5IjpbODEwNjkwNTczLDEwODI0NTk5ODksLTM0ND
+YxNDQ3OSwtMTQzMjM4MTYyOCwtMTQ0NzY5OTQxLC00NTI5MjU4
+NjEsMTEzNDEzMTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMz
+IxOTQ4NzY2LC0yMTI1MTI5MTddfQ==
 -->
