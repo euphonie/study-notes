@@ -66,7 +66,13 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Every VM comes with a single root persistent disk
 	- Image is loaded during first boot
 		- Bootable: attach to a VM and boot
-		- Durable: surviv
+		- Durable: survives VM termination
+	- Some OS images are customized for CE
+	- Disable "Delete boot disk when instance is deleted" to keep 
+- Persistent disk
+	- Attached to VM through network interface
+	- Durable storage
+	- Boota
 
 **VMs access**
 - Linux, SSH using tcp:22
@@ -176,7 +182,7 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTU3MjU3OCwxMDgyNDU5OTg5LC0zND
+eyJoaXN0b3J5IjpbMTA1MTA2MTk2NiwxMDgyNDU5OTg5LC0zND
 Q2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtNDUyOTI1
 ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LD
 MyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
