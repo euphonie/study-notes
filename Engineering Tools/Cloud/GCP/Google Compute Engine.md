@@ -77,6 +77,8 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 		- 375 GB disk up to 8, total 3TB
 		- Data survives reset but not VM stop/termination
 		- Cannot be reattached to a different VM
+		- Best option
+			- Even higher performance, but no redundancy
 	- HDD or SDD
 	- Disk resizing
 	- Attached to read-only mode to multiple VMs
@@ -85,7 +87,9 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Bootable
 	- Incremental snapshots
 	- Performance scales with size 
-	- Best choose. Don't need performance  just performance
+	- Best option
+		- HDD. Don't need performance  just capacity
+		- SDD. High-performance, provides data redundancy
 - RAM disk
 	- tmpfs can be used to strore data in memory
 	- Faster than local disk, slower than memory
@@ -93,6 +97,8 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 		- Fast scratch disk or fast cache
 	- Very volatile, erase on stop/restart
 	- Persistent disks can be used to back up RAM disk data
+	- Best option
+		- Highest performance, 
 
 **VMs access**
 - Linux, SSH using tcp:22
@@ -202,7 +208,7 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyODg1Mzc2MSwxMDgyNDU5OTg5LC0zND
+eyJoaXN0b3J5IjpbLTk2MTQ3MTk1MCwxMDgyNDU5OTg5LC0zND
 Q2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtNDUyOTI1
 ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LD
 MyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
