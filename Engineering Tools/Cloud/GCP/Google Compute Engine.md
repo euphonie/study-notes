@@ -83,6 +83,19 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 		- Not charged for VM but for attached disks and reserved IPs
 		- Delete, restart, availability policty
 
+## Moving an instance to a new zone
+
+- Within region
+	- gcloud compute instances move
+	- Update references to VM; not automatic
+- Between regions
+	- Snapshot all persistent disks on the source VM
+	- Create new persistent disks in destination zone restored from snapshots
+	- Create new VM in the destination zone and attach new persistent disks
+	- Assign static IP to new VM
+	- Update references to VM
+	- Delete the snapshots original disks and original VM
+
 ## Preemptible VMs
 
 The only difference is that Compute Engine has the permission to terminate the VM if it's resources are needed elsewhere.
@@ -142,8 +155,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NDYxNDQ3OSwtMTQzMjM4MTYyOCwtMT
-Q0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NTcyMDE5
-NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5MTddfQ
-==
+eyJoaXN0b3J5IjpbMTE2MzMxMTg5NCwtMzQ0NjE0NDc5LC0xND
+MyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMx
+NjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLT
+IxMjUxMjkxN119
 -->
