@@ -39,6 +39,10 @@ By choosing a machine type it assigns. Custom machine types can also be created
 		- There's an option of using local SSD storage for scratch space but it's volatile and it's removed when the VM terminates.
 			- Scratch space is space on a disk dedicated to temporary user data
 - Boot Image (Linux or Windows)
+	- Google, premium images
+	- Linux 
+	- Windows
+	- Custom images
 - Startup scripts for dependencies installation and environment setup
 
 Snapshots can be applied to running VMs. These can be kept as backups or use them when migrating to another region.
@@ -98,6 +102,8 @@ The only difference is that Compute Engine has the permission to terminate the V
 
 ## Shielded VMs
 
+Refer to Security > Compute Engine
+
 ## Auto scaling
 
 - Big VMs are good for workloads like in-memory databases and CPU intensive analytics
@@ -133,7 +139,7 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjgyNDg5OCwtMTQzMjM4MTYyOCwtMT
+eyJoaXN0b3J5IjpbMTQ1MjMwMzQ1MCwtMTQzMjM4MTYyOCwtMT
 Q0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NTcyMDE5
 NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5MTddfQ
 ==
