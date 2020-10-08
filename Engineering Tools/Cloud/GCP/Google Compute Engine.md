@@ -206,10 +206,20 @@ Refer to Security > Compute Engine
 gcloud compute instances create [instance-name]
 ```
 
+```bash
+#mounting a disk in a VM
+# Create directory that serves as the mount point
+sudo mkdir -p /home/minecraft
+# Format the disk 
+sudo mkfs.ext4 -F -E lazy_itable_init=0,\ lazy_journal_init=0,discard \ /dev/disk/by-id/google-minecraft-disk
+# Mount the disk
+sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minecraft
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwNjkwNTczLDEwODI0NTk5ODksLTM0ND
-YxNDQ3OSwtMTQzMjM4MTYyOCwtMTQ0NzY5OTQxLC00NTI5MjU4
-NjEsMTEzNDEzMTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMz
-IxOTQ4NzY2LC0yMTI1MTI5MTddfQ==
+eyJoaXN0b3J5IjpbLTY2OTgyODYwMCw4MTA2OTA1NzMsMTA4Mj
+Q1OTk4OSwtMzQ0NjE0NDc5LC0xNDMyMzgxNjI4LC0xNDQ3Njk5
+NDEsLTQ1MjkyNTg2MSwxMTM0MTMxNjIsLTQ1NzIwMTk3NCwtMT
+cyMzg3NTg0NSwzMjE5NDg3NjYsLTIxMjUxMjkxN119
 -->
