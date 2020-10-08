@@ -39,10 +39,13 @@ By choosing a machine type it assigns. Custom machine types can also be created
 		- There's an option of using local SSD storage for scratch space but it's volatile and it's removed when the VM terminates.
 			- Scratch space is space on a disk dedicated to temporary user data
 - Boot Image (Linux or Windows)
+	- per second charges after a one-minute minimum
 	- Google, premium images
 	- Linux 
 	- Windows
+		- charged per minute after 10-minute minimum
 	- Custom images
+		- import on-prem, workstation or another cloud
 - Startup scripts for dependencies installation and environment setup
 
 Snapshots can be applied to running VMs. These can be kept as backups or use them when migrating to another region.
@@ -139,7 +142,7 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjMwMzQ1MCwtMTQzMjM4MTYyOCwtMT
+eyJoaXN0b3J5IjpbLTM0NDYxNDQ3OSwtMTQzMjM4MTYyOCwtMT
 Q0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NTcyMDE5
 NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5MTddfQ
 ==
