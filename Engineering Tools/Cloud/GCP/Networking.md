@@ -111,7 +111,7 @@ Users want to use their already established services along with VPC in GCP.
 	- Supports
 		- Site-to-site vpn
 		- static routes
-		- dynamic routes (Cloud router). On-permi
+		- dynamic routes (Cloud router). On-premise must have BGP enabled
 		- IKEv1 and IKEv2 ciphers
 	- VPNs can be used to connect with local infrastructure over the internet using the IPSEC protocol. It uses a **Cloud Router** that lets other networks and the VPC exchange route information over the VPN using the Border Gateway Protocol. 
 		- For example having a subnet in VPC, the on-premise infrastructure automatically gets routes to it.
@@ -129,9 +129,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDI5OTY4MzEsLTQ2OTUxMTAwNiw2OT
-k5MjYzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkx
-NTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLD
-E3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2
-ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5Mj
+YzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5
+LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3ND
+kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
+OSwxMjgwMjQ4ODM5XX0=
 -->
