@@ -72,10 +72,11 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 - Persistent disk
 	- Local SSD disks
 		- They are physically attached to a VM
+		- Ephemeral
 		- More IOPS, lower latency, higher throughput
 		- 375 GB disk up to 8, total 3TB
 		- Data survives reset but not VM stop/termination
-		- 
+		- Cannot be reattached to a different VM
 	- HDD or SDD
 	- Disk resizing
 	- Attached to read-only mode to multiple VMs
@@ -84,6 +85,12 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Bootable
 	- Incremental snapshots
 	- Performance scales with size 
+- RAM disk
+	- tmpfs can be used to strore data in memory
+	- Faster than local disk, slower than memory
+		- Use when app expects file system structure and cannot directly store data in memory
+		- Fast scratch disk or fast cache
+	- Very volatile, erase on stop 
 
 **VMs access**
 - Linux, SSH using tcp:22
@@ -193,8 +200,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTY4MzM1LDEwODI0NTk5ODksLTM0ND
-YxNDQ3OSwtMTQzMjM4MTYyOCwtMTQ0NzY5OTQxLC00NTI5MjU4
-NjEsMTEzNDEzMTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMz
-IxOTQ4NzY2LC0yMTI1MTI5MTddfQ==
+eyJoaXN0b3J5IjpbLTEwMDQxNjkwMzksMTA4MjQ1OTk4OSwtMz
+Q0NjE0NDc5LC0xNDMyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1Mjky
+NTg2MSwxMTM0MTMxNjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NS
+wzMjE5NDg3NjYsLTIxMjUxMjkxN119
 -->
