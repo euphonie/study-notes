@@ -102,16 +102,17 @@ Google has edge caches that can distribute content that is closer to users.
 ## Hybrid Connectivity
 
 Users want to use their already established services along with VPC in GCP. 
-- VPN
+- **Cloud VPN**
+- 0
 	- VPNs can be used to connect with local infrastructure over the internet using the IPSEC protocol. It uses a **Cloud Router** that lets other networks and the VPC exchange route information over the VPN using the Border Gateway Protocol. 
 		- For example having a subnet in VPC, the on-premise infrastructure automatically gets routes to it.
-- Peering 
+- **Peering** 
 	- Not covered by a SLA
 	- Direct Peering
 		- For users that don't want to use the internet, for security concerns or reliability of the bandwidth, they can use Peering. Peering means putting a router in the same public data center as a Google point of presence and exchanging traffic. 
 	- Carrier Peering
 		- Peering through a contract with a partner that already has a PoP in Google's network
-- Dedicated InterConnect
+- **Dedicated InterConnect**
 	- Covered by SLA
 	- One or more direct private connections to Google 
 	- Has higher uptime, up to 99.99% if the client's topologies meet Google's specifications
@@ -119,9 +120,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OT
-UxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2
-MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLT
-Q3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4
-ODM5XX0=
+eyJoaXN0b3J5IjpbNTk2Mjk1NTg4LC00Njk1MTEwMDYsNjk5OT
+I2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwtMTM1NzQ5MTU1
+OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEwMCwxNz
+Q5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgz
+NzksMTI4MDI0ODgzOV19
 -->
