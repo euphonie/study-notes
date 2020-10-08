@@ -70,9 +70,14 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Some OS images are customized for CE
 	- Disable "Delete boot disk when instance is deleted" to keep 
 - Persistent disk
+	- HDD or SDD
+	- Disk resizing
+	- Attached to read-only mode to multiple VMs
 	- Attached to VM through network interface
 	- Durable storage
-	- Boota
+	- Bootable
+	- Incremental snapshots
+	- Performance scales with size 
 
 **VMs access**
 - Linux, SSH using tcp:22
@@ -182,8 +187,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTA2MTk2NiwxMDgyNDU5OTg5LC0zND
-Q2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtNDUyOTI1
-ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LD
-MyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
+eyJoaXN0b3J5IjpbLTE4OTQ2OTI5NTUsMTA4MjQ1OTk4OSwtMz
+Q0NjE0NDc5LC0xNDMyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1Mjky
+NTg2MSwxMTM0MTMxNjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NS
+wzMjE5NDg3NjYsLTIxMjUxMjkxN119
 -->
