@@ -106,7 +106,7 @@ Users want to use their already established services along with VPC in GCP.
 	- Traffic is encrypted by a VPN Gateway and decrypted by the receiving one.
 		- Cloud VPN Gateway is inside GCP and provides an external IP address, the other Gateway, on-permise, is a physical, or virtual in case of other cloud provider, that also provides an external IP address
 	- Useful for low volume data connections
-		- Maximum transmission unit MTU = 1460 bytes
+		- Maximum transmission unit MTU = 1460 bytes, due to encryption and encapsulation
 	- SLA 99.9%
 	- Supports
 		- Site-to-site vpn
@@ -129,9 +129,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MjA4NjcsLTQ2OTUxMTAwNiw2OTk5Mj
-YzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5
-LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3ND
-kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
-OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbNzAwODU0MTEwLC00Njk1MTEwMDYsNjk5OT
+I2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwtMTM1NzQ5MTU1
+OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEwMCwxNz
+Q5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgz
+NzksMTI4MDI0ODgzOV19
 -->
