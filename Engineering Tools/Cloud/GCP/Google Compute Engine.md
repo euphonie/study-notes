@@ -61,6 +61,13 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 		- Local SSDs have higher IOPS but are volatile, working only for the assigned instance session. Should be used as a swap disk
 	- Standard disks higher amount of capacity per dollar
 
+**Disk options**
+- Boot disk
+	- Every VM comes with a single root persistent disk
+	- Image is loaded during first boot
+		- Bootable: attach to a VM and boot
+		- Durable: surviv
+
 **VMs access**
 - Linux, SSH using tcp:22
 - Windows, RDP using tcp:3389
@@ -169,8 +176,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjQ1OTk4OSwtMzQ0NjE0NDc5LC0xND
-MyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMx
-NjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLT
-IxMjUxMjkxN119
+eyJoaXN0b3J5IjpbMTUxNTU3MjU3OCwxMDgyNDU5OTg5LC0zND
+Q2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtNDUyOTI1
+ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LD
+MyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
 -->
