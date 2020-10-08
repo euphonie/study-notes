@@ -104,6 +104,7 @@ Google has edge caches that can distribute content that is closer to users.
 Users want to use their already established services along with VPC in GCP. 
 - **Cloud VPN**
 	- Traffic is encrypted by a VPN Gateway and decrypted by the receiving one.
+		- Cloud VPN Gateway is inside GCP and provides an external IP address, the other Gateway, on-permise, is a phys
 	- Useful for low volume data connections
 	- SLA 99.9%
 	- Supports
@@ -127,9 +128,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI1NTc0NTQsLTQ2OTUxMTAwNiw2OT
-k5MjYzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkx
-NTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLD
-E3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2
-ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbMTQ3ODUzNjk4MywtNDY5NTExMDA2LDY5OT
+kyNjM3MiwtNDY5NTExMDA2LC0zNzQwOTk2MjYsLTEzNTc0OTE1
+NTksLTE1Njc3MTYwMjksMTYxMjAyMjYzLDExNTI3NTYxMDAsMT
+c0OTE5NTkzMSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4
+Mzc5LDEyODAyNDg4MzldfQ==
 -->
