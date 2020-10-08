@@ -96,6 +96,11 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Update references to VM
 	- Delete the snapshots original disks and original VM
 
+**Use of snapshots**
+- move between regions
+- move to a different zone
+- transfer from HDD to SSD to improve performance
+
 ## Preemptible VMs
 
 The only difference is that Compute Engine has the permission to terminate the VM if it's resources are needed elsewhere.
@@ -155,7 +160,7 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzMxMTg5NCwtMzQ0NjE0NDc5LC0xND
+eyJoaXN0b3J5IjpbLTkxMjE3MzY3MywtMzQ0NjE0NDc5LC0xND
 MyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMx
 NjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLT
 IxMjUxMjkxN119
