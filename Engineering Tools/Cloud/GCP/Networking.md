@@ -103,7 +103,14 @@ Google has edge caches that can distribute content that is closer to users.
 
 Users want to use their already established services along with VPC in GCP. 
 - **Cloud VPN**
-- 0
+	- Traffic is encrypted by a VPN Gateway and decrypted by the receiving one.
+	- Useful for low volume data connections
+	- SLA 99.9%
+	- Supports
+		- Site-to-site vpn
+		- static routes
+		- dynamic routes (Cloud router)
+		- IKEv1 and IKEv2 ciphers
 	- VPNs can be used to connect with local infrastructure over the internet using the IPSEC protocol. It uses a **Cloud Router** that lets other networks and the VPC exchange route information over the VPN using the Border Gateway Protocol. 
 		- For example having a subnet in VPC, the on-premise infrastructure automatically gets routes to it.
 - **Peering** 
@@ -120,9 +127,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2Mjk1NTg4LC00Njk1MTEwMDYsNjk5OT
-I2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwtMTM1NzQ5MTU1
-OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEwMCwxNz
-Q5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgz
-NzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbLTE1ODI1NTc0NTQsLTQ2OTUxMTAwNiw2OT
+k5MjYzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkx
+NTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLD
+E3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2
+ODM3OSwxMjgwMjQ4ODM5XX0=
 -->
