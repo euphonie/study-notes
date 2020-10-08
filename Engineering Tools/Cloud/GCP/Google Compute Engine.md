@@ -82,6 +82,7 @@ The only difference is that Compute Engine has the permission to terminate the V
 - Per-second billing, sustained use discounts
 - High throughput to storage w/o extra cost
 - Custom machine types: only pay for needed hardware
+- 
 - **Note** the job needs to be able to be stopped and restarted
 
 ## Auto scaling
@@ -119,7 +120,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtND
-UyOTI1ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1
-ODQ1LDMyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
+eyJoaXN0b3J5IjpbMTQ0MTExMTE0NSwtMTQzMjM4MTYyOCwtMT
+Q0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NTcyMDE5
+NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5MTddfQ
+==
 -->
