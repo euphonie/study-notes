@@ -85,12 +85,14 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Bootable
 	- Incremental snapshots
 	- Performance scales with size 
+	- Best choose. Don't need performance  just performance
 - RAM disk
 	- tmpfs can be used to strore data in memory
 	- Faster than local disk, slower than memory
 		- Use when app expects file system structure and cannot directly store data in memory
 		- Fast scratch disk or fast cache
-	- Very volatile, erase on stop 
+	- Very volatile, erase on stop/restart
+	- Persistent disks can be used to back up RAM disk data
 
 **VMs access**
 - Linux, SSH using tcp:22
@@ -200,8 +202,8 @@ gcloud compute instances create [instance-name]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQxNjkwMzksMTA4MjQ1OTk4OSwtMz
-Q0NjE0NDc5LC0xNDMyMzgxNjI4LC0xNDQ3Njk5NDEsLTQ1Mjky
-NTg2MSwxMTM0MTMxNjIsLTQ1NzIwMTk3NCwtMTcyMzg3NTg0NS
-wzMjE5NDg3NjYsLTIxMjUxMjkxN119
+eyJoaXN0b3J5IjpbLTUyODg1Mzc2MSwxMDgyNDU5OTg5LC0zND
+Q2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtNDUyOTI1
+ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1ODQ1LD
+MyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
 -->
