@@ -121,6 +121,8 @@ Users want to use their already established services along with VPC in GCP.
 	- Layer 3 connections
 	- Not covered by a SLA
 	- Provide access to public IP addresses
+	- Useful when access is required to Google and Google Cloud properties.
+	- Done by exchanging BGP routes between Google and the peering entity
 	- Direct Peering
 		- For users that don't want to use the internet, for security concerns or reliability of the bandwidth, they can use Peering. Peering means putting a router in the same public data center as a Google point of presence and exchanging traffic. 
 		- Directly to Google
@@ -154,9 +156,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczODIzMjI5LDI4NTM2MzM4NiwzOTk0Nj
-k0MiwtNDY5NTExMDA2LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0z
-NzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMTYxMj
-AyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5Nzcs
-MTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyODAyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbMTU0NTk0OTI3NiwyODUzNjMzODYsMzk5ND
+Y5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwt
+Mzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MT
+IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
+LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
 -->
