@@ -149,6 +149,14 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- transfer from HDD to SSD to improve performance
 	- Resize persistent disk to improve storage capacity. Disks can grow but not shrink.
 
+## Managed instance groups
+- Deploy identical instances based on instance template
+- Instance group can be resized
+- Manager ensures all instances are runnning
+- Typically used with autoscaler
+	- Can a
+- can be single zone or regional
+
 ## Preemptible VMs
 
 The only difference is that Compute Engine has the permission to terminate the VM if it's resources are needed elsewhere.
@@ -218,8 +226,9 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTgyODYwMCw4MTA2OTA1NzMsMTA4Mj
-Q1OTk4OSwtMzQ0NjE0NDc5LC0xNDMyMzgxNjI4LC0xNDQ3Njk5
-NDEsLTQ1MjkyNTg2MSwxMTM0MTMxNjIsLTQ1NzIwMTk3NCwtMT
-cyMzg3NTg0NSwzMjE5NDg3NjYsLTIxMjUxMjkxN119
+eyJoaXN0b3J5IjpbMjEwMzEwMDg0OSwtNjY5ODI4NjAwLDgxMD
+Y5MDU3MywxMDgyNDU5OTg5LC0zNDQ2MTQ0NzksLTE0MzIzODE2
+MjgsLTE0NDc2OTk0MSwtNDUyOTI1ODYxLDExMzQxMzE2MiwtND
+U3MjAxOTc0LC0xNzIzODc1ODQ1LDMyMTk0ODc2NiwtMjEyNTEy
+OTE3XX0=
 -->
