@@ -68,6 +68,7 @@ VMs can be allocated on different regions but still belong to the same subnet in
 
 Communication between VPCs can be established, so they can exchange traffic, through VPC Peering. Using Shared VPCs the user can share networks or individual subnets with other GCP projects
 - When you share a VPC, you designate a project as a host project, and attach one or more other service projects to it.
+- 
 
 ## Cloud Load Balancing
 
@@ -163,10 +164,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDE2MzE2OSwtMTkwNjkyNzU0LC0xND
-Y3NjgwOTU4LDE1NDU5NDkyNzYsMjg1MzYzMzg2LDM5OTQ2OTQy
-LC00Njk1MTEwMDYsNjk5OTI2MzcyLC00Njk1MTEwMDYsLTM3ND
-A5OTYyNiwtMTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIy
-NjMsMTE1Mjc1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMj
-U1MDkyOTIxLDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbMTk2MjA3ODk4MiwxODcwMTYzMTY5LC0xOT
+A2OTI3NTQsLTE0Njc2ODA5NTgsMTU0NTk0OTI3NiwyODUzNjMz
+ODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OT
+UxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2
+MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLT
+Q3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4
+ODM5XX0=
 -->
