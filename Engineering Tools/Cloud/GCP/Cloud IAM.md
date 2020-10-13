@@ -174,6 +174,15 @@ To be able two have an organization node there can be two ways:
 			- Products
 - Allow delegation of administration rights
 - Access can be limited by a folder
+- Roles
+	- Admin. Full control over folders
+	- Creator. Browse hierarchy and create folders
+	- Viewer. View folders and projects below a resource
+
+## Project
+- Roles
+	- Creator. Create new projects (automatic owner) and migrate new projects into organization
+	- Deleter. Delete projects
 
 ## Cloud IAM policy
 
@@ -229,6 +238,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjA4NDg3NSwtMTk1NzEzNzk1NiwxOD
+eyJoaXN0b3J5IjpbMTY3NDIzNjMxNSwtMTk1NzEzNzk1NiwxOD
 Y5NjU3NzY1LC0xMTQyMTk4MTg2XX0=
 -->
