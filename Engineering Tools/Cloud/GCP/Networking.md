@@ -158,14 +158,14 @@ Users want to use their already established services along with VPC in GCP.
 
 # Choosing a Connection Type
 
-
+![How to choose a connection](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/choosingConnection.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc2ODA5NTgsMTU0NTk0OTI3NiwyOD
-UzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIs
-LTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNT
-Y3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5
-MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMj
-gwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTE5MDY5Mjc1NCwtMTQ2NzY4MDk1OCwxNT
+Q1OTQ5Mjc2LDI4NTM2MzM4NiwzOTk0Njk0MiwtNDY5NTExMDA2
+LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0zNzQwOTk2MjYsLTEzNT
+c0OTE1NTksLTE1Njc3MTYwMjksMTYxMjAyMjYzLDExNTI3NTYx
+MDAsMTc0OTE5NTkzMSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNj
+U0MTY4Mzc5LDEyODAyNDg4MzldfQ==
 -->
