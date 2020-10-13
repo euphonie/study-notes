@@ -156,12 +156,16 @@ Users want to use their already established services along with VPC in GCP.
 	- To exchange routes you configure a BGP session over the CloudRouter and the on-premise router
 		- Allows user traffic from on-premise network to reach GCP resources on the VPC network and viceversa
 
+# Choosing a Connection Type
+
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzE2NjQ3MiwxNTQ1OTQ5Mjc2LDI4NT
-M2MzM4NiwzOTk0Njk0MiwtNDY5NTExMDA2LDY5OTkyNjM3Miwt
-NDY5NTExMDA2LC0zNzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Nj
-c3MTYwMjksMTYxMjAyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkz
-MSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyOD
-AyNDg4MzldfQ==
+eyJoaXN0b3J5IjpbLTE0Njc2ODA5NTgsMTU0NTk0OTI3NiwyOD
+UzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIs
+LTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNT
+Y3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5
+MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMj
+gwMjQ4ODM5XX0=
 -->
