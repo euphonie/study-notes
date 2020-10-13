@@ -162,6 +162,11 @@ To be able two have an organization node there can be two ways:
 
 *Note*: Child policies cannot restrict access granted at the parent level.
 
+## Folders
+- Can be view as sub organizations within the organization
+- Provide additional grouping mechanisms and isolation boundaries between projects
+- Can model different legal entities, departments, and teams within a compa
+
 ## Cloud IAM policy
 
 Represented by the policy object. A policy consists of a list of bindings. A binding binds a list of members to a role.
@@ -216,6 +221,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTU1NjgzMCwxODY5NjU3NzY1LC0xMT
+eyJoaXN0b3J5IjpbMTM4Njk1NzkzOSwxODY5NjU3NzY1LC0xMT
 QyMTk4MTg2XX0=
 -->
