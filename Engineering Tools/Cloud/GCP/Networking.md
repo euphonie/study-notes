@@ -128,11 +128,14 @@ Users want to use their already established services along with VPC in GCP.
 - **Dedicated InterConnect**
 	- Layer 2 connection
 	- Covered by SLA
+	- Transfer large amounts of data between networks
 	- One or more direct private connections to Google 
 	- Has higher uptime, up to 99.99% if the client's topologies meet Google's specifications
 	- Directly to Google
 	- Can be backed up by a VPN for greater reliability
 	- Uses VLAN, connection to internal IP addresses RFC 1918
+	- It needs to provision a cross-connect between the Google network and your own router in a common co-location facility
+	- To exchange routes you configure a BGP session 
 - **Partner InterConnect**
 	- Layer 2 Connection
 	- Shared through a partner
@@ -140,9 +143,9 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MT
-EwMDYsNjk5OTI2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwt
-MTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mj
-c1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIx
-LDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbLTE1Mzg0MzY4MiwyODUzNjMzODYsMzk5ND
+Y5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwt
+Mzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MT
+IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
+LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
 -->
