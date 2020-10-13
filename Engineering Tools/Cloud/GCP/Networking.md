@@ -142,12 +142,13 @@ Users want to use their already established services along with VPC in GCP.
 	- Shared through a partner
 	- Uses VLAN, connection to internal IP addresses RFC 1918
 	- Need to consider when your own-premise infrastructure is not near of one o the co-location facilities. 
+		- Or if data needs don't warrant a Dedicated Interconnect
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjM2MTQ1NzAsMjg1MzYzMzg2LDM5OT
-Q2OTQyLC00Njk1MTEwMDYsNjk5OTI2MzcyLC00Njk1MTEwMDYs
-LTM3NDA5OTYyNiwtMTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNj
-EyMDIyNjMsMTE1Mjc1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3
-NywxMjU1MDkyOTIxLDE2NTQxNjgzNzksMTI4MDI0ODgzOV19
+eyJoaXN0b3J5IjpbNzkyMjQ2OTc5LDI4NTM2MzM4NiwzOTk0Nj
+k0MiwtNDY5NTExMDA2LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0z
+NzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMTYxMj
+AyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5Nzcs
+MTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyODAyNDg4MzldfQ==
 -->
