@@ -135,17 +135,19 @@ Users want to use their already established services along with VPC in GCP.
 	- Can be backed up by a VPN for greater reliability
 	- Uses VLAN, connection to internal IP addresses RFC 1918
 	- It needs to provision a cross-connect between the Google network and your own router in a common co-location facility
-	- To exchange routes you configure a BGP session 
+	- To exchange routes you configure a BGP session over the CloudRouter and the on-premise router
+		- Allows user traffic from on-premise network to reach GCP resources on the VPC network and viceversa
 - **Partner InterConnect**
 	- Layer 2 Connection
 	- Shared through a partner
 	- Uses VLAN, connection to internal IP addresses RFC 1918
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg0MzY4MiwyODUzNjMzODYsMzk5ND
-Y5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwt
-Mzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MT
-IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
-LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbMTc3MzcyMjE5LDI4NTM2MzM4NiwzOTk0Nj
+k0MiwtNDY5NTExMDA2LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0z
+NzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMTYxMj
+AyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5Nzcs
+MTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyODAyNDg4MzldfQ==
 -->
