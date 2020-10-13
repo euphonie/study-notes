@@ -171,7 +171,7 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Load balancing capacity
 	- Monitoring metrics
 	- Queue-based workload
-- 
+
 
 ## Preemptible VMs
 
@@ -242,9 +242,9 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk3OTA2MjMsLTY2OTgyODYwMCw4MT
-A2OTA1NzMsMTA4MjQ1OTk4OSwtMzQ0NjE0NDc5LC0xNDMyMzgx
-NjI4LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMxNjIsLT
-Q1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLTIxMjUx
-MjkxN119
+eyJoaXN0b3J5IjpbNTE1NjgyODMwLC02Njk4Mjg2MDAsODEwNj
+kwNTczLDEwODI0NTk5ODksLTM0NDYxNDQ3OSwtMTQzMjM4MTYy
+OCwtMTQ0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NT
+cyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5
+MTddfQ==
 -->
