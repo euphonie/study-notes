@@ -165,7 +165,7 @@ To be able two have an organization node there can be two ways:
 ## Folders
 - Can be view as sub organizations within the organization
 - Provide additional grouping mechanisms and isolation boundaries between projects
-- Can model different legal entities, departments, and teams within a compa
+- Can model different legal entities, departments, and teams within a company.
 
 ## Cloud IAM policy
 
@@ -221,6 +221,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Njk1NzkzOSwxODY5NjU3NzY1LC0xMT
-QyMTk4MTg2XX0=
+eyJoaXN0b3J5IjpbLTE5NTcxMzc5NTYsMTg2OTY1Nzc2NSwtMT
+E0MjE5ODE4Nl19
 -->
