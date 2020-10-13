@@ -118,6 +118,7 @@ Users want to use their already established services along with VPC in GCP.
 - **Peering** 
 	- Layer 3 connections
 	- Not covered by a SLA
+	- Provide access to public IP addresses
 	- Direct Peering
 		- For users that don't want to use the internet, for security concerns or reliability of the bandwidth, they can use Peering. Peering means putting a router in the same public data center as a Google point of presence and exchanging traffic. 
 		- Directly to Google
@@ -131,7 +132,7 @@ Users want to use their already established services along with VPC in GCP.
 	- Has higher uptime, up to 99.99% if the client's topologies meet Google's specifications
 	- Directly to Google
 	- Can be backed up by a VPN for greater reliability
-	- Uses VLAN
+	- Uses VLAN, connection to internal IP addresses RFC 1918
 - **Partner InterConnect**
 	- Layer 2 Connection
 	- Shared through a partner
@@ -139,7 +140,7 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTAxNTk0LDM5OTQ2OTQyLC00Njk1MT
+eyJoaXN0b3J5IjpbMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MT
 EwMDYsNjk5OTI2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwt
 MTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mj
 c1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIx
