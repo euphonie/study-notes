@@ -155,6 +155,8 @@ Allows having centralized visibility on how the resources are being used, and al
 		- Determine the structure of the resource hierarchy
 		- Delegate responsibility over critical components such as Networking, Billing and Resource Hierarchy through IAM roles
 - **Project Creator**. Fine-grained control of project creation. A way to control who can spend money.
+- **Viewer role**
+	- View access to all resources
 
 To be able two have an organization node there can be two ways:
 - Your an owner of a G-Suite account
@@ -166,6 +168,12 @@ To be able two have an organization node there can be two ways:
 - Can be view as sub organizations within the organization
 - Provide additional grouping mechanisms and isolation boundaries between projects
 - Can model different legal entities, departments, and teams within a company.
+- Hierarchy could be 
+	- Departaments
+		- Teams
+			- Products
+- Allow delegation of administration rights
+- Access can be limited by a folder
 
 ## Cloud IAM policy
 
@@ -221,6 +229,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTcxMzc5NTYsMTg2OTY1Nzc2NSwtMT
-E0MjE5ODE4Nl19
+eyJoaXN0b3J5IjpbLTcyNjA4NDg3NSwtMTk1NzEzNzk1NiwxOD
+Y5NjU3NzY1LC0xMTQyMTk4MTg2XX0=
 -->
