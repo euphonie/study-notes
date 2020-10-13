@@ -130,6 +130,10 @@ def implicit():
 ## Organization
 
 Google cloud is organized through the concept of projects, it can optionally be organized into folders. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
+- Highly associated with a G Suite 
+- Root node
+- useful for auditing
+- Project creator role can also be assigned at the organization level
 - Folders can be used to assign policies, as all the resources in a folder inherit the IAM policies from the folder.
 - All GCP resources belong to a project
 - Each project is a separate compartment and each resource belongs to exactly one
@@ -147,7 +151,7 @@ To be able two have an organization node there can be two ways:
 - Your an owner of a G-Suite account
 - Using Google Cloud Identity for creating an organization node.
 
-*Note*: Higher-level policies (resource-level) can't take away access that's granted at a lower level (organization node level).
+*Note*: Child policies cannot restrict access granted at the parent level.
 
 ## Cloud IAM policy
 
@@ -203,5 +207,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTY1Nzc2NSwtMTE0MjE5ODE4Nl19
+eyJoaXN0b3J5IjpbLTc3OTA0MDc3OSwxODY5NjU3NzY1LC0xMT
+QyMTk4MTg2XX0=
 -->
