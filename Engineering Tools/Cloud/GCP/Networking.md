@@ -108,6 +108,7 @@ Users want to use their already established services along with VPC in GCP.
 	- Useful for low volume data connections
 		- Maximum transmission unit MTU = 1460 bytes, due to encryption and encapsulation
 	- SLA 99.9%
+	- 
 	- Supports
 		- Site-to-site vpn
 		- static routes
@@ -140,13 +141,16 @@ Users want to use their already established services along with VPC in GCP.
 - **Partner InterConnect**
 	- Layer 2 Connection
 	- Shared through a partner
+	- 99.9 or 99.99 SLA between Google and Service Provider
 	- Uses VLAN, connection to internal IP addresses RFC 1918
 	- Need to consider when your own-premise infrastructure is not near of one o the co-location facilities. 
 		- Or if data needs don't warrant a Dedicated Interconnect
+	- To exchange routes you configure a BGP session over the CloudRouter and the on-premise router
+		- Allows user traffic from on-premise network to reach GCP resources on the VPC network and viceversa
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyMjQ2OTc5LDI4NTM2MzM4NiwzOTk0Nj
+eyJoaXN0b3J5IjpbMTI5OTI3NDE5LDI4NTM2MzM4NiwzOTk0Nj
 k0MiwtNDY5NTExMDA2LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0z
 NzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMTYxMj
 AyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5Nzcs
