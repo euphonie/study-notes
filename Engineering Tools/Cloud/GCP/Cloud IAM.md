@@ -143,13 +143,17 @@ Google cloud is organized through the concept of projects, it can optionally be 
 	- Can
 		- Assign the organization admin role to some users
 		- Be the point of contact in case of recovery issues
-		- Control the lifecycle of the GSuite
+		- Control the lifecycle of the GSuite or Cloud Identity account and Organization Resources
 
 ### Organization Node
 
 Allows having centralized visibility on how the resources are being used, and also permits applying centralized policies on all the projects that belong to an organization. It's the top of the hierarchy. It contains two main roles: 
 
 - **Organization Policy Administrator**. Broad control over resources, makes it necessary for people to have the privilege in order to change policies.
+	- Can
+		- Define IAM policies
+		- Determine the structure of the resource hierarchy
+		- Delegate responsibility over critical components such as Networking, Billing and Resource Hierarchy through IAM roles
 - **Project Creator**. Fine-grained control of project creation. A way to control who can spend money.
 
 To be able two have an organization node there can be two ways:
@@ -212,6 +216,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTEwMzQwMSwxODY5NjU3NzY1LC0xMT
+eyJoaXN0b3J5IjpbMTI4OTU1NjgzMCwxODY5NjU3NzY1LC0xMT
 QyMTk4MTg2XX0=
 -->
