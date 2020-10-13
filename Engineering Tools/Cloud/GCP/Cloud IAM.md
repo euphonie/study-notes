@@ -130,7 +130,7 @@ def implicit():
 ## Organization
 
 Google cloud is organized through the concept of projects, it can optionally be organized into folders. An organization can have multiple projects and within those projects folders and individual resources can be contained. Rules and permissions can be assigned to any element in this hierarchy. 
-- Highly associated with a G Suite 
+- Highly associated with a G Suite or Cloud Identity account
 - Root node
 - useful for auditing
 - Project creator role can also be assigned at the organization level
@@ -139,6 +139,11 @@ Google cloud is organized through the concept of projects, it can optionally be 
 - Each project is a separate compartment and each resource belongs to exactly one
 - Project's ID are user-defined, unique and immutable
 	- GCP assigns a name and an unique project number
+- **Super administator role**
+	- Can
+		- Assign the organization admin role to some users
+		- Be the point of contact in case of recovery issues
+		- Control the lifecycle of the GSuite
 
 ### Organization Node
 
@@ -207,6 +212,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTA0MDc3OSwxODY5NjU3NzY1LC0xMT
+eyJoaXN0b3J5IjpbMTc2NTEwMzQwMSwxODY5NjU3NzY1LC0xMT
 QyMTk4MTg2XX0=
 -->
