@@ -124,9 +124,11 @@ Users want to use their already established services along with VPC in GCP.
 	- Useful when access is required to Google and Google Cloud properties.
 	- Done by exchanging BGP routes between Google and the peering entity
 	- Direct Peering
+		- 10 Gbps per link
 		- For users that don't want to use the internet, for security concerns or reliability of the bandwidth, they can use Peering. Peering means putting a router in the same public data center as a Google point of presence and exchanging traffic. 
 		- Directly to Google
 	- Carrier Peering
+		- Capacity varies based on partner offering
 		- Peering through a contract with a partner that already has a PoP in Google's network
 		- 	Shared through a partner
 - **Dedicated InterConnect**
@@ -156,9 +158,10 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTk0OTI3NiwyODUzNjMzODYsMzk5ND
-Y5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwt
-Mzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MT
-IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
-LDEyNTUwOTI5MjEsMTY1NDE2ODM3OSwxMjgwMjQ4ODM5XX0=
+eyJoaXN0b3J5IjpbLTY4MzE2NjQ3MiwxNTQ1OTQ5Mjc2LDI4NT
+M2MzM4NiwzOTk0Njk0MiwtNDY5NTExMDA2LDY5OTkyNjM3Miwt
+NDY5NTExMDA2LC0zNzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Nj
+c3MTYwMjksMTYxMjAyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkz
+MSwtNDcwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyOD
+AyNDg4MzldfQ==
 -->
