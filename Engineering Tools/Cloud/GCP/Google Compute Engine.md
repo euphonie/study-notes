@@ -153,9 +153,15 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 - Deploy identical instances based on instance template
 - Instance group can be resized
 - Manager ensures all instances are runnning
+	- Automatically recreates failing instances, uses same name and template from previous instance
 - Typically used with autoscaler
-	- Can a
+	- Can automatically scale all instances
 - can be single zone or regional
+	- Regional are recommended, spreads app load to multiple zones
+	- Protects against zonal failures
+- To create
+	- First create an instance template
+	- Create a managed instance group
 
 ## Preemptible VMs
 
@@ -226,9 +232,9 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzEwMDg0OSwtNjY5ODI4NjAwLDgxMD
-Y5MDU3MywxMDgyNDU5OTg5LC0zNDQ2MTQ0NzksLTE0MzIzODE2
-MjgsLTE0NDc2OTk0MSwtNDUyOTI1ODYxLDExMzQxMzE2MiwtND
-U3MjAxOTc0LC0xNzIzODc1ODQ1LDMyMTk0ODc2NiwtMjEyNTEy
-OTE3XX0=
+eyJoaXN0b3J5IjpbOTQ4NTc1MDMsLTY2OTgyODYwMCw4MTA2OT
+A1NzMsMTA4MjQ1OTk4OSwtMzQ0NjE0NDc5LC0xNDMyMzgxNjI4
+LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMxNjIsLTQ1Nz
+IwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLTIxMjUxMjkx
+N119
 -->
