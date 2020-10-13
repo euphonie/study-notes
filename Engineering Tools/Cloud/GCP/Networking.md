@@ -108,7 +108,8 @@ Users want to use their already established services along with VPC in GCP.
 	- Useful for low volume data connections
 		- Maximum transmission unit MTU = 1460 bytes, due to encryption and encapsulation
 	- SLA 99.9%
-	- 
+	- Capacity of 1.5-3Gbps per tunnel, traffic through public internet
+		- Multiple tunnels can be configured
 	- Supports
 		- Site-to-site vpn
 		- static routes
@@ -129,6 +130,8 @@ Users want to use their already established services along with VPC in GCP.
 - **Dedicated InterConnect**
 	- Layer 2 connection
 	- Covered by SLA
+	- Capacity of 10 Gbps per link 
+		- Multiple links can be configured
 	- Transfer large amounts of data between networks
 	- One or more direct private connections to Google 
 	- Has higher uptime, up to 99.99% if the client's topologies meet Google's specifications
@@ -140,6 +143,7 @@ Users want to use their already established services along with VPC in GCP.
 		- Allows user traffic from on-premise network to reach GCP resources on the VPC network and viceversa
 - **Partner InterConnect**
 	- Layer 2 Connection
+	- Capacity of 50 Mbps - 10Gbps per connection
 	- Shared through a partner
 	- 99.9 or 99.99 SLA between Google and Service Provider
 	- Uses VLAN, connection to internal IP addresses RFC 1918
@@ -150,7 +154,7 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTI3NDE5LDI4NTM2MzM4NiwzOTk0Nj
+eyJoaXN0b3J5IjpbOTczODIzMjI5LDI4NTM2MzM4NiwzOTk0Nj
 k0MiwtNDY5NTExMDA2LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0z
 NzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMTYxMj
 AyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5Nzcs
