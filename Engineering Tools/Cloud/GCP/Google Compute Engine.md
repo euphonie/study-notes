@@ -165,7 +165,13 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Instance group manager populates the group based on the instance template
 
 **Autoscaling**
-- Automatically add or remove instances bas
+- Automatically add or remove instances based on load
+- Define autoscaling policy based on measure
+	- CPU utilization
+	- Load balancing capacity
+	- Monitoring metrics
+	- Queue-based workload
+- 
 
 ## Preemptible VMs
 
@@ -236,9 +242,9 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzQ2MjE5MiwtNjY5ODI4NjAwLDgxMD
-Y5MDU3MywxMDgyNDU5OTg5LC0zNDQ2MTQ0NzksLTE0MzIzODE2
-MjgsLTE0NDc2OTk0MSwtNDUyOTI1ODYxLDExMzQxMzE2MiwtND
-U3MjAxOTc0LC0xNzIzODc1ODQ1LDMyMTk0ODc2NiwtMjEyNTEy
-OTE3XX0=
+eyJoaXN0b3J5IjpbLTExMjk3OTA2MjMsLTY2OTgyODYwMCw4MT
+A2OTA1NzMsMTA4MjQ1OTk4OSwtMzQ0NjE0NDc5LC0xNDMyMzgx
+NjI4LC0xNDQ3Njk5NDEsLTQ1MjkyNTg2MSwxMTM0MTMxNjIsLT
+Q1NzIwMTk3NCwtMTcyMzg3NTg0NSwzMjE5NDg3NjYsLTIxMjUx
+MjkxN119
 -->
