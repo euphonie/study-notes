@@ -151,14 +151,14 @@
 - отвечает, responder 3era persona sing
 - писать, escribir infinitivo
 - спрашивает, pregutna, 3era persona sing
-- смотреть, ver, infinitivo, 
+- смотреть, ver, infinitivo, смотрели vieron
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjc3MzcwOSwtOTA1MDcwMDA4LDUxMD
-U2NDgzNCw0NDcyMTI4NDgsMTYzMzQyMjc1NiwtODc2OTA0ODQy
-LC0yMDU3MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5ODE0MSw2MT
-IzMzc5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUs
-LTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2OTMsLTI4Mz
-QxMzA3LC05MTIxODY4NzMsLTEwODYyNjQ4ODIsLTU2ODUyNjQ1
-NV19
+eyJoaXN0b3J5IjpbLTIxMjM1Mzg4NjMsLTkwNTA3MDAwOCw1MT
+A1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3NjkwNDg0
+MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgxNDEsNj
+EyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxODQ2OTE1
+LC0xMjA2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yOD
+M0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0
+NTVdfQ==
 -->
