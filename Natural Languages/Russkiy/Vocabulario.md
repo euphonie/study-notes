@@ -152,13 +152,15 @@
 - писать, escribir infinitivo
 - спрашивает, pregutna, 3era persona sing
 - смотреть, ver, infinitivo, смотрели vieron
+- думать, infinitivo, pensar
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM1Mzg4NjMsLTkwNTA3MDAwOCw1MT
-A1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3NjkwNDg0
-MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgxNDEsNj
-EyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxODQ2OTE1
-LC0xMjA2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkzLC0yOD
-M0MTMwNywtOTEyMTg2ODczLC0xMDg2MjY0ODgyLC01Njg1MjY0
-NTVdfQ==
+eyJoaXN0b3J5IjpbNzY0OTU0MjgxLC0yMTIzNTM4ODYzLC05MD
+UwNzAwMDgsNTEwNTY0ODM0LDQ0NzIxMjg0OCwxNjMzNDIyNzU2
+LC04NzY5MDQ4NDIsLTIwNTcwNjI0NSwtMTMxODMyMjY4MCwtNT
+c1Mjk4MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0
+LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2OD
+E2MTY5MywtMjgzNDEzMDcsLTkxMjE4Njg3MywtMTA4NjI2NDg4
+Ml19
 -->
