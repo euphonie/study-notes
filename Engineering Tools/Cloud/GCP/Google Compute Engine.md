@@ -62,6 +62,7 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Standard disks higher amount of capacity per dollar
 
 **Disk options**
+- Create disk can define the physical size, 4 or 16
 - Boot disk
 	- Every VM comes with a single root persistent disk
 	- Image is loaded during first boot
@@ -242,9 +243,9 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NjgyODMwLC02Njk4Mjg2MDAsODEwNj
-kwNTczLDEwODI0NTk5ODksLTM0NDYxNDQ3OSwtMTQzMjM4MTYy
-OCwtMTQ0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NT
-cyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4NzY2LC0yMTI1MTI5
-MTddfQ==
+eyJoaXN0b3J5IjpbLTE3MDc0NzMxMzIsNTE1NjgyODMwLC02Nj
+k4Mjg2MDAsODEwNjkwNTczLDEwODI0NTk5ODksLTM0NDYxNDQ3
+OSwtMTQzMjM4MTYyOCwtMTQ0NzY5OTQxLC00NTI5MjU4NjEsMT
+EzNDEzMTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4
+NzY2LC0yMTI1MTI5MTddfQ==
 -->
