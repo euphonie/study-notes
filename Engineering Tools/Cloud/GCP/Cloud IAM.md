@@ -6,6 +6,7 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 	-  User or users. Can be defined by:
 		-  a Google Account
 			- Represents a developer, administrator, or person who interacts with GCP
+			- has a gmail user associated
 		-  a Google Group
 			- Named collection of google accounts and service accounts
 			- has a unique email address
@@ -238,6 +239,7 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTU0NDA4NCwxNjc0MjM2MzE1LC0xOT
-U3MTM3OTU2LDE4Njk2NTc3NjUsLTExNDIxOTgxODZdfQ==
+eyJoaXN0b3J5IjpbMjk1Nzk3MTczLC01NTk1NDQwODQsMTY3ND
+IzNjMxNSwtMTk1NzEzNzk1NiwxODY5NjU3NzY1LC0xMTQyMTk4
+MTg2XX0=
 -->
