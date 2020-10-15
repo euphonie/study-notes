@@ -138,6 +138,7 @@
 - sabado, el sabado / суббота, в субботу 
 - jueves, (в) четверг
 - miercoles, el miercoles / среда, в среду
+- martes, el martes / 
 - lunes - (в) понедельник
 
 ## Nombres
@@ -176,7 +177,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMTQ3MjQ1LDc3OTc5NDcxLC0xOTMwOT
+eyJoaXN0b3J5IjpbNDg5MjE1MjkyLDc3OTc5NDcxLC0xOTMwOT
 c5MDY0LC0yMDU4NTM4MjA5LDk3NzAwNzA1OSwtMTM5OTYzMTM5
 OCw3NjQ5NTQyODEsLTIxMjM1Mzg4NjMsLTkwNTA3MDAwOCw1MT
 A1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3NjkwNDg0
