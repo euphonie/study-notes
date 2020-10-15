@@ -174,6 +174,8 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Queue-based workload
 
 
+
+
 ## Preemptible VMs
 
 The only difference is that Compute Engine has the permission to terminate the VM if it's resources are needed elsewhere.
@@ -243,9 +245,9 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc0NzMxMzIsNTE1NjgyODMwLC02Nj
-k4Mjg2MDAsODEwNjkwNTczLDEwODI0NTk5ODksLTM0NDYxNDQ3
-OSwtMTQzMjM4MTYyOCwtMTQ0NzY5OTQxLC00NTI5MjU4NjEsMT
-EzNDEzMTYyLC00NTcyMDE5NzQsLTE3MjM4NzU4NDUsMzIxOTQ4
-NzY2LC0yMTI1MTI5MTddfQ==
+eyJoaXN0b3J5IjpbNzU1MzY2MzI4LC0xNzA3NDczMTMyLDUxNT
+Y4MjgzMCwtNjY5ODI4NjAwLDgxMDY5MDU3MywxMDgyNDU5OTg5
+LC0zNDQ2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtND
+UyOTI1ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1
+ODQ1LDMyMTk0ODc2NiwtMjEyNTEyOTE3XX0=
 -->
