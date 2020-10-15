@@ -91,6 +91,10 @@ A **service**, is created when exposing a deployment of pods to the internet, gr
 
 This is a recommended solution for exposing deployments between applications as it usually creates and destroys pods, having each pod an unique IP address that doesn't remain stable over time. An stable endpoint is then provided by a service.
 
+### Storage Objects
+- Persistent volumes
+- Persistent volume claims
+
 ### Kubernetes configuration file
 
 ```bash
@@ -168,5 +172,6 @@ Google's modern solution for hybrid and multi-cloud systems and services managem
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODY1OTk0LC05OTQzODMyNThdfQ==
+eyJoaXN0b3J5IjpbLTc1MjE0MDM0MiwxMzQ4NjU5OTQsLTk5ND
+M4MzI1OF19
 -->
