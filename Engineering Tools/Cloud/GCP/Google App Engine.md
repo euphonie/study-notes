@@ -64,7 +64,7 @@ App Engine manages the hardware and networking infrastructure required to run co
 # Deploy app to flexible environment using a .yaml file
 gcloud app deploy ./frontend/app.yaml
 # Check all components are up to date in Command Console
-gcloud components install app-
+gcloud components install app-engine-python
 ```
 **app.yaml**
 ```yaml
@@ -74,6 +74,6 @@ environment: flex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MDQ4MzgzLC0xMDg1NzYzMjY0LDEzNj
+eyJoaXN0b3J5IjpbMTAxODQ2OTIwLC0xMDg1NzYzMjY0LDEzNj
 UwNjk3OV19
 -->
