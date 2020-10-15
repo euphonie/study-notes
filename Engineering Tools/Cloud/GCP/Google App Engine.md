@@ -27,6 +27,7 @@ App Engine manages the hardware and networking infrastructure required to run co
 		- Application runs inside a Docker container on Compute Engine's VMs
 			- container can run on GKE
 		- User chooses the geographical region to run
+		- custom healthchecks
 		- VMs managed by Google
 		- Can access Google services
 			- data store, memcached, task queues, etc.
@@ -62,6 +63,8 @@ App Engine manages the hardware and networking infrastructure required to run co
 ```bash
 # Deploy app to flexible environment using a .yaml file
 gcloud app deploy ./frontend/app.yaml
+# Check all components are up to date in Command Console
+gcloud components install app-
 ```
 **app.yaml**
 ```yaml
@@ -71,5 +74,6 @@ environment: flex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU3NjMyNjQsMTM2NTA2OTc5XX0=
+eyJoaXN0b3J5IjpbNjA4MDQ4MzgzLC0xMDg1NzYzMjY0LDEzNj
+UwNjk3OV19
 -->
