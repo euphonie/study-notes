@@ -174,7 +174,7 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Queue-based workload
 - Cool down period is time allowed for instances to finish initializing
 - Stabilization period is time autoscaler uses to calculate MIGs recommended target size
-- Avoids thrashing, i.e rapidly adi
+- Cool down and stabilization avoid thrashing, i.e rapidly adding and removing instances
 
 **Unmanaged instance groups**
 - Multiple possibly heterogeneous VMs
@@ -252,7 +252,7 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAyNzQ0NywyNTAzOTkwODgsLTE3MD
+eyJoaXN0b3J5IjpbLTUzNzc0ODMzMCwyNTAzOTkwODgsLTE3MD
 c0NzMxMzIsNTE1NjgyODMwLC02Njk4Mjg2MDAsODEwNjkwNTcz
 LDEwODI0NTk5ODksLTM0NDYxNDQ3OSwtMTQzMjM4MTYyOCwtMT
 Q0NzY5OTQxLC00NTI5MjU4NjEsMTEzNDEzMTYyLC00NTcyMDE5
