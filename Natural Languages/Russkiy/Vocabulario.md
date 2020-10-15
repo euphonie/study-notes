@@ -120,7 +120,7 @@
 - вчера - ayer
 - быстро - rapido
 - медленно - lento
-- 
+- правильно - correctamente
 
 ## Pronombres
 - я - pronombre primera persona singular (yo)
@@ -164,11 +164,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc5NDM2MDAsOTc3MDA3MDU5LC0xMz
-k5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUzODg2MywtOTA1MDcw
-MDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMTYzMzQyMjc1NiwtOD
-c2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5
-ODE0MSw2MTIzMzc5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1OD
-E4NDY5MTUsLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTgxODc0NTI4LDk3NzAwNzA1OSwtMTM5OT
+YzMTM5OCw3NjQ5NTQyODEsLTIxMjM1Mzg4NjMsLTkwNTA3MDAw
+OCw1MTA1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3Nj
+kwNDg0MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgx
+NDEsNjEyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxOD
+Q2OTE1LC0xMjA2MzA5ODMsMTk1NDM5MjY2NiwtMzY4MTYxNjkz
+XX0=
 -->
