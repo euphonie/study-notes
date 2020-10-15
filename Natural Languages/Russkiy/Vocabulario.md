@@ -164,14 +164,15 @@
 - рассказывать, narrar
 - обьясняет, el explica, 3era persona sing
 - понимать, entender, infinitivo
+- занимать, pedir prestado, infinitivo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg1MzgyMDksOTc3MDA3MDU5LC0xMz
-k5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUzODg2MywtOTA1MDcw
-MDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMTYzMzQyMjc1NiwtOD
-c2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5
-ODE0MSw2MTIzMzc5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1OD
-E4NDY5MTUsLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2
-OTNdfQ==
+eyJoaXN0b3J5IjpbLTE2MTgwNDQ0ODEsLTIwNTg1MzgyMDksOT
+c3MDA3MDU5LC0xMzk5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUz
+ODg2MywtOTA1MDcwMDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMT
+YzMzQyMjc1NiwtODc2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgz
+MjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5NDgsLTQ1Njk5MTI1OC
+wxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYzMDk4MywxOTU0Mzky
+NjY2XX0=
 -->
