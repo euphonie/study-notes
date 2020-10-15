@@ -133,6 +133,9 @@
 - вы - pronombre segunda persona plural (usted/ustedes)
 - они (o=a) - pronombre tercera persona plural (ellos/as)
 
+## Dias
+- domingo - (в) воскресенье
+
 
 ## Nombres
 - иван - ivan
@@ -170,11 +173,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA5NzkwNjQsLTIwNTg1MzgyMDksOT
-c3MDA3MDU5LC0xMzk5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUz
-ODg2MywtOTA1MDcwMDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMT
-YzMzQyMjc1NiwtODc2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgz
-MjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5NDgsLTQ1Njk5MTI1OC
-wxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYzMDk4MywxOTU0Mzky
-NjY2XX0=
+eyJoaXN0b3J5IjpbLTE1MzM4NTk4NjksLTE5MzA5NzkwNjQsLT
+IwNTg1MzgyMDksOTc3MDA3MDU5LC0xMzk5NjMxMzk4LDc2NDk1
+NDI4MSwtMjEyMzUzODg2MywtOTA1MDcwMDA4LDUxMDU2NDgzNC
+w0NDcyMTI4NDgsMTYzMzQyMjc1NiwtODc2OTA0ODQyLC0yMDU3
+MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5ND
+gsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYz
+MDk4M119
 -->
