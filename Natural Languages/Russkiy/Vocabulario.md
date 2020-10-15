@@ -118,6 +118,9 @@
 - рано - temprano
 - сегодня - hoy, today
 - вчера - ayer
+- быстро - rapido
+- медленно - lento
+- 
 
 ## Pronombres
 - я - pronombre primera persona singular (yo)
@@ -161,11 +164,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYyMDE3Miw5NzcwMDcwNTksLTEzOT
-k2MzEzOTgsNzY0OTU0MjgxLC0yMTIzNTM4ODYzLC05MDUwNzAw
-MDgsNTEwNTY0ODM0LDQ0NzIxMjg0OCwxNjMzNDIyNzU2LC04Nz
-Y5MDQ4NDIsLTIwNTcwNjI0NSwtMTMxODMyMjY4MCwtNTc1Mjk4
-MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0LDU4MT
-g0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2NjYsLTM2ODE2MTY5
-M119
+eyJoaXN0b3J5IjpbLTIwMDc5NDM2MDAsOTc3MDA3MDU5LC0xMz
+k5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUzODg2MywtOTA1MDcw
+MDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMTYzMzQyMjc1NiwtOD
+c2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5
+ODE0MSw2MTIzMzc5NDgsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1OD
+E4NDY5MTUsLTEyMDYzMDk4MywxOTU0MzkyNjY2LC0zNjgxNjE2
+OTNdfQ==
 -->
