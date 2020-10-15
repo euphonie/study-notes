@@ -50,6 +50,12 @@ App Engine manages the hardware and networking infrastructure required to run co
 			- Persistent disks are needed
 			- Spiky or very low traffic, there are always two instances running
 - Automatically scales app in response to the traffic
+	- In app.yaml configuration options can be used
+		- Target_cpu_utilization
+		- Target_throughput_utilization
+		- Max_concurrent_requests
+		- Max_pending_latency
+		- Max_pendi
 - Provides
 	- No-SQL databases
 	- In-Memory caching
@@ -74,6 +80,6 @@ environment: flex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODQ2OTIwLC0xMDg1NzYzMjY0LDEzNj
-UwNjk3OV19
+eyJoaXN0b3J5IjpbNTAyODQzNzk2LDEwMTg0NjkyMCwtMTA4NT
+c2MzI2NCwxMzY1MDY5NzldfQ==
 -->
