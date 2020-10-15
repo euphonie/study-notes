@@ -165,14 +165,15 @@
 - обьясняет, el explica, 3era persona sing
 - понимать, entender, infinitivo
 - занимаюсь, estar haciendo, 1era personal sing
+- готовлю, preparando, 1era pers sing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQyNzQ4NzMsLTIwNTg1MzgyMDksOT
-c3MDA3MDU5LC0xMzk5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUz
-ODg2MywtOTA1MDcwMDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMT
-YzMzQyMjc1NiwtODc2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgz
-MjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5NDgsLTQ1Njk5MTI1OC
-wxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYzMDk4MywxOTU0Mzky
-NjY2XX0=
+eyJoaXN0b3J5IjpbMjA3MzQ0Njk1OCwtMjA1ODUzODIwOSw5Nz
+cwMDcwNTksLTEzOTk2MzEzOTgsNzY0OTU0MjgxLC0yMTIzNTM4
+ODYzLC05MDUwNzAwMDgsNTEwNTY0ODM0LDQ0NzIxMjg0OCwxNj
+MzNDIyNzU2LC04NzY5MDQ4NDIsLTIwNTcwNjI0NSwtMTMxODMy
+MjY4MCwtNTc1Mjk4MTQxLDYxMjMzNzk0OCwtNDU2OTkxMjU4LD
+EzNDA5NTQ0LDU4MTg0NjkxNSwtMTIwNjMwOTgzLDE5NTQzOTI2
+NjZdfQ==
 -->
