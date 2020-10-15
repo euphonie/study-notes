@@ -67,9 +67,14 @@ App Engine manages the hardware and networking infrastructure required to run co
 ## Traffic Splitting
 - 3 ways to split traffic
 	- IP address
-		- stickiness so all traffic from IP address are handled by some instances, if user
+		- stickiness so all traffic from IP address are handled by some instances, if user changes IP address it can have unexpected behaviour
 	- HTTP cookie
+		- Preferred method
+		- Cookie named GOOGAPPUID with hash value
+			- determines instance to route 
 	- Random selection
+		- Useful for stateless applications
+		- Useful when no cookie can be added
 
 # Scripts
 
@@ -87,6 +92,6 @@ environment: flex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTU1OTUyNjEsMTAxODQ2OTIwLC0xMD
-g1NzYzMjY0LDEzNjUwNjk3OV19
+eyJoaXN0b3J5IjpbMTc3ODk2NTY3MywxMDE4NDY5MjAsLTEwOD
+U3NjMyNjQsMTM2NTA2OTc5XX0=
 -->
