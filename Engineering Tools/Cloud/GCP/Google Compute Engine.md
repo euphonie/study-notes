@@ -173,7 +173,11 @@ Snapshots can be applied to running VMs. These can be kept as backups or use the
 	- Monitoring metrics
 	- Queue-based workload
 
-
+**Unmanaged instance groups**
+- Multiple possibly heterogeneous VMs
+- Used to apply load balancing across heterogeneous group of instances
+- In general, recommended for legacy clusters only
+- No autoscaling, autohealing, or auto-updating
 
 
 ## Preemptible VMs
@@ -245,7 +249,7 @@ sudo mount -o discard,defaults /dev/disk/by-id/google-minecraft-disk /home/minec
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU1MzY2MzI4LC0xNzA3NDczMTMyLDUxNT
+eyJoaXN0b3J5IjpbMjUwMzk5MDg4LC0xNzA3NDczMTMyLDUxNT
 Y4MjgzMCwtNjY5ODI4NjAwLDgxMDY5MDU3MywxMDgyNDU5OTg5
 LC0zNDQ2MTQ0NzksLTE0MzIzODE2MjgsLTE0NDc2OTk0MSwtND
 UyOTI1ODYxLDExMzQxMzE2MiwtNDU3MjAxOTc0LC0xNzIzODc1
