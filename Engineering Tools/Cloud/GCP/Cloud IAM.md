@@ -48,7 +48,7 @@ Collection of permissions. Grant roles to users, service accounts or groups.
 		- Invite members
 		- Remove members
 		- Delete Projects
-		- Setup billing, add/remove permissions
+		- Setup billing accounts (also Billing Project Manager role), add/remove permissions
 		- +editor, viewer
 	- **Editor**
 		- Deploy applications
@@ -238,6 +238,6 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDIzNjMxNSwtMTk1NzEzNzk1NiwxOD
-Y5NjU3NzY1LC0xMTQyMTk4MTg2XX0=
+eyJoaXN0b3J5IjpbLTU1OTU0NDA4NCwxNjc0MjM2MzE1LC0xOT
+U3MTM3OTU2LDE4Njk2NTc3NjUsLTExNDIxOTgxODZdfQ==
 -->
