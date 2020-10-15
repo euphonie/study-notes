@@ -137,6 +137,7 @@
 - domingo - (в) воскресенье
 - sabado, el sabado / суббота, в субботу 
 - jueves, (в) четверг
+- miercoles, el miercoles / среда, в среду
 - lunes - (в) понедельник
 
 ## Nombres
@@ -175,11 +176,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5Nzk0NzEsLTE5MzA5NzkwNjQsLTIwNT
-g1MzgyMDksOTc3MDA3MDU5LC0xMzk5NjMxMzk4LDc2NDk1NDI4
-MSwtMjEyMzUzODg2MywtOTA1MDcwMDA4LDUxMDU2NDgzNCw0ND
-cyMTI4NDgsMTYzMzQyMjc1NiwtODc2OTA0ODQyLC0yMDU3MDYy
-NDUsLTEzMTgzMjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5NDgsLT
-Q1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYzMDk4
-M119
+eyJoaXN0b3J5IjpbNjUwMTQ3MjQ1LDc3OTc5NDcxLC0xOTMwOT
+c5MDY0LC0yMDU4NTM4MjA5LDk3NzAwNzA1OSwtMTM5OTYzMTM5
+OCw3NjQ5NTQyODEsLTIxMjM1Mzg4NjMsLTkwNTA3MDAwOCw1MT
+A1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3NjkwNDg0
+MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgxNDEsNj
+EyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxODQ2OTE1
+XX0=
 -->
