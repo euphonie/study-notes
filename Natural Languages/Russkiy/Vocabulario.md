@@ -135,7 +135,7 @@
 
 ## Dias
 - domingo - (в) воскресенье
-- sabado, el sabado / ,в субботу 
+- sabado, el sabado / суббота, в субботу 
 
 
 ## Nombres
@@ -174,7 +174,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTMwMjgxMSwtMTkzMDk3OTA2NCwtMj
+eyJoaXN0b3J5IjpbMTk3MjM4OTc4MywtMTkzMDk3OTA2NCwtMj
 A1ODUzODIwOSw5NzcwMDcwNTksLTEzOTk2MzEzOTgsNzY0OTU0
 MjgxLC0yMTIzNTM4ODYzLC05MDUwNzAwMDgsNTEwNTY0ODM0LD
 Q0NzIxMjg0OCwxNjMzNDIyNzU2LC04NzY5MDQ4NDIsLTIwNTcw
