@@ -138,7 +138,7 @@
 - sabado, el sabado / суббота, в субботу 
 - jueves, (в) четверг
 - miercoles, el miercoles / среда, в среду
-- martes, el martes / 
+- martes, el martes / вторник, во вторник
 - lunes - (в) понедельник
 
 ## Nombres
@@ -177,11 +177,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5MjE1MjkyLDc3OTc5NDcxLC0xOTMwOT
-c5MDY0LC0yMDU4NTM4MjA5LDk3NzAwNzA1OSwtMTM5OTYzMTM5
-OCw3NjQ5NTQyODEsLTIxMjM1Mzg4NjMsLTkwNTA3MDAwOCw1MT
-A1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3NjkwNDg0
-MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgxNDEsNj
-EyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxODQ2OTE1
-XX0=
+eyJoaXN0b3J5IjpbMTAxMTI3ODAxOCw3Nzk3OTQ3MSwtMTkzMD
+k3OTA2NCwtMjA1ODUzODIwOSw5NzcwMDcwNTksLTEzOTk2MzEz
+OTgsNzY0OTU0MjgxLC0yMTIzNTM4ODYzLC05MDUwNzAwMDgsNT
+EwNTY0ODM0LDQ0NzIxMjg0OCwxNjMzNDIyNzU2LC04NzY5MDQ4
+NDIsLTIwNTcwNjI0NSwtMTMxODMyMjY4MCwtNTc1Mjk4MTQxLD
+YxMjMzNzk0OCwtNDU2OTkxMjU4LDEzNDA5NTQ0LDU4MTg0Njkx
+NV19
 -->
