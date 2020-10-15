@@ -164,11 +164,11 @@
 - рассказывать, narrar
 - обьясняет, el explica, 3era persona sing
 - понимать, entender, infinitivo
-- занимать, pedir prestado, infinitivo
+- занимаюсь, estar haciendo, 1era personal sing
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgwNDQ0ODEsLTIwNTg1MzgyMDksOT
+eyJoaXN0b3J5IjpbLTExNTQyNzQ4NzMsLTIwNTg1MzgyMDksOT
 c3MDA3MDU5LC0xMzk5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUz
 ODg2MywtOTA1MDcwMDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMT
 YzMzQyMjc1NiwtODc2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgz
