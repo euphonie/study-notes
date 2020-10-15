@@ -156,10 +156,11 @@
 - ужинать, tener cenar
 - повторять, infinitivo, repetir
 - готовить, preparar, infinitivo
+- смотреть, mirar algo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0NzE4MjYyLC0xMzk5NjMxMzk4LDc2ND
+eyJoaXN0b3J5IjpbOTc3MDA3MDU5LC0xMzk5NjMxMzk4LDc2ND
 k1NDI4MSwtMjEyMzUzODg2MywtOTA1MDcwMDA4LDUxMDU2NDgz
 NCw0NDcyMTI4NDgsMTYzMzQyMjc1NiwtODc2OTA0ODQyLC0yMD
 U3MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5
