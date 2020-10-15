@@ -136,7 +136,7 @@
 ## Dias
 - domingo - (в) воскресенье
 - sabado, el sabado / суббота, в субботу 
-
+- lunes - (в) понедельник
 
 ## Nombres
 - иван - ivan
@@ -174,11 +174,11 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjM4OTc4MywtMTkzMDk3OTA2NCwtMj
-A1ODUzODIwOSw5NzcwMDcwNTksLTEzOTk2MzEzOTgsNzY0OTU0
-MjgxLC0yMTIzNTM4ODYzLC05MDUwNzAwMDgsNTEwNTY0ODM0LD
-Q0NzIxMjg0OCwxNjMzNDIyNzU2LC04NzY5MDQ4NDIsLTIwNTcw
-NjI0NSwtMTMxODMyMjY4MCwtNTc1Mjk4MTQxLDYxMjMzNzk0OC
-wtNDU2OTkxMjU4LDEzNDA5NTQ0LDU4MTg0NjkxNSwtMTIwNjMw
-OTgzXX0=
+eyJoaXN0b3J5IjpbLTEyOTYwNzEzNTcsLTE5MzA5NzkwNjQsLT
+IwNTg1MzgyMDksOTc3MDA3MDU5LC0xMzk5NjMxMzk4LDc2NDk1
+NDI4MSwtMjEyMzUzODg2MywtOTA1MDcwMDA4LDUxMDU2NDgzNC
+w0NDcyMTI4NDgsMTYzMzQyMjc1NiwtODc2OTA0ODQyLC0yMDU3
+MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5ODE0MSw2MTIzMzc5ND
+gsLTQ1Njk5MTI1OCwxMzQwOTU0NCw1ODE4NDY5MTUsLTEyMDYz
+MDk4M119
 -->
