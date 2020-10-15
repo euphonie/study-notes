@@ -48,6 +48,7 @@
 - предложение - sentence
 - глаголы, verbos
 - учебник - libro de texto
+- глаголы - verbos
 
 ### Números
 - сто - cién
@@ -166,7 +167,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU3NDIzNDUsOTc3MDA3MDU5LC0xMz
+eyJoaXN0b3J5IjpbLTIwNTg1MzgyMDksOTc3MDA3MDU5LC0xMz
 k5NjMxMzk4LDc2NDk1NDI4MSwtMjEyMzUzODg2MywtOTA1MDcw
 MDA4LDUxMDU2NDgzNCw0NDcyMTI4NDgsMTYzMzQyMjc1NiwtOD
 c2OTA0ODQyLC0yMDU3MDYyNDUsLTEzMTgzMjI2ODAsLTU3NTI5
