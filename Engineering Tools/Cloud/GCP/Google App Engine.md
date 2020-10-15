@@ -55,7 +55,7 @@ App Engine manages the hardware and networking infrastructure required to run co
 		- Target_throughput_utilization
 		- Max_concurrent_requests
 		- Max_pending_latency
-		- Max_pendi
+		- Min_pending_latency
 - Provides
 	- No-SQL databases
 	- In-Memory caching
@@ -63,6 +63,13 @@ App Engine manages the hardware and networking infrastructure required to run co
 	- Health Checks
 	- Logging
 	- Authentication
+
+## Traffic Splitting
+- 3 ways to split traffic
+	- IP address
+		- stickiness so all traffic from IP address are handled by some instances, if user
+	- HTTP cookie
+	- Random selection
 
 # Scripts
 
@@ -80,6 +87,6 @@ environment: flex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyODQzNzk2LDEwMTg0NjkyMCwtMTA4NT
-c2MzI2NCwxMzY1MDY5NzldfQ==
+eyJoaXN0b3J5IjpbLTE1OTU1OTUyNjEsMTAxODQ2OTIwLC0xMD
+g1NzYzMjY0LDEzNjUwNjk3OV19
 -->
