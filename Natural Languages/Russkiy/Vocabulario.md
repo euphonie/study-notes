@@ -175,14 +175,15 @@
 - понимать, entender, infinitivo
 - занимаюсь, estar haciendo, 1era personal sing
 - готовлю, preparando, 1era pers sing
+- проверять, infinitivo, comprobar verificar
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1Mjc5MzEwLDc3OTc5NDcxLC0xOTMwOT
-c5MDY0LC0yMDU4NTM4MjA5LDk3NzAwNzA1OSwtMTM5OTYzMTM5
-OCw3NjQ5NTQyODEsLTIxMjM1Mzg4NjMsLTkwNTA3MDAwOCw1MT
-A1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3NTYsLTg3NjkwNDg0
-MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC01NzUyOTgxNDEsNj
-EyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1NDQsNTgxODQ2OTE1
-XX0=
+eyJoaXN0b3J5IjpbLTE4MTkyNjg2MzEsNTM1Mjc5MzEwLDc3OT
+c5NDcxLC0xOTMwOTc5MDY0LC0yMDU4NTM4MjA5LDk3NzAwNzA1
+OSwtMTM5OTYzMTM5OCw3NjQ5NTQyODEsLTIxMjM1Mzg4NjMsLT
+kwNTA3MDAwOCw1MTA1NjQ4MzQsNDQ3MjEyODQ4LDE2MzM0MjI3
+NTYsLTg3NjkwNDg0MiwtMjA1NzA2MjQ1LC0xMzE4MzIyNjgwLC
+01NzUyOTgxNDEsNjEyMzM3OTQ4LC00NTY5OTEyNTgsMTM0MDk1
+NDRdfQ==
 -->
