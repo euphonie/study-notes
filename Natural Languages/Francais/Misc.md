@@ -293,13 +293,16 @@ Les difficultés
 - déraciné
 - rompre le passé
 
+Reflexif
+- tomber, naître, partir, rester, venir, mourir, sortir, aller
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMj
-I2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIw
-NDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMz
-Y2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4NTAx
-LDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOT
-MyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4
-OTI1XX0=
+eyJoaXN0b3J5IjpbLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3Nj
+EwMzczNjYsMTQwMjI2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4
+LDczNzQ3MTYwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5Mj
+EzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1
+MywxNTIwNjI4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtOD
+EzMjcxNTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0
+MDcyOF19
 -->
