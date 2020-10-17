@@ -90,7 +90,8 @@ Fully distributed and software-defined managed service for all the traffic. They
 		- Internal HTTP(S)
 		- Internal TCP/UDP
 			- Andromeda
-			- Maglev
+		- Network TCP/UDP
+			- Maglev. Distributed software system
 	- Global options
 		- Global HTTP(S). Based on load, can route diff URLs to diff backends
 		- Global SSL Proxy. non-HTTPS SSL traffic supported on specific ports
@@ -175,11 +176,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODg0ODY5Nyw0NTAzNDgzMDEsMTg3MD
-E2MzE2OSwtMTkwNjkyNzU0LC0xNDY3NjgwOTU4LDE1NDU5NDky
-NzYsMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MTEwMDYsNjk5OT
-I2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwtMTM1NzQ5MTU1
-OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEwMCwxNz
-Q5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgz
-NzldfQ==
+eyJoaXN0b3J5IjpbMTE3NTE0NzI2LDQ1MDM0ODMwMSwxODcwMT
+YzMTY5LC0xOTA2OTI3NTQsLTE0Njc2ODA5NTgsMTU0NTk0OTI3
+NiwyODUzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5Mj
+YzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5
+LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3ND
+kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
+OV19
 -->
