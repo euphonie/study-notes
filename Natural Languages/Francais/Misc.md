@@ -336,13 +336,27 @@ Verbes exprimant le goût: aimer, adorer, détester, préferer
 - Sans aucun doute, Elle travaille sans jamais se plaindre, Il vit sans rien
 - J'ait fait un gâteau sans beurre ni sucre
 
+Phrases
+- Famili
+	- Moi non
+	- Jamais de la vie
+	- Jamais plus = plus jamais
+	- Hors de question
+	- Certainement pas 
+	- Absolument pas
+	- Bien sûr que non
+	- Oh que non
+	- Plus jamais ca
+	- Pour rien au monde
+- Complexes
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTQ1NjI3OCwxNTk2NjIxNTE1LDYyNz
-EzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2
-NiwxNDAyMjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3ND
-cxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMs
-LTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIyMjUzLDE1Mj
-A2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC04MTMyNzE1
-NDBdfQ==
+eyJoaXN0b3J5IjpbMjAwNzM4NzcsMTU5NjYyMTUxNSw2MjcxMz
+A5MzgsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYs
+MTQwMjI2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MT
+YwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0y
+MDExMzY2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNj
+I4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQw
+XX0=
 -->
