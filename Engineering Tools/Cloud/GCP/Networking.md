@@ -101,6 +101,16 @@ Fully distributed and software-defined managed service for all the traffic. They
 	- users, traffic, backend health, network conditions and others
 - No pre-warnings for pikes in traffic
 
+**Balancing**
+- HTTP(S) Load balancing
+	- Global load balancing
+	- anycast IP Address
+	- HTTP multiple regions
+	- HTTP: 80, 8080; HTTPS: 443
+	- IPv4, IPv6
+	- Autoscalin
+	- URL maps
+
 ## Cloud DNS
 
 Create managed zones, then add, edit, delete DNS records. DNS translates internet host names to addresses.
@@ -176,11 +186,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTE0NzI2LDQ1MDM0ODMwMSwxODcwMT
-YzMTY5LC0xOTA2OTI3NTQsLTE0Njc2ODA5NTgsMTU0NTk0OTI3
-NiwyODUzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5Mj
-YzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5
-LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3ND
-kxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5MjEsMTY1NDE2ODM3
-OV19
+eyJoaXN0b3J5IjpbLTE2MDQwNTc1MTMsMTE3NTE0NzI2LDQ1MD
+M0ODMwMSwxODcwMTYzMTY5LC0xOTA2OTI3NTQsLTE0Njc2ODA5
+NTgsMTU0NTk0OTI3NiwyODUzNjMzODYsMzk5NDY5NDIsLTQ2OT
+UxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2
+LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMT
+UyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5
+MjFdfQ==
 -->
