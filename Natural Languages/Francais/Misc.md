@@ -337,7 +337,7 @@ Verbes exprimant le goût: aimer, adorer, détester, préferer
 - J'ait fait un gâteau sans beurre ni sucre
 
 Phrases
-- Famili
+- Familières
 	- Moi non
 	- Jamais de la vie
 	- Jamais plus = plus jamais
@@ -349,14 +349,18 @@ Phrases
 	- Plus jamais ca
 	- Pour rien au monde
 - Complexes
+	- Plus personne ne voudra jamais lui faire confiance
+	- Il n'a jamais rien compris
+	- Rien ne va plus
+	- Je n'y comprends plus rien
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzM4NzcsMTU5NjYyMTUxNSw2MjcxMz
-A5MzgsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYs
-MTQwMjI2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MT
-YwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0y
-MDExMzY2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNj
-I4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQw
-XX0=
+eyJoaXN0b3J5IjpbMTIyNzQ2NDQxNCwxNTk2NjIxNTE1LDYyNz
+EzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2
+NiwxNDAyMjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3ND
+cxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMs
+LTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIyMjUzLDE1Mj
+A2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC04MTMyNzE1
+NDBdfQ==
 -->
