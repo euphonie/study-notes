@@ -315,10 +315,13 @@ CO et PO
 1. Ne que = seulement
 	2. Je ne lis que des policiers = je lis seulement des policiers
 2. N'avoir qu'à + infinitif 
+	3. Tu es fatigué? Tu n'as qu'à dormir
+3. Rien que = infinitif = cetter expression restrictive signifie
+	4. Rien q'à la voir, j'ai compris qu
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODU4ODQ3NCw2MjcxMzA5MzgsLTEyNT
+eyJoaXN0b3J5IjpbMTQ5MTQ1NjYyNCw2MjcxMzA5MzgsLTEyNT
 Y3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEy
 LDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIwNDY3Nz
 M1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMs
