@@ -271,13 +271,24 @@ Example:
 - Se serrer la ceinture. faire des économies sur tout
 - Tailler un costard à quelqu'un. Dire du mal de quelqu'un.
 
+## L'immigration
+
+- s'établir
+- prendre un nouveu départ
+- s'adapte à
+- s'intégrer (à)
+- adaptation à
+- difficultés d'adaptation
+- un climat xénophobe
+L'attrait
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MD
-g5MjcsMTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2NzczNTEsLTE4
-Nzc3OTY5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NT
-g5MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0OTAs
-LTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNz
-M3MzEwOTksLTE4NDgyNDA3MjgsMjA5Mzc3ODkyNSwtNDg3MTU5
-MDU1XX0=
+eyJoaXN0b3J5IjpbLTE2MTA0MTQ2NCw3NjEwMzczNjYsMTQwMj
+I2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIw
+NDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMz
+Y2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4NTAx
+LDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOT
+MyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0MDcyOCwyMDkzNzc4
+OTI1XX0=
 -->
