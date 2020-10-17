@@ -87,7 +87,11 @@ Fully distributed and software-defined managed service for all the traffic. They
 		- Any traffic (UDP, TCP), supported on any port number
 	- Regional Internal
 		- Traffic inside VPC, used for internal tiers of multi-tier applications
-	- Regional options
+		- Internal HTTP(S)
+		- Internal TCP/UDP
+			- Andromeda
+			- Maglev
+	- Global options
 		- Global HTTP(S). Based on load, can route diff URLs to diff backends
 		- Global SSL Proxy. non-HTTPS SSL traffic supported on specific ports
 		- Global TCP Proxy. non-SSL TCP traffic, supported on specific ports
@@ -171,11 +175,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwMzQ4MzAxLDE4NzAxNjMxNjksLTE5MD
-Y5Mjc1NCwtMTQ2NzY4MDk1OCwxNTQ1OTQ5Mjc2LDI4NTM2MzM4
-NiwzOTk0Njk0MiwtNDY5NTExMDA2LDY5OTkyNjM3MiwtNDY5NT
-ExMDA2LC0zNzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Njc3MTYw
-MjksMTYxMjAyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkzMSwtND
-cwMTg5NzcsMTI1NTA5MjkyMSwxNjU0MTY4Mzc5LDEyODAyNDg4
-MzldfQ==
+eyJoaXN0b3J5IjpbLTgxODg0ODY5Nyw0NTAzNDgzMDEsMTg3MD
+E2MzE2OSwtMTkwNjkyNzU0LC0xNDY3NjgwOTU4LDE1NDU5NDky
+NzYsMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MTEwMDYsNjk5OT
+I2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwtMTM1NzQ5MTU1
+OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEwMCwxNz
+Q5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIxLDE2NTQxNjgz
+NzldfQ==
 -->
