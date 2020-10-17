@@ -296,13 +296,25 @@ Les difficultés
 Reflexif
 - tomber, naître, partir, rester, venir, mourir, sortir, aller
 
+Négation
+- ne-pas
+- ne-jamais
+- ne-personne
+- ne-rien
+- ne-nulle part
+- ne-aucun
+- ne-toujours pas
+- ne-pas du tout
+- ne-pas encore
+- ne-pas de
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3Nj
-EwMzczNjYsMTQwMjI2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4
-LDczNzQ3MTYwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5Mj
-EzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1
-MywxNTIwNjI4NTAxLDU0NjIwMTQ5MCwtMTQ1NzUyNzc3MCwtOD
-EzMjcxNTQwLC0zOTMyNTYzMjksMTE3MzczMTA5OSwtMTg0ODI0
-MDcyOF19
+eyJoaXN0b3J5IjpbOTY0NjYwMzg1LC0xMjU2NzEyMzQxLDE4NT
+A0NDcxNTAsNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MDg5Mjcs
+MTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2NzczNTEsLTE4Nzc3OT
+Y5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NTg5MTQz
+LC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0OTAsLTE0NT
+c1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNzM3MzEw
+OTldfQ==
 -->
