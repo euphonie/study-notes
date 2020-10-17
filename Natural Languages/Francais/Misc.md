@@ -333,11 +333,12 @@ Verbes exprimant le goût: aimer, adorer, détester, préferer
 - Il est venu sans femme
 - Elle est venue sans lui
 - Il est resté là sans bouger
-- Sans aucun doute, Elle travaille sans jamais se
+- Sans aucun doute, Elle travaille sans jamais se plaindre, Il vit sans rien
+- J'ait fait un gâteau sans beurre ni sucre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDg0MjgzMiwxNTk2NjIxNTE1LDYyNz
+eyJoaXN0b3J5IjpbMTA1OTQ1NjI3OCwxNTk2NjIxNTE1LDYyNz
 EzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2
 NiwxNDAyMjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3ND
 cxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMs
