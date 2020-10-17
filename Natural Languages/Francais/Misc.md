@@ -322,15 +322,20 @@ CO et PO
 	5. Rian qu'à son regard, j'ai deviné qu'elle avait perdu
 
 Ni..ni
+Je ne mange ni viande, ni poisson. Ni toi ni moi ne pouvons l'aider.
+
+après ni il n'ya pas d'article sauf pour les verbes exprimant le goût
 Je n'aime ni la viande ni le poisson
+
+Verbes exprimant le goût: aimer, adorer, détester, préferer
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjcwMzU2NjgsNjI3MTMwOTM4LC0xMj
-U2NzEyMzQxLDE4NTA0NDcxNTAsNzYxMDM3MzY2LDE0MDIyNjAx
-Miw0MzY0MDg5MjcsMTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2Nz
-czNTEsLTE4Nzc3OTY5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUz
-LC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1ND
-YyMDE0OTAsLTE0NTc1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2
-MzI5XX0=
+eyJoaXN0b3J5IjpbMTU5NjYyMTUxNSw2MjcxMzA5MzgsLTEyNT
+Y3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEy
+LDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIwNDY3Nz
+M1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMs
+LTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0Nj
+IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
+MjldfQ==
 -->
