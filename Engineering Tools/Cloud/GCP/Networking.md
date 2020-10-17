@@ -108,8 +108,11 @@ Fully distributed and software-defined managed service for all the traffic. They
 	- HTTP multiple regions
 	- HTTP: 80, 8080; HTTPS: 443
 	- IPv4, IPv6
-	- Autoscalin
+	- Autoscaling and no pre-warming
 	- URL maps
+	- Requests are routed to the closest instanced group to the user
+	- Arch
+		- Internet > Global Forwarding Rule > Target Proxy > URL Map > Backend Service > Instance groups
 
 ## Cloud DNS
 
@@ -186,11 +189,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQwNTc1MTMsMTE3NTE0NzI2LDQ1MD
-M0ODMwMSwxODcwMTYzMTY5LC0xOTA2OTI3NTQsLTE0Njc2ODA5
-NTgsMTU0NTk0OTI3NiwyODUzNjMzODYsMzk5NDY5NDIsLTQ2OT
-UxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2
-LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMT
-UyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3LDEyNTUwOTI5
-MjFdfQ==
+eyJoaXN0b3J5IjpbMTk3NTM4MDMwMCwxMTc1MTQ3MjYsNDUwMz
+Q4MzAxLDE4NzAxNjMxNjksLTE5MDY5Mjc1NCwtMTQ2NzY4MDk1
+OCwxNTQ1OTQ5Mjc2LDI4NTM2MzM4NiwzOTk0Njk0MiwtNDY5NT
+ExMDA2LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0zNzQwOTk2MjYs
+LTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMTYxMjAyMjYzLDExNT
+I3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5NzcsMTI1NTA5Mjky
+MV19
 -->
