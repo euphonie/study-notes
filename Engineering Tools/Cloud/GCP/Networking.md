@@ -113,6 +113,12 @@ Fully distributed and software-defined managed service for all the traffic. They
 	- Requests are routed to the closest instanced group to the user
 	- Arch
 		- Internet > Global Forwarding Rule > Target Proxy > URL Map > Backend Service > Instance groups
+	- Backend Services
+		- Health check to know if it should route request
+		- Session affinity to keep communication between same client and service
+		- Round-robin assignment
+		- Time out setting (30 sec)
+		- 
 
 ## Cloud DNS
 
@@ -189,11 +195,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTM4MDMwMCwxMTc1MTQ3MjYsNDUwMz
-Q4MzAxLDE4NzAxNjMxNjksLTE5MDY5Mjc1NCwtMTQ2NzY4MDk1
-OCwxNTQ1OTQ5Mjc2LDI4NTM2MzM4NiwzOTk0Njk0MiwtNDY5NT
-ExMDA2LDY5OTkyNjM3MiwtNDY5NTExMDA2LC0zNzQwOTk2MjYs
-LTEzNTc0OTE1NTksLTE1Njc3MTYwMjksMTYxMjAyMjYzLDExNT
-I3NTYxMDAsMTc0OTE5NTkzMSwtNDcwMTg5NzcsMTI1NTA5Mjky
-MV19
+eyJoaXN0b3J5IjpbODAyNjcyNTYwLDExNzUxNDcyNiw0NTAzND
+gzMDEsMTg3MDE2MzE2OSwtMTkwNjkyNzU0LC0xNDY3NjgwOTU4
+LDE1NDU5NDkyNzYsMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MT
+EwMDYsNjk5OTI2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwt
+MTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mj
+c1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIx
+XX0=
 -->
