@@ -310,13 +310,19 @@ Négation
 
 Ne nécessaire d'utiliser pas avec: oser, savoir, cesser et pouvoir
 
+CO et PO
+
+1. Ne que = seulement
+	2. Je ne lis que des policiers = je lis seulement des policiers
+2. N'avoir qu'à + infinitif 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2MDM3Mzc5LDYyNzEzMDkzOCwtMTI1Nj
-cxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMjYwMTIs
-NDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3Mz
-UxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1Mywt
-MTk3NTU4OTE0MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2Mj
-AxNDkwLC0xNDU3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMy
-OV19
+eyJoaXN0b3J5IjpbMTgzODU4ODQ3NCw2MjcxMzA5MzgsLTEyNT
+Y3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEy
+LDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIwNDY3Nz
+M1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMs
+LTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0Nj
+IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
+MjldfQ==
 -->
