@@ -308,13 +308,15 @@ Négation
 - ne-pas encore. je n'ai pas encore pris une décision
 - ne-pas de, je n'ai pas de vin
 
+Ne nécessaire d'utiliser pas avec: oser, savoir, cesser et pouvoir
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3MTMwOTM4LC0xMjU2NzEyMzQxLDE4NT
-A0NDcxNTAsNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MDg5Mjcs
-MTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2NzczNTEsLTE4Nzc3OT
-Y5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NTg5MTQz
-LC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0OTAsLTE0NT
-c1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNzM3MzEw
-OTldfQ==
+eyJoaXN0b3J5IjpbNjA2MDM3Mzc5LDYyNzEzMDkzOCwtMTI1Nj
+cxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMjYwMTIs
+NDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3Mz
+UxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1Mywt
+MTk3NTU4OTE0MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2Mj
+AxNDkwLC0xNDU3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMy
+OV19
 -->
