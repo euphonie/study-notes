@@ -281,10 +281,21 @@ Example:
 - difficultés d'adaptation
 - un climat xénophobe
 L'attrait
+- désirer ardemment
+- le rêve de toute une vie
+- réaliser un rêve
+- accomplir un rêve (concrétiser)
+Les causes
+- chercher une vie meilleure
+- améliorer les conditions d'existence
+Les difficultés
+- surmonter les difficultés
+- déraciné
+- rompre le passé
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTA0MTQ2NCw3NjEwMzczNjYsMTQwMj
+eyJoaXN0b3J5IjpbMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMj
 I2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIw
 NDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMz
 Y2NTMsLTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4NTAx
