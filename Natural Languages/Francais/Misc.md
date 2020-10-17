@@ -302,15 +302,15 @@ Négation
 - ne-personne
 - ne-rien
 - ne-nulle part
-- ne-aucun. 
-- ne-toujours pas
-- ne-pas du tout
-- ne-pas encore
+- ne-aucun. je n'ai aucun problème
+- ne-toujours pas. je ne comprends toujours pas l'exercice
+- ne-pas du tout. je ne connais pas du tout le Japon
+- ne-pas encore. je n'ai pas encore pris une d
 - ne-pas de
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NjEwMTY3NywtMTI1NjcxMjM0MSwxOD
+eyJoaXN0b3J5IjpbMTU4NzUwMDU4NiwtMTI1NjcxMjM0MSwxOD
 UwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMjYwMTIsNDM2NDA4OTI3
 LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nz
 k2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0
