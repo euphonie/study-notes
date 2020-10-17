@@ -293,10 +293,10 @@ Les difficultés
 - déraciné
 - rompre le passé
 
-Reflexif
+**Reflexif**
 - tomber, naître, partir, rester, venir, mourir, sortir, aller
 
-Négation
+**Négation**
 - ne-pas
 - ne-jamais
 - ne-personne
@@ -310,7 +310,7 @@ Négation
 
 Ne nécessaire d'utiliser pas avec: oser, savoir, cesser et pouvoir
 
-CO et PO
+**CO et PO**
 
 1. Ne que = seulement
 	2. Je ne lis que des policiers = je lis seulement des policiers
@@ -321,7 +321,7 @@ CO et PO
 4. Rien qu' + à + déterminant + nom
 	5. Rian qu'à son regard, j'ai deviné qu'elle avait perdu
 
-Ni..ni
+**Ni..ni**
 Je ne mange ni viande, ni poisson. Ni toi ni moi ne pouvons l'aider.
 
 après ni il n'ya pas d'article sauf pour les verbes exprimant le goût
@@ -329,13 +329,19 @@ Je n'aime ni la viande ni le poisson
 
 Verbes exprimant le goût: aimer, adorer, détester, préferer
 
+**Sans - la négation d' avec**
+- Il est venu sans femme
+- Elle est venue sans lui
+- Il est resté là sans bouger
+- Sans aucun doute, Elle travaille sans jamais se
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjYyMTUxNSw2MjcxMzA5MzgsLTEyNT
-Y3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEy
-LDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIwNDY3Nz
-M1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMs
-LTE5NzU1ODkxNDMsLTI2MjEyMjI1MywxNTIwNjI4NTAxLDU0Nj
-IwMTQ5MCwtMTQ1NzUyNzc3MCwtODEzMjcxNTQwLC0zOTMyNTYz
-MjldfQ==
+eyJoaXN0b3J5IjpbLTEzNDg0MjgzMiwxNTk2NjIxNTE1LDYyNz
+EzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2
+NiwxNDAyMjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3ND
+cxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMs
+LTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIyMjUzLDE1Mj
+A2Mjg1MDEsNTQ2MjAxNDkwLC0xNDU3NTI3NzcwLC04MTMyNzE1
+NDBdfQ==
 -->
