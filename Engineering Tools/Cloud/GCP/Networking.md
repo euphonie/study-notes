@@ -118,7 +118,7 @@ Fully distributed and software-defined managed service for all the traffic. They
 		- Session affinity to keep communication between same client and service
 		- Round-robin assignment
 		- Time out setting (30 sec)
-		- 
+		- If no healthy backend services in a region the load balancers sends the request to the next closest region
 
 ## Cloud DNS
 
@@ -195,11 +195,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAyNjcyNTYwLDExNzUxNDcyNiw0NTAzND
-gzMDEsMTg3MDE2MzE2OSwtMTkwNjkyNzU0LC0xNDY3NjgwOTU4
-LDE1NDU5NDkyNzYsMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MT
-EwMDYsNjk5OTI2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwt
-MTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mj
-c1NjEwMCwxNzQ5MTk1OTMxLC00NzAxODk3NywxMjU1MDkyOTIx
+eyJoaXN0b3J5IjpbMTA0NzgzMjkyNiw4MDI2NzI1NjAsMTE3NT
+E0NzI2LDQ1MDM0ODMwMSwxODcwMTYzMTY5LC0xOTA2OTI3NTQs
+LTE0Njc2ODA5NTgsMTU0NTk0OTI3NiwyODUzNjMzODYsMzk5ND
+Y5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwt
+Mzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MT
+IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
 XX0=
 -->
