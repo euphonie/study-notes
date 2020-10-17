@@ -302,7 +302,7 @@ Négation
 - ne-personne
 - ne-rien
 - ne-nulle part
-- ne-aucun
+- ne-aucun. 
 - ne-toujours pas
 - ne-pas du tout
 - ne-pas encore
@@ -310,11 +310,11 @@ Négation
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY0NjYwMzg1LC0xMjU2NzEyMzQxLDE4NT
-A0NDcxNTAsNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MDg5Mjcs
-MTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2NzczNTEsLTE4Nzc3OT
-Y5NjAsMTgyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NTg5MTQz
-LC0yNjIxMjIyNTMsMTUyMDYyODUwMSw1NDYyMDE0OTAsLTE0NT
-c1Mjc3NzAsLTgxMzI3MTU0MCwtMzkzMjU2MzI5LDExNzM3MzEw
-OTldfQ==
+eyJoaXN0b3J5IjpbLTM0NjEwMTY3NywtMTI1NjcxMjM0MSwxOD
+UwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMjYwMTIsNDM2NDA4OTI3
+LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nz
+k2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0
+MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAxNDkwLC0xND
+U3NTI3NzcwLC04MTMyNzE1NDAsLTM5MzI1NjMyOSwxMTczNzMx
+MDk5XX0=
 -->
