@@ -119,6 +119,14 @@ Fully distributed and software-defined managed service for all the traffic. They
 		- Round-robin assignment
 		- Time out setting (30 sec)
 		- If no healthy backend services in a region the load balancers sends the request to the next closest region
+- SSL Proxy load balancing
+	- Global
+	- Terminates SSL session at load balancing layer
+	- IPv4 or IPv6
+	- Intelligent routing
+	- Certificate management
+	- Security Patching
+	- SSL policies
 
 ## Cloud DNS
 
@@ -195,11 +203,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NzgzMjkyNiw4MDI2NzI1NjAsMTE3NT
-E0NzI2LDQ1MDM0ODMwMSwxODcwMTYzMTY5LC0xOTA2OTI3NTQs
-LTE0Njc2ODA5NTgsMTU0NTk0OTI3NiwyODUzNjMzODYsMzk5ND
-Y5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIsLTQ2OTUxMTAwNiwt
-Mzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNTY3NzE2MDI5LDE2MT
-IwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5MzEsLTQ3MDE4OTc3
-XX0=
+eyJoaXN0b3J5IjpbLTIxMjY2OTU0MDcsMTA0NzgzMjkyNiw4MD
+I2NzI1NjAsMTE3NTE0NzI2LDQ1MDM0ODMwMSwxODcwMTYzMTY5
+LC0xOTA2OTI3NTQsLTE0Njc2ODA5NTgsMTU0NTk0OTI3NiwyOD
+UzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIs
+LTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNT
+Y3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5
+MzFdfQ==
 -->
