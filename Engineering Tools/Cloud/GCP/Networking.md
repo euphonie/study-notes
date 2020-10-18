@@ -127,6 +127,12 @@ Fully distributed and software-defined managed service for all the traffic. They
 	- Certificate management
 	- Security Patching
 	- SSL policies
+- TCP Proxy load balancing
+- Global
+- terminates tcp session at load balancing layer
+- IPv4 or IPv6
+- Intelligent router
+- Security Patching
 
 ## Cloud DNS
 
@@ -203,11 +209,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjY2OTU0MDcsMTA0NzgzMjkyNiw4MD
-I2NzI1NjAsMTE3NTE0NzI2LDQ1MDM0ODMwMSwxODcwMTYzMTY5
-LC0xOTA2OTI3NTQsLTE0Njc2ODA5NTgsMTU0NTk0OTI3NiwyOD
-UzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2OTk5MjYzNzIs
-LTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3NDkxNTU5LC0xNT
-Y3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAwLDE3NDkxOTU5
-MzFdfQ==
+eyJoaXN0b3J5IjpbMTQ5NDk2MTM5OSwxMDQ3ODMyOTI2LDgwMj
+Y3MjU2MCwxMTc1MTQ3MjYsNDUwMzQ4MzAxLDE4NzAxNjMxNjks
+LTE5MDY5Mjc1NCwtMTQ2NzY4MDk1OCwxNTQ1OTQ5Mjc2LDI4NT
+M2MzM4NiwzOTk0Njk0MiwtNDY5NTExMDA2LDY5OTkyNjM3Miwt
+NDY5NTExMDA2LC0zNzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Nj
+c3MTYwMjksMTYxMjAyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkz
+MV19
 -->
