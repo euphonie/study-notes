@@ -249,15 +249,21 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 - Use Cloud Audit Logging and export logs to Cloud Storage to monitor changes to policies
 - Set organization-level IAM policies
 - Grant roles to a Google group when possible
+	- Update group membership instead of changing Cloud IAM policy
+	- Audit mem
 - use different service accounts for different functions
 - use custom roles sparingly
+- Use projects to group resources that share the same trust boundary
+- Audit policies in Cloud audit logs: `setiampolicy`
+- Audit membership of groups used in policies
 - permissions can't be assigned to identities
 - Define a resource hierarchy
 - Use pre-defined roles preferably
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTQzMDg2OCwtMTc2ODg4NzY4NSwyOT
-U3OTcxNzMsLTU1OTU0NDA4NCwxNjc0MjM2MzE1LC0xOTU3MTM3
-OTU2LDE4Njk2NTc3NjUsLTExNDIxOTgxODZdfQ==
+eyJoaXN0b3J5IjpbLTE1MzE0MDYzODYsMTQ0OTQzMDg2OCwtMT
+c2ODg4NzY4NSwyOTU3OTcxNzMsLTU1OTU0NDA4NCwxNjc0MjM2
+MzE1LC0xOTU3MTM3OTU2LDE4Njk2NTc3NjUsLTExNDIxOTgxOD
+ZdfQ==
 -->
