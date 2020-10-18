@@ -151,6 +151,8 @@ Fully distributed and software-defined managed service for all the traffic. They
 		- Reduced latency, simpler configuration
 		- Software-defined, fully distributed load balancing
 
+
+
 ## Cloud DNS
 
 Create managed zones, then add, edit, delete DNS records. DNS translates internet host names to addresses.
@@ -226,11 +228,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODY2MDQ2NiwxMDQ3ODMyOTI2LDgwMj
-Y3MjU2MCwxMTc1MTQ3MjYsNDUwMzQ4MzAxLDE4NzAxNjMxNjks
-LTE5MDY5Mjc1NCwtMTQ2NzY4MDk1OCwxNTQ1OTQ5Mjc2LDI4NT
-M2MzM4NiwzOTk0Njk0MiwtNDY5NTExMDA2LDY5OTkyNjM3Miwt
-NDY5NTExMDA2LC0zNzQwOTk2MjYsLTEzNTc0OTE1NTksLTE1Nj
-c3MTYwMjksMTYxMjAyMjYzLDExNTI3NTYxMDAsMTc0OTE5NTkz
-MV19
+eyJoaXN0b3J5IjpbODUyNDUxMjIyLDE5NDg2NjA0NjYsMTA0Nz
+gzMjkyNiw4MDI2NzI1NjAsMTE3NTE0NzI2LDQ1MDM0ODMwMSwx
+ODcwMTYzMTY5LC0xOTA2OTI3NTQsLTE0Njc2ODA5NTgsMTU0NT
+k0OTI3NiwyODUzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2
+OTk5MjYzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3ND
+kxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAw
+XX0=
 -->
