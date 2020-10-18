@@ -24,6 +24,8 @@ IAM lets administrators authorize who can take action on specific resources. Is 
 	- Defined by an IAM role (a collection of permissions)
 - **On which resource**
 
+**G**
+
 ## Permissions
 
 Specify what operations are allowed on resources
@@ -244,7 +246,7 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg4ODc2ODUsMjk1Nzk3MTczLC01NT
-k1NDQwODQsMTY3NDIzNjMxNSwtMTk1NzEzNzk1NiwxODY5NjU3
-NzY1LC0xMTQyMTk4MTg2XX0=
+eyJoaXN0b3J5IjpbLTE2NDU4MjgyODAsLTE3Njg4ODc2ODUsMj
+k1Nzk3MTczLC01NTk1NDQwODQsMTY3NDIzNjMxNSwtMTk1NzEz
+Nzk1NiwxODY5NjU3NzY1LC0xMTQyMTk4MTg2XX0=
 -->
