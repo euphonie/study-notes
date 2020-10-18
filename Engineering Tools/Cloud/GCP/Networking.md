@@ -128,11 +128,17 @@ Fully distributed and software-defined managed service for all the traffic. They
 	- Security Patching
 	- SSL policies
 - TCP Proxy load balancing
-- Global
-- terminates tcp session at load balancing layer
-- IPv4 or IPv6
-- Intelligent router
-- Security Patching
+	- Global
+	- terminates tcp session at load balancing layer
+	- IPv4 or IPv6
+	- Intelligent router
+	- Security Patching
+- Network load balancing
+	- Regional, non-proxied load balancer
+	- Forwarding rules based IP protocol data
+	- UDP, TCP/SSL 
+	- Backends: Instance Group, Target pool resource
+		- Target Pool resources group of instances that rece
 
 ## Cloud DNS
 
@@ -209,7 +215,7 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDk2MTM5OSwxMDQ3ODMyOTI2LDgwMj
+eyJoaXN0b3J5IjpbMjAxMDEzOTQ1OSwxMDQ3ODMyOTI2LDgwMj
 Y3MjU2MCwxMTc1MTQ3MjYsNDUwMzQ4MzAxLDE4NzAxNjMxNjks
 LTE5MDY5Mjc1NCwtMTQ2NzY4MDk1OCwxNTQ1OTQ5Mjc2LDI4NT
 M2MzM4NiwzOTk0Njk0MiwtNDY5NTExMDA2LDY5OTkyNjM3Miwt
