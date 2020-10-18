@@ -138,7 +138,18 @@ Fully distributed and software-defined managed service for all the traffic. They
 	- Forwarding rules based IP protocol data
 	- UDP, TCP/SSL 
 	- Backends: Instance Group, Target pool resource
-		- Target Pool resources group of instances that rece
+		- Target Pool resources group of instances that receive incoming traffic from forwarding rules
+			- only works with forwarding rules (TCP/UDP)
+			- Up to 50 per project
+			- One health check
+			- instances must be in the same region
+- Internal load balancing
+	- Regional, private load balancing
+		- VM instances in same region
+		- RFC 1918 IPs
+		- TCP/UDP traffic
+		- Reduced latency, simpler configuration
+		- Software-defined, fully distributed load balancing
 
 ## Cloud DNS
 
@@ -215,7 +226,7 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDEzOTQ1OSwxMDQ3ODMyOTI2LDgwMj
+eyJoaXN0b3J5IjpbMTk0ODY2MDQ2NiwxMDQ3ODMyOTI2LDgwMj
 Y3MjU2MCwxMTc1MTQ3MjYsNDUwMzQ4MzAxLDE4NzAxNjMxNjks
 LTE5MDY5Mjc1NCwtMTQ2NzY4MDk1OCwxNTQ1OTQ5Mjc2LDI4NT
 M2MzM4NiwzOTk0Njk0MiwtNDY5NTExMDA2LDY5OTkyNjM3Miwt
