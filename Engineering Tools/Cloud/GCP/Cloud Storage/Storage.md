@@ -13,6 +13,9 @@ Other considerations
 
 ![Other considerations](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/stoptions.png)
 
+
+![Decision Chart](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/storagedecisionchart.png)
+
 - VMs come with persistent disks.
 
 ## NoSQL Databases
@@ -266,5 +269,5 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTAwMTA4Nl19
+eyJoaXN0b3J5IjpbMzE2MjMyNDQyXX0=
 -->
