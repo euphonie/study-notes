@@ -81,6 +81,8 @@ These are identified with an email address, and instead of passwords use cryptog
 
 Service accounts can be used to allow certain levels of server-to-server interaction within the same project. For example having project A, with components 1 and 2. Service account 1 used by component 1 can edit project_b's configuration, but Service account 2 used by component 2 can't.
 
+- Can be granted read access for a VM
+- 
 - A service account can be assigned to a Compute Engine VMs, to authenticate with it when making calls to the Google API
 	- If no service account is assigned, it needs to be manually configured
 - Every GCP project has a default Service Account
@@ -252,7 +254,7 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjgyNzc4NiwtMTc2ODg4NzY4NSwyOT
+eyJoaXN0b3J5IjpbMTQzNzY0MjI5MywtMTc2ODg4NzY4NSwyOT
 U3OTcxNzMsLTU1OTU0NDA4NCwxNjc0MjM2MzE1LC0xOTU3MTM3
 OTU2LDE4Njk2NTc3NjUsLTExNDIxOTgxODZdfQ==
 -->
