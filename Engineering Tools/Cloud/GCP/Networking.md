@@ -151,7 +151,8 @@ Fully distributed and software-defined managed service for all the traffic. They
 		- Reduced latency, simpler configuration
 		- Software-defined, fully distributed load balancing
 
-
+**Choosing load balancer**
+- IPv6, only HTTPS, TCP and SSL proxy support
 
 ## Cloud DNS
 
@@ -228,11 +229,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyNDUxMjIyLDE5NDg2NjA0NjYsMTA0Nz
-gzMjkyNiw4MDI2NzI1NjAsMTE3NTE0NzI2LDQ1MDM0ODMwMSwx
-ODcwMTYzMTY5LC0xOTA2OTI3NTQsLTE0Njc2ODA5NTgsMTU0NT
-k0OTI3NiwyODUzNjMzODYsMzk5NDY5NDIsLTQ2OTUxMTAwNiw2
-OTk5MjYzNzIsLTQ2OTUxMTAwNiwtMzc0MDk5NjI2LC0xMzU3ND
-kxNTU5LC0xNTY3NzE2MDI5LDE2MTIwMjI2MywxMTUyNzU2MTAw
-XX0=
+eyJoaXN0b3J5IjpbLTcwNTQ4MjgyMCwxOTQ4NjYwNDY2LDEwND
+c4MzI5MjYsODAyNjcyNTYwLDExNzUxNDcyNiw0NTAzNDgzMDEs
+MTg3MDE2MzE2OSwtMTkwNjkyNzU0LC0xNDY3NjgwOTU4LDE1ND
+U5NDkyNzYsMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MTEwMDYs
+Njk5OTI2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwtMTM1Nz
+Q5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEw
+MF19
 -->
