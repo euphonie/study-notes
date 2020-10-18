@@ -257,7 +257,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 	- Be very careful grating serviceAcountUser role
 	- When you create a service account, give it a display name that clearly identifies its purpose
 	- Establish a naming convention for service accounts
-	- 
+	- Establish key rotation policies and methods
+	- Audit with serviceAccount.keys.list() method
 - use custom roles sparingly
 - Use projects to group resources that share the same trust boundary
 - Audit policies in Cloud audit logs: `setiampolicy`
@@ -268,8 +269,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Nzg5ODQyMSwxNDQ5NDMwODY4LC0xNz
-Y4ODg3Njg1LDI5NTc5NzE3MywtNTU5NTQ0MDg0LDE2NzQyMzYz
-MTUsLTE5NTcxMzc5NTYsMTg2OTY1Nzc2NSwtMTE0MjE5ODE4Nl
-19
+eyJoaXN0b3J5IjpbLTEzNTg2MzAwNDAsMTQ0OTQzMDg2OCwtMT
+c2ODg4NzY4NSwyOTU3OTcxNzMsLTU1OTU0NDA4NCwxNjc0MjM2
+MzE1LC0xOTU3MTM3OTU2LDE4Njk2NTc3NjUsLTExNDIxOTgxOD
+ZdfQ==
 -->
