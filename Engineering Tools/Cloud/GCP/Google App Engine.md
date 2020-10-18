@@ -78,7 +78,12 @@ App Engine manages the hardware and networking infrastructure required to run co
 
 # IAM Roles
 
-- Compute ADmi
+- Compute Admin
+	- Full control of all CE resources
+- Network Admin
+	- Permissions to create, modify, and delete networking resources, except for firewall rules and SSL certificates
+- Storage Admin
+	- Permissions to create, modify, and delete disks, images, and snapshots
 
 # Scripts
 
@@ -96,6 +101,6 @@ environment: flex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTIxNTE2NywxNzc4OTY1NjczLDEwMT
-g0NjkyMCwtMTA4NTc2MzI2NCwxMzY1MDY5NzldfQ==
+eyJoaXN0b3J5IjpbLTg2MjU5ODY1LDE3Nzg5NjU2NzMsMTAxOD
+Q2OTIwLC0xMDg1NzYzMjY0LDEzNjUwNjk3OV19
 -->
