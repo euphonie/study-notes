@@ -154,6 +154,8 @@ Fully distributed and software-defined managed service for all the traffic. They
 **Choosing load balancer**
 - IPv6, only HTTPS, TCP and SSL proxy support
 
+![Choosing Load Balancer](https://raw.githubusercontent.com/euphonie/study-notes/master/Engineering%20Tools/Cloud/GCP/loadbalancing.png)
+
 ## Cloud DNS
 
 Create managed zones, then add, edit, delete DNS records. DNS translates internet host names to addresses.
@@ -229,11 +231,11 @@ Users want to use their already established services along with VPC in GCP.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNTQ4MjgyMCwxOTQ4NjYwNDY2LDEwND
-c4MzI5MjYsODAyNjcyNTYwLDExNzUxNDcyNiw0NTAzNDgzMDEs
-MTg3MDE2MzE2OSwtMTkwNjkyNzU0LC0xNDY3NjgwOTU4LDE1ND
-U5NDkyNzYsMjg1MzYzMzg2LDM5OTQ2OTQyLC00Njk1MTEwMDYs
-Njk5OTI2MzcyLC00Njk1MTEwMDYsLTM3NDA5OTYyNiwtMTM1Nz
-Q5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIyNjMsMTE1Mjc1NjEw
-MF19
+eyJoaXN0b3J5IjpbLTE5NjAwNzg0NDYsLTcwNTQ4MjgyMCwxOT
+Q4NjYwNDY2LDEwNDc4MzI5MjYsODAyNjcyNTYwLDExNzUxNDcy
+Niw0NTAzNDgzMDEsMTg3MDE2MzE2OSwtMTkwNjkyNzU0LC0xND
+Y3NjgwOTU4LDE1NDU5NDkyNzYsMjg1MzYzMzg2LDM5OTQ2OTQy
+LC00Njk1MTEwMDYsNjk5OTI2MzcyLC00Njk1MTEwMDYsLTM3ND
+A5OTYyNiwtMTM1NzQ5MTU1OSwtMTU2NzcxNjAyOSwxNjEyMDIy
+NjNdfQ==
 -->
