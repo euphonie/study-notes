@@ -76,6 +76,10 @@ App Engine manages the hardware and networking infrastructure required to run co
 		- Useful for stateless applications
 		- Useful when no cookie can be added
 
+# IAM Roles
+
+- Compute ADmi
+
 # Scripts
 
 ```bash
@@ -92,6 +96,6 @@ environment: flex
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODk2NTY3MywxMDE4NDY5MjAsLTEwOD
-U3NjMyNjQsMTM2NTA2OTc5XX0=
+eyJoaXN0b3J5IjpbMTU1NTIxNTE2NywxNzc4OTY1NjczLDEwMT
+g0NjkyMCwtMTA4NTc2MzI2NCwxMzY1MDY5NzldfQ==
 -->
