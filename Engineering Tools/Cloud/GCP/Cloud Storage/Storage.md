@@ -165,9 +165,10 @@ INTERLEAVE IN PARENT Singers ON DELETE CASCADE;
 	- Bigdata exploration and processing
 	- Reporting via BI tools
 
-## File System
+## Memorystore
 
-### Filestore
+- 
+
 
 
 ## Object System
@@ -269,5 +270,5 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MjMyNDQyXX0=
+eyJoaXN0b3J5IjpbLTcyOTE4NjkyMiwzMTYyMzI0NDJdfQ==
 -->
