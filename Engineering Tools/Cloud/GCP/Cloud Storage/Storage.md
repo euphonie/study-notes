@@ -167,7 +167,13 @@ INTERLEAVE IN PARENT Singers ON DELETE CASCADE;
 
 ## Memorystore
 
-- 
+- For Redis, provides a fully managed in-memory data store service 
+- Focus on building great apps
+- High availability, failover, patching, and monitoring
+- Sub-millisecond latency
+- Instances up to 300 GB
+- Network throughput of 12 Gbps
+- Easy Lift-and-Shift
 
 
 
@@ -270,5 +276,5 @@ Works for object storage. It relates group of bytes with an unique key for addre
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTE4NjkyMiwzMTYyMzI0NDJdfQ==
+eyJoaXN0b3J5IjpbLTQ0NjI4MDY3LDMxNjIzMjQ0Ml19
 -->
