@@ -117,10 +117,11 @@ Reliable release process involves release and testing phases of software deliver
 	- Determine your monitoring needs up front
 	- Consider using separate workspaces for data and control isolation
 - Alerting policies can notify of certain conditions
+- Uptime checks test the availability of public services
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwOTkyMDIwLDU1MjU1OTgwOCw4MjY0Mj
+eyJoaXN0b3J5IjpbMjc3NzkwMDQ2LDU1MjU1OTgwOCw4MjY0Mj
 E1NDIsLTEzOTYzMTgwMTksMTg2OTE4OTk3MywtMTU2MzI1MDc4
 OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
