@@ -147,12 +147,23 @@ curl -sSO https://dl.google.com/cloudagents/install-logging-agent.sh sudo bash i
 - Tracing System
 	- Displays data in near real-time
 	- Latency reporting
-	- Per-URL latency samplig
+	- Per-URL latency sampling
+- Collects latency data
+	- App Engine
+	- Google HTTP(S) load balancers
+	- Applications instrumented with the Stackdriver Trace SDK
+
+## Debugging
+- Inspect an application without stopping it or slowing it down significantly
+- Debug snapshots
+	- Capture call stack and local variables of a running application
+- Debug options: 
+	- Inject lo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjgzOTA0MiwtNzk4NjQ5NDg5LDU1Mj
-U1OTgwOCw4MjY0MjE1NDIsLTEzOTYzMTgwMTksMTg2OTE4OTk3
-MywtMTU2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl
-19
+eyJoaXN0b3J5IjpbODcxMjEzNDE4LC03OTg2NDk0ODksNTUyNT
+U5ODA4LDgyNjQyMTU0MiwtMTM5NjMxODAxOSwxODY5MTg5OTcz
+LC0xNTYzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQwNDI1MTg2XX
+0=
 -->
