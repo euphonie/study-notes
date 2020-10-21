@@ -40,10 +40,17 @@ imports:
 resources:
 - name: mynetwork
   type: autonetwork.jinja
+- name: mynetwork-allow-http
+  type: firewall.jinja
+  properties: 
+     properties:
+         network: ${ref.mynetwork.selfLink}
+         IPProtocol: TCP
+         Port: [80]
 
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzg3OTk5XX0=
+eyJoaXN0b3J5IjpbODU2ODg5NTRdfQ==
 -->
