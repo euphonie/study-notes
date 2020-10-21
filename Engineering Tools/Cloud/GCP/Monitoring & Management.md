@@ -43,18 +43,6 @@ Reliable release process involves release and testing phases of software deliver
 - Registry for images uploaded to Google Cloud
 
 
-## Deployment Manager
-- Enables deployment of VM instances on container images that are created by the build pipeline
-- Can also launch other GCP resources required by the application
-- A deployment configuration file defines the Cloud resources to provision
-	- Includes types and properties of the resources
-	- Consists of a top-level configuration file, YAML templates and additional files
-	- Templates can be developed using Jinja or Python syntax
-- Benefits
-	- Reuse templates and configure resources differently for different environments 
-	- Specify dependencies on resources
-	- Specify startup scripts run when the VM launches
-
 # Performance checkpoints
 
 - In Development
@@ -115,9 +103,14 @@ Reliable release process involves release and testing phases of software deliver
 		- Cron jobs
 			- Schedule accurately
 
+# Monitoring
+
+
+# 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NDIxNTQyLC0xMzk2MzE4MDE5LDE4Nj
-kxODk5NzMsLTE1NjMyNTA3ODksLTE0NjY5NTE0MTUsLTE2NDA0
-MjUxODZdfQ==
+eyJoaXN0b3J5IjpbNTUyNTU5ODA4LDgyNjQyMTU0MiwtMTM5Nj
+MxODAxOSwxODY5MTg5OTczLC0xNTYzMjUwNzg5LC0xNDY2OTUx
+NDE1LC0xNjQwNDI1MTg2XX0=
 -->
