@@ -1,6 +1,16 @@
 
 # Deployment Manager
 
+- Enables deployment of VM instances on container images that are created by the build pipeline
+- Can also launch other GCP resources required by the application
+- A deployment configuration file defines the Cloud resources to provision
+	- Includes types and properties of the resources
+	- Consists of a top-level configuration file, YAML templates and additional files
+	- Templates can be developed using Jinja or Python syntax
+- Benefits
+	- Reuse templates and configure resources differently for different environments 
+	- Specify dependencies on resources
+	- Specify startup scripts run when the VM launches
 - Infrastructure deployment service that automates the creation and management of GCP resources
 - Provides repeatable deployment process with consistent results
 - Declarative language, allows configuration and lets system to figure out steps
@@ -52,5 +62,5 @@ resources:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2ODg5NTRdfQ==
+eyJoaXN0b3J5IjpbLTI3MzY2ODQxMiw4NTY4ODk1NF19
 -->
