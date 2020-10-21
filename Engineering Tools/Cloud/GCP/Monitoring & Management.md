@@ -114,10 +114,13 @@ Reliable release process involves release and testing phases of software deliver
 - Alerts
 - Workspace
 	- Root entity that holds monitoring and configuration information
+	- Determine your monitoring needs up front
+	- Consider using separate workspaces for data and control isolation
+- Alerting policies can notify of certain conditions
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTE2NTY3OSw1NTI1NTk4MDgsODI2ND
-IxNTQyLC0xMzk2MzE4MDE5LDE4NjkxODk5NzMsLTE1NjMyNTA3
-ODksLTE0NjY5NTE0MTUsLTE2NDA0MjUxODZdfQ==
+eyJoaXN0b3J5IjpbNjMwOTkyMDIwLDU1MjU1OTgwOCw4MjY0Mj
+E1NDIsLTEzOTYzMTgwMTksMTg2OTE4OTk3MywtMTU2MzI1MDc4
+OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl19
 -->
