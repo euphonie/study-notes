@@ -27,10 +27,23 @@ resources:
 	  network: {{ properties["network"] }}
 	  sourceRanges: ["0.0.0.0/0"]
 	  allowed:
-	  - IPProtocol: {{  }}
+	  - IPProtocol: {{ properties["IPProtocol"] }}
+	    ports: {{ properties["Port"] }}
+```
+
+```yaml
+# config.yaml
+imports:
+- path: autonetwork.jinja
+- path: firewall.jinja
+
+resources:
+- name: mynetwork
+  type: autonetwork.jinja
+
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDQ5MzI4MV19
+eyJoaXN0b3J5IjpbLTkwMzg3OTk5XX0=
 -->
