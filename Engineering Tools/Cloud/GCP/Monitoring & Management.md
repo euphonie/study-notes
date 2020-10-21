@@ -138,10 +138,20 @@ curl -O https://repo.stackdriver.com/stack-install.sh sudo bash stack-install.sh
 curl -sSO https://dl.google.com/cloudagents/install-logging-agent.sh sudo bash install-logging-agent.sh
 ```
 
+## Error Reporting
+- Aggregate and display errors for running cloud services
+	- Error notifications
+	- Error dashboard
+
+## Tracing
+- Tracing System
+	- Displays data in near real-time
+	- Latency reporting
+	- Per-URL latency samplig
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDcxNDExMCwtNzk4NjQ5NDg5LDU1Mj
+eyJoaXN0b3J5IjpbMTc0NjgzOTA0MiwtNzk4NjQ5NDg5LDU1Mj
 U1OTgwOCw4MjY0MjE1NDIsLTEzOTYzMTgwMTksMTg2OTE4OTk3
 MywtMTU2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl
 19
