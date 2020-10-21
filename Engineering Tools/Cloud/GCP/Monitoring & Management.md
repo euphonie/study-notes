@@ -124,9 +124,19 @@ Reliable release process involves release and testing phases of software deliver
 curl -O https://repo.stackdriver.com/stack-install.sh sudo bash stack-install.sh --write-gcm
 ```
 
+## Logging
+- Platform, systems, and application logs
+	- API to write to logs
+	- 30-day retention
+- Log search/view/filter
+- Log-based metrics
+- Monitoring alerts can be set on log events
+- Data can be exported to Cloud Storage, BigQuery, and Cloud Pub/Sub
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODY0OTQ4OSw1NTI1NTk4MDgsODI2ND
-IxNTQyLC0xMzk2MzE4MDE5LDE4NjkxODk5NzMsLTE1NjMyNTA3
-ODksLTE0NjY5NTE0MTUsLTE2NDA0MjUxODZdfQ==
+eyJoaXN0b3J5IjpbMTIyMzM1OTc0MSwtNzk4NjQ5NDg5LDU1Mj
+U1OTgwOCw4MjY0MjE1NDIsLTEzOTYzMTgwMTksMTg2OTE4OTk3
+MywtMTU2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl
+19
 -->
