@@ -105,12 +105,19 @@ Reliable release process involves release and testing phases of software deliver
 
 # Monitoring
 
-
-#
+- Dynamic config and intelligent defaults
+- Platform, system, and application metrics
+	- Ingest data: metrics, events, metadata
+	- Generates insights through dashboards, charts, alerts
+- Uptime/health checks
+- Dashboards
+- Alerts
+- Workspace
+	- Root entity that holds monitoring and configuration information
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NDMyMzU5Miw1NTI1NTk4MDgsODI2ND
+eyJoaXN0b3J5IjpbMTQzOTE2NTY3OSw1NTI1NTk4MDgsODI2ND
 IxNTQyLC0xMzk2MzE4MDE5LDE4NjkxODk5NzMsLTE1NjMyNTA3
 ODksLTE0NjY5NTE0MTUsLTE2NDA0MjUxODZdfQ==
 -->
