@@ -158,12 +158,12 @@ curl -sSO https://dl.google.com/cloudagents/install-logging-agent.sh sudo bash i
 - Debug snapshots
 	- Capture call stack and local variables of a running application
 - Debug options: 
-	- Inject lo
+	- Inject logging into a service without stopping it
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcxMjEzNDE4LC03OTg2NDk0ODksNTUyNT
-U5ODA4LDgyNjQyMTU0MiwtMTM5NjMxODAxOSwxODY5MTg5OTcz
-LC0xNTYzMjUwNzg5LC0xNDY2OTUxNDE1LC0xNjQwNDI1MTg2XX
-0=
+eyJoaXN0b3J5IjpbMTEwMzIwODg1NSwtNzk4NjQ5NDg5LDU1Mj
+U1OTgwOCw4MjY0MjE1NDIsLTEzOTYzMTgwMTksMTg2OTE4OTk3
+MywtMTU2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl
+19
 -->
