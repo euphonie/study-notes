@@ -14,11 +14,23 @@
 # autonetwork.jinja
 resources: 
 - name : {{ env["name"] }}
-  type: compu
-
+  type: compute.v1.network
+  properties: 
+	  autoCreateSubnetowrks: true
+```
+```python
+# firewall.jinja
+resources:
+- name: {{ env["name"] }}
+  type: compute.v1.firewall
+  properties:
+	  network: {{ properties["network"] }}
+	  sourceRanges: ["0.0.0.0/0"]
+	  allowed:
+	  - IPProtocol: {{  }}
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0NTM5NDQ2XX0=
+eyJoaXN0b3J5IjpbMTExNDQ5MzI4MV19
 -->
