@@ -7,9 +7,18 @@
 - Focus on the application
 - Parallel deployment
 - Template-driven
+- Templates need to have a name, type and properties
 
+```python
+# example autonetwork
+# autonetwork.jinja
+resources: 
+- name : {{ env["name"] }}
+  type: compu
+
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk2NTgzMzJdfQ==
+eyJoaXN0b3J5IjpbODc0NTM5NDQ2XX0=
 -->
