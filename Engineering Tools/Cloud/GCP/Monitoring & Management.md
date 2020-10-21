@@ -133,9 +133,15 @@ curl -O https://repo.stackdriver.com/stack-install.sh sudo bash stack-install.sh
 - Monitoring alerts can be set on log events
 - Data can be exported to Cloud Storage, BigQuery, and Cloud Pub/Sub
 
+```bash
+# Install logging agent
+curl -sSO https://dl.google.com/cloudagents/install-logging-agent.sh sudo bash install-logging-agent.sh
+```
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMzM1OTc0MSwtNzk4NjQ5NDg5LDU1Mj
+eyJoaXN0b3J5IjpbLTI2NDcxNDExMCwtNzk4NjQ5NDg5LDU1Mj
 U1OTgwOCw4MjY0MjE1NDIsLTEzOTYzMTgwMTksMTg2OTE4OTk3
 MywtMTU2MzI1MDc4OSwtMTQ2Njk1MTQxNSwtMTY0MDQyNTE4Nl
 19
