@@ -389,14 +389,17 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 	- être disposé à
 	- être résolue à
 	- être habitué à
+- Sans préposition
+	- oser, aimer, penser
+	- != de la verité, n'éxiste pas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE0Njc5NzksMTA2ODIwMzczMiwtMT
-cxMDY5OTQyNywtMTExMDIyOTY0OSwxNTM0MTk5MzI0LC0xNDI4
-ODI2MDk0LDEwNzk5MzIxNTUsLTE2MzQ4NDk2ODAsLTExMDg0OD
-UxNTcsMTIyNzQ2NDQxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOCwt
-MTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMj
-YwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0
-Njc3MzUxXX0=
+eyJoaXN0b3J5IjpbMTc5NjI0ODQ2NSwtMTc2MTQ2Nzk3OSwxMD
+Y4MjAzNzMyLC0xNzEwNjk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQx
+OTkzMjQsLTE0Mjg4MjYwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OT
+Y4MCwtMTEwODQ4NTE1NywxMjI3NDY0NDE0LDE1OTY2MjE1MTUs
+NjI3MTMwOTM4LC0xMjU2NzEyMzQxLDE4NTA0NDcxNTAsNzYxMD
+M3MzY2LDE0MDIyNjAxMiw0MzY0MDg5MjcsMTI4Njc4MDYwOCw3
+Mzc0NzE2MF19
 -->
