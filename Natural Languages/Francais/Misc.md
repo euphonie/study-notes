@@ -380,14 +380,18 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 	- avoir besoin de, avoir envie de, avoir peur de, avoir horreur de, avoir l'intention de, avoir le temps de, avoir l'ocassion de, avoir le droit de
 	- Je suis content de, je suis triste de, je suis heureux de, je suis désolé de
 - à
+	- être prêt à
+	- être disposé à
+	- être résolue à
+	- être habitué à
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDAzMDEwMTMsMTA2ODIwMzczMiwtMT
-cxMDY5OTQyNywtMTExMDIyOTY0OSwxNTM0MTk5MzI0LC0xNDI4
-ODI2MDk0LDEwNzk5MzIxNTUsLTE2MzQ4NDk2ODAsLTExMDg0OD
-UxNTcsMTIyNzQ2NDQxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOCwt
-MTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMj
-YwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0
-Njc3MzUxXX0=
+eyJoaXN0b3J5IjpbMTU3ODI1MjEzNywxMDY4MjAzNzMyLC0xNz
+EwNjk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4
+MjYwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NT
+E1NywxMjI3NDY0NDE0LDE1OTY2MjE1MTUsNjI3MTMwOTM4LC0x
+MjU2NzEyMzQxLDE4NTA0NDcxNTAsNzYxMDM3MzY2LDE0MDIyNj
+AxMiw0MzY0MDg5MjcsMTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2
+NzczNTFdfQ==
 -->
