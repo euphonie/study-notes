@@ -361,11 +361,11 @@ Phrases
 - être bourge (riche)
 - dresser le tableu = donner le context
 - voir le tableau = voir clairement la situation-la scène
-- chanson engagée, chansons qui denoncent 
+- une chanson engagée, chansons qui denoncent quelque chose dans la societé
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTgzNzQwNywxMDc5OTMyMTU1LC0xNj
+eyJoaXN0b3J5IjpbLTI0NDk5MDYyNiwxMDc5OTMyMTU1LC0xNj
 M0ODQ5NjgwLC0xMTA4NDg1MTU3LDEyMjc0NjQ0MTQsMTU5NjYy
 MTUxNSw2MjcxMzA5MzgsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MC
 w3NjEwMzczNjYsMTQwMjI2MDEyLDQzNjQwODkyNywxMjg2Nzgw
