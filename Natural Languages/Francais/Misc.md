@@ -384,7 +384,7 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 		- il est temps de
 		- il est interdit de
 		- il est l'heure de
-	- 
+	- avoir tort de
 - à
 	- être prêt à
 	- être disposé à
@@ -398,11 +398,11 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEwOTE4MTAsOTg3ODQ2ODE3LDE3OT
-YyNDg0NjUsLTE3NjE0Njc5NzksMTA2ODIwMzczMiwtMTcxMDY5
-OTQyNywtMTExMDIyOTY0OSwxNTM0MTk5MzI0LC0xNDI4ODI2MD
-k0LDEwNzk5MzIxNTUsLTE2MzQ4NDk2ODAsLTExMDg0ODUxNTcs
-MTIyNzQ2NDQxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOCwtMTI1Nj
-cxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMjYwMTIs
-NDM2NDA4OTI3XX0=
+eyJoaXN0b3J5IjpbMjQzNDk5MzU5LDk4Nzg0NjgxNywxNzk2Mj
+Q4NDY1LC0xNzYxNDY3OTc5LDEwNjgyMDM3MzIsLTE3MTA2OTk0
+MjcsLTExMTAyMjk2NDksMTUzNDE5OTMyNCwtMTQyODgyNjA5NC
+wxMDc5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4NDg1MTU3LDEy
+Mjc0NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5MzgsLTEyNTY3MT
+IzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEyLDQz
+NjQwODkyN119
 -->
