@@ -375,11 +375,11 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 - Penser
 	- Je pense partir la semaine prochaine
 	- Je pense à mon livre
-- une pensée != pansement
+- une pensée != pansement, vendaje
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTAwNDQ2NSwtMTcxMDY5OTQyNywtMT
+eyJoaXN0b3J5IjpbMTA2ODIwMzczMiwtMTcxMDY5OTQyNywtMT
 ExMDIyOTY0OSwxNTM0MTk5MzI0LC0xNDI4ODI2MDk0LDEwNzk5
 MzIxNTUsLTE2MzQ4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2ND
 QxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOCwtMTI1NjcxMjM0MSwx
