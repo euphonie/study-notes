@@ -376,14 +376,16 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 	- Je pense partir la semaine prochaine
 	- Je pense à mon livre
 - une pensée != pansement, vendaje
+- De
+	- avoir besoin de, avoir envie de, avoir peur de, avoir horreur de, avoir l'intention de, avoir le temps de, avoir l'ocassion de, avoir le droit de
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODIwMzczMiwtMTcxMDY5OTQyNywtMT
-ExMDIyOTY0OSwxNTM0MTk5MzI0LC0xNDI4ODI2MDk0LDEwNzk5
-MzIxNTUsLTE2MzQ4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2ND
-QxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOCwtMTI1NjcxMjM0MSwx
-ODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMjYwMTIsNDM2NDA4OT
-I3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3
-Nzk2OTYwXX0=
+eyJoaXN0b3J5IjpbMTU0OTk2Mjg0MywxMDY4MjAzNzMyLC0xNz
+EwNjk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4
+MjYwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NT
+E1NywxMjI3NDY0NDE0LDE1OTY2MjE1MTUsNjI3MTMwOTM4LC0x
+MjU2NzEyMzQxLDE4NTA0NDcxNTAsNzYxMDM3MzY2LDE0MDIyNj
+AxMiw0MzY0MDg5MjcsMTI4Njc4MDYwOCw3Mzc0NzE2MCwyMDQ2
+NzczNTFdfQ==
 -->
