@@ -363,15 +363,16 @@ Phrases
 - voir le tableau = voir clairement la situation-la scène
 - une chanson engagée, chansons qui denoncent quelque chose dans la societé
 - quartier HLM = Habitation à loyer modéré
-- vivre en banlieue = loin 
+- vivre en banlieue = loin de la ville, modeste
+- être branché(e) = un bar, café, un restaurant à la mode
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNTMyMDAwLDEwNzk5MzIxNTUsLTE2Mz
-Q4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2NDQxNCwxNTk2NjIx
-NTE1LDYyNzEzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLD
-c2MTAzNzM2NiwxNDAyMjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2
-MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4Mj
-kyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIy
-MjUzXX0=
+eyJoaXN0b3J5IjpbLTE0Mjg4MjYwOTQsMTA3OTkzMjE1NSwtMT
+YzNDg0OTY4MCwtMTEwODQ4NTE1NywxMjI3NDY0NDE0LDE1OTY2
+MjE1MTUsNjI3MTMwOTM4LC0xMjU2NzEyMzQxLDE4NTA0NDcxNT
+AsNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MDg5MjcsMTI4Njc4
+MDYwOCw3Mzc0NzE2MCwyMDQ2NzczNTEsLTE4Nzc3OTY5NjAsMT
+gyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NTg5MTQzLC0yNjIx
+MjIyNTNdfQ==
 -->
