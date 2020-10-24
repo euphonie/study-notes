@@ -366,14 +366,15 @@ Phrases
 - vivre en banlieue = loin de la ville, modeste
 - être branché(e) = un bar, café, un restaurant à la mode
 - la racaille, chusma
+- se 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDE5OTMyNCwtMTQyODgyNjA5NCwxMD
-c5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4NDg1MTU3LDEyMjc0
-NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5MzgsLTEyNTY3MTIzND
-EsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEyLDQzNjQw
-ODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIwNDY3NzM1MSwtMT
-g3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1
-ODkxNDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTYxNjE1NywxNTM0MTk5MzI0LC0xND
+I4ODI2MDk0LDEwNzk5MzIxNTUsLTE2MzQ4NDk2ODAsLTExMDg0
+ODUxNTcsMTIyNzQ2NDQxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOC
+wtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAy
+MjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMj
+A0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEz
+NjY1M119
 -->
