@@ -395,14 +395,15 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 - Sans préposition
 	- oser, aimer, penser
 	- != de la verité, n'éxiste pas
+	- nous partons faire
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNDk5MzU5LDk4Nzg0NjgxNywxNzk2Mj
-Q4NDY1LC0xNzYxNDY3OTc5LDEwNjgyMDM3MzIsLTE3MTA2OTk0
-MjcsLTExMTAyMjk2NDksMTUzNDE5OTMyNCwtMTQyODgyNjA5NC
-wxMDc5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4NDg1MTU3LDEy
-Mjc0NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5MzgsLTEyNTY3MT
-IzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEyLDQz
-NjQwODkyN119
+eyJoaXN0b3J5IjpbLTE2NTkxNjM0MjMsMjQzNDk5MzU5LDk4Nz
+g0NjgxNywxNzk2MjQ4NDY1LC0xNzYxNDY3OTc5LDEwNjgyMDM3
+MzIsLTE3MTA2OTk0MjcsLTExMTAyMjk2NDksMTUzNDE5OTMyNC
+wtMTQyODgyNjA5NCwxMDc5OTMyMTU1LC0xNjM0ODQ5NjgwLC0x
+MTA4NDg1MTU3LDEyMjc0NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMz
+A5MzgsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYs
+MTQwMjI2MDEyXX0=
 -->
