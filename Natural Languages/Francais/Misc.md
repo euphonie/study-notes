@@ -357,15 +357,16 @@ Phrases
 ## Black Friday
 
 - casser = diminuer des prix cassés
-- être bobo = 
+- être bobo = il vient d'un milieu favorisé, personne aisée, pas de difficultés, personne qui a des diplômes, cultivé
+- être bourge (riche)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ4NDk2ODAsLTExMDg0ODUxNTcsMT
-IyNzQ2NDQxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOCwtMTI1Njcx
-MjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAyMjYwMTIsND
-M2NDA4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMjA0Njc3MzUx
-LC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEzNjY1MywtMT
-k3NTU4OTE0MywtMjYyMTIyMjUzLDE1MjA2Mjg1MDEsNTQ2MjAx
-NDkwXX0=
+eyJoaXN0b3J5IjpbMTA3OTkzMjE1NSwtMTYzNDg0OTY4MCwtMT
+EwODQ4NTE1NywxMjI3NDY0NDE0LDE1OTY2MjE1MTUsNjI3MTMw
+OTM4LC0xMjU2NzEyMzQxLDE4NTA0NDcxNTAsNzYxMDM3MzY2LD
+E0MDIyNjAxMiw0MzY0MDg5MjcsMTI4Njc4MDYwOCw3Mzc0NzE2
+MCwyMDQ2NzczNTEsLTE4Nzc3OTY5NjAsMTgyOTIxMzYxMywtMj
+AxMTM2NjUzLC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYy
+ODUwMV19
 -->
