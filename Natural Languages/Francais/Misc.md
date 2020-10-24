@@ -366,15 +366,15 @@ Phrases
 - vivre en banlieue = loin de la ville, modeste
 - être branché(e) = un bar, café, un restaurant à la mode
 - la racaille, chusma
-- se 
+- se fringuer = s'habiller, mal fringué = mal habillé
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYxNjE1NywxNTM0MTk5MzI0LC0xND
-I4ODI2MDk0LDEwNzk5MzIxNTUsLTE2MzQ4NDk2ODAsLTExMDg0
-ODUxNTcsMTIyNzQ2NDQxNCwxNTk2NjIxNTE1LDYyNzEzMDkzOC
-wtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLDc2MTAzNzM2NiwxNDAy
-MjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2MDgsNzM3NDcxNjAsMj
-A0Njc3MzUxLC0xODc3Nzk2OTYwLDE4MjkyMTM2MTMsLTIwMTEz
-NjY1M119
+eyJoaXN0b3J5IjpbLTExMTAyMjk2NDksMTUzNDE5OTMyNCwtMT
+QyODgyNjA5NCwxMDc5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4
+NDg1MTU3LDEyMjc0NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5Mz
+gsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQw
+MjI2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLD
+IwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDEx
+MzY2NTNdfQ==
 -->
