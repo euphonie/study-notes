@@ -362,14 +362,16 @@ Phrases
 - dresser le tableu = donner le context
 - voir le tableau = voir clairement la situation-la scène
 - une chanson engagée, chansons qui denoncent quelque chose dans la societé
+- quartier HLM = Habitation à loyer modéré
+- vivre en banlieue = loin 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDk5MDYyNiwxMDc5OTMyMTU1LC0xNj
-M0ODQ5NjgwLC0xMTA4NDg1MTU3LDEyMjc0NjQ0MTQsMTU5NjYy
-MTUxNSw2MjcxMzA5MzgsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MC
-w3NjEwMzczNjYsMTQwMjI2MDEyLDQzNjQwODkyNywxMjg2Nzgw
-NjA4LDczNzQ3MTYwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxOD
-I5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1ODkxNDMsLTI2MjEy
-MjI1M119
+eyJoaXN0b3J5IjpbNDQzNTMyMDAwLDEwNzk5MzIxNTUsLTE2Mz
+Q4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2NDQxNCwxNTk2NjIx
+NTE1LDYyNzEzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLD
+c2MTAzNzM2NiwxNDAyMjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2
+MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4Mj
+kyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIy
+MjUzXX0=
 -->
