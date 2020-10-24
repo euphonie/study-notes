@@ -365,14 +365,15 @@ Phrases
 - quartier HLM = Habitation à loyer modéré
 - vivre en banlieue = loin de la ville, modeste
 - être branché(e) = un bar, café, un restaurant à la mode
+- la racaille, chusma
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg4MjYwOTQsMTA3OTkzMjE1NSwtMT
-YzNDg0OTY4MCwtMTEwODQ4NTE1NywxMjI3NDY0NDE0LDE1OTY2
-MjE1MTUsNjI3MTMwOTM4LC0xMjU2NzEyMzQxLDE4NTA0NDcxNT
-AsNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MDg5MjcsMTI4Njc4
-MDYwOCw3Mzc0NzE2MCwyMDQ2NzczNTEsLTE4Nzc3OTY5NjAsMT
-gyOTIxMzYxMywtMjAxMTM2NjUzLC0xOTc1NTg5MTQzLC0yNjIx
-MjIyNTNdfQ==
+eyJoaXN0b3J5IjpbMTUzNDE5OTMyNCwtMTQyODgyNjA5NCwxMD
+c5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4NDg1MTU3LDEyMjc0
+NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5MzgsLTEyNTY3MTIzND
+EsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQwMjI2MDEyLDQzNjQw
+ODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLDIwNDY3NzM1MSwtMT
+g3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDExMzY2NTMsLTE5NzU1
+ODkxNDNdfQ==
 -->
