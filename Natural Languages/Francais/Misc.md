@@ -389,17 +389,19 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 	- être disposé à
 	- être résolue à
 	- être habitué à
+	- téléphoner à qqn
+	- je telepho
 - Sans préposition
 	- oser, aimer, penser
 	- != de la verité, n'éxiste pas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjI0ODQ2NSwtMTc2MTQ2Nzk3OSwxMD
-Y4MjAzNzMyLC0xNzEwNjk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQx
-OTkzMjQsLTE0Mjg4MjYwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OT
-Y4MCwtMTEwODQ4NTE1NywxMjI3NDY0NDE0LDE1OTY2MjE1MTUs
-NjI3MTMwOTM4LC0xMjU2NzEyMzQxLDE4NTA0NDcxNTAsNzYxMD
-M3MzY2LDE0MDIyNjAxMiw0MzY0MDg5MjcsMTI4Njc4MDYwOCw3
-Mzc0NzE2MF19
+eyJoaXN0b3J5IjpbLTE1OTMyMjc1NzMsMTc5NjI0ODQ2NSwtMT
+c2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNzEwNjk5NDI3LC0xMTEw
+MjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4MjYwOTQsMTA3OTkzMj
+E1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NTE1NywxMjI3NDY0NDE0
+LDE1OTY2MjE1MTUsNjI3MTMwOTM4LC0xMjU2NzEyMzQxLDE4NT
+A0NDcxNTAsNzYxMDM3MzY2LDE0MDIyNjAxMiw0MzY0MDg5Mjcs
+MTI4Njc4MDYwOF19
 -->
