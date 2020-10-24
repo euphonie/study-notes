@@ -368,13 +368,21 @@ Phrases
 - la racaille, chusma
 - se fringuer = s'habiller, mal fringué = mal habillé
 
+## Verbes sans préposition
+
+penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, sembler, paraître, verbse de déclaration, verbes de perception, être sencé, être supposé.
+
+- Penser
+	- Je pense partir la semaine prochaine
+	- Je pense à mon livre
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTAyMjk2NDksMTUzNDE5OTMyNCwtMT
-QyODgyNjA5NCwxMDc5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4
-NDg1MTU3LDEyMjc0NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5Mz
-gsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3NjEwMzczNjYsMTQw
-MjI2MDEyLDQzNjQwODkyNywxMjg2NzgwNjA4LDczNzQ3MTYwLD
-IwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5MjEzNjEzLC0yMDEx
-MzY2NTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MTA2OTk0MjcsLTExMTAyMjk2NDksMT
+UzNDE5OTMyNCwtMTQyODgyNjA5NCwxMDc5OTMyMTU1LC0xNjM0
+ODQ5NjgwLC0xMTA4NDg1MTU3LDEyMjc0NjQ0MTQsMTU5NjYyMT
+UxNSw2MjcxMzA5MzgsLTEyNTY3MTIzNDEsMTg1MDQ0NzE1MCw3
+NjEwMzczNjYsMTQwMjI2MDEyLDQzNjQwODkyNywxMjg2NzgwNj
+A4LDczNzQ3MTYwLDIwNDY3NzM1MSwtMTg3Nzc5Njk2MCwxODI5
+MjEzNjEzXX0=
 -->
