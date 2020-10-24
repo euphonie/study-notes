@@ -359,14 +359,16 @@ Phrases
 - casser = diminuer des prix cassés
 - être bobo = il vient d'un milieu favorisé, personne aisée, pas de difficultés, personne qui a des diplômes, cultivé
 - être bourge (riche)
+- dresser le tableu = donner le context
+- voir le tableau = voir clairement la situation-la scène
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTkzMjE1NSwtMTYzNDg0OTY4MCwtMT
-EwODQ4NTE1NywxMjI3NDY0NDE0LDE1OTY2MjE1MTUsNjI3MTMw
-OTM4LC0xMjU2NzEyMzQxLDE4NTA0NDcxNTAsNzYxMDM3MzY2LD
-E0MDIyNjAxMiw0MzY0MDg5MjcsMTI4Njc4MDYwOCw3Mzc0NzE2
-MCwyMDQ2NzczNTEsLTE4Nzc3OTY5NjAsMTgyOTIxMzYxMywtMj
-AxMTM2NjUzLC0xOTc1NTg5MTQzLC0yNjIxMjIyNTMsMTUyMDYy
-ODUwMV19
+eyJoaXN0b3J5IjpbMjMyNjg1NjM4LDEwNzk5MzIxNTUsLTE2Mz
+Q4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2NDQxNCwxNTk2NjIx
+NTE1LDYyNzEzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUwLD
+c2MTAzNzM2NiwxNDAyMjYwMTIsNDM2NDA4OTI3LDEyODY3ODA2
+MDgsNzM3NDcxNjAsMjA0Njc3MzUxLC0xODc3Nzk2OTYwLDE4Mj
+kyMTM2MTMsLTIwMTEzNjY1MywtMTk3NTU4OTE0MywtMjYyMTIy
+MjUzXX0=
 -->
