@@ -111,10 +111,14 @@
 		- This supports scaling the organization
 		- Adding more teams
 		- Increases speed
-	- Being able to scale the microservices indepen
+	- Being able to scale the microservices independently based on their requirements
+- Pros
+	- Easier to develop and maintain
+	- Reduced risk when deploying new
+- Cons
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTU5NTY2OSwtMjYwMTI0MDQxLDE0ND
+eyJoaXN0b3J5IjpbMTU4NjA0MjkxMywtMjYwMTI0MDQxLDE0ND
 g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
