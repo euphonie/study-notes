@@ -80,7 +80,10 @@
 - 95% availability per day
 - Stated as target/lower bound <= SLI <= upper bound
 - Should specify how they are measured and the conditions when they are valid
+- Multiple SLOs can be specified for the 50%, 98% and 99.9% cases.
 - Ex. Average latency of HTTP requests for a service should be less than 100 milliseconds
+- **Tips**
+	- The goal isn't to mak the SLOs as high as possible but as low as you 
 
 
 **SLA (Agreements)**
@@ -89,6 +92,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzM0MTk5OSwxMzM3MDg1MDQ1LC0xNj
+eyJoaXN0b3J5IjpbMTc2MDI3MjYyMCwxMzM3MDg1MDQ1LC0xNj
 g0NTQ5OTldfQ==
 -->
