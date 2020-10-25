@@ -128,7 +128,7 @@
 	- Choose the runtime appropriate to each service
 - Cons
 	- Increased complexity when communicating between services
-	- Increased latency across service boundaries and resilience 
+	- Increased latency across service boundaries and resilience for failures
 	- Concerns about securing inter-service traffic
 	- Multiple deployments
 	- Need to ensure that you don't break clients as versions change
@@ -136,6 +136,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0MzI2NTI3LC0yNjAxMjQwNDEsMTQ0OD
-Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbLTE4MDgzMzIxOTMsLTI2MDEyNDA0MSwxND
+Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
 -->
