@@ -72,16 +72,18 @@
 
 **SLI (Indicators)**
 - Measurable attribute of a service. A KPI.
+- Quantitive measure
 
 **SLO (Objectives)**
 - Number or the goal you want to achieve for a given SLI for a given duration
 - 95% availability per day
+- Stated as SLI <= target/lower bound <= SLI
 
 **SLA (Agreements)**
-- Binding contract providing the customer compensation if the service doesn't meet s
+- Binding contract providing the customer compensation if the service doesn't meet specific expectations. More restrictive version of the SLO.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDMwODI5MiwxMzM3MDg1MDQ1LC0xNj
-g0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbMjAxMjcwNDQ1LDEzMzcwODUwNDUsLTE2OD
+Q1NDk5OV19
 -->
