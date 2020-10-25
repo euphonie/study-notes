@@ -190,11 +190,12 @@
 11. Logs. treat logs as event streams
 	1. Write log messages to standard output and aggregate all logs to a single source
 12. Admin processes. Run admin/management tasks as one-off processes.
-	1. Admin tasks should be repet
+	1. Admin tasks should be repeatable processes, not one-off manual tasks
+	2. Admin tasks shouldn't be a part of the application
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NDI1NDM0LC0yNjAxMjQwNDEsMTQ0OD
-Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbMTUyOTI5Nzg2OSwtMjYwMTI0MDQxLDE0ND
+g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
