@@ -2,6 +2,7 @@
 # Reliable Cloud Infrastructure
 
 > Template: [Design and Process Workbook from Google ](https://docs.google.com/presentation/d/1gg6PTfgLNqh6CKXZ-k-HjHGKq5n3uz9OBXBG_K43TC4/edit?usp=sharing)
+> Google API Design Guide: [Link](https://cloud.google.com/apis/design)
 
 ## Steps
 
@@ -196,7 +197,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxMzc5NTk3LDE1MjkyOTc4NjksLTI2MD
-EyNDA0MSwxNDQ4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5
-OV19
+eyJoaXN0b3J5IjpbMTg5NDk4NDk1NCwyNzEzNzk1OTcsMTUyOT
+I5Nzg2OSwtMjYwMTI0MDQxLDE0NDg0NDUxNDgsMTMzNzA4NTA0
+NSwtMTY4NDU0OTk5XX0=
 -->
