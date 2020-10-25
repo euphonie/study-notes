@@ -112,6 +112,11 @@
 		- Adding more teams
 		- Increases speed
 	- Being able to scale the microservices independently based on their requirements
+- Things to take into account
+	- Strong contracts need to be defined between microservices
+	- Allow for independent deployment cycles and rollback
+	- Facilitate concurrent AB release testing on subsystems
+	- 
 - Pros
 	- Easier to develop and maintain
 	- Reduced risk when deploying new versions
@@ -125,10 +130,10 @@
 	- Concerns about securing inter-service traffic
 	- Multiple deployments
 	- Need to ensure that you don't break clients as versions change
-	- Must maintain backward compatibility when clients as the microservice eov
+	- Must maintain backward compatibility when clients as the microservice evolves
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc3MzU4ODcsLTI2MDEyNDA0MSwxND
-Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
+eyJoaXN0b3J5IjpbMTIxNjcxNTMyNiwtMjYwMTI0MDQxLDE0ND
+g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
