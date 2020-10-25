@@ -133,9 +133,10 @@
 	- Multiple deployments
 	- Need to ensure that you don't break clients as versions change
 	- Must maintain backward compatibility when clients as the microservice evolves
+	- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDgzMzIxOTMsLTI2MDEyNDA0MSwxND
-Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
+eyJoaXN0b3J5IjpbLTEyNDA4ODI1NCwtMjYwMTI0MDQxLDE0ND
+g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
