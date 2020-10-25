@@ -106,10 +106,15 @@
 
 ### 5. Microservice Design and Architecture
 
-
+- Main reasons to choose architecture
+	- Enable teams to work independently and deliver through to production at their own cadence
+		- This supports scaling the organization
+		- Adding more teams
+		- Increases speed
+	- Being able to scale the microservices indepen
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTg2NTQ5NiwtMjYwMTI0MDQxLDE0ND
+eyJoaXN0b3J5IjpbLTY1NTU5NTY2OSwtMjYwMTI0MDQxLDE0ND
 g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
