@@ -28,11 +28,15 @@
 	- Personas tell a story of who they are
 	- Describe a feature from the user's point of view
 		- Give each story a title that describes its purpose
-		- Write a short, one sentence 
+		- Write a short, one sentence description
+		- Specify the user role, what they want to do, and why
+		- Use the template: As a [role], I want to..., so that I can....
+			- Alternative: Given...[context], When I do...., then .... 
+		- Ex. **As an** account holder, **I want to** check my available balance at any time of day **so** I am sure not to overdraw my account
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2ODIyODkxLC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbMjA3NjYzMTAwMiwtMTY4NDU0OTk5XX0=
 -->
