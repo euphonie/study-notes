@@ -194,11 +194,13 @@
 	1. Admin tasks should be repeatable processes, not one-off manual tasks
 	2. Admin tasks shouldn't be a part of the application
  
-### .
+### 6. Continuous Integration Pipelines
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzExNTUzNSwxODk0OTg0OTU0LDI3MT
-M3OTU5NywxNTI5Mjk3ODY5LC0yNjAxMjQwNDEsMTQ0ODQ0NTE0
-OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbLTU2MTY0ODk5LDE4OTQ5ODQ5NTQsMjcxMz
+c5NTk3LDE1MjkyOTc4NjksLTI2MDEyNDA0MSwxNDQ4NDQ1MTQ4
+LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
 -->
