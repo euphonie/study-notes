@@ -1,6 +1,8 @@
 
 # Reliable Cloud Infrastructure
 
+> Template: [Design and Process Workbook from Googl](https://docs.google.com/presentation/d/1gg6PTfgLNqh6CKXZ-k-HjHGKq5n3uz9OBXBG_K43TC4/edit?usp=sharing)
+
 ## Steps
 
 ### 1. Defining a case study
@@ -46,5 +48,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbMTgyMzQ5NDk5OSwxMzM3MDg1MDQ1LC0xNj
+g0NTQ5OTldfQ==
 -->
