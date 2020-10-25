@@ -79,7 +79,9 @@
 - Number or the goal you want to achieve for a given SLI for a given duration
 - 95% availability per day
 - Stated as target/lower bound <= SLI <= upper bound
+- Should specify how they are measured and the conditions when they are valid
 - Ex. Average latency of HTTP requests for a service should be less than 100 milliseconds
+
 
 **SLA (Agreements)**
 - Agreement between service provider and consumer
@@ -87,6 +89,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTk1NDM0NiwxMzM3MDg1MDQ1LC0xNj
+eyJoaXN0b3J5IjpbMTc0NzM0MTk5OSwxMzM3MDg1MDQ1LC0xNj
 g0NTQ5OTldfQ==
 -->
