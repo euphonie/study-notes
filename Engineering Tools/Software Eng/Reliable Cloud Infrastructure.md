@@ -181,9 +181,15 @@
 	2. Apps are not injected into a separate server like apache
 8. **Concurrency**. Scale out via the process model
 	1. Because apps are self-contained and run in separate process, they scale easily by adding instances
+9. Disposability. Maximize robustness with fast startup and graceful shutdown
+	1. App instances should scale quickl 
+10. Dev/prod parity. Keep development, staging, and production as similar as possible
+11. Logs. treat logs as event streams
+12. Admin processes. Run admin/management tasks as one-off processes.
+ 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1MzUwODgxLC0yNjAxMjQwNDEsMTQ0OD
-Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbLTEyNDQxMzQ0MTYsLTI2MDEyNDA0MSwxND
+Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
 -->
