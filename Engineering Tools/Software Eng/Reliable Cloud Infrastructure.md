@@ -1,7 +1,7 @@
 
 # Reliable Cloud Infrastructure
 
-> Template: [Design and Process Workbook from Googl](https://docs.google.com/presentation/d/1gg6PTfgLNqh6CKXZ-k-HjHGKq5n3uz9OBXBG_K43TC4/edit?usp=sharing)
+> Template: [Design and Process Workbook from Google ](https://docs.google.com/presentation/d/1gg6PTfgLNqh6CKXZ-k-HjHGKq5n3uz9OBXBG_K43TC4/edit?usp=sharing)
 
 ## Steps
 
@@ -45,9 +45,12 @@
 	- **Small**. Keeps scope small and less ambiguous, supports fast feedback
 	- **Testable**. This way developers can verify that the story has been implemented correctly and validate when requirement has been met/ is done.
 
+**KPIs**
+- Metrics that can be used to measure success
+- Common 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzQ5NDk5OSwxMzM3MDg1MDQ1LC0xNj
+eyJoaXN0b3J5IjpbMTA1NDUzNTU0MCwxMzM3MDg1MDQ1LC0xNj
 g0NTQ5OTldfQ==
 -->
