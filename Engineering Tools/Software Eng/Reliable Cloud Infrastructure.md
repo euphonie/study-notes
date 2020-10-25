@@ -71,11 +71,17 @@
 ### 4. Serice Level
 
 **SLI (Indicators)**
-- Measurable attribute of a service
+- Measurable attribute of a service. A KPI.
 
+**SLO (Objectives)**
+- Number or the goal you want to achieve for a given SLI for a given duration
+- 95% availability per day
+
+**SLA (Agreements)**
+- Binding contract providing the customer compensation if the service doesn't meet s
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjQyODk5MCwxMzM3MDg1MDQ1LC0xNj
+eyJoaXN0b3J5IjpbMjEyNDMwODI5MiwxMzM3MDg1MDQ1LC0xNj
 g0NTQ5OTldfQ==
 -->
