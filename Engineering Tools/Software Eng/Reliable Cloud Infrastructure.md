@@ -73,6 +73,7 @@
 **SLI (Indicators)**
 - Measurable attribute of a service. A KPI.
 - Quantitive measure
+- Percentiles are better to measure SLIs, where a high order percentile, such as 99% shows worst-case values. While the 50th percentile indicates a typical case
 
 **SLO (Objectives)**
 - Number or the goal you want to achieve for a given SLI for a given duration
@@ -86,6 +87,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMxMTk0NTksMTMzNzA4NTA0NSwtMT
-Y4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbMTMxOTk1NDM0NiwxMzM3MDg1MDQ1LC0xNj
+g0NTQ5OTldfQ==
 -->
