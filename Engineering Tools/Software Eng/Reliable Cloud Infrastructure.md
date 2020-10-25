@@ -181,21 +181,22 @@
 	2. Apps are not injected into a separate server like apache
 8. **Concurrency**. Scale out via the process model
 	1. Because apps are self-contained and run in separate process, they scale easily by adding instances
-9. Disposability. Maximize robustness with fast startup and graceful shutdown
+9. **Disposability**. Maximize robustness with fast startup and graceful shutdown
 	1. App instances should scale quickly when needed
 	2. If an instance is not needed, you should be able to turn it off with no side effects 
-10. Dev/prod parity. Keep development, staging, and production as similar as possible
+10. **Dev/prod parity**. Keep development, staging, and production as similar as possible
 	1. Container systems like Docker makes this easier.
 	2. Leverage infrastructure as code to make environments easy to create
-11. Logs. treat logs as event streams
+11. **Logs**. treat logs as event streams
 	1. Write log messages to standard output and aggregate all logs to a single source
-12. Admin processes. Run admin/management tasks as one-off processes.
+12. **Admin processes**. Run admin/management tasks as one-off processes.
 	1. Admin tasks should be repeatable processes, not one-off manual tasks
 	2. Admin tasks shouldn't be a part of the application
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyOTI5Nzg2OSwtMjYwMTI0MDQxLDE0ND
-g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbMjcxMzc5NTk3LDE1MjkyOTc4NjksLTI2MD
+EyNDA0MSwxNDQ4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5
+OV19
 -->
