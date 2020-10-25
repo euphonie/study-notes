@@ -133,10 +133,13 @@
 	- Multiple deployments
 	- Need to ensure that you don't break clients as versions change
 	- Must maintain backward compatibility when clients as the microservice evolves
-	- 
+- Decomposing applications
+	- Decompose by feature to minimize dependencies
+	- Organize services by architectural layer
+	- Isolate services that provider shared functionality
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA4ODI1NCwtMjYwMTI0MDQxLDE0ND
+eyJoaXN0b3J5IjpbLTUyMTYzNjU0MSwtMjYwMTI0MDQxLDE0ND
 g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
