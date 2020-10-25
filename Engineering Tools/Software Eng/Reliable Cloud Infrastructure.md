@@ -45,7 +45,8 @@
 	- **Small**. Keeps scope small and less ambiguous, supports fast feedback
 	- **Testable**. This way developers can verify that the story has been implemented correctly and validate when requirement has been met/ is done.
 
-**KPIs**
+
+###  3. KPIs
 - Metrics that can be used to measure success
 - Not the same as a goal or objective, the goal is the outcome or result wanted to be achieved, the KPI is a metric that indicates whether you are on track to achieve the goal
 - For each KPI, define targets for what success looks like, allows readjustment based on monitoring and feedback
@@ -67,8 +68,14 @@
 	- Relevant. Does it really matter to the user? Will it help achieve application goals?
 	- Time-bound. Helps measing the KPI. Per year/month/day?
 
+### 4. Serice Level
+
+**SLI (Indicators)**
+- Measurable attribute of a service
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1NzI2MjgyLDEzMzcwODUwNDUsLTE2OD
-Q1NDk5OV19
+eyJoaXN0b3J5IjpbMTc2MjQyODk5MCwxMzM3MDg1MDQ1LC0xNj
+g0NTQ5OTldfQ==
 -->
