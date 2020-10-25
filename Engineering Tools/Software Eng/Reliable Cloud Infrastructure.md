@@ -47,6 +47,9 @@
 
 **KPIs**
 - Metrics that can be used to measure success
+- Not the same as a goal or objective, the goal is the outcome or result wanted to be achieved, the KPI is a metric that indicates whether you are on track to achieve the goal
+- For each KPI, define ta
+- To be must effective they should be accompanied by a goal
 - Common Business KPIs
 	- Return on Investment, ROI
 	- Earnings before interest and taxes, EBIT
@@ -60,6 +63,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwNjM0NzcsMTMzNzA4NTA0NSwtMTY4ND
-U0OTk5XX0=
+eyJoaXN0b3J5IjpbODcwNDIzMDM3LDEzMzcwODUwNDUsLTE2OD
+Q1NDk5OV19
 -->
