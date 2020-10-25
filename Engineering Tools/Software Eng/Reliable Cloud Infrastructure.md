@@ -146,7 +146,9 @@
 		- Best practices
 			- Avoid storing shared state in-memory on your servers
 				- Requires sticky sessions (session affinity) to be set up in the load balancer, Hinders elastic autoscaling
-			- Store state using backend storage s
+			- Store state using backend storage services shared by the frontend server
+				- Cache state data for faster access
+				- Take advantage of GCloud-managed data services (Firestore, Cloud SQL or memorytore for caching)
 	- Stateless (UI)
 		- Get their data from the environment or other stateful services
 		- Easy to scale by adding instances
@@ -155,6 +157,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMzQ1MDgzLC0yNjAxMjQwNDEsMTQ0OD
+eyJoaXN0b3J5IjpbOTA3MTIwMzYzLC0yNjAxMjQwNDEsMTQ0OD
 Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
 -->
