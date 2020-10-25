@@ -137,9 +137,20 @@
 	- Decompose by feature to minimize dependencies
 	- Organize services by architectural layer
 	- Isolate services that provider shared functionality
+- Stateful services ave different challenges than stateless one
+	- Stateful (Service, database)
+		- Manage stored data over time
+		- Harder to scale
+		- Harder to upgrade
+		- Need to back up
+	- Stateless (UI)
+		- Get their data from the environment or other stateful services
+		- Easy to scale by adding instances
+		- Easy to migrate to new versions
+		- Easy to administer
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTYzNjU0MSwtMjYwMTI0MDQxLDE0ND
-g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbNDUzMDI0NTAxLC0yNjAxMjQwNDEsMTQ0OD
+Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
 -->
