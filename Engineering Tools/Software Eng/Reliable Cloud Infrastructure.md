@@ -155,8 +155,17 @@
 		- Easy to migrate to new versions
 		- Easy to administer
 
+**Best practices**
+- 12 factor app, set of best practices
+1. Codebase. Tracked in revision control, many deploys
+2. 
+3. Dependencies. Explicitly declare and isolate dependencies
+4. Config. Store config in the environment
+5. Backing services. Treat backing services as attached resources
+6. 
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MTIwMzYzLC0yNjAxMjQwNDEsMTQ0OD
-Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbNTUwODM1NDEsLTI2MDEyNDA0MSwxNDQ4ND
+Q1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
 -->
