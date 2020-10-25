@@ -47,10 +47,19 @@
 
 **KPIs**
 - Metrics that can be used to measure success
-- Common 
+- Common Business KPIs
+	- Return on Investment, ROI
+	- Earnings before interest and taxes, EBIT
+	- Employee turnover
+	- Customer churn
+- Common Software (Technical) KPIs
+	- Page views
+	- User registrations
+	- Clickthroughs
+	- Checkouts
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDUzNTU0MCwxMzM3MDg1MDQ1LC0xNj
-g0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbNzUwNjM0NzcsMTMzNzA4NTA0NSwtMTY4ND
+U0OTk5XX0=
 -->
