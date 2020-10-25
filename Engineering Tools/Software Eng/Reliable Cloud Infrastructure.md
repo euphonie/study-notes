@@ -104,10 +104,12 @@
 - SLA: The user is compensated if 99th percentile latency exceeds 300 ms
 	- A buffer exists over the SLO, even if SLO is exceeded there is some capacity before the SLA is broken
 
+### 5. Microservice Design and Architecture
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQwNzI2MjEsLTI2MDEyNDA0MSwxND
-Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
+eyJoaXN0b3J5IjpbMTQ5MTg2NTQ5NiwtMjYwMTI0MDQxLDE0ND
+g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
