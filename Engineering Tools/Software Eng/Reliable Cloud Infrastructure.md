@@ -62,13 +62,13 @@
 	- Checkouts
 - Must be SMART
 	- Specific
-	- Measurable. Monitoring can indicate if you're 
-	- Attainable
-	- T
-	- R
+	- Measurable. Monitoring can indicate if you're moving towards or away from the goal
+	- Achievable
+	- Relevant. Does it really matter to the user? Will it help achieve application goals?
+	- Time-bound. Helps measing the KPI. Per year/month/day?
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTgyMzM3LDEzMzcwODUwNDUsLTE2OD
+eyJoaXN0b3J5IjpbNzg1NzI2MjgyLDEzMzcwODUwNDUsLTE2OD
 Q1NDk5OV19
 -->
