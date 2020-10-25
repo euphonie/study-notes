@@ -97,8 +97,14 @@
 - SLAs should be conservative, is difficult to remove SLAs that offer little value or cause a large amount of work. Setting them too high, can result in unnecessary compensation being paid
 - An SLA should have a threshold that is lower than the SLO
 
+**Example**
+- SLI: The end-to-end latency of successful HTTP responses (HTTP-200)
+	- This are ave
+- SLO: The latency of 99% of the responses must be <= 200 ms
+- SLA: The user is compensated if 99th percentile latency exceeds 300 ms
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MjkxNTIzLDE0NDg0NDUxNDgsMTMzNz
-A4NTA0NSwtMTY4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbLTE2OTc4MjkwNzUsMTQ0ODQ0NTE0OCwxMz
+M3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
 -->
