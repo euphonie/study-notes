@@ -22,10 +22,13 @@
 - Represet the goal of a user
 - Are not people or job titles
 	- People and roles have a many to many relationship
-	- Should describe a users objecti
+	- Should describe a users objective. What does the user want to do?
+- For more important roles a **Persona** can be created
+	- P
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE1NzcwMzE2XX0=
+eyJoaXN0b3J5IjpbMTQxNjkzNTI2NF19
 -->
