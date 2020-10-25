@@ -114,11 +114,21 @@
 	- Being able to scale the microservices independently based on their requirements
 - Pros
 	- Easier to develop and maintain
-	- Reduced risk when deploying new
+	- Reduced risk when deploying new versions
+	- Services scale independently to optimize use of infrastructure
+	- Faster to innovate and add new features
+	- Can use different languages and frameworks for different services
+	- Choose the runtime appropriate to each service
 - Cons
+	- Increased complexity when communicating between services
+	- Increased latency across service boundaries
+	- Concerns about securing inter-service traffic
+	- Multiple deployments
+	- Need to ensure that you don't break clients as versions change
+	- Must maintain backward compatibility when clients as the microservice eov
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjA0MjkxMywtMjYwMTI0MDQxLDE0ND
-g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbLTE0Mjc3MzU4ODcsLTI2MDEyNDA0MSwxND
+Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
 -->
