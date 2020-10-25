@@ -99,12 +99,13 @@
 
 **Example**
 - SLI: The end-to-end latency of successful HTTP responses (HTTP-200)
-	- This are ave
+	- This are averaged over 1 minute
 - SLO: The latency of 99% of the responses must be <= 200 ms
 - SLA: The user is compensated if 99th percentile latency exceeds 300 ms
+	- A buffer exists over the SLO, even if SLO is exceeded there is some capacity before the SLA is broken
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc4MjkwNzUsMTQ0ODQ0NTE0OCwxMz
-M3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbLTI2MDEyNDA0MSwxNDQ4NDQ1MTQ4LDEzMz
+cwODUwNDUsLTE2ODQ1NDk5OV19
 -->
