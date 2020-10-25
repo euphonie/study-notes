@@ -24,11 +24,15 @@
 	- People and roles have a many to many relationship
 	- Should describe a users objective. What does the user want to do?
 - For more important roles a **Persona** can be created
+	- Is an imaginary representation of a user role
 	- Personas tell a story of who they are
+	- Describe a feature from the user's point of view
+		- Give each story a title that describes its purpose
+		- Write a short, one sentence 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ1NDk5OV19
+eyJoaXN0b3J5IjpbNzU2ODIyODkxLC0xNjg0NTQ5OTldfQ==
 -->
