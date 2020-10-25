@@ -36,9 +36,9 @@
 
 **Invest Criteria for evaluating user stories**
 - INVEST
-	- Independent. Prevent p
-	- Negotiable
-	- Valuable
+	- **Independent**. Prevent problems with priorization and planning
+	- **Negotiable**. Used to stimulate discussion between customer and developers until there is a clear agreement, they add collaboration.
+	- **Valuable**. Stories should provide value to users. Think about outcome impact, not outputs and.
 	- Estimatable
 	- Small 
 	- Testable
@@ -46,5 +46,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjEwNDQ2LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbLTE3MzgzNTE5ODQsLTE2ODQ1NDk5OV19
 -->
