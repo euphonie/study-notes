@@ -116,7 +116,9 @@
 	- Strong contracts need to be defined between microservices
 	- Allow for independent deployment cycles and rollback
 	- Facilitate concurrent AB release testing on subsystems
-	- 
+	- Minimize test automation and quality assurance overhead
+	- Improve clarity of logging and monitoring
+	- Provide fine-grained cost accounting
 - Pros
 	- Easier to develop and maintain
 	- Reduced risk when deploying new versions
@@ -126,7 +128,7 @@
 	- Choose the runtime appropriate to each service
 - Cons
 	- Increased complexity when communicating between services
-	- Increased latency across service boundaries
+	- Increased latency across service boundaries and resilience 
 	- Concerns about securing inter-service traffic
 	- Multiple deployments
 	- Need to ensure that you don't break clients as versions change
@@ -134,6 +136,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjcxNTMyNiwtMjYwMTI0MDQxLDE0ND
-g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbNzU0MzI2NTI3LC0yNjAxMjQwNDEsMTQ0OD
+Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
 -->
