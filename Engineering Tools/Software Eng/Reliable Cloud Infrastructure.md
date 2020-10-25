@@ -48,7 +48,7 @@
 **KPIs**
 - Metrics that can be used to measure success
 - Not the same as a goal or objective, the goal is the outcome or result wanted to be achieved, the KPI is a metric that indicates whether you are on track to achieve the goal
-- For each KPI, define ta
+- For each KPI, define targets for what success looks like, allows readjustment based on monitoring and feedback
 - To be must effective they should be accompanied by a goal
 - Common Business KPIs
 	- Return on Investment, ROI
@@ -60,9 +60,15 @@
 	- User registrations
 	- Clickthroughs
 	- Checkouts
+- Must be SMART
+	- Specific
+	- Measurable. Monitoring can indicate if you're 
+	- Attainable
+	- T
+	- R
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNDIzMDM3LDEzMzcwODUwNDUsLTE2OD
+eyJoaXN0b3J5IjpbLTc3OTgyMzM3LDEzMzcwODUwNDUsLTE2OD
 Q1NDk5OV19
 -->
