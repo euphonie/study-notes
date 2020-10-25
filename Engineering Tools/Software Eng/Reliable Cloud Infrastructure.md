@@ -157,20 +157,22 @@
 
 **Best practices**
 - 12 factor app, set of best practices
-1. Codebase. Tracked in revision control, many deploys
+1. **Codebase**. Tracked in revision control, many deploys
 	1. Each app has one code repo and vice cersa
-2. Dependencies. Explicitly declare and isolate dependencies
+2. **Dependencies**. Explicitly declare and isolate dependencies
 	1. use package managers and declare dependencies 
-3. Config. Store config in the environment
+	2. Isolate dependencies by packing them into a container
+3. **Config**. Store config in the environment
 	1. Don't put secrets, connection strings, endpoints, etc in source code
 	2. Store those as environment variables
-4. Backing services. Treat backing services as attached resources
-	1. Databases, caches, queues, and other services are accessed via URLs
+	3. Should be external to the code
+4. **Backing services**. Treat backing services as attached resources
+	1. Databases, caches, queues, and other services are accessed via URLs and set by configuration
 	2. Should be easy to swap one implementation for another
-5. 
+5. Build, release, run. 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkyNTU4ODcsLTI2MDEyNDA0MSwxND
-Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
+eyJoaXN0b3J5IjpbMzU3MjU3MDU2LC0yNjAxMjQwNDEsMTQ0OD
+Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
 -->
