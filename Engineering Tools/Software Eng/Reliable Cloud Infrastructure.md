@@ -83,7 +83,10 @@
 - Multiple SLOs can be specified for the 50%, 98% and 99.9% cases.
 - Ex. Average latency of HTTP requests for a service should be less than 100 milliseconds
 - **Tips**
-	- The goal isn't to mak the SLOs as high as possible but as low as you 
+	- The goal isn't to mak the SLOs as high as possible but as low as you can get away with while still making users happy
+	- The higher the SLO is the higher the cost in compute resources and operations effort
+	- 
+	- Applications should not significantly outperform their SLOs, because users come to expect the level of reliability you usually give them
 
 
 **SLA (Agreements)**
@@ -92,6 +95,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDI3MjYyMCwxMzM3MDg1MDQ1LC0xNj
+eyJoaXN0b3J5IjpbLTg5MjYxNjA4MiwxMzM3MDg1MDQ1LC0xNj
 g0NTQ5OTldfQ==
 -->
