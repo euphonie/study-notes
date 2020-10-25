@@ -169,10 +169,19 @@
 4. **Backing services**. Treat backing services as attached resources
 	1. Databases, caches, queues, and other services are accessed via URLs and set by configuration
 	2. Should be easy to swap one implementation for another
-5. Build, release, run. 
+5. Build, release, run. Strictly separate build and run stages
+	1. Build creates a deployment package from the source code
+	2. Release combines the deployment with configuration in the runtime environment
+	3. Run executes the application
+6. Processes. Execute the app as one or more stateless processes
+	1. Apps run in one or more processes
+	2. Each instance of the app gets its data from a separate database service
+7. Port binding. Export services via port binding
+8. 
+9. Concurrency. Scale out via the process model
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3MjU3MDU2LC0yNjAxMjQwNDEsMTQ0OD
-Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbLTEzNzMyNDI5NSwtMjYwMTI0MDQxLDE0ND
+g0NDUxNDgsMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
