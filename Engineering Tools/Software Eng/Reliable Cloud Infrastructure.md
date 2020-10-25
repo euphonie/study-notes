@@ -41,10 +41,10 @@
 	- **Valuable**. Stories should provide value to users. Think about outcome impact, not outputs and deliverables.
 	- **Estimatable**. If is not estimatable, there are missing details or the story is too large.
 	- **Small**. Keeps scope small and less ambiguous, supports fast feedback
-	- **Testable**. This way developers can verify that the story has been implemented correctly and validate when requirement 
+	- **Testable**. This way developers can verify that the story has been implemented correctly and validate when requirement has been met/ is done.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NjUyNjgyLC0xNjg0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbMTMzNzA4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
