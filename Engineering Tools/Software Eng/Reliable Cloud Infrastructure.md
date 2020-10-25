@@ -11,14 +11,15 @@
 ### 2. Requirements, analysis and design
 
 
-| Who |  |
-|--|--|
-| What |  |
-| What |  |
-| What |  |
+| Who | Determining not only the user of the system, but developers and stake holders. Who the systems affects directly and indirectly  | Who are the user? Who are the developers? Who are the stakehold |
+|--|--|--|
+| What |  | |
+| Why |  |  |
+| When |  |  |
+| How |  |  |
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTc3NzQ4Ml19
+eyJoaXN0b3J5IjpbLTMyMjA1ODAyM119
 -->
