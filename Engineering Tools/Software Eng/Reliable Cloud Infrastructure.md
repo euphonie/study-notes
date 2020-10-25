@@ -24,11 +24,11 @@
 	- People and roles have a many to many relationship
 	- Should describe a users objective. What does the user want to do?
 - For more important roles a **Persona** can be created
-	- P
+	- Personas tell a story of who they are
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjkzNTI2NF19
+eyJoaXN0b3J5IjpbLTE2ODQ1NDk5OV19
 -->
