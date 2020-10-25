@@ -182,14 +182,19 @@
 8. **Concurrency**. Scale out via the process model
 	1. Because apps are self-contained and run in separate process, they scale easily by adding instances
 9. Disposability. Maximize robustness with fast startup and graceful shutdown
-	1. App instances should scale quickl 
+	1. App instances should scale quickly when needed
+	2. If an instance is not needed, you should be able to turn it off with no side effects 
 10. Dev/prod parity. Keep development, staging, and production as similar as possible
+	1. Container systems like Docker makes this easier.
+	2. Leverage infrastructure as code to make environments easy to create
 11. Logs. treat logs as event streams
+	1. Write log messages to standard output and aggregate all logs to a single source
 12. Admin processes. Run admin/management tasks as one-off processes.
+	1. Admin tasks should be repet
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQxMzQ0MTYsLTI2MDEyNDA0MSwxND
-Q4NDQ1MTQ4LDEzMzcwODUwNDUsLTE2ODQ1NDk5OV19
+eyJoaXN0b3J5IjpbMzE1NDI1NDM0LC0yNjAxMjQwNDEsMTQ0OD
+Q0NTE0OCwxMzM3MDg1MDQ1LC0xNjg0NTQ5OTldfQ==
 -->
