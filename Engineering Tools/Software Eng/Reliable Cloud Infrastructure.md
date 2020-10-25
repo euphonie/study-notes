@@ -85,8 +85,10 @@
 - **Tips**
 	- The goal isn't to mak the SLOs as high as possible but as low as you can get away with while still making users happy
 	- The higher the SLO is the higher the cost in compute resources and operations effort
-	- 
+	- It is better to have lower SLOs to begin with and tighten them over time as you learn about the system
+	- Avoid absolute values, SLOs with 100% is unrealistic, this increases time to build, complexity and cost to operate and might be highly unlikely to be required
 	- Applications should not significantly outperform their SLOs, because users come to expect the level of reliability you usually give them
+	- Minimize SLOs, common mistake is having too many 
 
 
 **SLA (Agreements)**
@@ -95,6 +97,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjYxNjA4MiwxMzM3MDg1MDQ1LC0xNj
-g0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbNzkzMjIxNzkzLDEzMzcwODUwNDUsLTE2OD
+Q1NDk5OV19
 -->
