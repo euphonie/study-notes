@@ -31,12 +31,20 @@
 		- Write a short, one sentence description
 		- Specify the user role, what they want to do, and why
 		- Use the template: As a [role], I want to..., so that I can....
-			- Alternative: Given...[context], When I do...., then .... 
+			- Alternative: Given...[context], When I do...., then .... should happen.
 		- Ex. **As an** account holder, **I want to** check my available balance at any time of day **so** I am sure not to overdraw my account
 
+**Invest Criteria for evaluating user stories**
+- INVEST
+	- Independent. Prevent p
+	- Negotiable
+	- Valuable
+	- Estimatable
+	- Small 
+	- Testable
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjYzMTAwMiwtMTY4NDU0OTk5XX0=
+eyJoaXN0b3J5IjpbLTE4NjEwNDQ2LC0xNjg0NTQ5OTldfQ==
 -->
