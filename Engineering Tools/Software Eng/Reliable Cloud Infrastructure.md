@@ -77,13 +77,15 @@
 **SLO (Objectives)**
 - Number or the goal you want to achieve for a given SLI for a given duration
 - 95% availability per day
-- Stated as SLI <= target/lower bound <= SLI
+- Stated as target/lower bound <= SLI <= upper bound
+- Ex. Average latency of HTTP requests for a service should be less than 100 milliseconds
 
 **SLA (Agreements)**
+- Agreement between service provider and consumer
 - Binding contract providing the customer compensation if the service doesn't meet specific expectations. More restrictive version of the SLO.
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjcwNDQ1LDEzMzcwODUwNDUsLTE2OD
-Q1NDk5OV19
+eyJoaXN0b3J5IjpbLTEzNTMxMTk0NTksMTMzNzA4NTA0NSwtMT
+Y4NDU0OTk5XX0=
 -->
