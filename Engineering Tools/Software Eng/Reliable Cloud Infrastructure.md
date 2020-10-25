@@ -88,15 +88,16 @@
 	- It is better to have lower SLOs to begin with and tighten them over time as you learn about the system
 	- Avoid absolute values, SLOs with 100% is unrealistic, this increases time to build, complexity and cost to operate and might be highly unlikely to be required
 	- Applications should not significantly outperform their SLOs, because users come to expect the level of reliability you usually give them
-	- Minimize SLOs, common mistake is having too many 
-
+	- Minimize SLOs, common mistake is having too many. Have just enough to give coverage of the key system attributes
 
 **SLA (Agreements)**
 - Agreement between service provider and consumer
 - Binding contract providing the customer compensation if the service doesn't meet specific expectations. More restrictive version of the SLO.
+- Not every service has SLAs, but every service should have SLOs
+- SLAs should be conservative, is difficult to remove SLAs that offer little value or cause a larg
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkzMjIxNzkzLDEzMzcwODUwNDUsLTE2OD
-Q1NDk5OV19
+eyJoaXN0b3J5IjpbLTYyNzM1MDg0MiwxMzM3MDg1MDQ1LC0xNj
+g0NTQ5OTldfQ==
 -->
