@@ -95,9 +95,10 @@
 - Binding contract providing the customer compensation if the service doesn't meet specific expectations. More restrictive version of the SLO.
 - Not every service has SLAs, but every service should have SLOs
 - SLAs should be conservative, is difficult to remove SLAs that offer little value or cause a large amount of work. Setting them too high, can result in unnecessary compensation being paid
+- An SLA should have a threshold that is lower than the SLO
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODQ0NTE0OCwxMzM3MDg1MDQ1LC0xNj
-g0NTQ5OTldfQ==
+eyJoaXN0b3J5IjpbODA1MjkxNTIzLDE0NDg0NDUxNDgsMTMzNz
+A4NTA0NSwtMTY4NDU0OTk5XX0=
 -->
