@@ -408,17 +408,20 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 - râler = réclamer, protester, ronchonner, rouspéter
 - donner = offrir, fournir
 
-
+**jouer**
+- Jouer = à, de
+- Instrument musicale, de
+- D'autre 
 
 ![écrit](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/%C3%A9crit.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMzODIxNjUsLTMyMzEyMDQ2NCwtMT
-UzNTU5MDg0Niw5NzI2MTMwNTAsMTQ5MTYxODYzMSwtMTY1OTE2
-MzQyMywyNDM0OTkzNTksOTg3ODQ2ODE3LDE3OTYyNDg0NjUsLT
-E3NjE0Njc5NzksMTA2ODIwMzczMiwtMTcxMDY5OTQyNywtMTEx
-MDIyOTY0OSwxNTM0MTk5MzI0LC0xNDI4ODI2MDk0LDEwNzk5Mz
-IxNTUsLTE2MzQ4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2NDQx
-NCwxNTk2NjIxNTE1XX0=
+eyJoaXN0b3J5IjpbMTIzMjIxMzEyMSwtMTAyMzM4MjE2NSwtMz
+IzMTIwNDY0LC0xNTM1NTkwODQ2LDk3MjYxMzA1MCwxNDkxNjE4
+NjMxLC0xNjU5MTYzNDIzLDI0MzQ5OTM1OSw5ODc4NDY4MTcsMT
+c5NjI0ODQ2NSwtMTc2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNzEw
+Njk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4Mj
+YwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NTE1
+NywxMjI3NDY0NDE0XX0=
 -->
