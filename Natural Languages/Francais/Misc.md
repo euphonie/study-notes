@@ -405,15 +405,15 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 - la réussite
 - causes = dépression
 - excès, exigence
-- r
+- râler = réclamer
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MDQ4MzUzLDk3MjYxMzA1MCwxNDkxNj
-E4NjMxLC0xNjU5MTYzNDIzLDI0MzQ5OTM1OSw5ODc4NDY4MTcs
-MTc5NjI0ODQ2NSwtMTc2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNz
-EwNjk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4
-MjYwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NT
-E1NywxMjI3NDY0NDE0LDE1OTY2MjE1MTUsNjI3MTMwOTM4LC0x
-MjU2NzEyMzQxXX0=
+eyJoaXN0b3J5IjpbLTE1MzU1OTA4NDYsOTcyNjEzMDUwLDE0OT
+E2MTg2MzEsLTE2NTkxNjM0MjMsMjQzNDk5MzU5LDk4Nzg0Njgx
+NywxNzk2MjQ4NDY1LC0xNzYxNDY3OTc5LDEwNjgyMDM3MzIsLT
+E3MTA2OTk0MjcsLTExMTAyMjk2NDksMTUzNDE5OTMyNCwtMTQy
+ODgyNjA5NCwxMDc5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4ND
+g1MTU3LDEyMjc0NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5Mzgs
+LTEyNTY3MTIzNDFdfQ==
 -->
