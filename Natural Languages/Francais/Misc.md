@@ -402,14 +402,17 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 
 - ravager, détruit(e)
 - rabâcher = répéter, radoter - insistir
+- la réussite
+- causes = dépression
+- excès, exigence
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTk2NzIyOCwxNDkxNjE4NjMxLC0xNj
-U5MTYzNDIzLDI0MzQ5OTM1OSw5ODc4NDY4MTcsMTc5NjI0ODQ2
-NSwtMTc2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNzEwNjk5NDI3LC
-0xMTEwMjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4MjYwOTQsMTA3
-OTkzMjE1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NTE1NywxMjI3ND
-Y0NDE0LDE1OTY2MjE1MTUsNjI3MTMwOTM4LC0xMjU2NzEyMzQx
-LDE4NTA0NDcxNTBdfQ==
+eyJoaXN0b3J5IjpbOTcyNjEzMDUwLDE0OTE2MTg2MzEsLTE2NT
+kxNjM0MjMsMjQzNDk5MzU5LDk4Nzg0NjgxNywxNzk2MjQ4NDY1
+LC0xNzYxNDY3OTc5LDEwNjgyMDM3MzIsLTE3MTA2OTk0MjcsLT
+ExMTAyMjk2NDksMTUzNDE5OTMyNCwtMTQyODgyNjA5NCwxMDc5
+OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4NDg1MTU3LDEyMjc0Nj
+Q0MTQsMTU5NjYyMTUxNSw2MjcxMzA5MzgsLTEyNTY3MTIzNDEs
+MTg1MDQ0NzE1MF19
 -->
