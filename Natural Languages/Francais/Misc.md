@@ -411,13 +411,15 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 **jouer**
 - Jouer = à, de
 - Instrument musicale, de
-- D'autre 
+	- je joue de + le piano = je joue du piano
+- Sport, à
+	- je joue à + le tennis = je joue au tennis
 
 ![écrit](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/%C3%A9crit.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjIxMzEyMSwtMTAyMzM4MjE2NSwtMz
+eyJoaXN0b3J5IjpbLTYwNzc3OTg1MSwtMTAyMzM4MjE2NSwtMz
 IzMTIwNDY0LC0xNTM1NTkwODQ2LDk3MjYxMzA1MCwxNDkxNjE4
 NjMxLC0xNjU5MTYzNDIzLDI0MzQ5OTM1OSw5ODc4NDY4MTcsMT
 c5NjI0ODQ2NSwtMTc2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNzEw
