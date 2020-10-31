@@ -398,13 +398,18 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 	- != de la verité, n'éxiste pas
 	- nous partons faire
 
+## Système éducatif
+
+- ravager, détruit(e)
+- rabâcher = répéter, radoter - insistir
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MTYxODYzMSwtMTY1OTE2MzQyMywyND
-M0OTkzNTksOTg3ODQ2ODE3LDE3OTYyNDg0NjUsLTE3NjE0Njc5
-NzksMTA2ODIwMzczMiwtMTcxMDY5OTQyNywtMTExMDIyOTY0OS
-wxNTM0MTk5MzI0LC0xNDI4ODI2MDk0LDEwNzk5MzIxNTUsLTE2
-MzQ4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2NDQxNCwxNTk2Nj
-IxNTE1LDYyNzEzMDkzOCwtMTI1NjcxMjM0MSwxODUwNDQ3MTUw
-LDc2MTAzNzM2Nl19
+eyJoaXN0b3J5IjpbLTM1OTk2NzIyOCwxNDkxNjE4NjMxLC0xNj
+U5MTYzNDIzLDI0MzQ5OTM1OSw5ODc4NDY4MTcsMTc5NjI0ODQ2
+NSwtMTc2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNzEwNjk5NDI3LC
+0xMTEwMjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4MjYwOTQsMTA3
+OTkzMjE1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NTE1NywxMjI3ND
+Y0NDE0LDE1OTY2MjE1MTUsNjI3MTMwOTM4LC0xMjU2NzEyMzQx
+LDE4NTA0NDcxNTBdfQ==
 -->
