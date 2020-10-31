@@ -405,15 +405,16 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 - la réussite
 - causes = dépression
 - excès, exigence
-- râler = réclamer
+- râler = réclamer, protester, ronchonner, rouspéter
+- donner = offrir, fournir
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzU1OTA4NDYsOTcyNjEzMDUwLDE0OT
-E2MTg2MzEsLTE2NTkxNjM0MjMsMjQzNDk5MzU5LDk4Nzg0Njgx
-NywxNzk2MjQ4NDY1LC0xNzYxNDY3OTc5LDEwNjgyMDM3MzIsLT
-E3MTA2OTk0MjcsLTExMTAyMjk2NDksMTUzNDE5OTMyNCwtMTQy
-ODgyNjA5NCwxMDc5OTMyMTU1LC0xNjM0ODQ5NjgwLC0xMTA4ND
-g1MTU3LDEyMjc0NjQ0MTQsMTU5NjYyMTUxNSw2MjcxMzA5Mzgs
-LTEyNTY3MTIzNDFdfQ==
+eyJoaXN0b3J5IjpbLTMyMzEyMDQ2NCwtMTUzNTU5MDg0Niw5Nz
+I2MTMwNTAsMTQ5MTYxODYzMSwtMTY1OTE2MzQyMywyNDM0OTkz
+NTksOTg3ODQ2ODE3LDE3OTYyNDg0NjUsLTE3NjE0Njc5NzksMT
+A2ODIwMzczMiwtMTcxMDY5OTQyNywtMTExMDIyOTY0OSwxNTM0
+MTk5MzI0LC0xNDI4ODI2MDk0LDEwNzk5MzIxNTUsLTE2MzQ4ND
+k2ODAsLTExMDg0ODUxNTcsMTIyNzQ2NDQxNCwxNTk2NjIxNTE1
+LDYyNzEzMDkzOF19
 -->
