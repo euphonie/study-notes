@@ -415,15 +415,19 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 - Sport, à
 	- je joue à + le tennis = je joue au tennis
 
+**apprendre**
+
+- apprendre qqc
+
 ![écrit](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/%C3%A9crit.png)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzc3OTg1MSwtMTAyMzM4MjE2NSwtMz
-IzMTIwNDY0LC0xNTM1NTkwODQ2LDk3MjYxMzA1MCwxNDkxNjE4
-NjMxLC0xNjU5MTYzNDIzLDI0MzQ5OTM1OSw5ODc4NDY4MTcsMT
-c5NjI0ODQ2NSwtMTc2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNzEw
-Njk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4Mj
-YwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NTE1
-NywxMjI3NDY0NDE0XX0=
+eyJoaXN0b3J5IjpbLTE2MzA4MjA0NzUsLTYwNzc3OTg1MSwtMT
+AyMzM4MjE2NSwtMzIzMTIwNDY0LC0xNTM1NTkwODQ2LDk3MjYx
+MzA1MCwxNDkxNjE4NjMxLC0xNjU5MTYzNDIzLDI0MzQ5OTM1OS
+w5ODc4NDY4MTcsMTc5NjI0ODQ2NSwtMTc2MTQ2Nzk3OSwxMDY4
+MjAzNzMyLC0xNzEwNjk5NDI3LC0xMTEwMjI5NjQ5LDE1MzQxOT
+kzMjQsLTE0Mjg4MjYwOTQsMTA3OTkzMjE1NSwtMTYzNDg0OTY4
+MCwtMTEwODQ4NTE1N119
 -->
