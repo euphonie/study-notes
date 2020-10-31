@@ -410,13 +410,15 @@ penser, coirer, espérer, compter, devoir, vouloir, pouvoir, savoir, falloir, se
 
 
 
+![écrit](https://raw.githubusercontent.com/euphonie/study-notes/master/Natural%20Languages/Francais/%C3%A9crit.png)
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NjY0NjM4OCwtMzIzMTIwNDY0LC0xNT
-M1NTkwODQ2LDk3MjYxMzA1MCwxNDkxNjE4NjMxLC0xNjU5MTYz
-NDIzLDI0MzQ5OTM1OSw5ODc4NDY4MTcsMTc5NjI0ODQ2NSwtMT
-c2MTQ2Nzk3OSwxMDY4MjAzNzMyLC0xNzEwNjk5NDI3LC0xMTEw
-MjI5NjQ5LDE1MzQxOTkzMjQsLTE0Mjg4MjYwOTQsMTA3OTkzMj
-E1NSwtMTYzNDg0OTY4MCwtMTEwODQ4NTE1NywxMjI3NDY0NDE0
-LDE1OTY2MjE1MTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjMzODIxNjUsLTMyMzEyMDQ2NCwtMT
+UzNTU5MDg0Niw5NzI2MTMwNTAsMTQ5MTYxODYzMSwtMTY1OTE2
+MzQyMywyNDM0OTkzNTksOTg3ODQ2ODE3LDE3OTYyNDg0NjUsLT
+E3NjE0Njc5NzksMTA2ODIwMzczMiwtMTcxMDY5OTQyNywtMTEx
+MDIyOTY0OSwxNTM0MTk5MzI0LC0xNDI4ODI2MDk0LDEwNzk5Mz
+IxNTUsLTE2MzQ4NDk2ODAsLTExMDg0ODUxNTcsMTIyNzQ2NDQx
+NCwxNTk2NjIxNTE1XX0=
 -->
