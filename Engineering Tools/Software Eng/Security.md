@@ -17,12 +17,15 @@
 	- Use multiple projects to separate duties
 	- Different people can be given different rights in different projects
 	- Use folders to help organize projects
-	- 
+- Remove external IPs to prevent access to machines outside their network
+	- Use Cloud NAT to provide egress to the internet from internal machines
+	- All internet traffic should terminate at a load balancer, third-party firewall (proxy or WAF), API gateway, or IAP. 
+- 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTQ5ODMxMywtMTI1MDc2MjIwMiwxND
+eyJoaXN0b3J5IjpbMTM4MjUwNjc0MCwtMTI1MDc2MjIwMiwxND
 UzOTQ2ODYwXX0=
 -->
