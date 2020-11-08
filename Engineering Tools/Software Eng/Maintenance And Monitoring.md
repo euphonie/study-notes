@@ -23,9 +23,15 @@
 		- App Engine, use Traffic Splitting
 
 
-## Cost Planning ( Capacity P
+## Cost Planning 
+
+- Capacity Planning
+	- Forecast. Estimate capacity needed, monitor, repeat
+	- Allocate. Determine resources required to meet forecasted capacity
+	- Approve. Cost estimation versus risks and rewards
+	- Deploy. Monitor to see how accurate your forecasts were
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTk5MTU5MV19
+eyJoaXN0b3J5IjpbLTE5ODEyMzE1MTldfQ==
 -->
