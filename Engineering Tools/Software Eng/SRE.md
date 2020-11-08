@@ -97,10 +97,12 @@
 		- What are your plans to address each scenario?
 		- Document the plans
 	- Practice periodically
-		- Can be in production or a test environment as approp
+		- Can be in production or a test environment as appropriate
+		- Assess the risks carefully
+		- Balance against the risk of not knowing your system's weaknesses
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3OTQ2MzEwXX0=
+eyJoaXN0b3J5IjpbMTQxODYyODM0XX0=
 -->
