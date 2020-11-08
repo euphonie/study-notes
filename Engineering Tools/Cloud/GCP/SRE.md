@@ -64,8 +64,15 @@
 
 ## Disaster Planning
 
-' 
+- High availability
+	- Deploy multiple servers
+	- Orchestrate servers with a regional managed instance group
+	- Create a failover database in another zone or use a distributed database like Firestore or Spanner
+	- Kubernetes clusters can also be deployed to single or multiple zones
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5OTg4NiwtMTA4NjAwOTkyMl19
+eyJoaXN0b3J5IjpbLTE1MjA1MjgyNjIsLTEwODYwMDk5MjJdfQ
+==
 -->
