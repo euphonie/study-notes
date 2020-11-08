@@ -42,9 +42,11 @@
 		- Ensure that new server instances start fast and ideally don't rely on other backend/systems to start up
 - **Query of death overload**
 	- Business logic error shows up as overconsumption of resources, and the service overloads, Solution: Monitor query performance. Ensure that notification of these issues gets back to the developers.
+- **Positive feedback cycle overload failure**
+	- The dev makes the system more reliable by adding retries, and instead you create the potential for an overload. Solution: Prevent overload by carefully considering overload conditions whenever you are trying to improve reliability with feedback mechanisms to invoke retri
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNDA0MDM1LC0xMDg2MDA5OTIyXX0=
+eyJoaXN0b3J5IjpbNTEwMzk2NjE1LC0xMDg2MDA5OTIyXX0=
 -->
