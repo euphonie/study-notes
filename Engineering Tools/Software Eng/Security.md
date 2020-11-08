@@ -40,10 +40,16 @@
 - Cloud Armor supports layer 7 web application firewall rules
 	- Prevent SQL injection and cross-site scripting
 	- Allow or deny traffic using request headers, geographic location, ip addresses, cookies, etc.
+- Data Loss Prevention API can be used to protect sensitive data by finding it and redacting it
+	- Scans data in Cloud Storage, BigQuery or Datastore
+	- Can also scan images
+	- Detects many different types of sensitive data, including: Emails, credit cards, tax IDs
+	- Own information types can be added
+	- Can delete, mask, tokenize, or j
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzYyODQ1MiwtMTI1MDc2MjIwMiwxND
-UzOTQ2ODYwXX0=
+eyJoaXN0b3J5IjpbLTE2MzYxOTYyMjQsMTg0NzYyODQ1MiwtMT
+I1MDc2MjIwMiwxNDUzOTQ2ODYwXX0=
 -->
