@@ -16,8 +16,14 @@
 		- Monitor usage
 		- Use capacity autoscaling to add and remove servers in response to changes in load
 
+**Recommendations**
+
+- Avoid single point of failure
+	- Define unit of deployment 
+	- Plan to have one unit out for upgrade or testing and survive another failing: N+2L
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNzg4MzddfQ==
+eyJoaXN0b3J5IjpbLTgyNzk0MjY5Ml19
 -->
