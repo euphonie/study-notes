@@ -25,10 +25,14 @@
 	- Single units shouldn't be too large
 	- Make units interchangeable stateless clones
 - Beware of correlated failures
-	- O
+	- Occur when related items fail at the same time
+	- if a zone or region is lost, all the resources in it fail
+	- servers on the same software run into the same issue
+	- if a global configuration system fails, and multiple systems depend on it, they potentially fail too
+	- The group of related items that could fail together is called a **failure domain**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwOTQ4MTg2XX0=
+eyJoaXN0b3J5IjpbLTg0MjU1NzMzMl19
 -->
