@@ -22,7 +22,10 @@
 		- Kubernetes, create new pod with same labels the service will automatically route a portion of requests to it
 		- App Engine, use Traffic Splitting
 
+
+## Cost Planning ( Capacity P
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDkxNjU2NzddfQ==
+eyJoaXN0b3J5IjpbLTIzNTk5MTU5MV19
 -->
