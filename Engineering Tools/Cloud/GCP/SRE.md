@@ -89,9 +89,13 @@
 	- If main region fails, spin up servers in backup region
 	- Route requests to new region
 	- Document and test recovery procedure regularly
+- When disaster planning, brainstorm scenarios that might cause data loss and/or service failure
+	- What could happen that would cause a failure?
+	- What is the Recovery Point Objective (amount of data that would be acceptable to lose)?
+	- What is the Recovery Time Objective (amount of time it can take to be back up and running)?
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTQyNDY3OCwtMTA4NjAwOTkyMl19
+eyJoaXN0b3J5IjpbMTgzNTczMzcyMSwtMTA4NjAwOTkyMl19
 -->
