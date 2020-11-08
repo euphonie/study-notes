@@ -74,10 +74,14 @@
 		- Test endpoint to verify service is up
 		- If health check fails, instance group will create a new server and delete the broken one
 		- Load balancers use health checks too
+	- When using Cloud SQL, create a failover replica for high availability
+		- Replica will be created in another zone in the same region as the database
+		- Will automatically switch to the failover if the master is unavailable
+		- Doubles the cost of the database
+	- 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM2Mjk2NjUsLTEwODYwMDk5MjJdfQ
-==
+eyJoaXN0b3J5IjpbMTE5OTg0Mzk1OSwtMTA4NjAwOTkyMl19
 -->
