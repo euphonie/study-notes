@@ -78,10 +78,12 @@
 		- Replica will be created in another zone in the same region as the database
 		- Will automatically switch to the failover if the master is unavailable
 		- Doubles the cost of the database
-	- 
+	- Spanner and Firestore can be deployed to 1 or multiple regions
+- Consider risk/cost analysis
+	- Compare Deployment (Single zone, multiple zones in a region, multiple regions), estimate cost, availability % and 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTg0Mzk1OSwtMTA4NjAwOTkyMl19
+eyJoaXN0b3J5IjpbMTY0OTk4NDYzNiwtMTA4NjAwOTkyMl19
 -->
