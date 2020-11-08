@@ -58,10 +58,13 @@
 		- If the service is not healthy, don't forward requests
 	- If using GKE, leverage Istio to automatically implement circuit breakers
 - **Lazy deletion**
+	- Reliably recover when users delete data by mistake
+		- Move deleted data to trash, usually less than 30 days
+		- Application deletes data and moves to soft-deletion, usually less than 60 days
+		- Application purges data and moves to hard-deletion, data is gone
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAzODkzNTMsLTEwODYwMDk5MjJdfQ
-==
+eyJoaXN0b3J5IjpbNTkwOTc2MzAzLC0xMDg2MDA5OTIyXX0=
 -->
