@@ -39,10 +39,10 @@
 	- Occur when one system fails, causing others to be overloaded. 
 	- **To avoid**
 		- Use health checks in Compute Engine or readiness and liveliness probes in Kubernetes to detect and then repair unhealthy instances
-		- Ensure that new server instanc
+		- Ensure that new server instances start fast and ideally don't rely on other backend/systems to start up
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTczOTkzOTddfQ==
+eyJoaXN0b3J5IjpbLTEwODYwMDk5MjJdfQ==
 -->
