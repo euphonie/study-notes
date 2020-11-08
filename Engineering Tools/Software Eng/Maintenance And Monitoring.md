@@ -12,9 +12,15 @@
 		- Once green is tested migrate requests to it
 		- If failure occurs switch back
 		- In CE use DNS to migrate requests from one load balancer to another
-		- Kubernetes, configure service to ro
+		- Kubernetes, configure service to route to the new pods using labels
+		- App Engine, use the Traffic Splitting feature
+	- Canary releases
+		- Current service version continues to run
+		- Deploy an instance of the new version and give it a percentage of requests
+		- Monitor for errors
+		- Compute Engine, create a new instance gr
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc0NjUyODddfQ==
+eyJoaXN0b3J5IjpbLTE1MDc1Mzc3MTBdfQ==
 -->
