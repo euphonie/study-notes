@@ -43,10 +43,14 @@
 - **Query of death overload**
 	- Business logic error shows up as overconsumption of resources, and the service overloads, Solution: Monitor query performance. Ensure that notification of these issues gets back to the developers.
 - **Positive feedback cycle overload failure**
-	- The dev makes the system more reliable by adding retries, and instead you create the potential for an overload. Solution: Prevent overload by carefully considering overload conditions whenever you are trying to improve reliability with feedback mechanisms to invoke retri
+	- The dev makes the system more reliable by adding retries, and instead you create the potential for an overload. Solution: Prevent overload by carefully considering overload conditions whenever you are trying to improve reliability with feedback mechanisms to invoke retries
+	- If a service fails try again
+		- Continue retry, but wait a while between attempts
+		- Wait a little longer each time the request fails (exponential back-off)
+		- Set a m
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMzk2NjE1LC0xMDg2MDA5OTIyXX0=
+eyJoaXN0b3J5IjpbMTU1MDEzNDI4NiwtMTA4NjAwOTkyMl19
 -->
