@@ -18,9 +18,11 @@
 		- Current service version continues to run
 		- Deploy an instance of the new version and give it a percentage of requests
 		- Monitor for errors
-		- Compute Engine, create a new instance gr
+		- Compute Engine, create a new instance group and add it as an additional backend in your load balancer
+		- Kubernetes, create new pod with same labels the service will automatically route a portion of requests to it
+		- App Engine, use Traffic Splitting
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc1Mzc3MTBdfQ==
+eyJoaXN0b3J5IjpbLTExMDkxNjU2NzddfQ==
 -->
