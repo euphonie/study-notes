@@ -18,13 +18,13 @@
 
 **Recommendations**
 
-- Avoid single point of failure
+- **Avoid single point of failure**
 	- Define unit of deployment 
 	- Plan to have one unit out for upgrade or testing and survive another failing: N+2L ( A spare spare  N+2) 
 	- Each unit should be able to handle extra load
 	- Single units shouldn't be too large
 	- Make units interchangeable stateless clones
-- Beware of correlated failures
+- **Beware of correlated failures**
 	- Occur when related items fail at the same time
 	- if a zone or region is lost, all the resources in it fail
 	- servers on the same software run into the same issue
@@ -35,9 +35,14 @@
 		- Deploy to multiple zones/regions
 		- Split responsibility into components and spread over multiple processes
 		- Design independent, loosely coupled but collaborating services
+- **Beware of cascading failures**
+	- Occur when one system fails, causing others to be overloaded. 
+	- **To avoid**
+		- Use health checks in Compute Engine or readiness and liveliness probes in Kubernetes to detect and then repair unhealthy instances
+		- Ensure that new server instanc
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODc2NDcwMl19
+eyJoaXN0b3J5IjpbLTE2NTczOTkzOTddfQ==
 -->
