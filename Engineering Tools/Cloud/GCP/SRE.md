@@ -20,10 +20,15 @@
 
 - Avoid single point of failure
 	- Define unit of deployment 
-	- Plan to have one unit out for upgrade or testing and survive another failing: N+2L
+	- Plan to have one unit out for upgrade or testing and survive another failing: N+2L ( A spare spare  N+2) 
+	- Each unit should be able to handle extra load
+	- Single units shouldn't be too large
+	- Make units interchangeable stateless clones
+- Beware of correlated failures
+	- O
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzk0MjY5Ml19
+eyJoaXN0b3J5IjpbODIwOTQ4MTg2XX0=
 -->
