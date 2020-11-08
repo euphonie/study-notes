@@ -30,9 +30,14 @@
 	- servers on the same software run into the same issue
 	- if a global configuration system fails, and multiple systems depend on it, they potentially fail too
 	- The group of related items that could fail together is called a **failure domain**
+	- **To avoid**
+		- Divide business logic into services based on failure domains
+		- Deploy to multiple zones/regions
+		- Split responsibility into components and spread over multiple processes
+		- Design independent, loosely coupled but collaborating services
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MjU1NzMzMl19
+eyJoaXN0b3J5IjpbMjEzODc2NDcwMl19
 -->
