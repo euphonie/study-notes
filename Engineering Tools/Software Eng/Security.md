@@ -24,12 +24,16 @@
 - Configure firewall rules to allow access to VMs
 	- By default, ingress on all ports is denied
 	- Add firewall rules to control which clients have access to which VMs on which ports
-	- Application level security is the responi
-
+	- Application level security is the responsibility of the consumer
+- Control access to APIs using Cloud Endpoints
+	- Protect and monitor your public APIs
+	- Control who has access to your API
+	- Validate every call with JSON Web Tokens and Google API keys
+	- Integrates with Identity Platform
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzIzMzEwMiwtMTI1MDc2MjIwMiwxND
+eyJoaXN0b3J5IjpbMTUwMjE1MDA1MywtMTI1MDc2MjIwMiwxND
 UzOTQ2ODYwXX0=
 -->
