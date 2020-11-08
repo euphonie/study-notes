@@ -45,11 +45,11 @@
 	- Can also scan images
 	- Detects many different types of sensitive data, including: Emails, credit cards, tax IDs
 	- Own information types can be added
-	- Can delete, mask, tokenize, or j
+	- Can delete, mask, tokenize, or just identifiy the location of the sensitive data
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYxOTYyMjQsMTg0NzYyODQ1MiwtMT
+eyJoaXN0b3J5IjpbLTEwMzM3MjY4NDUsMTg0NzYyODQ1MiwtMT
 I1MDc2MjIwMiwxNDUzOTQ2ODYwXX0=
 -->
