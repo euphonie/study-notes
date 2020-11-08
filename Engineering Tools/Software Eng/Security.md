@@ -18,14 +18,18 @@
 	- Different people can be given different rights in different projects
 	- Use folders to help organize projects
 - Remove external IPs to prevent access to machines outside their network
+	- Use a bastion host to provide access to private machines
 	- Use Cloud NAT to provide egress to the internet from internal machines
 	- All internet traffic should terminate at a load balancer, third-party firewall (proxy or WAF), API gateway, or IAP. 
-- 
+- Configure firewall rules to allow access to VMs
+	- By default, ingress on all ports is denied
+	- Add firewall rules to control which clients have access to which VMs on which ports
+	- Application level security is the responi
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjUwNjc0MCwtMTI1MDc2MjIwMiwxND
+eyJoaXN0b3J5IjpbMTA0MzIzMzEwMiwtMTI1MDc2MjIwMiwxND
 UzOTQ2ODYwXX0=
 -->
