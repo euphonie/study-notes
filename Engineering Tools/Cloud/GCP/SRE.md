@@ -69,10 +69,15 @@
 	- Orchestrate servers with a regional managed instance group
 	- Create a failover database in another zone or use a distributed database like Firestore or Spanner
 	- Kubernetes clusters can also be deployed to single or multiple zones
+	- When using instance groups create a health check to enable auto healing
+		- Create a test endpoint in your service
+		- Test endpoint to verify service is up
+		- If health check fails, instance group will create a new server and delete the broken one
+		- Load balancers use health checks too
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA1MjgyNjIsLTEwODYwMDk5MjJdfQ
+eyJoaXN0b3J5IjpbLTEzMTM2Mjk2NjUsLTEwODYwMDk5MjJdfQ
 ==
 -->
