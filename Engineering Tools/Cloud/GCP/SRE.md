@@ -40,9 +40,11 @@
 	- **To avoid**
 		- Use health checks in Compute Engine or readiness and liveliness probes in Kubernetes to detect and then repair unhealthy instances
 		- Ensure that new server instances start fast and ideally don't rely on other backend/systems to start up
+- **Query of death overload**
+	- Business logic error shows up as overconsumption of resources, and the service overloads, Solution: Monitor query performance. Ensure that notification of these issues gets back to the developers.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODYwMDk5MjJdfQ==
+eyJoaXN0b3J5IjpbOTkzNDA0MDM1LC0xMDg2MDA5OTIyXX0=
 -->
