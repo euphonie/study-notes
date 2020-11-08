@@ -30,10 +30,17 @@
 	- Control who has access to your API
 	- Validate every call with JSON Web Tokens and Google API keys
 	- Integrates with Identity Platform
+- Restrict access to your services to TLS only
+	- All GCloud service endpoints use HTTPS
+	- It's up to you to configure your service endpoints
+	- In the load balancer setup, only create a secure frontend
+- Leverage Google Cloud network services for DDoS protection
+	- Global load balancers detect attacks and drop them
+	- Enabling the CDN will protect backend resources
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjE1MDA1MywtMTI1MDc2MjIwMiwxND
-UzOTQ2ODYwXX0=
+eyJoaXN0b3J5IjpbLTEwODI3MjU3ODUsLTEyNTA3NjIyMDIsMT
+Q1Mzk0Njg2MF19
 -->
