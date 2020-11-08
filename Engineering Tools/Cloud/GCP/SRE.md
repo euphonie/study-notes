@@ -53,11 +53,15 @@
 - **Circuit Breaker**
 	- Protects service from too many retries
 	- Plan for degraded state operations
-	- If a service is down and al
+	- If a service is down and all its clients are retrying, the increasing number of req can make it worse
+		- Protect the service behind a proxy that monitors service health ( circuit breaker )
+		- If the service is not healthy, don't forward requests
+	- If using GKE, leverage Istio to automatically implement circuit breakers
+- **Lazy deletion**
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAxMzcwMzksLTEwODYwMDk5MjJdfQ
+eyJoaXN0b3J5IjpbLTE2ODAzODkzNTMsLTEwODYwMDk5MjJdfQ
 ==
 -->
