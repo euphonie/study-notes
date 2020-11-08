@@ -16,8 +16,7 @@
 		- Monitor usage
 		- Use capacity autoscaling to add and remove servers in response to changes in load
 
-**Recommendations**
-
+## Reliability
 - **Avoid single point of failure**
 	- Define unit of deployment 
 	- Plan to have one unit out for upgrade or testing and survive another failing: N+2L ( A spare spare  N+2) 
@@ -63,8 +62,10 @@
 		- Application deletes data and moves to soft-deletion, can be restored in  usually less than 60 days
 		- Application purges data and moves to hard-deletion, data is gone
 
+## Disaster Planning
 
+' 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTM4MzU4OSwtMTA4NjAwOTkyMl19
+eyJoaXN0b3J5IjpbLTE1MTk5OTg4NiwtMTA4NjAwOTkyMl19
 -->
