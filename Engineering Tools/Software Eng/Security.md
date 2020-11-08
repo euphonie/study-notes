@@ -37,10 +37,13 @@
 - Leverage Google Cloud network services for DDoS protection
 	- Global load balancers detect attacks and drop them
 	- Enabling the CDN will protect backend resources
+- Cloud Armor supports layer 7 web application firewall rules
+	- Prevent SQL injection and cross-site scripting
+	- Allow or deny traffic using request headers, geographic location, ip addresses, cookies, etc.
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI3MjU3ODUsLTEyNTA3NjIyMDIsMT
-Q1Mzk0Njg2MF19
+eyJoaXN0b3J5IjpbMTg0NzYyODQ1MiwtMTI1MDc2MjIwMiwxND
+UzOTQ2ODYwXX0=
 -->
