@@ -80,10 +80,18 @@
 		- Doubles the cost of the database
 	- Spanner and Firestore can be deployed to 1 or multiple regions
 - Consider risk/cost analysis
-	- Compare Deployment (Single zone, multiple zones in a region, multiple regions), estimate cost, availability % and 
+	- Compare Deployment (Single zone, multiple zones in a region, multiple regions), estimate cost, availability % and cost being down
+
+### Disaster Recovery strategies
+
+- Cold standby
+	- Create snapshots, machine images, and ata backups in multi-region storage
+	- If main region fails, spin up servers in backup region
+	- Route requests to new region
+	- Document and test recovery procedure regularly
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTk4NDYzNiwtMTA4NjAwOTkyMl19
+eyJoaXN0b3J5IjpbLTY5NTQyNDY3OCwtMTA4NjAwOTkyMl19
 -->
