@@ -173,7 +173,7 @@ Allows having centralized visibility on how the resources are being used, and al
 	- View access to all resources
 
 To be able two have an organization node there can be two ways:
-- You-r an owner of a G-Suite account
+- You're an owner of a G-Suite account
 - Using Google Cloud Identity for creating an organization node.
 
 *Note*: Child policies cannot restrict access granted at the parent level.
@@ -269,8 +269,8 @@ gcloud projects add-iam-policy-binding $DEVSHELL_PROJECT_ID \ --member serviceAc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDgyMzg5NSwtMTM1ODYzMDA0MCwxND
-Q5NDMwODY4LC0xNzY4ODg3Njg1LDI5NTc5NzE3MywtNTU5NTQ0
-MDg0LDE2NzQyMzYzMTUsLTE5NTcxMzc5NTYsMTg2OTY1Nzc2NS
-wtMTE0MjE5ODE4Nl19
+eyJoaXN0b3J5IjpbLTEyMjcwMDk3NzYsLTEzNTg2MzAwNDAsMT
+Q0OTQzMDg2OCwtMTc2ODg4NzY4NSwyOTU3OTcxNzMsLTU1OTU0
+NDA4NCwxNjc0MjM2MzE1LC0xOTU3MTM3OTU2LDE4Njk2NTc3Nj
+UsLTExNDIxOTgxODZdfQ==
 -->
