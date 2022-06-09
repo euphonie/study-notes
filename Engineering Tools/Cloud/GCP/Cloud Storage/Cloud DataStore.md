@@ -1,6 +1,6 @@
 
 # Best Practices
-
+1
 - Data objects are called entities
 	- Comprise one or more properties
 - Each entity has a unique key that contains
@@ -85,7 +85,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA4MDUyNzQ3LC0xODExMzc1MzU0LDEzMT
-YzODM3MDYsMTMxNDQ0NjMwNCwtMTc3NTk2OTA5OSwtMTc4Njkz
-NTg4XX0=
+eyJoaXN0b3J5IjpbLTE3ODcyNTMyMTAsOTA4MDUyNzQ3LC0xOD
+ExMzc1MzU0LDEzMTYzODM3MDYsMTMxNDQ0NjMwNCwtMTc3NTk2
+OTA5OSwtMTc4NjkzNTg4XX0=
 -->
